@@ -1,0 +1,278 @@
+FileOpenedAction 1395245901425 App.java 473 1 6 0
+FileOpenedAction 1395245952690 RecommenderAdapter.java 1526 5 6 0
+FileOpenedAction 1395245999972 IPlayer.java 222 4 0 0
+FileOpenedAction 1395246000831 IGps.java 339 4 0 0
+FileOpenedAction 1395246003050 IRecommender.java 503 5 0 0
+FileOpenedAction 1395246059409 Recommender.java 1617 9 12 0
+FileOpenedAction 1395246071347 IConnector.java 431 3 0 0
+FileOpenedAction 1395246121300 SmokeTest.java 1441 1 14 6
+RefactoringAction 1395246172612 SmokeTest.java ADD SmokeTest.java CLASS
+RefactoringAction 1395246172753 SmokeTest.java REMOVE SmokeTest.java CLASS
+CompilationAction 1395246172878 SmokeTest.java
+CompilationAction 1395246185831 SmokeTest.java
+UnitTestCaseAction 1395246192097 SmokeTest.java OK
+UnitTestSessionAction 1395246192097 SmokeTest OK
+FileOpenedAction 1395246361971 Recommender.java 1617 9 12 0
+UnitTestCaseAction 1395246442315 SmokeTest.java OK
+UnitTestSessionAction 1395246442315 MusicPhone OK
+FileOpenedAction 1395246660094 IConnector.java 431 3 0 0
+UnitTestCaseAction 1395246865468 SmokeTest.java OK
+UnitTestSessionAction 1395246865468 MusicPhone OK
+FileOpenedAction 1395246996077 Gps.java 652 5 5 0
+FileOpenedAction 1395247533057 GeoPoint.java 503 5 7 0
+FileOpenedAction 1395247568902 IGps.java 339 4 0 0
+UnitTestCaseAction 1395247610889 SmokeTest.java OK
+UnitTestSessionAction 1395247610889 SmokeTest OK
+FileOpenedAction 1395247822224 LastFmXmlConnector.java 5248 4 49 0
+FileOpenedAction 1395247843569 IPlayer.java 222 4 0 0
+EditAction 1395247973993 SmokeTest.java 1466 1 14 6
+EditAction 1395248010087 SmokeTest.java 1500 1 14 6
+EditAction 1395248068307 SmokeTest.java 1562 1 15 6
+EditAction 1395248070807 SmokeTest.java 1562 1 15 6
+FileOpenedAction 1395248084542 Gps.java 652 5 5 0
+FileOpenedAction 1395248089838 IGps.java 339 4 0 0
+EditAction 1395248124651 SmokeTest.java 1569 1 15 6
+RefactoringAction 1395248192105 SmokeTest.java ADD int distance FIELD
+CompilationAction 1395248196605 SmokeTest.java
+CompilationAction 1395248249136 SmokeTest.java
+CompilationAction 1395248249246 SmokeTest.java
+EditAction 1395248354418 SmokeTest.java 1670 1 0 0
+CompilationAction 1395248355262 SmokeTest.java
+CompilationAction 1395248355262 SmokeTest.java
+EditAction 1395248362215 SmokeTest.java 1679 1 17 7
+CompilationAction 1395248363059 SmokeTest.java
+CompilationAction 1395248363059 SmokeTest.java
+CompilationAction 1395248510262 SmokeTest.java
+CompilationAction 1395248510262 SmokeTest.java
+CompilationAction 1395248510371 SmokeTest.java
+CompilationAction 1395248510371 SmokeTest.java
+CompilationAction 1395248528450 SmokeTest.java
+CompilationAction 1395248528450 SmokeTest.java
+CompilationAction 1395248528559 SmokeTest.java
+CompilationAction 1395248528559 SmokeTest.java
+EditAction 1395248541825 SmokeTest.java 1773 1 17 7
+CompilationAction 1395248542668 SmokeTest.java
+EditAction 1395248549840 SmokeTest.java 1819 2 18 7
+RefactoringAction 1395248550668 SmokeTest.java ADD void extracted() METHOD
+CompilationAction 1395248550684 SmokeTest.java
+CompilationAction 1395248555700 SmokeTest.java
+RefactoringAction 1395248556684 SmokeTest.java REMOVE extracted() METHOD
+CompilationAction 1395248585075 SmokeTest.java
+CompilationAction 1395248620309 SmokeTest.java
+UnitTestCaseAction 1395248635184 SmokeTest.java FAIL
+UnitTestSessionAction 1395248635184 SmokeTest FAIL
+RefactoringAction 1395248645559 Recommender.java ADD import commons.dataClasses.GeoPoint IMPORT
+EditAction 1395248647731 Recommender.java 1783 10 13 0
+EditAction 1395248677918 Recommender.java 1752 10 13 0
+UnitTestCaseAction 1395248684856 SmokeTest.java FAIL
+UnitTestSessionAction 1395248684856 SmokeTest FAIL
+UnitTestCaseAction 1395248710637 SmokeTest.java FAIL
+UnitTestSessionAction 1395248710637 SmokeTest FAIL
+UnitTestCaseAction 1395248778950 SmokeTest.java OK
+UnitTestSessionAction 1395248778950 SmokeTest OK
+EditAction 1395248897918 Recommender.java 1777 10 12 0
+CompilationAction 1395248898778 Recommender.java
+CompilationAction 1395248898778 Recommender.java
+FileOpenedAction 1395248903012 GeoPoint.java 503 5 7 0
+EditAction 1395248919434 Recommender.java 1785 10 12 0
+CompilationAction 1395248920293 Recommender.java
+CompilationAction 1395248920293 Recommender.java
+CompilationAction 1395248936871 Recommender.java
+CompilationAction 1395248936871 Recommender.java
+CompilationAction 1395248936996 Recommender.java
+CompilationAction 1395248936996 Recommender.java
+CompilationAction 1395248948075 Recommender.java
+CompilationAction 1395248948075 Recommender.java
+CompilationAction 1395248948184 Recommender.java
+EditAction 1395248960496 GeoPoint.java 510 5 7 0
+CompilationAction 1395248961387 GeoPoint.java
+CompilationAction 1395248962950 GeoPoint.java
+CompilationAction 1395248963653 Recommender.java
+CompilationAction 1395248992309 Recommender.java
+CompilationAction 1395248992434 Recommender.java
+EditAction 1395249081731 Recommender.java 1818 10 14 0
+EditAction 1395249112184 Recommender.java 1877 10 12 0
+CompilationAction 1395249113028 Recommender.java
+CompilationAction 1395249123121 Recommender.java
+CompilationAction 1395249123246 Recommender.java
+EditAction 1395249157106 Recommender.java 1877 10 12 0
+CompilationAction 1395249157965 Recommender.java
+EditAction 1395249176090 Recommender.java 1878 10 15 0
+EditAction 1395249313441 Recommender.java 2155 10 21 0
+EditAction 1395249474450 Recommender.java 2203 10 12 0
+CompilationAction 1395249475294 Recommender.java
+CompilationAction 1395249505858 Recommender.java
+CompilationAction 1395249505967 Recommender.java
+EditAction 1395249520999 Recommender.java 2216 10 22 0
+CompilationAction 1395249521842 Recommender.java
+EditAction 1395249570062 Recommender.java 2227 10 12 0
+CompilationAction 1395249570906 Recommender.java
+CompilationAction 1395249657095 Recommender.java
+EditAction 1395249759722 Recommender.java 2374 10 23 0
+EditAction 1395249773644 Recommender.java 2386 10 23 0
+UnitTestCaseAction 1395249783910 SmokeTest.java OK
+UnitTestSessionAction 1395249783910 SmokeTest OK
+UnitTestCaseAction 1395249803035 SmokeTest.java OK
+UnitTestSessionAction 1395249803035 SmokeTest OK
+FileOpenedAction 1395249811332 RecommenderUI.java 8851 15 95 0
+RefactoringAction 1395249895426 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395249896598 Recommender.java 2401 10 23 0
+CompilationAction 1395249897442 SmokeTest.java
+RefactoringAction 1395249906926 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint, String)=>static double computeDistance(GeoPoint, GeoPoint) METHOD
+EditAction 1395249907536 Recommender.java 2386 10 23 0
+EditAction 1395249920708 SmokeTest.java 1777 1 17 7
+CompilationAction 1395249921567 SmokeTest.java
+UnitTestCaseAction 1395249926802 SmokeTest.java FAIL
+UnitTestSessionAction 1395249926802 SmokeTest FAIL
+RefactoringAction 1395249932270 GeoPoint.java RENAME GeoPoint(String, String)=>GeoPoint(String, String, String) METHOD
+EditAction 1395249940083 GeoPoint.java 516 5 7 0
+CompilationAction 1395249940958 LastFmXmlConnector.java
+CompilationAction 1395249940958 GpsUI.java
+CompilationAction 1395249940958 SmokeTest.java
+RefactoringAction 1395249944942 GeoPoint.java RENAME GeoPoint(String, String, String)=>GeoPoint(String, String) METHOD
+EditAction 1395249945833 GeoPoint.java 503 5 7 0
+CompilationAction 1395249946708 SmokeTest.java
+CompilationAction 1395249950895 SmokeTest.java
+EditAction 1395249956442 SmokeTest.java 1777 1 17 7
+CompilationAction 1395249957302 SmokeTest.java
+UnitTestCaseAction 1395249961411 SmokeTest.java FAIL
+UnitTestSessionAction 1395249961411 SmokeTest FAIL
+RefactoringAction 1395249964583 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395249973239 Recommender.java 2399 10 23 0
+EditAction 1395250016412 Recommender.java 2452 10 12 0
+CompilationAction 1395250017271 Recommender.java
+CompilationAction 1395250017271 Recommender.java
+CompilationAction 1395250076756 Recommender.java
+CompilationAction 1395250076756 Recommender.java
+EditAction 1395250088256 Recommender.java 2529 10 25 0
+UnitTestCaseAction 1395250095568 SmokeTest.java OK
+UnitTestSessionAction 1395250095568 SmokeTest OK
+EditAction 1395250102303 SmokeTest.java 1783 1 17 7
+EditAction 1395250112850 SmokeTest.java 2023 1 20 8
+CompilationAction 1395250113693 SmokeTest.java
+EditAction 1395250122365 SmokeTest.java 2025 1 20 8
+UnitTestCaseAction 1395250149193 SmokeTest.java OK
+UnitTestSessionAction 1395250149193 SmokeTest OK
+EditAction 1395250368928 SmokeTest.java 2260 1 23 9
+EditAction 1395250431021 SmokeTest.java 2254 1 23 9
+UnitTestCaseAction 1395250439709 SmokeTest.java FAIL
+UnitTestSessionAction 1395250439709 SmokeTest FAIL
+RefactoringAction 1395250489115 Recommender.java ADD String resultDistance FIELD
+RefactoringAction 1395250491115 Recommender.java RENAME resultDistance=>String resultDistance() METHOD
+RefactoringAction 1395250503146 Recommender.java RENAME resultDistance()=>String resultDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395250535209 Recommender.java 2690 11 26 0
+CompilationAction 1395250536068 Recommender.java
+EditAction 1395250550459 Recommender.java 2702 11 26 0
+CompilationAction 1395250551318 Recommender.java
+EditAction 1395250560959 Recommender.java 2719 11 27 0
+CompilationAction 1395250561818 Recommender.java
+CompilationAction 1395250567396 Recommender.java
+CompilationAction 1395250567506 Recommender.java
+CompilationAction 1395250582209 Recommender.java
+EditAction 1395250855209 Recommender.java 3238 11 34 0
+EditAction 1395250857490 Recommender.java 3237 11 34 0
+RefactoringAction 1395250879178 SmokeTest.java REMOVE distance FIELD
+CompilationAction 1395250879506 SmokeTest.java
+CompilationAction 1395250914396 SmokeTest.java
+CompilationAction 1395250914506 SmokeTest.java
+CompilationAction 1395250914506 SmokeTest.java
+EditAction 1395250940990 SmokeTest.java 2214 1 22 9
+CompilationAction 1395250941834 SmokeTest.java
+CompilationAction 1395250958943 SmokeTest.java
+CompilationAction 1395250959053 SmokeTest.java
+EditAction 1395250987225 Recommender.java 3262 11 34 0
+CompilationAction 1395251006662 SmokeTest.java
+UnitTestCaseAction 1395251020834 SmokeTest.java FAIL
+UnitTestSessionAction 1395251020834 SmokeTest FAIL
+RefactoringAction 1395251139443 SmokeTest.java ADD double distance FIELD
+RefactoringAction 1395251162943 SmokeTest.java REMOVE distance FIELD
+UnitTestCaseAction 1395251207240 SmokeTest.java FAIL
+UnitTestSessionAction 1395251207240 SmokeTest FAIL
+RefactoringAction 1395251327243 Recommender.java REMOVE resultDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395251329993 Recommender.java 2529 10 25 0
+CompilationAction 1395251330852 SmokeTest.java
+UnitTestCaseAction 1395251355665 SmokeTest.java OK
+UnitTestSessionAction 1395251355665 SmokeTest OK
+EditAction 1395251385541 SmokeTest.java 2270 1 24 9
+EditAction 1395251398214 SmokeTest.java 2270 1 24 9
+EditAction 1395251414855 SmokeTest.java 2261 1 24 9
+UnitTestCaseAction 1395251418949 SmokeTest.java FAIL
+UnitTestSessionAction 1395251418949 SmokeTest FAIL
+EditAction 1395251495873 Recommender.java 2516 10 25 0
+EditAction 1395251505889 Recommender.java 2529 10 25 0
+EditAction 1395251632610 Recommender.java 2651 10 19 0
+UnitTestCaseAction 1395251639063 SmokeTest.java OK
+UnitTestSessionAction 1395251639063 SmokeTest OK
+UnitTestCaseAction 1395251712017 SmokeTest.java OK
+UnitTestSessionAction 1395251712017 MusicPhone OK
+FileOpenedAction 1395251997942 IConnector.java 431 3 0 0
+FileOpenedAction 1395252005958 ConcertInfo.java 1285 11 15 0
+FileOpenedAction 1395252184740 LastFmXmlConnector.java 5248 4 49 0
+EditAction 1395252263834 SmokeTest.java 2273 1 24 9
+EditAction 1395252327349 Recommender.java 2655 10 19 0
+EditAction 1395252351677 SmokeTest.java 2280 1 24 9
+EditAction 1395252380802 SmokeTest.java 2339 1 0 0
+CompilationAction 1395252381646 SmokeTest.java
+CompilationAction 1395252381662 SmokeTest.java
+CompilationAction 1395252414709 SmokeTest.java
+CompilationAction 1395252414709 SmokeTest.java
+CompilationAction 1395252414818 SmokeTest.java
+CompilationAction 1395252414818 SmokeTest.java
+CompilationAction 1395252414818 SmokeTest.java
+CompilationAction 1395252418599 SmokeTest.java
+CompilationAction 1395252418599 SmokeTest.java
+CompilationAction 1395252418709 SmokeTest.java
+CompilationAction 1395252418709 SmokeTest.java
+CompilationAction 1395252418709 SmokeTest.java
+RefactoringAction 1395252425209 SmokeTest.java ADD import java.util.List IMPORT
+CompilationAction 1395252426474 SmokeTest.java
+CompilationAction 1395252426474 SmokeTest.java
+CompilationAction 1395252426474 SmokeTest.java
+CompilationAction 1395252426693 SmokeTest.java
+CompilationAction 1395252426693 SmokeTest.java
+CompilationAction 1395252431646 SmokeTest.java
+CompilationAction 1395252431646 SmokeTest.java
+CompilationAction 1395252431755 SmokeTest.java
+CompilationAction 1395252431755 SmokeTest.java
+CompilationAction 1395252437302 SmokeTest.java
+CompilationAction 1395252437302 SmokeTest.java
+CompilationAction 1395252437427 SmokeTest.java
+EditAction 1395252439802 SmokeTest.java 2399 1 26 9
+CompilationAction 1395252597505 SmokeTest.java
+RefactoringAction 1395252601537 SmokeTest.java ADD import java.util.ArrayList IMPORT
+CompilationAction 1395252604802 SmokeTest.java
+CompilationAction 1395252604959 SmokeTest.java
+CompilationAction 1395252631177 SmokeTest.java
+EditAction 1395252781709 Recommender.java 2693 10 17 0
+CompilationAction 1395252782568 Recommender.java
+EditAction 1395252785505 Recommender.java 2694 10 19 0
+CompilationAction 1395252786490 Recommender.java
+RefactoringAction 1395252840615 Recommender.java ADD import commons.dataClasses.ConcertInfo IMPORT
+CompilationAction 1395252843834 Recommender.java
+CompilationAction 1395252843959 Recommender.java
+RefactoringAction 1395252872021 Recommender.java REMOVE import commons.dataClasses.ConcertInfo IMPORT
+CompilationAction 1395252874724 Recommender.java
+CompilationAction 1395252874834 Recommender.java
+CompilationAction 1395252886240 Recommender.java
+CompilationAction 1395252886349 Recommender.java
+EditAction 1395252889630 Recommender.java 2694 10 19 0
+CompilationAction 1395252890490 Recommender.java
+CompilationAction 1395252900349 Recommender.java
+UnitTestCaseAction 1395252906771 SmokeTest.java OK
+UnitTestSessionAction 1395252906771 SmokeTest OK
+EditAction 1395253039599 SmokeTest.java 2460 1 0 0
+CompilationAction 1395253040443 SmokeTest.java
+CompilationAction 1395253066474 SmokeTest.java
+CompilationAction 1395253066584 SmokeTest.java
+EditAction 1395253070490 SmokeTest.java 2436 1 26 9
+CompilationAction 1395253071349 SmokeTest.java
+RefactoringAction 1395253078427 SmokeTest.java ADD import dataConnectors.LastFmConnectionException IMPORT
+RefactoringAction 1395253086302 SmokeTest.java REMOVE import dataConnectors.LastFmConnectionException IMPORT
+UnitTestCaseAction 1395253090412 SmokeTest.java OK
+UnitTestSessionAction 1395253090412 SmokeTest OK
+EditAction 1395253216084 SmokeTest.java 2437 1 26 9
+CompilationAction 1395253216943 SmokeTest.java
+UnitTestCaseAction 1395253221209 SmokeTest.java FAIL
+UnitTestSessionAction 1395253221209 SmokeTest FAIL
+RefactoringAction 1395253225365 SmokeTest.java ADD import dataConnectors.LastFmConnectionException IMPORT
+EditAction 1395253254037 SmokeTest.java 2603 1 26 9

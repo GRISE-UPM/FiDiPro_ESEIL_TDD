@@ -1,0 +1,256 @@
+FileOpenedAction 1395153739633 Recommender.java 1617 9 12 0
+FileOpenedAction 1395153846612 ToBeImplementedException.java 218 1 1 0
+FileOpenedAction 1395153849783 DeviceManager.java 622 6 6 0
+FileOpenedAction 1395153857859 ConcertInfo.java 1285 11 15 0
+FileOpenedAction 1395153860015 Destination.java 1317 12 12 0
+FileOpenedAction 1395153869591 GeoPoint.java 503 5 7 0
+FileOpenedAction 1395153875512 Recommendation.java 650 5 7 0
+RefactoringAction 1395153913660 Recommender.java ADD double xompu FIELD
+RefactoringAction 1395153916660 Recommender.java RENAME xompu=>double compute FIELD
+RefactoringAction 1395153918659 Recommender.java RENAME compute=>double computeDistance FIELD
+RefactoringAction 1395153919659 Recommender.java RENAME computeDistance=>static double computeDistance() METHOD
+RefactoringAction 1395153929673 Recommender.java RENAME computeDistance()=>static double computeDistance(Geopint) METHOD
+RefactoringAction 1395153953730 Recommender.java RENAME computeDistance(Geopint)=>static double computeDistance(Geopoint) METHOD
+RefactoringAction 1395153957229 Recommender.java RENAME computeDistance(Geopoint)=>static double computeDistance(GeoPoint) METHOD
+RefactoringAction 1395153972226 Recommender.java RENAME computeDistance(GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint) METHOD
+EditAction 1395153974960 Recommender.java 1697 10 12 0
+CompilationAction 1395153977069 Recommender.java
+RefactoringAction 1395153997612 Recommender.java ADD import commons.dataClasses.GeoPoint IMPORT
+CompilationAction 1395154007375 Recommender.java
+RefactoringAction 1395154097816 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395154098816 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint, String)=>static double computeDistance(GeoPoint, GeoPoint) METHOD
+RefactoringAction 1395154101815 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395154288523 Recommender.java 1981 10 16 0
+EditAction 1395154445874 Recommender.java 2102 10 12 0
+CompilationAction 1395154447311 Recommender.java
+CompilationAction 1395154566192 Recommender.java
+EditAction 1395154586003 Recommender.java 2180 10 19 0
+EditAction 1395154642467 Recommender.java 2180 10 19 0
+EditAction 1395154731115 Recommender.java 2183 10 19 0
+CompilationAction 1395154732553 Recommender.java
+CompilationAction 1395154764878 Recommender.java
+CompilationAction 1395154764987 Recommender.java
+CompilationAction 1395154822841 Recommender.java
+CompilationAction 1395154822950 Recommender.java
+EditAction 1395155545997 Recommender.java 2197 10 19 0
+CompilationAction 1395155547434 Recommender.java
+EditAction 1395155651712 Recommender.java 2191 10 19 0
+CompilationAction 1395155653150 Recommender.java
+EditAction 1395155714242 Recommender.java 2335 10 12 0
+CompilationAction 1395155715679 Recommender.java
+CompilationAction 1395155890465 Recommender.java
+CompilationAction 1395155890575 Recommender.java
+EditAction 1395155899105 Recommender.java 2413 10 12 0
+CompilationAction 1395155900527 Recommender.java
+CompilationAction 1395155944368 Recommender.java
+CompilationAction 1395155944477 Recommender.java
+CompilationAction 1395155944477 Recommender.java
+CompilationAction 1395155944477 Recommender.java
+CompilationAction 1395155944477 Recommender.java
+CompilationAction 1395155960695 Recommender.java
+CompilationAction 1395155960695 Recommender.java
+CompilationAction 1395155960695 Recommender.java
+CompilationAction 1395155960804 Recommender.java
+EditAction 1395155991052 Recommender.java 2508 10 19 0
+CompilationAction 1395155992474 Recommender.java
+FileOpenedAction 1395156016081 SmokeTest.java 1441 1 14 6
+EditAction 1395156069984 Recommender.java 2514 10 19 0
+CompilationAction 1395156071437 Recommender.java
+EditAction 1395156088341 Recommender.java 2506 10 19 0
+CompilationAction 1395156089794 Recommender.java
+EditAction 1395156106418 Recommender.java 2505 10 19 0
+CompilationAction 1395156107855 Recommender.java
+EditAction 1395156265113 Recommender.java 2404 10 19 0
+CompilationAction 1395156266535 Recommender.java
+EditAction 1395156470700 Recommender.java 2527 10 12 0
+CompilationAction 1395156472137 Recommender.java
+CompilationAction 1395156472137 Recommender.java
+CompilationAction 1395156472137 Recommender.java
+CompilationAction 1395156472137 Recommender.java
+EditAction 1395156480106 Recommender.java 2534 10 12 0
+CompilationAction 1395156481544 Recommender.java
+CompilationAction 1395156481559 Recommender.java
+CompilationAction 1395156505840 Recommender.java
+CompilationAction 1395156505840 Recommender.java
+CompilationAction 1395156505950 Recommender.java
+EditAction 1395156519903 Recommender.java 2564 10 21 0
+CompilationAction 1395156521325 Recommender.java
+EditAction 1395156532012 Recommender.java 2555 10 21 0
+CompilationAction 1395156533450 Recommender.java
+EditAction 1395156550028 Recommender.java 2554 10 22 0
+CompilationAction 1395156551481 Recommender.java
+CompilationAction 1395156566747 Recommender.java
+RefactoringAction 1395156830322 SmokeTest.java ADD SmokeTest.java CLASS
+RefactoringAction 1395156830416 SmokeTest.java REMOVE SmokeTest.java CLASS
+CompilationAction 1395156830541 SmokeTest.java
+UnitTestCaseAction 1395156864680 SmokeTest.java OK
+UnitTestSessionAction 1395156864680 SmokeTest.java OK
+EditAction 1395156899209 SmokeTest.java 1457 1 14 6
+CompilationAction 1395156900631 SmokeTest.java
+CompilationAction 1395156900631 SmokeTest.java
+CompilationAction 1395156900631 SmokeTest.java
+RefactoringAction 1395156908818 SmokeTest.java ADD void test FIELD
+RefactoringAction 1395156909818 SmokeTest.java RENAME test=>void test4 FIELD
+RefactoringAction 1395156928817 SmokeTest.java RENAME test4=>void test FIELD
+RefactoringAction 1395156933833 SmokeTest.java RENAME test=>void testGreat FIELD
+RefactoringAction 1395156937333 SmokeTest.java RENAME testGreat=>void testGreatCir FIELD
+RefactoringAction 1395156940833 SmokeTest.java RENAME testGreatCir=>void testGreatCircleDistance FIELD
+RefactoringAction 1395156942332 SmokeTest.java RENAME testGreatCircleDistance=>void testGreatCircleDistance() METHOD
+EditAction 1395156946004 SmokeTest.java 1499 2 14 6
+EditAction 1395156979503 SmokeTest.java 1603 2 16 6
+CompilationAction 1395156980956 SmokeTest.java
+CompilationAction 1395156980956 SmokeTest.java
+EditAction 1395157077014 SmokeTest.java 1677 2 18 6
+CompilationAction 1395157078451 SmokeTest.java
+CompilationAction 1395157078451 SmokeTest.java
+CompilationAction 1395157078451 SmokeTest.java
+CompilationAction 1395157078451 SmokeTest.java
+CompilationAction 1395157205006 SmokeTest.java
+CompilationAction 1395157205006 SmokeTest.java
+CompilationAction 1395157205006 SmokeTest.java
+CompilationAction 1395157205006 SmokeTest.java
+CompilationAction 1395157205115 SmokeTest.java
+CompilationAction 1395157205115 SmokeTest.java
+CompilationAction 1395157214803 SmokeTest.java
+CompilationAction 1395157214803 SmokeTest.java
+CompilationAction 1395157214912 SmokeTest.java
+CompilationAction 1395157258773 SmokeTest.java
+UnitTestCaseAction 1395157352621 SmokeTest.java FAIL
+UnitTestSessionAction 1395157352621 SmokeTest.java FAIL
+FileOpenedAction 1395157637935 IConnector.java 431 3 0 0
+FileOpenedAction 1395157664106 IRecommender.java 503 5 0 0
+FileOpenedAction 1395157695355 IPlayer.java 222 4 0 0
+FileOpenedAction 1395157697105 IGps.java 339 4 0 0
+EditAction 1395157805492 Recommender.java 2536 10 19 0
+CompilationAction 1395157806929 Recommender.java
+CompilationAction 1395157865957 Recommender.java
+CompilationAction 1395157942172 Recommender.java
+CompilationAction 1395157942282 Recommender.java
+CompilationAction 1395157942282 Recommender.java
+CompilationAction 1395158055916 Recommender.java
+CompilationAction 1395158055916 Recommender.java
+CompilationAction 1395158056026 Recommender.java
+CompilationAction 1395158056026 Recommender.java
+CompilationAction 1395158100664 Recommender.java
+CompilationAction 1395158100664 Recommender.java
+CompilationAction 1395158100774 Recommender.java
+RefactoringAction 1395158117054 Recommender.java ADD import commons.dataClasses.ConcertInfo IMPORT
+CompilationAction 1395158121225 Recommender.java
+CompilationAction 1395158121335 Recommender.java
+CompilationAction 1395158121335 Recommender.java
+RefactoringAction 1395158136865 Recommender.java ADD import dataConnectors.LastFmConnectionException IMPORT
+RefactoringAction 1395158147818 Recommender.java REMOVE import dataConnectors.LastFmConnectionException IMPORT
+CompilationAction 1395158156427 Recommender.java
+EditAction 1395158445692 Recommender.java 2697 10 21 0
+EditAction 1395158458223 Recommender.java 2690 10 21 0
+EditAction 1395158819667 Recommender.java 2659 10 21 0
+RefactoringAction 1395159085935 Recommender.java ADD import java.util.Collection IMPORT
+RefactoringAction 1395159085935 Recommender.java ADD import java.util.Iterator IMPORT
+RefactoringAction 1395159085935 Recommender.java ADD import java.util.ListIterator IMPORT
+CompilationAction 1395159101809 Recommender.java
+CompilationAction 1395159101809 Recommender.java
+CompilationAction 1395159191836 Recommender.java
+CompilationAction 1395159373216 Recommender.java
+CompilationAction 1395159449368 Recommender.java
+CompilationAction 1395159449477 Recommender.java
+CompilationAction 1395159449477 Recommender.java
+RefactoringAction 1395159892764 Recommender.java ADD import java.util.ListResourceBundle IMPORT
+CompilationAction 1395159899530 Recommender.java
+CompilationAction 1395159899530 Recommender.java
+CompilationAction 1395159899639 Recommender.java
+CompilationAction 1395159899639 Recommender.java
+CompilationAction 1395159899639 Recommender.java
+CompilationAction 1395159964573 Recommender.java
+CompilationAction 1395159964573 Recommender.java
+CompilationAction 1395159964573 Recommender.java
+CompilationAction 1395159964682 Recommender.java
+CompilationAction 1395159964682 Recommender.java
+CompilationAction 1395160009930 Recommender.java
+CompilationAction 1395160009930 Recommender.java
+CompilationAction 1395160010039 Recommender.java
+UnitTestCaseAction 1395160023616 SmokeTest.java FAIL
+UnitTestSessionAction 1395160023616 MusicPhoneTask FAIL
+RefactoringAction 1395160053286 Recommender.java ADD ToBeImplementedException e FIELD
+RefactoringAction 1395160055286 Recommender.java REMOVE e FIELD
+CompilationAction 1395160060739 Recommender.java
+CompilationAction 1395160060848 Recommender.java
+RefactoringAction 1395160071785 Recommender.java REMOVE import java.util.ListResourceBundle IMPORT
+CompilationAction 1395160074473 Recommender.java
+CompilationAction 1395160074582 Recommender.java
+CompilationAction 1395160074582 Recommender.java
+CompilationAction 1395160074582 Recommender.java
+CompilationAction 1395160083238 Recommender.java
+CompilationAction 1395160083238 Recommender.java
+CompilationAction 1395160083347 Recommender.java
+CompilationAction 1395160083347 Recommender.java
+CompilationAction 1395160083347 Recommender.java
+EditAction 1395160271370 Recommender.java 2687 10 19 0
+CompilationAction 1395160272839 Recommender.java
+CompilationAction 1395160272839 Recommender.java
+CompilationAction 1395160272839 Recommender.java
+CompilationAction 1395160324095 Recommender.java
+CompilationAction 1395160324095 Recommender.java
+CompilationAction 1395160324095 Recommender.java
+CompilationAction 1395160324205 Recommender.java
+CompilationAction 1395160327080 Recommender.java
+CompilationAction 1395160327080 Recommender.java
+RefactoringAction 1395160378196 Recommender.java ADD import dataConnectors.LastFmConnectionException IMPORT
+CompilationAction 1395160379712 Recommender.java
+CompilationAction 1395160379712 Recommender.java
+CompilationAction 1395160379821 Recommender.java
+CompilationAction 1395160387510 Recommender.java
+CompilationAction 1395160810019 Recommender.java
+CompilationAction 1395160831895 Recommender.java
+CompilationAction 1395160832004 Recommender.java
+CompilationAction 1395160832004 Recommender.java
+CompilationAction 1395160832004 Recommender.java
+CompilationAction 1395160835379 Recommender.java
+CompilationAction 1395160835379 Recommender.java
+CompilationAction 1395160835395 Recommender.java
+CompilationAction 1395160835504 Recommender.java
+CompilationAction 1395160835504 Recommender.java
+CompilationAction 1395160835504 Recommender.java
+CompilationAction 1395160842504 Recommender.java
+CompilationAction 1395160842504 Recommender.java
+CompilationAction 1395160842504 Recommender.java
+EditAction 1395160845363 Recommender.java 2932 10 21 0
+EditAction 1395161019077 Recommender.java 2996 10 21 0
+EditAction 1395161116012 Recommender.java 2982 10 21 0
+CompilationAction 1395161117449 Recommender.java
+RefactoringAction 1395161144933 Recommender.java ADD import java.sql.Array IMPORT
+RefactoringAction 1395161144933 Recommender.java ADD import java.sql.ResultSet IMPORT
+RefactoringAction 1395161144933 Recommender.java ADD import java.sql.SQLException IMPORT
+RefactoringAction 1395161144933 Recommender.java ADD import java.util.Map IMPORT
+RefactoringAction 1395161149932 Recommender.java ADD import java.util.ArrayList IMPORT
+CompilationAction 1395161149948 Recommender.java
+EditAction 1395161194040 Recommender.java 3104 10 21 0
+EditAction 1395161216398 Recommender.java 3422 10 21 0
+CompilationAction 1395161217961 Recommender.java
+CompilationAction 1395161230663 Recommender.java
+CompilationAction 1395161295817 Recommender.java
+CompilationAction 1395161295926 Recommender.java
+CompilationAction 1395161589757 Recommender.java
+CompilationAction 1395161589866 Recommender.java
+CompilationAction 1395161626927 Recommender.java
+CompilationAction 1395161627036 Recommender.java
+CompilationAction 1395161641020 Recommender.java
+CompilationAction 1395161641129 Recommender.java
+FileOpenedAction 1395162191602 Track.java 583 7 10 0
+RefactoringAction 1395162204320 Recommender.java ADD import javax.sound.midi.Track IMPORT
+CompilationAction 1395162260364 Recommender.java
+CompilationAction 1395162260473 Recommender.java
+CompilationAction 1395162260473 Recommender.java
+CompilationAction 1395162304174 Recommender.java
+CompilationAction 1395162304284 Recommender.java
+CompilationAction 1395162308721 Recommender.java
+CompilationAction 1395162308846 Recommender.java
+RefactoringAction 1395162449921 Recommender.java ADD import java.util.Iterator IMPORT
+CompilationAction 1395162472312 Recommender.java
+CompilationAction 1395162472437 Recommender.java
+CompilationAction 1395162472437 Recommender.java
+CompilationAction 1395162478421 Recommender.java
+CompilationAction 1395162478530 Recommender.java
+CompilationAction 1395162478530 Recommender.java
+CompilationAction 1395162519795 Recommender.java
+CompilationAction 1395162519904 Recommender.java
+CompilationAction 1395162519904 Recommender.java

@@ -1,0 +1,37 @@
+FileOpenedAction 1395153843868 BowlingGame.java 545 5 2 0
+FileOpenedAction 1395156032411 Frame.java 577 5 5 0
+RefactoringAction 1395157224857 Frame.java ADD String lanzamiento1 FIELD
+RefactoringAction 1395157238846 Frame.java ADD String lanzamiento FIELD
+RefactoringAction 1395157240844 Frame.java RENAME lanzamiento=>String lanzamiento2 FIELD
+RefactoringAction 1395157289445 Frame.java REMOVE lanzamiento1 FIELD
+RefactoringAction 1395157289445 Frame.java REMOVE lanzamiento2 FIELD
+RefactoringAction 1395157315487 Frame.java ADD boolean s FIELD
+RefactoringAction 1395157318984 Frame.java RENAME s=>boolean set FIELD
+RefactoringAction 1395157321981 Frame.java RENAME set=>boolean setLanzamiento FIELD
+RefactoringAction 1395157325479 Frame.java RENAME setLanzamiento=>boolean setLanzamiento() METHOD
+RefactoringAction 1395157413969 Frame.java RENAME setLanzamiento()=>boolean getLanzamiento() METHOD
+RefactoringAction 1395157518500 Frame.java ADD String lanzamiento FIELD
+RefactoringAction 1395157565015 Frame.java ADD String set FIELD
+RefactoringAction 1395157568514 Frame.java RENAME set=>String setLanzamiento FIELD
+RefactoringAction 1395157570014 Frame.java RENAME setLanzamiento=>String setLanzamiento() METHOD
+RefactoringAction 1395157716011 Frame.java ADD void String FIELD
+RefactoringAction 1395157743503 Frame.java REMOVE String FIELD
+RefactoringAction 1395157771998 Frame.java RENAME setLanzamiento()=>void setLanzamiento(String) METHOD
+FileOpenedAction 1395158288167 TestBowlingScoreKeeper.java 197 1 1 0
+RefactoringAction 1395158686260 TestBowlingScoreKeeper.java ADD void compare FIELD
+RefactoringAction 1395158692760 TestBowlingScoreKeeper.java RENAME compare=>void compareTwoo FIELD
+RefactoringAction 1395158693760 TestBowlingScoreKeeper.java RENAME compareTwoo=>void compareTwo FIELD
+RefactoringAction 1395159691305 TestBowlingScoreKeeper.java RENAME compareTwo=>void compareTwoT FIELD
+RefactoringAction 1395159693305 TestBowlingScoreKeeper.java RENAME compareTwoT=>void compareTwoTh FIELD
+RefactoringAction 1395159696305 TestBowlingScoreKeeper.java RENAME compareTwoTh=>void compareTwoThrows FIELD
+RefactoringAction 1395160181511 Frame.java ADD Frame() METHOD
+RefactoringAction 1395160208510 Frame.java RENAME Frame()=>Frame(String) METHOD
+RefactoringAction 1395160485522 Frame.java RENAME lanzamiento=>String lanzamiento1 FIELD
+RefactoringAction 1395160498522 Frame.java ADD String lanzamiento FIELD
+RefactoringAction 1395160500522 Frame.java RENAME lanzamiento=>String lanzamiento2 FIELD
+RefactoringAction 1395160556019 Frame.java RENAME Frame(String)=>Frame(String, String) METHOD
+RefactoringAction 1395160595017 Frame.java ADD String getLanzamiento()/2 METHOD
+RefactoringAction 1395160595017 Frame.java ADD void setLanzamiento(String)/2 METHOD
+RefactoringAction 1395160603017 Frame.java RENAME getLanzamiento()/2=>String getLanzamiento1() METHOD
+RefactoringAction 1395160606017 Frame.java RENAME setLanzamiento(String)/2=>void setLanzamiento1(String) METHOD
+RefactoringAction 1395160610517 Frame.java RENAME getLanzamiento()=>String getLanzamiento2() METHOD

@@ -1,0 +1,30 @@
+FileOpenedAction 1395251573088 TestBowlingScoreKeeper.java 2561 10 45 16
+FileOpenedAction 1395251589589 Frame.java 875 8 11 0
+UnitTestCaseAction 1395251635106 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395251635106 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395251902332 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395251902332 BowlingScoreKeeper-master FAIL
+RefactoringAction 1395251992317 TestBowlingScoreKeeper.java REMOVE testAStrikeAndSpareGameScore() METHOD
+RefactoringAction 1395251992317 TestBowlingScoreKeeper.java REMOVE testMultipleStrikesGameScore() METHOD
+EditAction 1395251997380 TestBowlingScoreKeeper.java 2565 8 37 14
+CompilationAction 1395252013318 TestBowlingScoreKeeper.java
+CompilationAction 1395252013318 TestBowlingScoreKeeper.java
+CompilationAction 1395252031318 TestBowlingScoreKeeper.java
+CompilationAction 1395252031318 TestBowlingScoreKeeper.java
+UnitTestCaseAction 1395252078662 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395252078662 TestBowlingScoreKeeper FAIL
+UnitTestCaseAction 1395252165382 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395252165382 BowlingScoreKeeper-master OK
+UnitTestCaseAction 1395252727337 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395252727337 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395252837384 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395252837399 BowlingScoreKeeper-master OK
+RefactoringAction 1395252892352 TestBowlingScoreKeeper.java ADD void testAStrikeAndSpareGameScore() METHOD
+RefactoringAction 1395252892352 TestBowlingScoreKeeper.java ADD void testMultipleStrikesGameScore() METHOD
+RefactoringAction 1395252902384 TestBowlingScoreKeeper.java REMOVE testMultipleStrikesGameScore() METHOD
+EditAction 1395252912399 TestBowlingScoreKeeper.java 2565 9 41 15
+CompilationAction 1395252913134 BowlingGame.java
+UnitTestCaseAction 1395252966259 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395252966259 TestBowlingScoreKeeper FAIL
+UnitTestCaseAction 1395253028352 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395253028352 BowlingScoreKeeper-master OK

@@ -1,0 +1,5 @@
+FileOpenedAction 1395253306679 IConnector.java 431 3 0 0
+CompilationAction 1395253431812 SmokeTest.java
+CompilationAction 1395253431812 SmokeTest.java
+UnitTestCaseAction 1395253807452 SmokeTest.java OK
+UnitTestSessionAction 1395253807452 SmokeTest OK

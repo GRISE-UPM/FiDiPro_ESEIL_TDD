@@ -1,0 +1,28 @@
+FileOpenedAction 1395154395565 MarsRover.java 1083 3 2 0
+RefactoringAction 1395154400641 MarsRover.java RENAME Rover=>Integer N FIELD
+RefactoringAction 1395154423634 MarsRover.java RENAME Rover()=>MarsRover() METHOD
+EditAction 1395154430290 MarsRover.java 1390 3 2 0
+RefactoringAction 1395154487623 MarsRover.java REMOVE MarsRover() METHOD
+RefactoringAction 1395154566110 MarsRover.java REMOVE executeCommand(String) METHOD
+RefactoringAction 1395154567610 MarsRover.java ADD String executeCommand(String) METHOD
+CompilationAction 1395155117039 MarsRover.java
+CompilationAction 1395155117039 MarsRover.java
+CompilationAction 1395155189415 MarsRover.java
+CompilationAction 1395155189415 MarsRover.java
+CompilationAction 1395155189540 MarsRover.java
+CompilationAction 1395155189540 MarsRover.java
+RefactoringAction 1395155432165 MarsRover.java REMOVE executeCommand(String) METHOD
+RefactoringAction 1395155438666 MarsRover.java ADD String executeCommand(String) METHOD
+CompilationAction 1395155441932 MarsRover.java
+CompilationAction 1395155441932 MarsRover.java
+CompilationAction 1395155442041 MarsRover.java
+RefactoringAction 1395155477168 MarsRover.java ADD void set FIELD
+RefactoringAction 1395155479668 MarsRover.java RENAME set=>void setPosition FIELD
+RefactoringAction 1395155481668 MarsRover.java RENAME setPosition=>void setPosition() METHOD
+RefactoringAction 1395155493168 MarsRover.java RENAME setPosition()=>void setPosition(int) METHOD
+RefactoringAction 1395155494168 MarsRover.java RENAME setPosition(int)=>void setPosition(int, int) METHOD
+RefactoringAction 1395155498668 MarsRover.java RENAME setPosition(int, int)=>void setPosition(int, int, string) METHOD
+RefactoringAction 1395155501668 MarsRover.java RENAME setPosition(int, int, string)=>void setPosition(int, int) METHOD
+RefactoringAction 1395155504668 MarsRover.java RENAME setPosition(int, int)=>void setPosition(int, int, int) METHOD
+EditAction 1395155539278 MarsRover.java 1559 3 5 0
+CompilationAction 1395155539450 MarsRover.java

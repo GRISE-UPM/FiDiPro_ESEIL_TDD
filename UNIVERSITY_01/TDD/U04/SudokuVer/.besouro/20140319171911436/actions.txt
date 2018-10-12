@@ -1,0 +1,285 @@
+FileOpenedAction 1395245974139 SudokuTest.java 184 1 1 0
+FileOpenedAction 1395245975624 Sudoku.java 1134 2 1 0
+UnitTestCaseAction 1395246081030 SmokeTest.java FAIL
+UnitTestSessionAction 1395246081030 SmokeTest FAIL
+RefactoringAction 1395246271826 SudokuTest.java REMOVE test() METHOD
+RefactoringAction 1395246307341 SudokuTest.java ADD void test() METHOD
+UnitTestCaseAction 1395246741604 SmokeTest.java FAIL
+UnitTestSessionAction 1395246741604 SmokeTest FAIL
+EditAction 1395246810291 SudokuTest.java 253 1 2 1
+RefactoringAction 1395246968571 SudokuTest.java REMOVE SudokuTest.java CLASS
+RefactoringAction 1395246968571 Sudoku.java REMOVE Sudoku.java CLASS
+CompilationAction 1395246968743 Sudoku.java
+CompilationAction 1395246968743 SudokuTest.java
+CompilationAction 1395246968743 SudokuTest.java
+CompilationAction 1395246973805 Sudoku.java
+CompilationAction 1395246973805 SudokuTest.java
+CompilationAction 1395246973805 SudokuTest.java
+RefactoringAction 1395246973837 SudokuTest.java REMOVE SudokuTest.java CLASS
+RefactoringAction 1395246973868 Sudoku.java REMOVE Sudoku.java CLASS
+CompilationAction 1395246986305 Sudoku.java
+CompilationAction 1395246986305 SudokuTest.java
+CompilationAction 1395246986305 SudokuTest.java
+RefactoringAction 1395247014352 Sudoku.java MOVE Sudoku.java=>src PACKAGE
+CompilationAction 1395247014352 Sudoku.java
+RefactoringAction 1395247014415 Sudoku.java REMOVE Sudoku.java CLASS
+CompilationAction 1395247014524 SudokuTest.java
+CompilationAction 1395247014524 SudokuTest.java
+CompilationAction 1395247014524 Sudoku.java
+RefactoringAction 1395247022321 SudokuTest.java MOVE SudokuTest.java=>src PACKAGE
+CompilationAction 1395247022321 SudokuTest.java
+CompilationAction 1395247022321 SudokuTest.java
+RefactoringAction 1395247022368 SudokuTest.java REMOVE SudokuTest.java CLASS
+CompilationAction 1395247022477 SudokuTest.java
+CompilationAction 1395247022477 SudokuTest.java
+CompilationAction 1395247042336 SudokuTest.java
+CompilationAction 1395247042336 SudokuTest.java
+RefactoringAction 1395247042352 SudokuTest.java REMOVE SudokuTest.java CLASS
+CompilationAction 1395247042477 SudokuTest.java
+CompilationAction 1395247042477 SudokuTest.java
+CompilationAction 1395247042836 Sudoku.java
+RefactoringAction 1395247042852 Sudoku.java REMOVE Sudoku.java CLASS
+CompilationAction 1395247043539 Sudoku.java
+CompilationAction 1395247043539 SudokuTest.java
+CompilationAction 1395247043539 SudokuTest.java
+CompilationAction 1395247059258 SudokuTest.java
+CompilationAction 1395247059258 SudokuTest.java
+RefactoringAction 1395247059274 SudokuTest.java REMOVE SudokuTest.java CLASS
+CompilationAction 1395247059446 Sudoku.java
+CompilationAction 1395247059446 SudokuTest.java
+CompilationAction 1395247102883 Sudoku.java
+RefactoringAction 1395247102930 Sudoku.java REMOVE Sudoku.java CLASS
+CompilationAction 1395247103055 SudokuTest.java
+RefactoringAction 1395247114211 SudokuTest.java ADD import upm.tdd.training.Sudoku IMPORT
+CompilationAction 1395247214038 SudokuTest.java
+EditAction 1395247341969 SudokuTest.java 244 1 2 1
+UnitTestCaseAction 1395247342282 SudokuTest.java OK
+UnitTestSessionAction 1395247342282 SudokuTest OK
+EditAction 1395247557314 SudokuTest.java 266 1 2 1
+UnitTestCaseAction 1395247557611 SudokuTest.java FAIL
+UnitTestSessionAction 1395247557611 SudokuTest FAIL
+EditAction 1395247573111 SudokuTest.java 244 1 2 1
+UnitTestCaseAction 1395247574955 SudokuTest.java OK
+UnitTestSessionAction 1395247574955 SudokuTest OK
+EditAction 1395247717458 Sudoku.java 1175 2 2 0
+RefactoringAction 1395247763616 SudokuTest.java ADD void test()/2 METHOD
+RefactoringAction 1395247792117 SudokuTest.java RENAME test()/2=>void testVio() METHOD
+RefactoringAction 1395247795117 SudokuTest.java RENAME testVio()=>void testViolating() METHOD
+RefactoringAction 1395247797617 SudokuTest.java RENAME testViolating()=>void testViolatingRule() METHOD
+RefactoringAction 1395247802117 SudokuTest.java RENAME testViolatingRule()=>void testViolatingRuleOne() METHOD
+EditAction 1395248022197 SudokuTest.java 451 2 5 2
+CompilationAction 1395248022353 SudokuTest.java
+UnitTestCaseAction 1395248026978 SudokuTest.java FAIL
+UnitTestSessionAction 1395248026978 SudokuTest FAIL
+RefactoringAction 1395248067713 SudokuTest.java REMOVE testViolatingRuleOne() METHOD
+RefactoringAction 1395248067713 SudokuTest.java REMOVE test() METHOD
+RefactoringAction 1395248070213 SudokuTest.java ADD void testViolatingRuleOne() METHOD
+CompilationAction 1395248081276 SudokuTest.java
+CompilationAction 1395248081291 SudokuTest.java
+UnitTestCaseAction 1395248085822 SudokuTest.java FAIL
+UnitTestSessionAction 1395248085822 SudokuTest FAIL
+EditAction 1395248125245 Sudoku.java 1183 2 2 0
+CompilationAction 1395248125385 Sudoku.java
+UnitTestCaseAction 1395248135026 SudokuTest.java FAIL
+UnitTestSessionAction 1395248135026 SudokuTest FAIL
+EditAction 1395248152213 SudokuTest.java 457 1 0 0
+CompilationAction 1395248152260 SudokuTest.java
+UnitTestCaseAction 1395248154760 SudokuTest.java FAIL
+UnitTestSessionAction 1395248154760 SudokuTest FAIL
+RefactoringAction 1395248183822 SudokuTest.java ADD Sudoku s1 FIELD
+RefactoringAction 1395248183822 SudokuTest.java ADD void assertEquals() METHOD
+RefactoringAction 1395248185322 SudokuTest.java REMOVE assertEquals() METHOD
+RefactoringAction 1395248185322 SudokuTest.java REMOVE s1 FIELD
+CompilationAction 1395248197916 SudokuTest.java
+UnitTestCaseAction 1395248199307 SudokuTest.java FAIL
+UnitTestSessionAction 1395248199307 SudokuTest FAIL
+RefactoringAction 1395248291322 SudokuTest.java ADD void test() METHOD
+RefactoringAction 1395248296822 SudokuTest.java REMOVE testViolatingRuleOne() METHOD
+EditAction 1395248305587 SudokuTest.java 451 1 2 1
+UnitTestCaseAction 1395248307087 SudokuTest.java FAIL
+UnitTestSessionAction 1395248307087 SudokuTest FAIL
+EditAction 1395248389227 SudokuTest.java 449 1 2 1
+UnitTestCaseAction 1395248390634 SudokuTest.java FAIL
+UnitTestSessionAction 1395248390634 SudokuTest FAIL
+RefactoringAction 1395248467321 SudokuTest.java ADD void testViolatingRuleOne() METHOD
+EditAction 1395248493258 Sudoku.java 1210 2 3 0
+CompilationAction 1395248493399 Sudoku.java
+EditAction 1395248502305 Sudoku.java 1211 2 3 0
+CompilationAction 1395248502445 Sudoku.java
+EditAction 1395248512117 SudokuTest.java 446 2 5 2
+UnitTestCaseAction 1395248515258 SudokuTest.java FAIL
+UnitTestSessionAction 1395248515258 SudokuTest FAIL
+EditAction 1395248555367 SudokuTest.java 446 2 5 2
+UnitTestCaseAction 1395248556898 SudokuTest.java FAIL
+UnitTestSessionAction 1395248556898 SudokuTest FAIL
+RefactoringAction 1395248580382 SudokuTest.java REMOVE testViolatingRuleOne() METHOD
+RefactoringAction 1395248580382 SudokuTest.java REMOVE test() METHOD
+RefactoringAction 1395248582882 SudokuTest.java ADD void testViolatingRuleOne() METHOD
+EditAction 1395248599148 Sudoku.java 1184 2 2 0
+CompilationAction 1395248599288 Sudoku.java
+EditAction 1395248612304 SudokuTest.java 450 1 3 1
+UnitTestCaseAction 1395248619976 SudokuTest.java FAIL
+UnitTestSessionAction 1395248619976 SudokuTest FAIL
+EditAction 1395248710241 Sudoku.java 1191 2 3 0
+CompilationAction 1395248710366 Sudoku.java
+CompilationAction 1395248720663 Sudoku.java
+CompilationAction 1395248720881 Sudoku.java
+FileOpenedAction 1395248731678 Sudoku.java 1197 2 4 0
+UnitTestCaseAction 1395248754834 SudokuTest.java FAIL
+UnitTestSessionAction 1395248754834 SudokuTest FAIL
+CompilationAction 1395248780569 Sudoku.java
+UnitTestCaseAction 1395248785365 SudokuTest.java OK
+UnitTestSessionAction 1395248785365 SudokuTest OK
+RefactoringAction 1395249323897 Sudoku.java ADD String FIELD
+EditAction 1395249331054 Sudoku.java 1375 2 6 0
+CompilationAction 1395249331210 Sudoku.java
+RefactoringAction 1395249453797 Sudoku.java ADD String String(char) METHOD
+RefactoringAction 1395249516912 Sudoku.java RENAME String(char)=>String Integer(char) METHOD
+RefactoringAction 1395249520412 Sudoku.java RENAME Integer(char)=>String Integer FIELD
+RefactoringAction 1395249645028 Sudoku.java REMOVE grid FIELD
+RefactoringAction 1395249650028 Sudoku.java REMOVE Integer FIELD
+RefactoringAction 1395249650028 Sudoku.java REMOVE parseInt(char) METHOD
+RefactoringAction 1395249653028 Sudoku.java ADD String Integer FIELD
+RefactoringAction 1395249653028 Sudoku.java ADD void parseInt(char) METHOD
+CompilationAction 1395249657794 Sudoku.java
+CompilationAction 1395249657903 Sudoku.java
+CompilationAction 1395249657903 Sudoku.java
+CompilationAction 1395249657903 Sudoku.java
+UnitTestCaseAction 1395249660450 SudokuTest.java FAIL
+UnitTestSessionAction 1395249660465 SmokeTest FAIL
+CompilationAction 1395249669763 Sudoku.java
+CompilationAction 1395249669763 Sudoku.java
+CompilationAction 1395249669763 Sudoku.java
+CompilationAction 1395249669872 Sudoku.java
+CompilationAction 1395249669872 Sudoku.java
+UnitTestCaseAction 1395249676638 SudokuTest.java FAIL
+UnitTestSessionAction 1395249676638 SudokuTest FAIL
+RefactoringAction 1395249749155 Sudoku.java REMOVE Integer FIELD
+RefactoringAction 1395249749155 Sudoku.java REMOVE parseInt(char) METHOD
+UnitTestCaseAction 1395249753530 SudokuTest.java OK
+UnitTestSessionAction 1395249753530 SmokeTest OK
+CompilationAction 1395249767156 Sudoku.java
+RefactoringAction 1395249774156 Sudoku.java ADD char FIELD
+CompilationAction 1395249774687 Sudoku.java
+CompilationAction 1395249900346 Sudoku.java
+CompilationAction 1395249900346 Sudoku.java
+CompilationAction 1395249918362 Sudoku.java
+CompilationAction 1395249918471 Sudoku.java
+CompilationAction 1395249918471 Sudoku.java
+RefactoringAction 1395249958112 Sudoku.java ADD String String(char) METHOD
+CompilationAction 1395250010972 Sudoku.java
+CompilationAction 1395250010972 Sudoku.java
+RefactoringAction 1395250905627 Sudoku.java REMOVE String(char) METHOD
+CompilationAction 1395250913361 Sudoku.java
+RefactoringAction 1395251088203 SudokuTest.java ADD void testViolatingRuleOne()/2 METHOD
+RefactoringAction 1395251097703 SudokuTest.java RENAME testViolatingRuleOne()/2=>void testViolatingRule() METHOD
+RefactoringAction 1395251099203 SudokuTest.java RENAME testViolatingRule()=>void testViolatingRuleFor() METHOD
+RefactoringAction 1395251100703 SudokuTest.java RENAME testViolatingRuleFor()=>void testViolatingRuleForZe() METHOD
+RefactoringAction 1395251102203 SudokuTest.java RENAME testViolatingRuleForZe()=>void testViolatingRuleForZero() METHOD
+RefactoringAction 1395251108203 SudokuTest.java RENAME testViolatingRuleOne()=>void testViolatingRuleFor() METHOD
+RefactoringAction 1395251111703 SudokuTest.java RENAME testViolatingRuleFor()=>void testViolatingRuleForMinusOne() METHOD
+EditAction 1395251120406 SudokuTest.java 664 2 6 2
+UnitTestCaseAction 1395251124047 SudokuTest.java FAIL
+UnitTestSessionAction 1395251124047 SudokuTest FAIL
+UnitTestCaseAction 1395251257124 SudokuTest.java FAIL
+UnitTestSessionAction 1395251257124 SmokeTest FAIL
+UnitTestCaseAction 1395251258796 SudokuTest.java FAIL
+UnitTestSessionAction 1395251258796 SmokeTest FAIL
+UnitTestCaseAction 1395251271155 SudokuTest.java FAIL
+UnitTestSessionAction 1395251271155 SudokuTest FAIL
+RefactoringAction 1395251551969 Sudoku.java REMOVE grid FIELD
+UnitTestCaseAction 1395251564314 SudokuTest.java FAIL
+UnitTestSessionAction 1395251564314 SudokuTest FAIL
+UnitTestCaseAction 1395251907187 SudokuTest.java FAIL
+UnitTestSessionAction 1395251907187 SudokuTest FAIL
+UnitTestCaseAction 1395252053157 SudokuTest.java FAIL
+UnitTestSessionAction 1395252053157 SudokuTest FAIL
+UnitTestCaseAction 1395252100610 SudokuTest.java OK
+UnitTestSessionAction 1395252100610 SudokuTest OK
+RefactoringAction 1395252112517 SudokuTest.java ADD void testViolatingRuleForMinusOne()/2 METHOD
+RefactoringAction 1395252132517 SudokuTest.java RENAME testViolatingRuleForMinusOne()/2=>void testViolatingRuleForMinuse() METHOD
+RefactoringAction 1395252134517 SudokuTest.java RENAME testViolatingRuleForMinuse()=>void testViolatingRuleForMinusTwo() METHOD
+EditAction 1395252134720 SudokuTest.java 878 3 9 3
+RefactoringAction 1395252158064 SudokuTest.java RENAME testViolatingRuleForMinusTwo()=>void testViolatingRuleForMinusTwo FIELD
+EditAction 1395252190127 SudokuTest.java 877 2 6 2
+CompilationAction 1395252190267 SudokuTest.java
+CompilationAction 1395252190267 SudokuTest.java
+CompilationAction 1395252190267 SudokuTest.java
+RefactoringAction 1395252246565 SudokuTest.java REMOVE testViolatingRuleForMinusTwo FIELD
+CompilationAction 1395252249330 SudokuTest.java
+CompilationAction 1395252249330 SudokuTest.java
+CompilationAction 1395252249330 SudokuTest.java
+UnitTestCaseAction 1395252255440 SudokuTest.java OK
+UnitTestSessionAction 1395252255440 SudokuTest OK
+RefactoringAction 1395252287565 SudokuTest.java ADD void testViolatingRuleForMinusTwo FIELD
+RefactoringAction 1395252417643 Sudoku.java ADD boolean check FIELD
+RefactoringAction 1395252419143 Sudoku.java RENAME check=>boolean checkSe FIELD
+RefactoringAction 1395252421143 Sudoku.java RENAME checkSe=>boolean checkSequence FIELD
+RefactoringAction 1395252422143 Sudoku.java RENAME checkSequence=>boolean checkSequence() METHOD
+RefactoringAction 1395252429143 Sudoku.java RENAME checkSequence()=>boolean checkSequence(int) METHOD
+RefactoringAction 1395252430643 Sudoku.java RENAME checkSequence(int)=>boolean checkSequence(int METHOD
+RefactoringAction 1395252471658 Sudoku.java REMOVE checkSequence(int METHOD
+EditAction 1395252959390 SudokuTest.java 878 2 6 2
+CompilationAction 1395252959499 SudokuTest.java
+CompilationAction 1395252959499 SudokuTest.java
+CompilationAction 1395252959499 SudokuTest.java
+CompilationAction 1395252959499 SudokuTest.java
+UnitTestCaseAction 1395252961218 SudokuTest.java FAIL
+UnitTestSessionAction 1395252961218 SudokuTest FAIL
+UnitTestCaseAction 1395253016468 SudokuTest.java FAIL
+UnitTestSessionAction 1395253016483 SudokuTest FAIL
+CompilationAction 1395253033233 SudokuTest.java
+CompilationAction 1395253033343 SudokuTest.java
+CompilationAction 1395253033343 SudokuTest.java
+CompilationAction 1395253033343 SudokuTest.java
+UnitTestCaseAction 1395253038311 SudokuTest.java FAIL
+UnitTestSessionAction 1395253038311 SudokuTest FAIL
+EditAction 1395253056874 SudokuTest.java 879 3 6 2
+CompilationAction 1395253057014 SudokuTest.java
+CompilationAction 1395253057014 SudokuTest.java
+CompilationAction 1395253057046 SudokuTest.java
+CompilationAction 1395253061155 SudokuTest.java
+CompilationAction 1395253061155 SudokuTest.java
+UnitTestCaseAction 1395253066702 SudokuTest.java FAIL
+UnitTestSessionAction 1395253066702 SudokuTest FAIL
+EditAction 1395253116467 SudokuTest.java 878 3 9 3
+UnitTestCaseAction 1395253120608 SudokuTest.java FAIL
+UnitTestSessionAction 1395253120608 SudokuTest FAIL
+UnitTestCaseAction 1395253344622 SudokuTest.java FAIL
+UnitTestSessionAction 1395253344622 SudokuTest FAIL
+CompilationAction 1395253450800 Sudoku.java
+UnitTestCaseAction 1395253456066 SudokuTest.java FAIL
+UnitTestSessionAction 1395253456066 SudokuTest FAIL
+CompilationAction 1395253475989 Sudoku.java
+UnitTestCaseAction 1395253481724 SudokuTest.java FAIL
+UnitTestSessionAction 1395253481724 SudokuTest FAIL
+UnitTestCaseAction 1395253627033 SudokuTest.java FAIL
+UnitTestSessionAction 1395253627033 SudokuTest FAIL
+CompilationAction 1395253770196 Sudoku.java
+CompilationAction 1395253770196 Sudoku.java
+CompilationAction 1395253770196 Sudoku.java
+UnitTestCaseAction 1395253774587 SudokuTest.java FAIL
+UnitTestSessionAction 1395253774587 SudokuTest FAIL
+CompilationAction 1395253792665 Sudoku.java
+CompilationAction 1395253792665 Sudoku.java
+UnitTestCaseAction 1395253796681 SudokuTest.java FAIL
+UnitTestSessionAction 1395253796681 SudokuTest FAIL
+UnitTestCaseAction 1395253852432 SudokuTest.java FAIL
+UnitTestSessionAction 1395253852432 SudokuTest FAIL
+UnitTestCaseAction 1395253899262 SudokuTest.java FAIL
+UnitTestSessionAction 1395253899262 SudokuTest FAIL
+UnitTestCaseAction 1395254052155 SudokuTest.java FAIL
+UnitTestSessionAction 1395254052155 SudokuTest FAIL
+CompilationAction 1395254119093 Sudoku.java
+CompilationAction 1395254125483 Sudoku.java
+CompilationAction 1395254169937 Sudoku.java
+CompilationAction 1395254169937 Sudoku.java
+CompilationAction 1395254169937 Sudoku.java
+CompilationAction 1395254176265 Sudoku.java
+CompilationAction 1395254176265 Sudoku.java
+CompilationAction 1395254176374 Sudoku.java
+CompilationAction 1395254198328 Sudoku.java
+UnitTestCaseAction 1395254252312 SudokuTest.java FAIL
+UnitTestSessionAction 1395254252312 SudokuTest FAIL
+CompilationAction 1395254371344 Sudoku.java
+CompilationAction 1395254396609 Sudoku.java

@@ -1,0 +1,281 @@
+FileOpenedAction 1395245524583 Sudoku.java 1134 2 1 0
+RefactoringAction 1395245874505 SudokuTest.java ADD void verifyPositiveNumbers FIELD
+RefactoringAction 1395245875505 SudokuTest.java RENAME verifyPositiveNumbers=>void verifyPositiveNumbers() METHOD
+RefactoringAction 1395246332333 SudokuTest.java ADD import upm.tdd.training.Sudoku IMPORT
+EditAction 1395246409270 SudokuTest.java 439 2 1 0
+CompilationAction 1395246409598 SudokuTest.java
+EditAction 1395246431661 SudokuTest.java 440 2 4 1
+UnitTestCaseAction 1395246439552 SudokuTest.java FAIL
+UnitTestSessionAction 1395246439552 SudokuTest FAIL
+EditAction 1395246453224 SudokuTest.java 448 2 3 1
+UnitTestCaseAction 1395246459115 SudokuTest.java FAIL
+UnitTestSessionAction 1395246459115 SudokuTest FAIL
+RefactoringAction 1395246542415 Sudoku.java ADD int FIELD
+RefactoringAction 1395246585979 Sudoku.java ADD void fillBoard FIELD
+RefactoringAction 1395246589479 Sudoku.java RENAME fillBoard=>void fillBoard() METHOD
+RefactoringAction 1395246593495 Sudoku.java RENAME fillBoard()=>void fillBoard(String) METHOD
+RefactoringAction 1395246622527 Sudoku.java ADD import java.util.Scanner IMPORT
+RefactoringAction 1395246927314 Sudoku.java ADD int verifyPositiveNumber(int METHOD
+RefactoringAction 1395247106331 Sudoku.java REMOVE verifyPositiveNumber(int METHOD
+RefactoringAction 1395247109831 Sudoku.java REMOVE fillBoard(String) METHOD
+RefactoringAction 1395247126362 SudokuTest.java RENAME verifyPositiveNumbers()=>void verifySol() METHOD
+RefactoringAction 1395247128862 SudokuTest.java RENAME verifySol()=>void verifySolutionLenght() METHOD
+RefactoringAction 1395247153752 Sudoku.java ADD Object verifySolutionLength(String) METHOD
+EditAction 1395247165549 SudokuTest.java 462 2 3 1
+EditAction 1395247165627 Sudoku.java 1793 3 1 0
+CompilationAction 1395247165768 Sudoku.java
+CompilationAction 1395247165768 Sudoku.java
+CompilationAction 1395247165784 Sudoku.java
+UnitTestCaseAction 1395247169487 SudokuTest.java FAIL
+UnitTestSessionAction 1395247169487 SudokuTest FAIL
+CompilationAction 1395247177534 Sudoku.java
+CompilationAction 1395247177643 Sudoku.java
+CompilationAction 1395247177643 Sudoku.java
+CompilationAction 1395247191362 Sudoku.java
+CompilationAction 1395247191362 Sudoku.java
+UnitTestCaseAction 1395247199643 SudokuTest.java FAIL
+UnitTestSessionAction 1395247199643 SudokuTest FAIL
+EditAction 1395247286081 SudokuTest.java 458 2 3 1
+UnitTestCaseAction 1395247298987 SudokuTest.java OK
+UnitTestSessionAction 1395247298987 SudokuTest OK
+RefactoringAction 1395247350534 SudokuTest.java ADD void verifySolutionLenght()/2 METHOD
+RefactoringAction 1395247356549 SudokuTest.java RENAME verifySolutionLenght()/2=>void verifySolutionLenght81() METHOD
+RefactoringAction 1395247367549 SudokuTest.java RENAME verifySolutionLenght()=>void verifySolutionLenghtEighty() METHOD
+RefactoringAction 1395247369549 SudokuTest.java RENAME verifySolutionLenghtEighty()=>void verifySolutionLenghtEightyOne() METHOD
+RefactoringAction 1395247374065 SudokuTest.java RENAME verifySolutionLenght81()=>void EightyOne() METHOD
+RefactoringAction 1395247375065 SudokuTest.java RENAME EightyOne()=>void verifySolutionLenght81() METHOD
+RefactoringAction 1395247377081 SudokuTest.java RENAME verifySolutionLenght81()=>void verifySolutionLenghtEightyOne()/2 METHOD
+EditAction 1395247380377 SudokuTest.java 716 3 6 2
+CompilationAction 1395247380549 SudokuTest.java
+RefactoringAction 1395247384081 SudokuTest.java RENAME verifySolutionLenghtEightyOne()/2=>void verifySolutionLenghtEighty() METHOD
+RefactoringAction 1395247397581 SudokuTest.java RENAME verifySolutionLenghtEighty()=>void verifySolutionLenght() METHOD
+RefactoringAction 1395247399096 SudokuTest.java RENAME verifySolutionLenghtEightyOne()=>void verifySolutionLenght()/2 METHOD
+RefactoringAction 1395247404596 SudokuTest.java RENAME verifySolutionLenght()/2=>void verifyFill() METHOD
+RefactoringAction 1395247408096 SudokuTest.java RENAME verifyFill()=>void verifyFillBoardCorrect() METHOD
+RefactoringAction 1395247591315 Sudoku.java ADD void fillBoard(String) METHOD
+CompilationAction 1395247594799 SudokuTest.java
+EditAction 1395247594815 Sudoku.java 1797 4 4 0
+CompilationAction 1395247595002 SudokuTest.java
+RefactoringAction 1395247805409 SudokuTest.java RENAME verifyFillBoardCorrect()=>void verifyRow() METHOD
+RefactoringAction 1395247814909 SudokuTest.java RENAME verifyRow()=>void verifyRows() METHOD
+RefactoringAction 1395247816409 SudokuTest.java RENAME verifyRows()=>void verifyRowsHas() METHOD
+RefactoringAction 1395247827909 SudokuTest.java RENAME verifyRowsHas()=>void verifyRowsHasNineEntries() METHOD
+EditAction 1395247868471 Sudoku.java 1797 4 4 0
+CompilationAction 1395247868643 Sudoku.java
+CompilationAction 1395247868643 Sudoku.java
+CompilationAction 1395247868643 SudokuTest.java
+CompilationAction 1395247989049 Sudoku.java
+CompilationAction 1395247989049 Sudoku.java
+UnitTestCaseAction 1395247992799 SudokuTest.java FAIL
+UnitTestSessionAction 1395247992799 SudokuTest FAIL
+EditAction 1395248065721 Sudoku.java 1871 4 5 0
+EditAction 1395248082799 Sudoku.java 1868 4 5 0
+UnitTestCaseAction 1395248085924 SudokuTest.java OK
+UnitTestSessionAction 1395248085924 SudokuTest OK
+EditAction 1395248101424 Sudoku.java 1869 4 5 0
+RefactoringAction 1395248122987 SudokuTest.java ADD void verifyRowsHasNineEntries()/2 METHOD
+RefactoringAction 1395248130487 SudokuTest.java RENAME verifyRowsHasNineEntries()/2=>void verifyRowsHasNotNineEntries() METHOD
+RefactoringAction 1395248140487 SudokuTest.java RENAME verifyRowsHasNotNineEntries()=>void verifyLastRowsHasNotNineEntries() METHOD
+RefactoringAction 1395248143502 SudokuTest.java RENAME verifyLastRowsHasNotNineEntries()=>void verifyOneRowsHasNotNineEntries() METHOD
+RefactoringAction 1395248145002 SudokuTest.java RENAME verifyOneRowsHasNotNineEntries()=>void verifyOneRowHasNotNineEntries() METHOD
+EditAction 1395248160831 SudokuTest.java 932 4 9 3
+EditAction 1395248188893 SudokuTest.java 980 4 9 3
+EditAction 1395248198534 SudokuTest.java 1008 4 9 3
+UnitTestCaseAction 1395248202377 SudokuTest.java FAIL
+UnitTestSessionAction 1395248202393 SudokuTest FAIL
+EditAction 1395248295596 Sudoku.java 1871 4 5 0
+UnitTestCaseAction 1395248296956 SudokuTest.java FAIL
+UnitTestSessionAction 1395248296956 SudokuTest FAIL
+RefactoringAction 1395248379174 SudokuTest.java REMOVE verifyOneRowHasNotNineEntries() METHOD
+EditAction 1395248384846 SudokuTest.java 696 3 6 2
+RefactoringAction 1395248665392 SudokuTest.java ADD void very FIELD
+RefactoringAction 1395248666907 SudokuTest.java RENAME very=>void verify FIELD
+RefactoringAction 1395248668907 SudokuTest.java RENAME verify=>void verifyR FIELD
+RefactoringAction 1395248672407 SudokuTest.java RENAME verifyR=>void verifyEachRow FIELD
+RefactoringAction 1395248679423 SudokuTest.java RENAME verifyEachRow=>void verifyEachRowHas FIELD
+RefactoringAction 1395248684923 SudokuTest.java RENAME verifyEachRowHas=>void verifyEachRowHasNotRepeat FIELD
+RefactoringAction 1395248687939 SudokuTest.java RENAME verifyEachRowHasNotRepeat=>void verifyEachRowHasNotRepeatNumbers FIELD
+RefactoringAction 1395248690938 SudokuTest.java RENAME verifyEachRowHasNotRepeatNumbers=>void verifyEachRowHasNotRepeatNumbers() METHOD
+RefactoringAction 1395248702454 SudokuTest.java RENAME verifyEachRowHasNotRepeatNumbers()=>void verifyEachGeneralRowHasNotRepeatNumbers() METHOD
+RefactoringAction 1395248724985 SudokuTest.java RENAME verifyEachGeneralRowHasNotRepeatNumbers()=>void verifyGeneralRowHasNotRepeatNumbers() METHOD
+RefactoringAction 1395248810360 Sudoku.java ADD boolean verifyRow(int METHOD
+EditAction 1395248813954 Sudoku.java 1967 5 6 0
+EditAction 1395248814000 SudokuTest.java 854 4 9 3
+UnitTestCaseAction 1395248823422 SudokuTest.java OK
+UnitTestSessionAction 1395248823422 SudokuTest OK
+EditAction 1395248833188 SudokuTest.java 859 4 9 3
+UnitTestCaseAction 1395248834907 SudokuTest.java FAIL
+UnitTestSessionAction 1395248834907 SudokuTest FAIL
+EditAction 1395249211641 SudokuTest.java 969 4 11 3
+CompilationAction 1395249211797 SudokuTest.java
+RefactoringAction 1395249220016 Sudoku.java ADD boolean verifyRow(int, int) METHOD
+RefactoringAction 1395249229391 Sudoku.java REMOVE verifyRow(int METHOD
+EditAction 1395249235750 Sudoku.java 1941 5 6 0
+EditAction 1395249279079 SudokuTest.java 999 4 12 3
+EditAction 1395249342969 Sudoku.java 2014 5 7 0
+EditAction 1395249417750 Sudoku.java 2026 5 7 0
+UnitTestCaseAction 1395249419704 SudokuTest.java FAIL
+UnitTestSessionAction 1395249419704 SudokuTest FAIL
+EditAction 1395249512672 Sudoku.java 2078 5 9 0
+UnitTestCaseAction 1395249518782 SudokuTest.java OK
+UnitTestSessionAction 1395249518782 SudokuTest OK
+RefactoringAction 1395249552422 SudokuTest.java ADD void verifyGeneralRowHasNotRepeatNumbers()/2 METHOD
+RefactoringAction 1395249555922 SudokuTest.java RENAME verifyGeneralRowHasNotRepeatNumbers()/2=>void verifyGeneralRowHasRepeatNumbers() METHOD
+EditAction 1395249562610 SudokuTest.java 1318 5 18 4
+UnitTestCaseAction 1395249565672 SudokuTest.java FAIL
+UnitTestSessionAction 1395249565672 SudokuTest FAIL
+EditAction 1395249597157 SudokuTest.java 1319 5 18 4
+UnitTestCaseAction 1395249599969 SudokuTest.java OK
+UnitTestSessionAction 1395249599969 SudokuTest OK
+RefactoringAction 1395249614047 SudokuTest.java ADD void verifyGeneralRowHasRepeatNumbers()/2 METHOD
+RefactoringAction 1395249619063 SudokuTest.java RENAME verifyGeneralRowHasRepeatNumbers()/2=>void verifyGeneralColumnHasRepeatNumbers() METHOD
+RefactoringAction 1395249622563 SudokuTest.java RENAME verifyGeneralColumnHasRepeatNumbers()=>void verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395249628063 SudokuTest.java ADD void verifyGeneralColumnHasNotRepeatNumbers()/2 METHOD
+RefactoringAction 1395249631579 SudokuTest.java RENAME verifyGeneralColumnHasNotRepeatNumbers()/2=>void verifyGeneralColumnHasRepeatNumbers() METHOD
+EditAction 1395249656969 SudokuTest.java 1965 7 30 6
+CompilationAction 1395249657110 SudokuTest.java
+RefactoringAction 1395249662235 Sudoku.java ADD boolean verifyColumn(int, int) METHOD
+EditAction 1395249664813 Sudoku.java 2189 6 10 0
+EditAction 1395249671844 SudokuTest.java 1964 7 30 6
+UnitTestCaseAction 1395249673219 SudokuTest.java FAIL
+UnitTestSessionAction 1395249673219 SudokuTest FAIL
+UnitTestCaseAction 1395249704782 SudokuTest.java FAIL
+UnitTestSessionAction 1395249704782 SudokuTest FAIL
+EditAction 1395249893000 Sudoku.java 2325 6 14 0
+UnitTestCaseAction 1395249897563 SudokuTest.java FAIL
+UnitTestSessionAction 1395249897563 SudokuTest FAIL
+EditAction 1395249928313 Sudoku.java 2326 6 14 0
+UnitTestCaseAction 1395249942454 SudokuTest.java FAIL
+UnitTestSessionAction 1395249942454 SudokuTest FAIL
+EditAction 1395249954313 Sudoku.java 2325 6 14 0
+EditAction 1395250002547 Sudoku.java 2361 6 14 0
+UnitTestCaseAction 1395250009485 SudokuTest.java FAIL
+UnitTestSessionAction 1395250009500 SudokuTest FAIL
+EditAction 1395250022625 Sudoku.java 2361 6 14 0
+UnitTestCaseAction 1395250033657 SudokuTest.java FAIL
+UnitTestSessionAction 1395250033657 SudokuTest FAIL
+EditAction 1395250068547 Sudoku.java 2366 6 14 0
+UnitTestCaseAction 1395250070829 SudokuTest.java FAIL
+UnitTestSessionAction 1395250070829 SudokuTest FAIL
+EditAction 1395250124454 Sudoku.java 2323 6 14 0
+UnitTestCaseAction 1395250127282 SudokuTest.java FAIL
+UnitTestSessionAction 1395250127282 SudokuTest FAIL
+EditAction 1395250211563 Sudoku.java 2325 6 14 0
+RefactoringAction 1395250294782 SudokuTest.java REMOVE verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395250294782 SudokuTest.java REMOVE verifyGeneralRowHasRepeatNumbers() METHOD
+RefactoringAction 1395250294782 SudokuTest.java REMOVE verifyGeneralColumnHasRepeatNumbers() METHOD
+RefactoringAction 1395250294782 SudokuTest.java REMOVE verifyGeneralRowHasNotRepeatNumbers() METHOD
+EditAction 1395250307625 SudokuTest.java 2060 3 6 2
+EditAction 1395250307672 Sudoku.java 2323 6 14 0
+UnitTestCaseAction 1395250319094 SudokuTest.java OK
+UnitTestSessionAction 1395250319094 SudokuTest OK
+EditAction 1395250384360 Sudoku.java 2323 6 14 0
+UnitTestCaseAction 1395250394688 SudokuTest.java OK
+UnitTestSessionAction 1395250394688 SudokuTest OK
+EditAction 1395250409719 Sudoku.java 2334 6 14 0
+UnitTestCaseAction 1395250418000 SudokuTest.java OK
+UnitTestSessionAction 1395250418000 SudokuTest OK
+EditAction 1395250484266 Sudoku.java 2286 6 14 0
+RefactoringAction 1395250496329 SudokuTest.java ADD void verifyGeneralRowHasNotRepeatNumbers() METHOD
+RefactoringAction 1395250496329 SudokuTest.java ADD void verifyGeneralRowHasRepeatNumbers() METHOD
+RefactoringAction 1395250496329 SudokuTest.java ADD void verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395250496329 SudokuTest.java ADD void verifyGeneralColumnHasRepeatNumbers() METHOD
+EditAction 1395250499672 SudokuTest.java 1964 7 30 6
+UnitTestCaseAction 1395250502657 SudokuTest.java FAIL
+UnitTestSessionAction 1395250502657 SudokuTest FAIL
+EditAction 1395250629550 Sudoku.java 2334 6 14 0
+UnitTestCaseAction 1395250639659 SudokuTest.java FAIL
+UnitTestSessionAction 1395250639659 SudokuTest FAIL
+EditAction 1395250696332 SudokuTest.java 1964 7 30 6
+UnitTestCaseAction 1395250704738 SudokuTest.java FAIL
+UnitTestSessionAction 1395250704738 SudokuTest FAIL
+RefactoringAction 1395250741364 SudokuTest.java REMOVE verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395250741364 SudokuTest.java REMOVE verifyGeneralRowHasRepeatNumbers() METHOD
+RefactoringAction 1395250741364 SudokuTest.java REMOVE verifyGeneralColumnHasRepeatNumbers() METHOD
+RefactoringAction 1395250741364 SudokuTest.java REMOVE verifyGeneralRowHasNotRepeatNumbers() METHOD
+EditAction 1395250742630 SudokuTest.java 2058 3 6 2
+EditAction 1395250788678 Sudoku.java 2327 6 14 0
+EditAction 1395251248462 Sudoku.java 2451 6 16 0
+EditAction 1395251252681 Sudoku.java 2453 6 16 0
+UnitTestCaseAction 1395251264384 SudokuTest.java OK
+UnitTestSessionAction 1395251264384 SudokuTest OK
+EditAction 1395251306947 Sudoku.java 2464 6 16 0
+EditAction 1395251372822 Sudoku.java 2431 6 16 0
+UnitTestCaseAction 1395251416682 SudokuTest.java OK
+UnitTestSessionAction 1395251416682 SudokuTest OK
+RefactoringAction 1395251430151 SudokuTest.java ADD void verifyGeneralRowHasNotRepeatNumbers() METHOD
+RefactoringAction 1395251430151 SudokuTest.java ADD void verifyGeneralRowHasRepeatNumbers() METHOD
+RefactoringAction 1395251430151 SudokuTest.java ADD void verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395251430151 SudokuTest.java ADD void verifyGeneralColumnHasRepeatNumbers() METHOD
+EditAction 1395251430823 SudokuTest.java 1964 7 30 6
+UnitTestCaseAction 1395251435979 SudokuTest.java FAIL
+UnitTestSessionAction 1395251435979 SudokuTest FAIL
+UnitTestCaseAction 1395251441010 SudokuTest.java FAIL
+UnitTestSessionAction 1395251441010 SudokuTest FAIL
+EditAction 1395251504604 Sudoku.java 2492 6 17 0
+UnitTestCaseAction 1395251512338 SudokuTest.java FAIL
+UnitTestSessionAction 1395251512338 SudokuTest FAIL
+EditAction 1395251533666 Sudoku.java 2553 6 18 0
+UnitTestCaseAction 1395251533948 SudokuTest.java FAIL
+UnitTestSessionAction 1395251533948 SudokuTest FAIL
+RefactoringAction 1395251575244 SudokuTest.java REMOVE verifySolutionLenght() METHOD
+RefactoringAction 1395251575244 SudokuTest.java REMOVE verifyGeneralRowHasNotRepeatNumbers() METHOD
+RefactoringAction 1395251575244 SudokuTest.java REMOVE verifyRowsHasNineEntries() METHOD
+RefactoringAction 1395251579244 SudokuTest.java REMOVE verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395251579244 SudokuTest.java REMOVE verifyGeneralColumnHasRepeatNumbers() METHOD
+EditAction 1395251582354 SudokuTest.java 2064 2 6 1
+RefactoringAction 1395251656760 SudokuTest.java ADD void verifyGeneralColumnHasNotRepeatNumbers() METHOD
+RefactoringAction 1395251656760 SudokuTest.java ADD void verifyGeneralColumnHasRepeatNumbers() METHOD
+RefactoringAction 1395251657776 SudokuTest.java ADD void verifySolutionLenght() METHOD
+RefactoringAction 1395251657776 SudokuTest.java ADD void verifyRowsHasNineEntries() METHOD
+RefactoringAction 1395251657776 SudokuTest.java ADD void verifyGeneralRowHasNotRepeatNumbers() METHOD
+EditAction 1395251661135 SudokuTest.java 1964 7 30 6
+EditAction 1395251704994 SudokuTest.java 1964 7 30 6
+UnitTestCaseAction 1395251710791 SudokuTest.java FAIL
+UnitTestSessionAction 1395251710791 SudokuTest FAIL
+EditAction 1395251757104 Sudoku.java 2498 6 17 0
+UnitTestCaseAction 1395251759151 SudokuTest.java FAIL
+UnitTestSessionAction 1395251759166 SudokuTest FAIL
+EditAction 1395251915354 SudokuTest.java 1964 7 30 6
+UnitTestCaseAction 1395251917869 SudokuTest.java OK
+UnitTestSessionAction 1395251917869 SudokuTest OK
+EditAction 1395251955682 SudokuTest.java 1962 7 30 6
+UnitTestCaseAction 1395251958104 SudokuTest.java OK
+UnitTestSessionAction 1395251958104 SudokuTest OK
+EditAction 1395252006604 SudokuTest.java 1970 7 30 6
+UnitTestCaseAction 1395252011557 SudokuTest.java OK
+UnitTestSessionAction 1395252011557 SudokuTest OK
+EditAction 1395252028354 Sudoku.java 2437 6 16 0
+UnitTestCaseAction 1395252031026 SudokuTest.java OK
+UnitTestSessionAction 1395252031026 SudokuTest OK
+EditAction 1395252086323 Sudoku.java 2439 6 16 0
+UnitTestCaseAction 1395252088823 SudokuTest.java OK
+UnitTestSessionAction 1395252088823 SudokuTest OK
+RefactoringAction 1395252100354 SudokuTest.java ADD void check FIELD
+RefactoringAction 1395252107354 SudokuTest.java RENAME check=>void checkSub FIELD
+RefactoringAction 1395252108854 SudokuTest.java RENAME checkSub=>void checkSubGrid FIELD
+RefactoringAction 1395252110369 SudokuTest.java RENAME checkSubGrid=>void checkSubGridThre FIELD
+RefactoringAction 1395252111369 SudokuTest.java RENAME checkSubGridThre=>void checkSubGridThree FIELD
+RefactoringAction 1395252115869 SudokuTest.java RENAME checkSubGridThree=>void checkSubGridThreeDotThree FIELD
+RefactoringAction 1395252118385 SudokuTest.java RENAME checkSubGridThreeDotThree=>void checkSubGridThreeDotThree() METHOD
+RefactoringAction 1395252146916 SudokuTest.java RENAME checkSubGridThreeDotThree()=>void checkSubGridThreeDotThreeNotRepeatNumbers() METHOD
+RefactoringAction 1395252237182 Sudoku.java ADD boolean checkSubGrids() METHOD
+EditAction 1395252242963 Sudoku.java 2530 7 17 0
+EditAction 1395252242994 SudokuTest.java 2238 8 34 7
+UnitTestCaseAction 1395252244635 SudokuTest.java OK
+UnitTestSessionAction 1395252244635 SudokuTest OK
+EditAction 1395252255479 SudokuTest.java 2243 8 34 7
+UnitTestCaseAction 1395252256963 SudokuTest.java FAIL
+UnitTestSessionAction 1395252256963 SudokuTest FAIL
+EditAction 1395253888651 Sudoku.java 2885 7 21 0
+EditAction 1395253933698 Sudoku.java 2889 7 21 0
+EditAction 1395254096416 Sudoku.java 2966 7 21 0
+UnitTestCaseAction 1395254156979 SudokuTest.java FAIL
+UnitTestSessionAction 1395254156979 SudokuTest FAIL
+UnitTestCaseAction 1395254252791 SudokuTest.java FAIL
+UnitTestSessionAction 1395254252791 SudokuTest FAIL
+EditAction 1395254264401 SudokuTest.java 2243 8 34 7
+UnitTestCaseAction 1395254335010 SudokuTest.java FAIL
+UnitTestSessionAction 1395254335010 SudokuTest FAIL
+EditAction 1395254447963 SudokuTest.java 2325 8 34 7
+EditAction 1395254454823 SudokuTest.java 2305 8 34 7

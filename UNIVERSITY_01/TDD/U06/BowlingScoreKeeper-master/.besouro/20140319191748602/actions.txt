@@ -1,0 +1,35 @@
+FileOpenedAction 1395253068884 Frame.java 875 8 11 0
+UnitTestCaseAction 1395253072477 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395253072477 BowlingScoreKeeper-master OK
+UnitTestCaseAction 1395253073712 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395253073712 BowlingScoreKeeper-master OK
+RefactoringAction 1395253092806 TestBowlingScoreKeeper.java ADD void testMultipleStrikesGameScore() METHOD
+EditAction 1395253095087 TestBowlingScoreKeeper.java 2561 10 45 16
+UnitTestCaseAction 1395253096634 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395253096634 TestBowlingScoreKeeper FAIL
+UnitTestCaseAction 1395253744536 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395253744536 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395253818678 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395253818678 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395253851631 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395253851631 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395253950553 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395253950553 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395254032444 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254032444 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395254081663 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254081663 BowlingScoreKeeper-master FAIL
+EditAction 1395254123850 Frame.java 894 8 11 0
+UnitTestCaseAction 1395254124866 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254124866 BowlingScoreKeeper-master FAIL
+UnitTestCaseAction 1395254170819 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254170819 BowlingScoreKeeper-master FAIL
+EditAction 1395254221225 TestBowlingScoreKeeper.java 2560 10 45 16
+UnitTestCaseAction 1395254222241 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254222241 TestBowlingScoreKeeper FAIL
+EditAction 1395254243460 TestBowlingScoreKeeper.java 2560 10 45 16
+UnitTestCaseAction 1395254244475 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254244475 TestBowlingScoreKeeper FAIL
+EditAction 1395254256116 TestBowlingScoreKeeper.java 2561 10 45 16
+UnitTestCaseAction 1395254415538 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395254415538 BowlingScoreKeeper-master FAIL

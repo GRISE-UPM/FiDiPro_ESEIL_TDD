@@ -1,0 +1,127 @@
+FileOpenedAction 1395153468756 TestRover.java 186 1 1 0
+EditAction 1395153501159 TestRover.java 184 1 1 0
+RefactoringAction 1395154207574 MarsRover.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1395155039203 MarsRover.java ADD int FIELD
+RefactoringAction 1395155039203 MarsRover.java ADD String FIELD
+RefactoringAction 1395155039203 MarsRover.java ADD String aux FIELD
+RefactoringAction 1395155398969 MarsRover.java REMOVE aux FIELD
+RefactoringAction 1395155398969 MarsRover.java REMOVE grid FIELD
+RefactoringAction 1395155398969 MarsRover.java REMOVE obstPositions FIELD
+RefactoringAction 1395155412485 MarsRover.java ADD int finalX FIELD
+RefactoringAction 1395155416985 MarsRover.java ADD int finalY FIELD
+RefactoringAction 1395155424501 MarsRover.java ADD String obstacl FIELD
+RefactoringAction 1395155428001 MarsRover.java RENAME obstacl=>String obstaclesPositions FIELD
+EditAction 1395155465204 MarsRover.java 1500 2 5 0
+RefactoringAction 1395155569784 MarsRover.java ADD void moveRovers() METHOD
+RefactoringAction 1395155589331 MarsRover.java RENAME moveRovers()=>void moveRovers(MarsRover) METHOD
+RefactoringAction 1395155651457 MarsRover.java RENAME finalX=>int sizeX FIELD
+RefactoringAction 1395155655457 MarsRover.java RENAME finalY=>int sizeY FIELD
+RefactoringAction 1395156311015 MarsRover.java RENAME moveRovers(MarsRover)=>boolean moveRovers() METHOD
+RefactoringAction 1395156329046 MarsRover.java ADD ArrayList<String> points FIELD
+RefactoringAction 1395156451216 MarsRover.java ADD String facing FIELD
+RefactoringAction 1395156618948 TestRover.java ADD import upm.tdd.training.MarsRover IMPORT
+EditAction 1395156729791 TestRover.java 327 1 3 1
+UnitTestCaseAction 1395156869054 TestRover.java FAIL
+UnitTestSessionAction 1395156869054 TestRover FAIL
+UnitTestCaseAction 1395157085489 TestRover.java FAIL
+UnitTestSessionAction 1395157085489 TestRover FAIL
+EditAction 1395157244387 TestRover.java 325 1 3 1
+RefactoringAction 1395157418573 MarsRover.java RENAME moveRovers()=>boolean moveRovers(int, int) METHOD
+EditAction 1395157668894 TestRover.java 328 1 3 1
+CompilationAction 1395157727270 MarsRover.java
+CompilationAction 1395157734583 MarsRover.java
+EditAction 1395157744255 TestRover.java 325 1 3 1
+UnitTestCaseAction 1395157746646 TestRover.java FAIL
+UnitTestSessionAction 1395157746646 TestRover FAIL
+EditAction 1395157757083 TestRover.java 327 1 2 1
+UnitTestCaseAction 1395157757958 TestRover.java OK
+UnitTestSessionAction 1395157757958 TestRover OK
+EditAction 1395158057851 TestRover.java 327 1 2 1
+EditAction 1395158095976 TestRover.java 333 1 2 1
+UnitTestCaseAction 1395158123117 TestRover.java FAIL
+UnitTestSessionAction 1395158123117 TestRover FAIL
+UnitTestCaseAction 1395158143523 TestRover.java FAIL
+UnitTestSessionAction 1395158143523 TestRover FAIL
+UnitTestCaseAction 1395158293895 TestRover.java OK
+UnitTestSessionAction 1395158293895 TestRover OK
+EditAction 1395158349910 TestRover.java 394 1 3 2
+UnitTestCaseAction 1395158412268 TestRover.java FAIL
+UnitTestSessionAction 1395158412268 TestRover FAIL
+EditAction 1395158431643 TestRover.java 394 1 3 2
+UnitTestCaseAction 1395158433408 TestRover.java FAIL
+UnitTestSessionAction 1395158433408 TestRover FAIL
+EditAction 1395158526438 TestRover.java 436 1 4 2
+UnitTestCaseAction 1395158547203 TestRover.java OK
+UnitTestSessionAction 1395158547203 TestRover OK
+EditAction 1395159201135 TestRover.java 542 1 6 3
+EditAction 1395159298947 TestRover.java 541 1 6 3
+UnitTestCaseAction 1395159302744 TestRover.java OK
+UnitTestSessionAction 1395159302744 TestRover OK
+EditAction 1395159477134 TestRover.java 651 1 8 4
+UnitTestCaseAction 1395159482227 TestRover.java OK
+UnitTestSessionAction 1395159482227 TestRover OK
+EditAction 1395159727351 TestRover.java 761 1 10 5
+UnitTestCaseAction 1395160051771 TestRover.java FAIL
+UnitTestSessionAction 1395160051771 TestRover FAIL
+UnitTestCaseAction 1395160166082 TestRover.java FAIL
+UnitTestSessionAction 1395160166082 TestRover FAIL
+EditAction 1395160305150 TestRover.java 761 1 10 5
+EditAction 1395160412311 TestRover.java 883 1 12 6
+UnitTestCaseAction 1395160419327 TestRover.java FAIL
+UnitTestSessionAction 1395160419327 TestRover FAIL
+CompilationAction 1395160557973 MarsRover.java
+CompilationAction 1395160565208 MarsRover.java
+UnitTestCaseAction 1395160571864 TestRover.java FAIL
+UnitTestSessionAction 1395160571864 TestRover FAIL
+EditAction 1395160719522 TestRover.java 913 1 2 1
+CompilationAction 1395160719678 TestRover.java
+CompilationAction 1395160719678 TestRover.java
+CompilationAction 1395160730491 TestRover.java
+CompilationAction 1395160730491 TestRover.java
+UnitTestCaseAction 1395160771007 TestRover.java FAIL
+UnitTestSessionAction 1395160771007 TestRover FAIL
+UnitTestCaseAction 1395160791054 TestRover.java FAIL
+UnitTestSessionAction 1395160791054 TestRover FAIL
+EditAction 1395160896570 TestRover.java 924 1 2 1
+UnitTestCaseAction 1395160903664 TestRover.java OK
+UnitTestSessionAction 1395160903664 TestRover OK
+EditAction 1395160914836 TestRover.java 884 1 12 6
+UnitTestCaseAction 1395160924351 TestRover.java OK
+UnitTestSessionAction 1395160924351 TestRover OK
+EditAction 1395161032289 TestRover.java 994 1 14 7
+UnitTestCaseAction 1395161035086 TestRover.java FAIL
+UnitTestSessionAction 1395161035086 TestRover FAIL
+EditAction 1395161068836 TestRover.java 1055 1 2 1
+EditAction 1395161083898 TestRover.java 1048 1 2 1
+RefactoringAction 1395161252460 MarsRover.java ADD int i FIELD
+RefactoringAction 1395161253960 MarsRover.java REMOVE i FIELD
+UnitTestCaseAction 1395161259678 TestRover.java OK
+UnitTestSessionAction 1395161259678 TestRover OK
+EditAction 1395161282366 TestRover.java 984 1 14 7
+EditAction 1395161428302 TestRover.java 1095 1 16 8
+UnitTestCaseAction 1395161428599 TestRover.java FAIL
+UnitTestSessionAction 1395161428599 TestRover FAIL
+EditAction 1395161454724 TestRover.java 1095 1 16 8
+UnitTestCaseAction 1395161455693 TestRover.java FAIL
+UnitTestSessionAction 1395161455693 TestRover FAIL
+EditAction 1395161487583 TestRover.java 1094 1 16 8
+UnitTestCaseAction 1395161488708 TestRover.java OK
+UnitTestSessionAction 1395161488708 TestRover OK
+EditAction 1395161518474 TestRover.java 1094 1 16 8
+UnitTestCaseAction 1395161520708 TestRover.java OK
+UnitTestSessionAction 1395161520708 TestRover OK
+EditAction 1395161768300 TestRover.java 1201 1 18 9
+UnitTestCaseAction 1395161769706 TestRover.java FAIL
+UnitTestSessionAction 1395161769706 TestRover FAIL
+EditAction 1395161796550 TestRover.java 1208 1 18 9
+UnitTestCaseAction 1395161799956 TestRover.java FAIL
+UnitTestSessionAction 1395161799956 TestRover FAIL
+EditAction 1395161815581 TestRover.java 1267 1 2 1
+CompilationAction 1395161815737 TestRover.java
+EditAction 1395161826737 TestRover.java 1268 1 2 1
+EditAction 1395161879362 TestRover.java 1272 1 2 1
+UnitTestCaseAction 1395161933627 TestRover.java OK
+UnitTestSessionAction 1395161933627 TestRover OK
+EditAction 1395161949362 TestRover.java 1208 1 18 9
+UnitTestCaseAction 1395161951565 TestRover.java OK
+UnitTestSessionAction 1395161951565 TestRover OK

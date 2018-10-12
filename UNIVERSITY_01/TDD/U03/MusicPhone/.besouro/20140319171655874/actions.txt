@@ -1,0 +1,155 @@
+FileOpenedAction 1395246088531 Recommender.java 1617 9 12 0
+FileOpenedAction 1395246231594 SmokeTest.java 1441 1 14 6
+UnitTestCaseAction 1395246370625 SmokeTest.java OK
+UnitTestSessionAction 1395246370625 SmokeTest OK
+FileOpenedAction 1395246534484 DeviceManager.java 622 6 6 0
+FileOpenedAction 1395246549765 ToBeImplementedException.java 218 1 1 0
+FileOpenedAction 1395247533408 RecommenderAdapter.java 1526 5 6 0
+FileOpenedAction 1395247534486 RecommenderUI.java 8851 15 95 0
+FileOpenedAction 1395247572921 ConcertInfo.java 1285 11 15 0
+FileOpenedAction 1395247576733 Recommendation.java 650 5 7 0
+RefactoringAction 1395247875264 Recommender.java ADD double computeDistance FIELD
+RefactoringAction 1395247876780 Recommender.java RENAME computeDistance=>static double computeDistance() METHOD
+RefactoringAction 1395247926872 Recommender.java REMOVE computeDistance() METHOD
+RefactoringAction 1395247967902 Recommender.java ADD static double computeDistance() METHOD
+RefactoringAction 1395247975918 Recommender.java RENAME computeDistance()=>static double computeDistance(GeoPoint) METHOD
+RefactoringAction 1395247977918 Recommender.java RENAME computeDistance(GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint) METHOD
+RefactoringAction 1395247979433 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>static double computeDistance(GeoPoint) METHOD
+RefactoringAction 1395247981964 Recommender.java RENAME computeDistance(GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint) METHOD
+RefactoringAction 1395247985980 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395247989308 Recommender.java 1698 10 12 0
+CompilationAction 1395247991011 Recommender.java
+RefactoringAction 1395247997636 Recommender.java ADD import commons.dataClasses.GeoPoint IMPORT
+CompilationAction 1395248016323 Recommender.java
+RefactoringAction 1395248050713 SmokeTest.java ADD void HowToUsePlayerGpsAndRecommenderInUnitTests()/2 METHOD
+RefactoringAction 1395248168289 SmokeTest.java RENAME HowToUsePlayerGpsAndRecommenderInUnitTests()/2=>void ComputeDi() METHOD
+RefactoringAction 1395248170789 SmokeTest.java RENAME ComputeDi()=>void ComputeDistance() METHOD
+EditAction 1395248524003 SmokeTest.java 1767 2 18 7
+CompilationAction 1395248524941 SmokeTest.java
+CompilationAction 1395248581893 SmokeTest.java
+CompilationAction 1395248582018 SmokeTest.java
+CompilationAction 1395248596424 SmokeTest.java
+EditAction 1395248601565 Recommender.java 1738 10 13 0
+CompilationAction 1395248602471 SmokeTest.java
+EditAction 1395248613315 Recommender.java 1745 10 13 0
+CompilationAction 1395248614221 SmokeTest.java
+FileOpenedAction 1395248622830 TestBowlingScoreKeeper.java 6859 16 147 16
+CompilationAction 1395248634939 SmokeTest.java
+EditAction 1395248651330 SmokeTest.java 1780 2 19 7
+UnitTestCaseAction 1395248659814 SmokeTest.java FAIL
+UnitTestSessionAction 1395248659814 SmokeTest FAIL
+EditAction 1395248688517 Recommender.java 1748 10 13 0
+EditAction 1395248708595 SmokeTest.java 1780 2 19 7
+UnitTestCaseAction 1395248712845 SmokeTest.java FAIL
+UnitTestSessionAction 1395248712845 SmokeTest FAIL
+UnitTestCaseAction 1395248713657 SmokeTest.java FAIL
+UnitTestSessionAction 1395248713657 SmokeTest FAIL
+UnitTestCaseAction 1395248898578 SmokeTest.java FAIL
+UnitTestSessionAction 1395248898578 SmokeTest FAIL
+EditAction 1395248923015 Recommender.java 1745 10 13 0
+UnitTestCaseAction 1395248927515 SmokeTest.java OK
+UnitTestSessionAction 1395248927515 SmokeTest OK
+EditAction 1395249161217 Recommender.java 1819 10 12 0
+CompilationAction 1395249162108 Recommender.java
+RefactoringAction 1395249289502 Recommender.java ADD double a FIELD
+RefactoringAction 1395249290502 Recommender.java RENAME a=>double a() METHOD
+RefactoringAction 1395249324536 Recommender.java RENAME a()=>double a(GeoPoint, GeoPoint) METHOD
+CompilationAction 1395249334583 Recommender.java
+CompilationAction 1395249334708 Recommender.java
+CompilationAction 1395249342177 Recommender.java
+RefactoringAction 1395249499639 Recommender.java ADD double degre FIELD
+RefactoringAction 1395249500655 Recommender.java RENAME degre=>double degrees FIELD
+RefactoringAction 1395249503155 Recommender.java RENAME degrees=>double degreesto FIELD
+RefactoringAction 1395249505171 Recommender.java RENAME degreesto=>double degreesTo FIELD
+RefactoringAction 1395249507671 Recommender.java RENAME degreesTo=>double degreesToRadians FIELD
+RefactoringAction 1395249509687 Recommender.java RENAME degreesToRadians=>double degreesToRadians() METHOD
+RefactoringAction 1395249522718 Recommender.java RENAME degreesToRadians()=>double degreesToRadians(GeoPoin) METHOD
+EditAction 1395249528015 Recommender.java 2003 12 18 0
+CompilationAction 1395249529000 Recommender.java
+CompilationAction 1395249529000 Recommender.java
+RefactoringAction 1395249535250 Recommender.java RENAME degreesToRadians(GeoPoin)=>double degreesToRadians(GeoPoint) METHOD
+EditAction 1395249542703 Recommender.java 2004 12 18 0
+CompilationAction 1395249543578 Recommender.java
+RefactoringAction 1395249733799 Recommender.java RENAME degreesToRadians(GeoPoint)=>double degreesToRadians(double) METHOD
+EditAction 1395249758315 Recommender.java 2013 12 18 0
+CompilationAction 1395249759190 Recommender.java
+CompilationAction 1395250230957 Recommender.java
+CompilationAction 1395250231066 Recommender.java
+FileOpenedAction 1395250233597 GeoPoint.java 503 5 7 0
+RefactoringAction 1395250276144 Recommender.java RENAME degreesToRadians(double)=>double degreesToRadians(Strubg) METHOD
+RefactoringAction 1395250277160 Recommender.java RENAME degreesToRadians(Strubg)=>double degreesToRadians(Str) METHOD
+RefactoringAction 1395250278160 Recommender.java RENAME degreesToRadians(Str)=>double degreesToRadians(String) METHOD
+EditAction 1395250351847 Recommender.java 2115 12 19 0
+CompilationAction 1395250352722 Recommender.java
+EditAction 1395250354910 Recommender.java 2115 12 19 0
+EditAction 1395250717986 Recommender.java 2313 12 19 0
+EditAction 1395250848954 Recommender.java 2323 12 18 0
+CompilationAction 1395250849813 Recommender.java
+EditAction 1395250860157 Recommender.java 2337 12 18 0
+UnitTestCaseAction 1395250875329 SmokeTest.java FAIL
+UnitTestSessionAction 1395250875329 SmokeTest FAIL
+RefactoringAction 1395250898953 SmokeTest.java ADD void ComputeDistance()/2 METHOD
+RefactoringAction 1395250905469 SmokeTest.java RENAME ComputeDistance()/2=>void Degrees() METHOD
+RefactoringAction 1395250907469 SmokeTest.java RENAME Degrees()=>void DegreesToRa() METHOD
+RefactoringAction 1395250908985 SmokeTest.java RENAME DegreesToRa()=>void DegreesToRadians() METHOD
+EditAction 1395251002640 SmokeTest.java 2026 3 22 8
+RefactoringAction 1395251010609 SmokeTest.java ADD void DegreesToRadians()/2 METHOD
+RefactoringAction 1395251012625 SmokeTest.java RENAME DegreesToRadians()/2=>void DegreesToRadians1() METHOD
+UnitTestCaseAction 1395251045593 SmokeTest.java FAIL
+UnitTestSessionAction 1395251045593 SmokeTest FAIL
+UnitTestCaseAction 1395251097452 SmokeTest.java FAIL
+UnitTestSessionAction 1395251097452 SmokeTest FAIL
+EditAction 1395251476668 Recommender.java 2341 12 18 0
+EditAction 1395251513249 Recommender.java 2354 12 18 0
+CompilationAction 1395251514093 Recommender.java
+EditAction 1395251564081 Recommender.java 2354 12 18 0
+CompilationAction 1395251564924 Recommender.java
+EditAction 1395251573191 Recommender.java 2353 12 17 0
+CompilationAction 1395251574034 Recommender.java
+CompilationAction 1395251574034 Recommender.java
+CompilationAction 1395251605988 Recommender.java
+UnitTestCaseAction 1395251710804 SmokeTest.java OK
+UnitTestSessionAction 1395251710804 SmokeTest OK
+RefactoringAction 1395251733242 SmokeTest.java RENAME ComputeDistance()=>void ComputeDistanceKm() METHOD
+RefactoringAction 1395251739258 SmokeTest.java ADD void ComputeDistanceKm()/2 METHOD
+RefactoringAction 1395251742258 SmokeTest.java RENAME ComputeDistanceKm()/2=>void ComputeDistance() METHOD
+RefactoringAction 1395251743773 SmokeTest.java RENAME ComputeDistance()=>void ComputeDistanceMi() METHOD
+UnitTestCaseAction 1395251800728 SmokeTest.java FAIL
+UnitTestSessionAction 1395251800728 SmokeTest FAIL
+UnitTestCaseAction 1395251890370 SmokeTest.java FAIL
+UnitTestSessionAction 1395251890370 SmokeTest FAIL
+EditAction 1395251921839 Recommender.java 2353 12 18 0
+EditAction 1395251938808 Recommender.java 2369 12 18 0
+UnitTestCaseAction 1395251942495 SmokeTest.java FAIL
+UnitTestSessionAction 1395251942495 SmokeTest FAIL
+UnitTestCaseAction 1395251974964 SmokeTest.java FAIL
+UnitTestSessionAction 1395251974964 SmokeTest FAIL
+RefactoringAction 1395252180964 SmokeTest.java ADD void ComputeDistanceKm()/2 METHOD
+RefactoringAction 1395252200011 SmokeTest.java RENAME ComputeDistanceKm()/2=>void ComputeDistanceKm1() METHOD
+UnitTestCaseAction 1395252202261 SmokeTest.java FAIL
+UnitTestSessionAction 1395252202261 SmokeTest FAIL
+EditAction 1395252642869 Recommender.java 2379 12 18 0
+RefactoringAction 1395253290537 SmokeTest.java ADD void ComputeDistanceMi()/2 METHOD
+RefactoringAction 1395253296553 SmokeTest.java RENAME ComputeDistanceMi()/2=>void Wrone() METHOD
+RefactoringAction 1395253299053 SmokeTest.java RENAME Wrone()=>void WroneDis() METHOD
+RefactoringAction 1395253300568 SmokeTest.java RENAME WroneDis()=>void Wrone() METHOD
+RefactoringAction 1395253332570 SmokeTest.java RENAME Wrone()=>void UN() METHOD
+RefactoringAction 1395253335586 SmokeTest.java RENAME UN()=>void Unvalid() METHOD
+RefactoringAction 1395253340602 SmokeTest.java RENAME Unvalid()=>void UnvalidLongitude() METHOD
+RefactoringAction 1395253355119 SmokeTest.java ADD void UnvalidLongitude()/2 METHOD
+RefactoringAction 1395253358619 SmokeTest.java RENAME UnvalidLongitude()/2=>void UnvalidLa() METHOD
+RefactoringAction 1395253360135 SmokeTest.java RENAME UnvalidLa()=>void UnvalidLatti() METHOD
+RefactoringAction 1395253372652 SmokeTest.java RENAME UnvalidLatti()=>void UnvalidLatitude() METHOD
+EditAction 1395253421938 Recommender.java 2418 12 19 0
+CompilationAction 1395253422781 Recommender.java
+CompilationAction 1395253873117 Recommender.java
+CompilationAction 1395253873242 Recommender.java
+CompilationAction 1395253883305 Recommender.java
+UnitTestCaseAction 1395253899681 SmokeTest.java FAIL
+UnitTestSessionAction 1395253899681 SmokeTest FAIL
+EditAction 1395254000494 Recommender.java 2648 12 23 0
+EditAction 1395254116276 Recommender.java 2738 12 23 0
+UnitTestCaseAction 1395254120292 SmokeTest.java FAIL
+UnitTestSessionAction 1395254120292 SmokeTest FAIL
+UnitTestCaseAction 1395254207542 SmokeTest.java FAIL
+UnitTestSessionAction 1395254207542 SmokeTest FAIL

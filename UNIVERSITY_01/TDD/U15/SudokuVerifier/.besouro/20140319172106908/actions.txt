@@ -1,0 +1,77 @@
+FileOpenedAction 1395246066971 SudokuTest.java 178 1 1 0
+FileOpenedAction 1395246086048 Sudoku.java 1134 2 1 0
+UnitTestCaseAction 1395246134782 SudokuTest.java FAIL
+UnitTestSessionAction 1395246134782 SudokuTest FAIL
+EditAction 1395246875231 SudokuTest.java 180 1 0 0
+UnitTestCaseAction 1395246878825 SudokuTest.java OK
+UnitTestSessionAction 1395246878841 SudokuTest OK
+RefactoringAction 1395246897903 SudokuTest.java ADD void test()/2 METHOD
+RefactoringAction 1395247023962 SudokuTest.java RENAME test()/2=>void Read() METHOD
+RefactoringAction 1395247026962 SudokuTest.java RENAME Read()=>void ReadSolutio() METHOD
+RefactoringAction 1395247027962 SudokuTest.java RENAME ReadSolutio()=>void ReadSoluti() METHOD
+RefactoringAction 1395247029962 SudokuTest.java RENAME ReadSoluti()=>void ReadSolution() METHOD
+EditAction 1395247051192 SudokuTest.java 221 2 0 0
+UnitTestCaseAction 1395247060612 SudokuTest.java OK
+UnitTestSessionAction 1395247060612 SudokuTest OK
+EditAction 1395247338558 SudokuTest.java 224 2 0 0
+UnitTestCaseAction 1395247345463 SudokuTest.java OK
+UnitTestSessionAction 1395247345463 SudokuTest OK
+FileOpenedAction 1395247557148 TestBowlingScoreKeeper.java 459 2 4 2
+RefactoringAction 1395247848020 SudokuTest.java RENAME ReadSolution()=>void ReadSolution(Sudoku) METHOD
+FileOpenedAction 1395247885190 TestBowlingScoreKeeper.java 459 2 4 2
+FileOpenedAction 1395248876998 BowlingGame.java 648 4 2 0
+FileOpenedAction 1395248903762 Frame.java 1069 10 11 0
+FileOpenedAction 1395249160614 TestBowlingScoreKeeper.java 459 2 4 2
+EditAction 1395249430917 SudokuTest.java 342 2 0 0
+CompilationAction 1395249431089 SudokuTest.java
+CompilationAction 1395249431089 SudokuTest.java
+CompilationAction 1395249431089 SudokuTest.java
+RefactoringAction 1395249457776 Sudoku.java ADD Sudoku(String) METHOD
+RefactoringAction 1395249506681 Sudoku.java ADD Object getLongResult FIELD
+RefactoringAction 1395249553101 Sudoku.java REMOVE getLongResult FIELD
+RefactoringAction 1395249577100 Sudoku.java ADD Object getLongResult FIELD
+RefactoringAction 1395249588100 Sudoku.java REMOVE getLongResult FIELD
+RefactoringAction 1395249648098 Sudoku.java RENAME Sudoku()=>Sudoku(String)/2 METHOD
+RefactoringAction 1395249652098 Sudoku.java REMOVE Sudoku(String)/2 METHOD
+RefactoringAction 1395249670410 Sudoku.java ADD Object getLongResult FIELD
+EditAction 1395249694550 Sudoku.java 1183 2 1 0
+CompilationAction 1395249694690 SudokuTest.java
+UnitTestCaseAction 1395249703971 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395249703971 TestBowlingScoreKeeper FAIL
+RefactoringAction 1395249733095 TestBowlingScoreKeeper.java RENAME test()=>void fail() METHOD
+RefactoringAction 1395249736095 TestBowlingScoreKeeper.java RENAME fail()=><initializer /1> null
+EditAction 1395249743579 TestBowlingScoreKeeper.java 467 1 3 2
+UnitTestCaseAction 1395249746689 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395249746689 TestBowlingScoreKeeper FAIL
+RefactoringAction 1395249766594 TestBowlingScoreKeeper.java ADD void fail() METHOD
+RefactoringAction 1395249767594 TestBowlingScoreKeeper.java RENAME fail()=>void test() METHOD
+FileOpenedAction 1395249964104 TestBowlingScoreKeeper.java 467 1 3 2
+RefactoringAction 1395250099615 Sudoku.java RENAME Sudoku(String)=>Sudoku() METHOD
+RefactoringAction 1395250303249 Sudoku.java ADD String getEquipoLocal() METHOD
+RefactoringAction 1395250303249 Sudoku.java ADD void setEquipoLocal(String) METHOD
+RefactoringAction 1395250329295 Sudoku.java REMOVE setEquipoLocal(String) METHOD
+RefactoringAction 1395250329295 Sudoku.java REMOVE getEquipoLocal() METHOD
+RefactoringAction 1395250341795 Sudoku.java ADD String getEquipoLocal() METHOD
+RefactoringAction 1395250341795 Sudoku.java ADD void setEquipoLocal(String) METHOD
+RefactoringAction 1395250357294 Sudoku.java RENAME getLongResult=>String getLongResult() METHOD
+RefactoringAction 1395250478478 Sudoku.java REMOVE setEquipoLocal(String) METHOD
+RefactoringAction 1395250499477 Sudoku.java REMOVE getLongResult() METHOD
+RefactoringAction 1395250499477 Sudoku.java REMOVE getEquipoLocal() METHOD
+FileOpenedAction 1395250648066 Frame.java 1069 10 11 0
+RefactoringAction 1395250960290 Sudoku.java RENAME Sudoku()=>Sudoku(String) METHOD
+RefactoringAction 1395251266796 Sudoku.java RENAME Sudoku(String)=>Sudoku() METHOD
+RefactoringAction 1395251312295 SudokuTest.java RENAME ReadSolution(Sudoku)=>void ReadSolution() METHOD
+RefactoringAction 1395251483258 SudokuTest.java ADD void assertEquals(int) METHOD
+RefactoringAction 1395251492883 SudokuTest.java REMOVE assertEquals(int) METHOD
+RefactoringAction 1395252023991 Sudoku.java RENAME verify(String)=>int verify(int) METHOD
+RefactoringAction 1395252032615 Sudoku.java RENAME verify(int)=>int verify(String) METHOD
+RefactoringAction 1395252120425 Sudoku.java RENAME verify(String)=>int verify(int) METHOD
+RefactoringAction 1395252133190 Sudoku.java RENAME verify(int)=>int verify(String) METHOD
+RefactoringAction 1395252725187 Sudoku.java ADD String cancandidateSolution FIELD
+CompilationAction 1395252965882 SudokuTest.java
+EditAction 1395252965898 Sudoku.java 514 2 2 0
+UnitTestCaseAction 1395253017209 SudokuTest.java OK
+UnitTestSessionAction 1395253017209 SudokuVerifier OK
+EditAction 1395253116050 Sudoku.java 539 2 3 0
+UnitTestCaseAction 1395253134674 SudokuTest.java OK
+UnitTestSessionAction 1395253134674 SudokuTest OK

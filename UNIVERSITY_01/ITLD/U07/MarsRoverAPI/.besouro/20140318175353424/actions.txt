@@ -1,0 +1,15 @@
+FileOpenedAction 1395161633487 MarsRover.java 2662 4 24 0
+EditAction 1395161946983 TestRover.java 490 3 2 0
+CompilationAction 1395161947140 TestRover.java
+CompilationAction 1395161947140 TestRover.java
+EditAction 1395162024838 MarsRover.java 2664 4 24 0
+CompilationAction 1395162158127 TestRover.java
+CompilationAction 1395162158127 TestRover.java
+UnitTestCaseAction 1395162160690 TestRover.java FAIL
+UnitTestSessionAction 1395162160690 TestRover FAIL
+UnitTestCaseAction 1395162162815 TestRover.java FAIL
+UnitTestSessionAction 1395162162815 TestRover FAIL
+EditAction 1395162383466 MarsRover.java 2801 4 24 0
+CompilationAction 1395162383654 MarsRover.java
+CompilationAction 1395162458440 MarsRover.java
+CompilationAction 1395162458549 MarsRover.java

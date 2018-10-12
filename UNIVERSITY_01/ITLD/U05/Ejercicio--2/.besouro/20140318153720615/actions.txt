@@ -1,0 +1,341 @@
+FileOpenedAction 1395153440849 Sudoku.java 1134 2 1 0
+EditAction 1395153822887 Sudoku.java 1137 2 1 0
+RefactoringAction 1395153838401 SubGrid.java ADD SubGrid.java CLASS
+FileOpenedAction 1395153838542 SubGrid.java 58 0 0 0
+RefactoringAction 1395153871522 SubGrid.java REMOVE SubGrid.java CLASS
+RefactoringAction 1395153884943 Sudoku.java ADD int grid FIELD
+RefactoringAction 1395153892942 Sudoku.java REMOVE Sudoku() METHOD
+RefactoringAction 1395153894942 Sudoku.java ADD Sudoku() METHOD
+EditAction 1395153902519 Sudoku.java 1176 2 1 0
+RefactoringAction 1395153959434 Sudoku.java REMOVE grid FIELD
+RefactoringAction 1395153960934 Sudoku.java ADD sub FIELD
+RefactoringAction 1395153993602 SubGrid.java ADD SubGrid.java CLASS
+FileOpenedAction 1395153993711 SubGrid.java 58 0 0 0
+EditAction 1395154008241 SubGrid.java 59 0 0 0
+CompilationAction 1395154008444 Sudoku.java
+EditAction 1395154050175 SubGrid.java 93 0 0 0
+CompilationAction 1395154050331 SubGrid.java
+RefactoringAction 1395154057706 SubGrid.java ADD int FIELD
+EditAction 1395154058440 SubGrid.java 98 0 0 0
+CompilationAction 1395154058581 Sudoku.java
+RefactoringAction 1395154087656 Sudoku.java REMOVE grid FIELD
+RefactoringAction 1395154100655 Sudoku.java ADD ArrayList grid FIELD
+RefactoringAction 1395154102155 Sudoku.java REMOVE grid FIELD
+RefactoringAction 1395154105702 SubGrid.java RENAME grid=>int FIELD
+RefactoringAction 1395154106702 SubGrid.java RENAME subgrid=>int FIELD
+RefactoringAction 1395154110154 Sudoku.java ADD ArrayList grid FIELD
+CompilationAction 1395154115857 Sudoku.java
+RefactoringAction 1395154121982 Sudoku.java ADD import java.util.ArrayList IMPORT
+CompilationAction 1395154123060 Sudoku.java
+EditAction 1395154301355 Sudoku.java 1228 2 1 0
+RefactoringAction 1395154315354 Sudoku.java RENAME grid=>int FIELD
+RefactoringAction 1395154320261 SubGrid.java REMOVE SubGrid.java CLASS
+CompilationAction 1395154320370 Sudoku.java
+RefactoringAction 1395154325354 Sudoku.java RENAME subGrid=>int FIELD
+CompilationAction 1395154327182 Sudoku.java
+EditAction 1395154360151 Sudoku.java 1192 2 2 0
+RefactoringAction 1395154378854 Sudoku.java ADD void saveDigits() METHOD
+EditAction 1395154382619 Sudoku.java 1220 3 2 0
+CompilationAction 1395154382775 Sudoku.java
+RefactoringAction 1395154391853 Sudoku.java RENAME saveDigits()=>void saveDigits(String) METHOD
+RefactoringAction 1395154407353 Sudoku.java ADD import java.util.StringTokenizer IMPORT
+CompilationAction 1395154428025 Sudoku.java
+RefactoringAction 1395154492866 Sudoku.java REMOVE verify(String) METHOD
+RefactoringAction 1395154492866 Sudoku.java REMOVE saveDigits(String) METHOD
+RefactoringAction 1395154494866 Sudoku.java ADD int verify(String) METHOD
+RefactoringAction 1395154505865 Sudoku.java ADD boolean evaluateDigits FIELD
+RefactoringAction 1395154506865 Sudoku.java RENAME evaluateDigits=>boolean evaluateDigits() METHOD
+CompilationAction 1395154529630 Sudoku.java
+CompilationAction 1395154529630 Sudoku.java
+RefactoringAction 1395154539520 Sudoku.java RENAME evaluateDigits()=>boolean evaluateDigits(String) METHOD
+CompilationAction 1395154549598 Sudoku.java
+CompilationAction 1395154549598 Sudoku.java
+EditAction 1395154594190 Sudoku.java 1506 3 2 0
+CompilationAction 1395154594346 Sudoku.java
+CompilationAction 1395154654547 Sudoku.java
+CompilationAction 1395155174354 Sudoku.java
+CompilationAction 1395155174354 Sudoku.java
+CompilationAction 1395155185995 Sudoku.java
+CompilationAction 1395155186104 Sudoku.java
+RefactoringAction 1395155414603 SudokuTest.java RENAME test()=>void testCharacterNumbers() METHOD
+EditAction 1395155454184 SudokuTest.java 203 1 1 0
+EditAction 1395155488262 SudokuTest.java 228 1 2 0
+CompilationAction 1395155488403 SudokuTest.java
+RefactoringAction 1395155504246 SudokuTest.java ADD import upm.tdd.training.Sudoku IMPORT
+CompilationAction 1395155505465 SudokuTest.java
+EditAction 1395155584074 SudokuTest.java 368 1 3 0
+EditAction 1395155800321 SudokuTest.java 408 1 4 1
+UnitTestCaseAction 1395155818914 SudokuTest.java OK
+UnitTestSessionAction 1395155818914 SudokuTest OK
+EditAction 1395155841304 SudokuTest.java 408 1 4 1
+UnitTestCaseAction 1395155846382 SudokuTest.java OK
+UnitTestSessionAction 1395155846382 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395155851195 SudokuTest.java 408 1 4 1
+EditAction 1395155914396 SudokuTest.java 400 1 4 1
+UnitTestCaseAction 1395155918755 SudokuTest.java OK
+UnitTestSessionAction 1395155918755 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395155934317 SudokuTest.java 401 1 4 1
+UnitTestCaseAction 1395155936442 SudokuTest.java OK
+UnitTestSessionAction 1395155936442 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395155952660 SudokuTest.java 400 1 4 1
+RefactoringAction 1395155974378 Sudoku.java ADD void saveDigits(String) METHOD
+EditAction 1395155984737 Sudoku.java 1529 4 5 0
+CompilationAction 1395155984862 Sudoku.java
+CompilationAction 1395155984862 Sudoku.java
+CompilationAction 1395155984862 Sudoku.java
+RefactoringAction 1395155996878 SudokuTest.java ADD void testCharacterNumbers()/2 METHOD
+RefactoringAction 1395156012908 SudokuTest.java RENAME testCharacterNumbers()/2=>void testDigits() METHOD
+RefactoringAction 1395156015408 SudokuTest.java RENAME testDigits()=>void testDigits1() METHOD
+RefactoringAction 1395156017908 SudokuTest.java RENAME testDigits1()=>void testDigits1To() METHOD
+RefactoringAction 1395156018908 SudokuTest.java RENAME testDigits1To()=>void testDigits1To9() METHOD
+EditAction 1395156022955 SudokuTest.java 639 2 8 2
+EditAction 1395156298111 Sudoku.java 1736 4 8 0
+EditAction 1395156329281 Sudoku.java 1754 4 9 0
+EditAction 1395156356497 SudokuTest.java 635 2 8 2
+UnitTestCaseAction 1395156362653 SudokuTest.java OK
+UnitTestSessionAction 1395156362653 SudokuTest OK
+UnitTestCaseAction 1395156425789 SudokuTest.java OK
+UnitTestSessionAction 1395156425789 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395156533829 Sudoku.java 1742 4 9 0
+CompilationAction 1395156533970 Sudoku.java
+CompilationAction 1395156533970 Sudoku.java
+CompilationAction 1395156540876 Sudoku.java
+CompilationAction 1395156540876 Sudoku.java
+CompilationAction 1395156540985 Sudoku.java
+CompilationAction 1395156540985 SudokuTest.java
+CompilationAction 1395156557219 Sudoku.java
+RefactoringAction 1395156610747 SudokuTest.java ADD void initiali FIELD
+RefactoringAction 1395156615247 SudokuTest.java RENAME initiali=>void initialize() METHOD
+CompilationAction 1395156631059 SudokuTest.java
+CompilationAction 1395156631277 SudokuTest.java
+CompilationAction 1395156631277 SudokuTest.java
+RefactoringAction 1395156649386 SudokuTest.java ADD Sudoku game FIELD
+CompilationAction 1395156657214 SudokuTest.java
+CompilationAction 1395156657214 SudokuTest.java
+CompilationAction 1395156657323 SudokuTest.java
+CompilationAction 1395156657323 SudokuTest.java
+CompilationAction 1395156665244 SudokuTest.java
+CompilationAction 1395156665244 SudokuTest.java
+CompilationAction 1395156665354 SudokuTest.java
+CompilationAction 1395156665354 SudokuTest.java
+RefactoringAction 1395156669979 SudokuTest.java ADD import org.junit.Before IMPORT
+CompilationAction 1395156673103 SudokuTest.java
+CompilationAction 1395156673103 SudokuTest.java
+CompilationAction 1395156673213 SudokuTest.java
+EditAction 1395156797581 SudokuTest.java 683 3 7 2
+CompilationAction 1395156797722 SudokuTest.java
+CompilationAction 1395156797722 SudokuTest.java
+EditAction 1395156901779 SudokuTest.java 711 3 7 2
+CompilationAction 1395156901904 SudokuTest.java
+CompilationAction 1395156901904 SudokuTest.java
+CompilationAction 1395156911794 SudokuTest.java
+CompilationAction 1395156911794 SudokuTest.java
+EditAction 1395157131799 SudokuTest.java 718 3 7 2
+UnitTestCaseAction 1395157132018 SudokuTest.java OK
+UnitTestSessionAction 1395157132033 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395157261926 SudokuTest.java 740 3 7 2
+UnitTestCaseAction 1395157266145 SudokuTest.java OK
+UnitTestSessionAction 1395157266145 Rerun upm.tdd.training.tests.SudokuTest OK
+RefactoringAction 1395157322994 Sudoku.java ADD int verifySubGrid FIELD
+RefactoringAction 1395157323994 Sudoku.java RENAME verifySubGrid=>int verifySubGrid() METHOD
+EditAction 1395157348762 Sudoku.java 1807 5 11 0
+EditAction 1395157375108 SudokuTest.java 765 3 7 1
+EditAction 1395157403720 SudokuTest.java 740 3 7 2
+EditAction 1395157433942 Sudoku.java 1883 5 12 0
+CompilationAction 1395157434082 Sudoku.java
+CompilationAction 1395157442114 Sudoku.java
+CompilationAction 1395157442224 Sudoku.java
+CompilationAction 1395157451912 Sudoku.java
+EditAction 1395157684481 Sudoku.java 1901 5 12 0
+EditAction 1395157735482 Sudoku.java 1873 5 12 0
+EditAction 1395157800889 Sudoku.java 1891 5 9 0
+CompilationAction 1395157801014 Sudoku.java
+CompilationAction 1395157801014 Sudoku.java
+CompilationAction 1395157822311 Sudoku.java
+CompilationAction 1395157822420 Sudoku.java
+CompilationAction 1395157822420 Sudoku.java
+RefactoringAction 1395157829483 Digit.java ADD Digit.java CLASS
+FileOpenedAction 1395157829576 Digit.java 56 0 0 0
+CompilationAction 1395157829592 Sudoku.java
+CompilationAction 1395157829592 Sudoku.java
+EditAction 1395157841404 Digit.java 57 0 0 0
+RefactoringAction 1395157852279 Digit.java ADD int di FIELD
+RefactoringAction 1395157854279 Digit.java RENAME di=>int digit FIELD
+EditAction 1395157916169 Digit.java 76 0 0 0
+CompilationAction 1395157916294 Digit.java
+CompilationAction 1395157916294 Sudoku.java
+CompilationAction 1395157916294 Sudoku.java
+CompilationAction 1395157956012 Digit.java
+CompilationAction 1395157956122 Sudoku.java
+CompilationAction 1395157956122 Sudoku.java
+EditAction 1395158055511 Digit.java 127 0 0 0
+CompilationAction 1395158055667 Sudoku.java
+CompilationAction 1395158055667 Sudoku.java
+EditAction 1395158081839 Digit.java 184 0 0 0
+RefactoringAction 1395158094932 Digit.java ADD static int find() METHOD
+EditAction 1395158107776 Digit.java 278 1 1 0
+CompilationAction 1395158107901 Sudoku.java
+CompilationAction 1395158111229 Sudoku.java
+CompilationAction 1395158111229 Sudoku.java
+CompilationAction 1395158121135 Sudoku.java
+CompilationAction 1395158121135 Sudoku.java
+CompilationAction 1395158121244 Sudoku.java
+CompilationAction 1395158121244 Sudoku.java
+EditAction 1395158127338 Sudoku.java 1914 5 12 0
+CompilationAction 1395158127463 Sudoku.java
+CompilationAction 1395158148540 Sudoku.java
+EditAction 1395158179352 Sudoku.java 1935 5 13 0
+CompilationAction 1395158179493 Sudoku.java
+RefactoringAction 1395158183774 Digit.java RENAME find()=>int find(int) METHOD
+CompilationAction 1395158193852 Digit.java
+CompilationAction 1395158193852 Sudoku.java
+CompilationAction 1395158238165 Digit.java
+CompilationAction 1395158238275 Digit.java
+CompilationAction 1395158294279 Digit.java
+CompilationAction 1395158294389 Digit.java
+CompilationAction 1395158294389 Digit.java
+RefactoringAction 1395158301248 Digit.java REMOVE Digit.java CLASS
+CompilationAction 1395158301373 Sudoku.java
+CompilationAction 1395158329204 Sudoku.java
+RefactoringAction 1395158341533 Sudoku.java ADD int FIELD
+RefactoringAction 1395158342533 Sudoku.java RENAME digits=>int FIELD
+RefactoringAction 1395158344033 Sudoku.java RENAME digit=>int FIELD
+CompilationAction 1395158363441 Sudoku.java
+CompilationAction 1395158363550 Sudoku.java
+CompilationAction 1395158652423 Sudoku.java
+EditAction 1395158690111 Sudoku.java 2121 5 14 0
+CompilationAction 1395158690251 Sudoku.java
+CompilationAction 1395158760705 Sudoku.java
+CompilationAction 1395158760815 Sudoku.java
+CompilationAction 1395158779112 Sudoku.java
+CompilationAction 1395158779221 Sudoku.java
+RefactoringAction 1395158782331 Sudoku.java ADD void toZero() METHOD
+EditAction 1395158812769 Sudoku.java 2205 6 16 0
+RefactoringAction 1395158820675 Sudoku.java REMOVE toZero() METHOD
+RefactoringAction 1395158823175 Sudoku.java ADD void toZero() METHOD
+EditAction 1395158823394 Sudoku.java 2206 6 16 0
+EditAction 1395158848487 Sudoku.java 2206 6 16 0
+EditAction 1395158909924 Sudoku.java 2206 6 16 0
+EditAction 1395158917830 Sudoku.java 2193 6 15 0
+EditAction 1395159008376 Sudoku.java 2213 6 15 0
+EditAction 1395159024844 Sudoku.java 2221 6 15 0
+RefactoringAction 1395159050703 SudokuTest.java ADD void testDigits1To9()/2 METHOD
+RefactoringAction 1395159064703 SudokuTest.java RENAME testDigits1To9()/2=>void testOnce() METHOD
+RefactoringAction 1395159066203 SudokuTest.java RENAME testOnce()=>void testOncein() METHOD
+RefactoringAction 1395159069203 SudokuTest.java RENAME testOncein()=>void testOnceinsubGrid() METHOD
+EditAction 1395159069890 SudokuTest.java 1006 4 10 3
+EditAction 1395159078297 Sudoku.java 2222 6 15 0
+EditAction 1395159104609 SudokuTest.java 1009 4 10 3
+CompilationAction 1395159104734 SudokuTest.java
+RefactoringAction 1395159214700 SudokuTest.java RENAME testOnceinsubGrid()=>void assertEquals() METHOD
+RefactoringAction 1395159217200 SudokuTest.java REMOVE assertEquals() METHOD
+UnitTestCaseAction 1395159270090 SudokuTest.java FAIL
+UnitTestSessionAction 1395159270090 Rerun upm.tdd.training.tests.SudokuTest FAIL
+RefactoringAction 1395159330370 SudokuTest.java ADD void testOnceinsubGrid() METHOD
+EditAction 1395159338322 SudokuTest.java 1011 4 7 2
+CompilationAction 1395159338463 SudokuTest.java
+CompilationAction 1395159338463 SudokuTest.java
+CompilationAction 1395159340744 SudokuTest.java
+CompilationAction 1395159340854 SudokuTest.java
+CompilationAction 1395159340854 SudokuTest.java
+CompilationAction 1395159342604 SudokuTest.java
+CompilationAction 1395159342604 SudokuTest.java
+EditAction 1395159371228 SudokuTest.java 1006 4 10 3
+EditAction 1395159394227 SudokuTest.java 1030 4 11 3
+UnitTestCaseAction 1395159399180 SudokuTest.java FAIL
+UnitTestSessionAction 1395159399180 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395159491865 SudokuTest.java 1030 4 11 3
+UnitTestCaseAction 1395159492100 SudokuTest.java FAIL
+UnitTestSessionAction 1395159492100 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395159560629 Sudoku.java 2236 6 16 0
+UnitTestCaseAction 1395159564926 SudokuTest.java FAIL
+UnitTestSessionAction 1395159564926 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395159607706 Sudoku.java 2236 6 16 0
+UnitTestCaseAction 1395159610550 SudokuTest.java FAIL
+UnitTestSessionAction 1395159610550 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395159647768 Sudoku.java 2225 6 16 0
+UnitTestCaseAction 1395159650924 SudokuTest.java FAIL
+UnitTestSessionAction 1395159650924 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395159723984 Sudoku.java 2221 6 16 0
+UnitTestCaseAction 1395159726672 SudokuTest.java FAIL
+UnitTestSessionAction 1395159726672 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395159838607 Sudoku.java 2235 6 15 0
+EditAction 1395159902136 Sudoku.java 2258 6 15 0
+EditAction 1395159910714 Sudoku.java 2258 6 15 0
+EditAction 1395160006118 Sudoku.java 2258 6 15 0
+UnitTestCaseAction 1395160009290 SudokuTest.java FAIL
+UnitTestSessionAction 1395160009290 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395160049039 SudokuTest.java 1030 4 11 3
+EditAction 1395160078788 SudokuTest.java 1049 4 11 3
+UnitTestCaseAction 1395160081303 SudokuTest.java FAIL
+UnitTestSessionAction 1395160081303 Rerun upm.tdd.training.tests.SudokuTest FAIL
+UnitTestCaseAction 1395160085647 SudokuTest.java FAIL
+UnitTestSessionAction 1395160085647 Rerun upm.tdd.training.tests.SudokuTest.testOnceinsubGrid FAIL
+UnitTestCaseAction 1395160103459 SudokuTest.java FAIL
+UnitTestSessionAction 1395160103459 SudokuTest FAIL
+RefactoringAction 1395160147067 SudokuTest.java RENAME testOnceinsubGrid()=>void testOnceInsubGrid() METHOD
+EditAction 1395160148817 SudokuTest.java 1049 4 11 3
+UnitTestCaseAction 1395160151692 SudokuTest.java FAIL
+UnitTestSessionAction 1395160151692 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395160226440 SudokuTest.java 1049 4 11 3
+UnitTestCaseAction 1395160227940 SudokuTest.java FAIL
+UnitTestSessionAction 1395160227940 Rerun upm.tdd.training.tests.SudokuTest FAIL
+UnitTestCaseAction 1395160257018 SudokuTest.java FAIL
+UnitTestSessionAction 1395160257018 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395160325528 SudokuTest.java 1049 4 11 3
+UnitTestCaseAction 1395160327544 SudokuTest.java FAIL
+UnitTestSessionAction 1395160327544 Rerun upm.tdd.training.tests.SudokuTest FAIL
+UnitTestCaseAction 1395160336920 SudokuTest.java FAIL
+UnitTestSessionAction 1395160336920 Rerun upm.tdd.training.tests.SudokuTest FAIL
+RefactoringAction 1395160438296 Sudoku.java REMOVE toZero() METHOD
+RefactoringAction 1395160440296 Sudoku.java ADD void toZero() METHOD
+EditAction 1395160440859 Sudoku.java 2258 6 15 0
+UnitTestCaseAction 1395160486835 SudokuTest.java FAIL
+UnitTestSessionAction 1395160486835 Rerun upm.tdd.training.tests.SudokuTest FAIL
+EditAction 1395160655742 Sudoku.java 2263 6 15 0
+EditAction 1395160684149 Sudoku.java 2262 6 15 0
+EditAction 1395160692368 Sudoku.java 2256 6 15 0
+UnitTestCaseAction 1395160697822 SudokuTest.java OK
+UnitTestSessionAction 1395160697822 Rerun upm.tdd.training.tests.SudokuTest OK
+RefactoringAction 1395160731339 Sudoku.java ADD int verifySubGrid()/2 METHOD
+RefactoringAction 1395160735855 Sudoku.java RENAME verifySubGrid()/2=>int verifyGrid() METHOD
+EditAction 1395160737433 Sudoku.java 2288 7 15 0
+CompilationAction 1395160737558 Sudoku.java
+CompilationAction 1395160768981 Sudoku.java
+CompilationAction 1395160769090 Sudoku.java
+EditAction 1395160786013 Sudoku.java 2360 7 17 0
+EditAction 1395160787482 Sudoku.java 2363 7 17 0
+EditAction 1395160862376 Sudoku.java 2381 7 13 0
+CompilationAction 1395160862516 Sudoku.java
+CompilationAction 1395160875938 Sudoku.java
+EditAction 1395160904751 Sudoku.java 2423 7 16 0
+CompilationAction 1395160904891 Sudoku.java
+CompilationAction 1395160911126 Sudoku.java
+EditAction 1395160927610 Sudoku.java 2532 7 16 0
+EditAction 1395160947532 Sudoku.java 2548 7 16 0
+RefactoringAction 1395160985891 SudokuTest.java ADD void testOnceInSubGrid()/2 METHOD
+RefactoringAction 1395160990391 SudokuTest.java RENAME testOnceInSubGrid()/2=>void testOnceInGrid() METHOD
+EditAction 1395160991204 SudokuTest.java 1355 5 15 4
+EditAction 1395160998298 SudokuTest.java 1352 5 15 4
+EditAction 1395161015766 SudokuTest.java 1356 5 15 4
+UnitTestCaseAction 1395161020813 SudokuTest.java OK
+UnitTestSessionAction 1395161020813 Rerun upm.tdd.training.tests.SudokuTest OK
+RefactoringAction 1395161050704 Sudoku.java RENAME verifyGrid()=>int verifyRowGrid() METHOD
+EditAction 1395161050860 Sudoku.java 2551 7 16 0
+CompilationAction 1395161051016 SudokuTest.java
+CompilationAction 1395161055720 SudokuTest.java
+RefactoringAction 1395161063220 Sudoku.java ADD int verifyRowGrid()/2 METHOD
+RefactoringAction 1395161069220 Sudoku.java RENAME verifyRowGrid()/2=>int verifyColumnGrid() METHOD
+EditAction 1395161069266 Sudoku.java 2854 8 19 0
+EditAction 1395161092876 Sudoku.java 2854 8 19 0
+RefactoringAction 1395161102235 SudokuTest.java RENAME testOnceInGrid()=>void testOnceInRowGrid() METHOD
+EditAction 1395161105626 SudokuTest.java 1362 5 15 4
+RefactoringAction 1395161112782 SudokuTest.java ADD void testOnceInRowGrid()/2 METHOD
+RefactoringAction 1395161119798 SudokuTest.java RENAME testOnceInRowGrid()/2=>void testOnceInColumnGrid() METHOD
+EditAction 1395161124079 SudokuTest.java 1680 6 19 5
+CompilationAction 1395161124220 SudokuTest.java
+CompilationAction 1395161135001 SudokuTest.java
+UnitTestCaseAction 1395161137485 SudokuTest.java OK
+UnitTestSessionAction 1395161137485 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395161211094 Sudoku.java 2875 8 18 0
+CompilationAction 1395161211235 Sudoku.java

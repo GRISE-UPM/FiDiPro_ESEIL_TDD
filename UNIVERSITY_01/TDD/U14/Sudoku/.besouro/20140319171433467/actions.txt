@@ -1,0 +1,504 @@
+FileOpenedAction 1395245744967 Sudoku.java 1134 2 1 0
+FileOpenedAction 1395245754999 SudokuTest.java 184 1 1 0
+UnitTestCaseAction 1395245758186 SudokuTest.java FAIL
+UnitTestSessionAction 1395245758186 SudokuTest FAIL
+EditAction 1395245934639 Sudoku.java 1140 2 1 0
+RefactoringAction 1395245983014 SudokuTest.java RENAME test()=>void StringIs() METHOD
+RefactoringAction 1395245985529 SudokuTest.java RENAME StringIs()=>void StringIsValid() METHOD
+RefactoringAction 1395245996529 SudokuTest.java RENAME StringIsValid()=>void StringIsValidAsSolution() METHOD
+RefactoringAction 1395246282356 SudokuTest.java RENAME StringIsValidAsSolution()=>void StringIsACandaValidAsSolution() METHOD
+RefactoringAction 1395246283871 SudokuTest.java RENAME StringIsACandaValidAsSolution()=>void StringIsACandateValidAsSolution() METHOD
+RefactoringAction 1395246286371 SudokuTest.java RENAME StringIsACandateValidAsSolution()=>void StringIsACandateSolution() METHOD
+EditAction 1395246288809 SudokuTest.java 294 1 0 0
+CompilationAction 1395246288981 SudokuTest.java
+CompilationAction 1395246288981 SudokuTest.java
+CompilationAction 1395246288981 SudokuTest.java
+CompilationAction 1395246431433 SudokuTest.java
+CompilationAction 1395246431433 SudokuTest.java
+CompilationAction 1395246431433 SudokuTest.java
+CompilationAction 1395246431542 SudokuTest.java
+CompilationAction 1395246431542 SudokuTest.java
+CompilationAction 1395246436214 SudokuTest.java
+CompilationAction 1395246436323 SudokuTest.java
+RefactoringAction 1395246451558 SudokuTest.java ADD import upm.tdd.training.Sudoku IMPORT
+CompilationAction 1395246454964 SudokuTest.java
+CompilationAction 1395246455073 SudokuTest.java
+RefactoringAction 1395246463339 Sudoku.java ADD int candidateSolutionIsValid(String) METHOD
+EditAction 1395246469714 Sudoku.java 1258 3 2 0
+UnitTestCaseAction 1395246478151 SudokuTest.java FAIL
+UnitTestSessionAction 1395246478151 SudokuTest FAIL
+UnitTestCaseAction 1395246540948 SudokuTest.java OK
+UnitTestSessionAction 1395246540948 SudokuTest OK
+EditAction 1395246598401 SudokuTest.java 459 1 4 1
+RefactoringAction 1395246605119 SudokuTest.java ADD void StringIsACandidateSolution()/2 METHOD
+RefactoringAction 1395246609119 SudokuTest.java RENAME StringIsACandidateSolution()/2=>void StringIsANotCandidateSolution() METHOD
+EditAction 1395246612979 SudokuTest.java 761 2 8 2
+EditAction 1395246619604 SudokuTest.java 761 2 8 2
+UnitTestCaseAction 1395246622619 SudokuTest.java OK
+UnitTestSessionAction 1395246622619 SudokuTest OK
+RefactoringAction 1395246648150 SudokuTest.java ADD void StringIsANotCandidateSolution()/2 METHOD
+RefactoringAction 1395246662650 SudokuTest.java RENAME StringIsANotCandidateSolution()/2=>void CandidateSolution() METHOD
+RefactoringAction 1395246667681 SudokuTest.java RENAME CandidateSolution()=>void CandidateSolutionHa() METHOD
+EditAction 1395246672041 SudokuTest.java 1069 3 12 3
+EditAction 1395246676150 SudokuTest.java 1071 3 12 3
+RefactoringAction 1395246685197 SudokuTest.java RENAME CandidateSolutionHasCorrectFormat()=>void CandidateSolutionHasCorrectFormatAnd() METHOD
+RefactoringAction 1395246686697 SudokuTest.java RENAME CandidateSolutionHasCorrectFormatAnd()=>void CandidateSolutionHasCorrectFormat() METHOD
+EditAction 1395246686869 SudokuTest.java 1071 3 12 3
+RefactoringAction 1395246694697 SudokuTest.java RENAME CandidateSolutionHasCorrectFormat()=>void CandidateSolutionHasCorrectFormatAndIsVa() METHOD
+RefactoringAction 1395246697212 SudokuTest.java RENAME CandidateSolutionHasCorrectFormatAndIsVa()=>void CandidateSolutionHasCorrectFormat() METHOD
+EditAction 1395246697228 SudokuTest.java 1071 3 12 3
+RefactoringAction 1395246717212 SudokuTest.java RENAME CandidateSolutionHasCorrectFormat()=>void CandidateSolutionIsValidAndHasCorrectFormat() METHOD
+EditAction 1395246721853 SudokuTest.java 1081 3 12 3
+EditAction 1395246729072 SudokuTest.java 1081 3 12 3
+UnitTestCaseAction 1395246732525 SudokuTest.java OK
+UnitTestSessionAction 1395246732525 SudokuTest OK
+EditAction 1395246770009 SudokuTest.java 1072 3 12 3
+UnitTestCaseAction 1395246770259 SudokuTest.java FAIL
+UnitTestSessionAction 1395246770259 SudokuTest FAIL
+EditAction 1395246933648 Sudoku.java 1365 3 3 0
+CompilationAction 1395246933789 Sudoku.java
+EditAction 1395247357609 Sudoku.java 1325 3 3 0
+RefactoringAction 1395247362672 SudokuTest.java REMOVE CandidateSolutionIsValidAndHasCorrectFormat() METHOD
+EditAction 1395247364032 SudokuTest.java 763 2 8 2
+UnitTestCaseAction 1395247365469 SudokuTest.java OK
+UnitTestSessionAction 1395247365469 SudokuTest OK
+RefactoringAction 1395247391189 SudokuTest.java ADD void CandidateSolutionAccomplis FIELD
+RefactoringAction 1395247393704 SudokuTest.java RENAME CandidateSolutionAccomplis=>void CandidateSolutionAccomplishRule1 FIELD
+RefactoringAction 1395247394705 SudokuTest.java RENAME CandidateSolutionAccomplishRule1=>void CandidateSolutionAccomplishRule1() METHOD
+EditAction 1395247396736 SudokuTest.java 825 3 8 2
+EditAction 1395247542724 SudokuTest.java 1051 3 12 3
+RefactoringAction 1395247563771 SudokuTest.java RENAME CandidateSolutionAccomplishRule1()=>void CandidateSolutionNotAccomplishRule1() METHOD
+EditAction 1395247564053 SudokuTest.java 1054 3 12 3
+UnitTestCaseAction 1395247570772 SudokuTest.java OK
+UnitTestSessionAction 1395247570772 SudokuTest.CandidateSolutionNotAccomplishRule1 OK
+EditAction 1395247579584 SudokuTest.java 1055 3 12 3
+UnitTestCaseAction 1395247582037 SudokuTest.java FAIL
+UnitTestSessionAction 1395247582037 SudokuTest FAIL
+EditAction 1395247612632 SudokuTest.java 1056 3 12 3
+UnitTestCaseAction 1395247615913 SudokuTest.java FAIL
+UnitTestSessionAction 1395247615913 SudokuTest FAIL
+EditAction 1395247697493 Sudoku.java 1380 3 4 0
+CompilationAction 1395247697634 Sudoku.java
+CompilationAction 1395247705509 Sudoku.java
+EditAction 1395247728352 Sudoku.java 1439 3 4 0
+CompilationAction 1395247728509 Sudoku.java
+CompilationAction 1395247740915 Sudoku.java
+CompilationAction 1395247741024 Sudoku.java
+EditAction 1395247746931 Sudoku.java 1456 3 6 0
+EditAction 1395247755087 Sudoku.java 1463 3 6 0
+EditAction 1395247859447 Sudoku.java 1573 3 6 0
+EditAction 1395247869291 Sudoku.java 1577 3 6 0
+EditAction 1395247873697 Sudoku.java 1573 3 6 0
+UnitTestCaseAction 1395247878697 SudokuTest.java FAIL
+UnitTestSessionAction 1395247878697 SudokuTest FAIL
+EditAction 1395248338697 Sudoku.java 1674 3 8 0
+CompilationAction 1395248338853 Sudoku.java
+CompilationAction 1395248422853 Sudoku.java
+CompilationAction 1395248423056 Sudoku.java
+CompilationAction 1395248423056 Sudoku.java
+CompilationAction 1395248423056 Sudoku.java
+CompilationAction 1395248437712 Sudoku.java
+CompilationAction 1395248437712 Sudoku.java
+CompilationAction 1395248437712 Sudoku.java
+CompilationAction 1395248437822 Sudoku.java
+CompilationAction 1395248446009 Sudoku.java
+CompilationAction 1395248446118 Sudoku.java
+CompilationAction 1395248458759 Sudoku.java
+EditAction 1395248514118 Sudoku.java 1811 3 2 0
+CompilationAction 1395248514259 Sudoku.java
+CompilationAction 1395248514259 Sudoku.java
+EditAction 1395248515509 Sudoku.java 1812 3 10 0
+CompilationAction 1395248515649 Sudoku.java
+CompilationAction 1395248528993 Sudoku.java
+EditAction 1395248771632 Sudoku.java 1635 3 2 0
+CompilationAction 1395248771788 Sudoku.java
+CompilationAction 1395248771788 Sudoku.java
+EditAction 1395248790866 Sudoku.java 1658 3 6 0
+CompilationAction 1395248791007 Sudoku.java
+RefactoringAction 1395248830241 Sudoku.java REMOVE candidateSolutionIsValid(String) METHOD
+RefactoringAction 1395248833257 Sudoku.java ADD int candidateSolutionIsValid(String) METHOD
+CompilationAction 1395248834757 Sudoku.java
+CompilationAction 1395248834866 Sudoku.java
+EditAction 1395249123052 Sudoku.java 1350 3 2 0
+CompilationAction 1395249123209 Sudoku.java
+CompilationAction 1395249319177 Sudoku.java
+CompilationAction 1395249319286 Sudoku.java
+CompilationAction 1395249330818 Sudoku.java
+CompilationAction 1395249330928 Sudoku.java
+EditAction 1395249355117 Sudoku.java 1383 3 3 0
+UnitTestCaseAction 1395249362805 SudokuTest.java OK
+UnitTestSessionAction 1395249362805 SudokuTest OK
+EditAction 1395249371431 Sudoku.java 1383 3 3 0
+EditAction 1395249433231 Sudoku.java 1490 3 4 0
+CompilationAction 1395249433372 Sudoku.java
+CompilationAction 1395249433372 Sudoku.java
+CompilationAction 1395249463841 Sudoku.java
+EditAction 1395249501451 SudokuTest.java 1055 3 12 3
+UnitTestCaseAction 1395249503842 SudokuTest.java FAIL
+UnitTestSessionAction 1395249503842 SudokuTest FAIL
+EditAction 1395249522405 SudokuTest.java 1054 3 12 3
+UnitTestCaseAction 1395249524249 SudokuTest.java OK
+UnitTestSessionAction 1395249524249 SudokuTest OK
+EditAction 1395249594359 Sudoku.java 1507 3 2 0
+CompilationAction 1395249594516 Sudoku.java
+CompilationAction 1395249594516 Sudoku.java
+CompilationAction 1395249594516 Sudoku.java
+CompilationAction 1395249594516 Sudoku.java
+CompilationAction 1395249594516 Sudoku.java
+CompilationAction 1395249616469 Sudoku.java
+CompilationAction 1395249616469 Sudoku.java
+CompilationAction 1395249616469 Sudoku.java
+CompilationAction 1395249616469 Sudoku.java
+CompilationAction 1395249616469 Sudoku.java
+CompilationAction 1395249616579 Sudoku.java
+EditAction 1395249627923 Sudoku.java 1545 3 6 0
+EditAction 1395249661236 Sudoku.java 1582 3 6 0
+RefactoringAction 1395249672439 SudokuTest.java ADD void CandidateSolutionNotAccomplishRule1()/2 METHOD
+EditAction 1395249675330 SudokuTest.java 1345 4 16 4
+EditAction 1395249680189 SudokuTest.java 1345 4 16 4
+EditAction 1395249685299 SudokuTest.java 1344 4 16 4
+UnitTestCaseAction 1395249690580 SudokuTest.java FAIL
+UnitTestSessionAction 1395249690580 SudokuTest FAIL
+EditAction 1395249725190 Sudoku.java 1584 3 5 0
+CompilationAction 1395249725331 Sudoku.java
+RefactoringAction 1395249733549 Sudoku.java REMOVE candidateSolutionIsValid(String) METHOD
+RefactoringAction 1395249734549 Sudoku.java ADD int candidateSolutionIsValid(String) METHOD
+CompilationAction 1395249734815 Sudoku.java
+UnitTestCaseAction 1395249738034 SudokuTest.java FAIL
+UnitTestSessionAction 1395249738034 SudokuTest FAIL
+EditAction 1395249755893 Sudoku.java 1590 3 5 0
+UnitTestCaseAction 1395249758753 SudokuTest.java FAIL
+UnitTestSessionAction 1395249758753 SudokuTest FAIL
+EditAction 1395249788581 Sudoku.java 1588 3 5 0
+EditAction 1395249793862 Sudoku.java 1342 3 5 0
+UnitTestCaseAction 1395249796925 SudokuTest.java FAIL
+UnitTestSessionAction 1395249796925 SudokuTest FAIL
+EditAction 1395249815816 Sudoku.java 1340 3 5 0
+UnitTestCaseAction 1395249821144 SudokuTest.java FAIL
+UnitTestSessionAction 1395249821159 SudokuTest FAIL
+EditAction 1395249850113 Sudoku.java 1342 3 5 0
+EditAction 1395249941441 Sudoku.java 1342 3 5 0
+EditAction 1395249988645 Sudoku.java 1343 3 5 0
+UnitTestCaseAction 1395249991770 SudokuTest.java OK
+UnitTestSessionAction 1395249991770 SudokuTest OK
+EditAction 1395250012614 Sudoku.java 1335 3 6 0
+UnitTestCaseAction 1395250017301 SudokuTest.java OK
+UnitTestSessionAction 1395250017301 SudokuTest OK
+RefactoringAction 1395250030536 SudokuTest.java ADD void CandidateSolutionNotAccomplishRule1()/2 METHOD
+RefactoringAction 1395250034036 SudokuTest.java RENAME CandidateSolutionNotAccomplishRule1()/2=>void CandidateSolutionNotAccomplishRule2() METHOD
+EditAction 1395250034364 SudokuTest.java 1638 5 20 5
+EditAction 1395250232676 SudokuTest.java 1637 5 20 5
+EditAction 1395250241223 SudokuTest.java 1637 5 20 5
+UnitTestCaseAction 1395250245239 SudokuTest.java FAIL
+UnitTestSessionAction 1395250245239 SudokuTest FAIL
+EditAction 1395250259145 Sudoku.java 1341 3 6 0
+EditAction 1395250301364 Sudoku.java 1380 3 7 0
+EditAction 1395250346004 Sudoku.java 1426 3 7 0
+EditAction 1395250379848 Sudoku.java 1530 3 7 0
+EditAction 1395250540800 Sudoku.java 1535 3 7 0
+EditAction 1395250912469 Sudoku.java 2156 3 2 0
+CompilationAction 1395250912594 Sudoku.java
+CompilationAction 1395250912594 Sudoku.java
+CompilationAction 1395250912594 Sudoku.java
+CompilationAction 1395250912594 Sudoku.java
+CompilationAction 1395250912594 Sudoku.java
+CompilationAction 1395250923344 Sudoku.java
+CompilationAction 1395250923344 Sudoku.java
+CompilationAction 1395250923344 Sudoku.java
+CompilationAction 1395250923344 Sudoku.java
+CompilationAction 1395250923344 Sudoku.java
+CompilationAction 1395250923453 Sudoku.java
+CompilationAction 1395250923453 Sudoku.java
+CompilationAction 1395250923453 Sudoku.java
+CompilationAction 1395250923453 Sudoku.java
+CompilationAction 1395250930797 Sudoku.java
+CompilationAction 1395250930797 Sudoku.java
+CompilationAction 1395250930797 Sudoku.java
+CompilationAction 1395250930797 Sudoku.java
+CompilationAction 1395250930907 Sudoku.java
+CompilationAction 1395250930907 Sudoku.java
+CompilationAction 1395250930907 Sudoku.java
+CompilationAction 1395250988937 Sudoku.java
+CompilationAction 1395250988937 Sudoku.java
+CompilationAction 1395250989047 Sudoku.java
+CompilationAction 1395250989047 Sudoku.java
+CompilationAction 1395250989047 Sudoku.java
+CompilationAction 1395251001484 Sudoku.java
+CompilationAction 1395251001484 Sudoku.java
+CompilationAction 1395251001594 Sudoku.java
+CompilationAction 1395251001594 Sudoku.java
+CompilationAction 1395251001594 Sudoku.java
+CompilationAction 1395251010969 Sudoku.java
+CompilationAction 1395251010969 Sudoku.java
+CompilationAction 1395251010969 Sudoku.java
+CompilationAction 1395251011078 Sudoku.java
+CompilationAction 1395251011078 Sudoku.java
+CompilationAction 1395251011078 Sudoku.java
+CompilationAction 1395251042921 Sudoku.java
+CompilationAction 1395251042921 Sudoku.java
+CompilationAction 1395251043031 Sudoku.java
+CompilationAction 1395251043031 Sudoku.java
+CompilationAction 1395251043031 Sudoku.java
+CompilationAction 1395251061015 Sudoku.java
+CompilationAction 1395251061015 Sudoku.java
+CompilationAction 1395251061015 Sudoku.java
+CompilationAction 1395251061124 Sudoku.java
+CompilationAction 1395251061124 Sudoku.java
+CompilationAction 1395251061124 Sudoku.java
+CompilationAction 1395251068734 Sudoku.java
+CompilationAction 1395251068734 Sudoku.java
+CompilationAction 1395251068734 Sudoku.java
+CompilationAction 1395251068843 Sudoku.java
+CompilationAction 1395251068843 Sudoku.java
+CompilationAction 1395251068843 Sudoku.java
+CompilationAction 1395251079046 Sudoku.java
+CompilationAction 1395251079046 Sudoku.java
+CompilationAction 1395251079046 Sudoku.java
+CompilationAction 1395251079156 Sudoku.java
+CompilationAction 1395251079156 Sudoku.java
+CompilationAction 1395251079156 Sudoku.java
+CompilationAction 1395251086327 Sudoku.java
+CompilationAction 1395251086327 Sudoku.java
+CompilationAction 1395251086327 Sudoku.java
+CompilationAction 1395251086437 Sudoku.java
+CompilationAction 1395251086437 Sudoku.java
+CompilationAction 1395251086437 Sudoku.java
+CompilationAction 1395251093577 Sudoku.java
+CompilationAction 1395251093577 Sudoku.java
+CompilationAction 1395251093577 Sudoku.java
+CompilationAction 1395251093687 Sudoku.java
+CompilationAction 1395251093687 Sudoku.java
+CompilationAction 1395251093687 Sudoku.java
+EditAction 1395251225189 Sudoku.java 2000 3 7 0
+CompilationAction 1395251225314 Sudoku.java
+CompilationAction 1395251225314 Sudoku.java
+CompilationAction 1395251225314 Sudoku.java
+CompilationAction 1395251233892 Sudoku.java
+CompilationAction 1395251233892 Sudoku.java
+CompilationAction 1395251234002 Sudoku.java
+CompilationAction 1395251234002 Sudoku.java
+CompilationAction 1395251234002 Sudoku.java
+CompilationAction 1395251239236 Sudoku.java
+CompilationAction 1395251239236 Sudoku.java
+CompilationAction 1395251239236 Sudoku.java
+CompilationAction 1395251239346 Sudoku.java
+CompilationAction 1395251239346 Sudoku.java
+CompilationAction 1395251239346 Sudoku.java
+CompilationAction 1395251272269 Sudoku.java
+CompilationAction 1395251272379 Sudoku.java
+CompilationAction 1395251311724 Sudoku.java
+CompilationAction 1395251311834 Sudoku.java
+CompilationAction 1395251311865 Sudoku.java
+CompilationAction 1395251311881 Sudoku.java
+CompilationAction 1395251311896 Sudoku.java
+CompilationAction 1395251311912 Sudoku.java
+CompilationAction 1395251311928 Sudoku.java
+CompilationAction 1395251347148 Sudoku.java
+CompilationAction 1395251347164 Sudoku.java
+CompilationAction 1395251347164 Sudoku.java
+CompilationAction 1395251347164 Sudoku.java
+CompilationAction 1395251347164 Sudoku.java
+CompilationAction 1395251347164 Sudoku.java
+CompilationAction 1395251347273 Sudoku.java
+CompilationAction 1395251372431 Sudoku.java
+CompilationAction 1395251372540 Sudoku.java
+EditAction 1395251378040 Sudoku.java 1849 3 7 0
+CompilationAction 1395251378165 Sudoku.java
+CompilationAction 1395251391603 Sudoku.java
+CompilationAction 1395251391713 Sudoku.java
+CompilationAction 1395251402370 Sudoku.java
+CompilationAction 1395251402479 Sudoku.java
+CompilationAction 1395251402479 Sudoku.java
+CompilationAction 1395251409136 Sudoku.java
+CompilationAction 1395251409136 Sudoku.java
+CompilationAction 1395251409245 Sudoku.java
+CompilationAction 1395251421308 Sudoku.java
+CompilationAction 1395251421418 Sudoku.java
+CompilationAction 1395251550890 Sudoku.java
+CompilationAction 1395251550999 Sudoku.java
+CompilationAction 1395251550999 Sudoku.java
+CompilationAction 1395251550999 Sudoku.java
+CompilationAction 1395251638860 Sudoku.java
+CompilationAction 1395251638860 Sudoku.java
+CompilationAction 1395251638860 Sudoku.java
+CompilationAction 1395251638985 Sudoku.java
+CompilationAction 1395251639001 Sudoku.java
+CompilationAction 1395251639001 Sudoku.java
+CompilationAction 1395251639001 Sudoku.java
+CompilationAction 1395251639001 Sudoku.java
+CompilationAction 1395251639001 Sudoku.java
+CompilationAction 1395251639001 Sudoku.java
+CompilationAction 1395251657610 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251657720 Sudoku.java
+CompilationAction 1395251664938 Sudoku.java
+CompilationAction 1395251664938 Sudoku.java
+CompilationAction 1395251664938 Sudoku.java
+CompilationAction 1395251664938 Sudoku.java
+CompilationAction 1395251664938 Sudoku.java
+CompilationAction 1395251664938 Sudoku.java
+CompilationAction 1395251665048 Sudoku.java
+CompilationAction 1395251665048 Sudoku.java
+CompilationAction 1395251665048 Sudoku.java
+CompilationAction 1395251665048 Sudoku.java
+CompilationAction 1395251665048 Sudoku.java
+CompilationAction 1395251665048 Sudoku.java
+CompilationAction 1395251673267 Sudoku.java
+CompilationAction 1395251673267 Sudoku.java
+CompilationAction 1395251673267 Sudoku.java
+CompilationAction 1395251673267 Sudoku.java
+CompilationAction 1395251673267 Sudoku.java
+CompilationAction 1395251673267 Sudoku.java
+CompilationAction 1395251673376 Sudoku.java
+CompilationAction 1395251673376 Sudoku.java
+CompilationAction 1395251673376 Sudoku.java
+CompilationAction 1395251673376 Sudoku.java
+CompilationAction 1395251673376 Sudoku.java
+CompilationAction 1395251673376 Sudoku.java
+CompilationAction 1395251716486 Sudoku.java
+CompilationAction 1395251716486 Sudoku.java
+CompilationAction 1395251716486 Sudoku.java
+CompilationAction 1395251716486 Sudoku.java
+CompilationAction 1395251716486 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251716595 Sudoku.java
+CompilationAction 1395251744018 Sudoku.java
+CompilationAction 1395251744018 Sudoku.java
+CompilationAction 1395251744018 Sudoku.java
+CompilationAction 1395251744018 Sudoku.java
+CompilationAction 1395251744018 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251744127 Sudoku.java
+CompilationAction 1395251750143 Sudoku.java
+CompilationAction 1395251750143 Sudoku.java
+CompilationAction 1395251750143 Sudoku.java
+CompilationAction 1395251750143 Sudoku.java
+CompilationAction 1395251750143 Sudoku.java
+CompilationAction 1395251750143 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251750268 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781252 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251781362 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817190 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251817299 Sudoku.java
+CompilationAction 1395251822565 Sudoku.java
+CompilationAction 1395251822565 Sudoku.java
+CompilationAction 1395251822565 Sudoku.java
+CompilationAction 1395251822565 Sudoku.java
+CompilationAction 1395251822580 Sudoku.java
+CompilationAction 1395251822580 Sudoku.java
+CompilationAction 1395251822580 Sudoku.java
+CompilationAction 1395251822690 Sudoku.java
+CompilationAction 1395251822690 Sudoku.java
+CompilationAction 1395251822690 Sudoku.java
+CompilationAction 1395251822690 Sudoku.java
+CompilationAction 1395251822690 Sudoku.java
+CompilationAction 1395251822690 Sudoku.java
+EditAction 1395251826534 Sudoku.java 2419 3 2 0
+CompilationAction 1395251826659 Sudoku.java
+CompilationAction 1395251826659 Sudoku.java
+CompilationAction 1395251826659 Sudoku.java
+CompilationAction 1395251826659 Sudoku.java
+CompilationAction 1395251826659 Sudoku.java
+CompilationAction 1395251858159 Sudoku.java
+CompilationAction 1395251884190 Sudoku.java
+CompilationAction 1395251958424 Sudoku.java
+CompilationAction 1395251986127 Sudoku.java
+CompilationAction 1395251986237 Sudoku.java
+CompilationAction 1395252006002 Sudoku.java
+CompilationAction 1395252006112 Sudoku.java
+CompilationAction 1395252022284 Sudoku.java
+CompilationAction 1395252022393 Sudoku.java
+CompilationAction 1395252037612 Sudoku.java
+EditAction 1395252137393 Sudoku.java 2066 3 6 0
+CompilationAction 1395252137533 Sudoku.java
+CompilationAction 1395252137533 Sudoku.java
+CompilationAction 1395252151127 Sudoku.java
+CompilationAction 1395252151236 Sudoku.java
+EditAction 1395252165236 Sudoku.java 2090 3 7 0
+EditAction 1395252171424 Sudoku.java 2082 3 7 0
+UnitTestCaseAction 1395252180705 SudokuTest.java FAIL
+UnitTestSessionAction 1395252180705 SudokuTest FAIL
+EditAction 1395252261329 Sudoku.java 2090 3 7 0
+EditAction 1395252309938 Sudoku.java 2094 3 7 0
+EditAction 1395252596280 Sudoku.java 1366 3 7 0
+UnitTestCaseAction 1395252626264 SudokuTest.java FAIL
+UnitTestSessionAction 1395252626264 SudokuTest FAIL
+EditAction 1395252691108 Sudoku.java 1551 3 7 0
+EditAction 1395252710983 Sudoku.java 1564 3 7 0
+UnitTestCaseAction 1395252772982 SudokuTest.java FAIL
+UnitTestSessionAction 1395252778342 SudokuTest FAIL
+EditAction 1395252868388 Sudoku.java 2145 3 8 0
+EditAction 1395252937591 Sudoku.java 2193 3 8 0
+EditAction 1395253143042 Sudoku.java 1442 3 8 0
+RefactoringAction 1395253215261 Sudoku.java ADD boolean contains FIELD
+RefactoringAction 1395253221261 Sudoku.java RENAME contains=>boolean containsReap FIELD
+RefactoringAction 1395253231261 Sudoku.java RENAME containsReap=>boolean containsReapeatCah FIELD
+RefactoringAction 1395253237323 Sudoku.java RENAME containsReapeatCah=>boolean containsReapeatCharacters() METHOD
+RefactoringAction 1395253254260 Sudoku.java RENAME containsReapeatCharacters()=>boolean containsReapeatCharacters(String) METHOD
+EditAction 1395253373291 Sudoku.java 2083 4 14 0
+CompilationAction 1395253381650 Sudoku.java
+CompilationAction 1395253432275 Sudoku.java
+EditAction 1395253671789 Sudoku.java 2206 4 14 0
+EditAction 1395254095505 Sudoku.java 1702 4 9 0
+UnitTestCaseAction 1395254120505 SudokuTest.java FAIL
+UnitTestSessionAction 1395254120505 SudokuTest FAIL
+EditAction 1395254173739 Sudoku.java 1701 4 9 0
+UnitTestCaseAction 1395254218817 SudokuTest.java FAIL
+UnitTestSessionAction 1395254218817 SudokuTest FAIL
+EditAction 1395254254332 Sudoku.java 1701 4 9 0
+UnitTestCaseAction 1395254279191 SudokuTest.java FAIL
+UnitTestSessionAction 1395254279191 SudokuTest FAIL
+EditAction 1395254329957 SudokuTest.java 1638 5 20 5
+UnitTestCaseAction 1395254346394 SudokuTest.java FAIL
+UnitTestSessionAction 1395254346394 SudokuTest FAIL
+EditAction 1395254396972 Sudoku.java 1701 4 9 0
+UnitTestCaseAction 1395254424644 SudokuTest.java FAIL
+UnitTestSessionAction 1395254424644 SudokuTest FAIL
+EditAction 1395254440159 SudokuTest.java 1638 5 20 5
+UnitTestCaseAction 1395254459550 SudokuTest.java FAIL
+UnitTestSessionAction 1395254459550 SudokuTest FAIL

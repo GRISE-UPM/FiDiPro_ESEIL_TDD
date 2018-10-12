@@ -1,0 +1,240 @@
+FileOpenedAction 1395153444744 Frame.java 632 6 6 0
+RefactoringAction 1395153506185 Frame.java REMOVE frame FIELD
+RefactoringAction 1395153510683 Frame.java ADD int FIELD
+RefactoringAction 1395153615745 Frame.java ADD int firts FIELD
+RefactoringAction 1395153617245 Frame.java RENAME firts=>int firtsPin FIELD
+RefactoringAction 1395153619743 Frame.java ADD int S FIELD
+RefactoringAction 1395153621243 Frame.java RENAME S=>int second FIELD
+RefactoringAction 1395153623742 Frame.java RENAME second=>int secondPin FIELD
+RefactoringAction 1395153638235 Frame.java ADD int getFirtsPin() METHOD
+RefactoringAction 1395153638235 Frame.java ADD void setFirtsPin(int) METHOD
+RefactoringAction 1395153638235 Frame.java ADD int getSecondPin() METHOD
+RefactoringAction 1395153638235 Frame.java ADD void setSecondPin(int) METHOD
+RefactoringAction 1395153666722 Frame.java REMOVE getFirtsPin() METHOD
+RefactoringAction 1395153666722 Frame.java REMOVE setSecondPin(int) METHOD
+RefactoringAction 1395153666722 Frame.java REMOVE getSecondPin() METHOD
+RefactoringAction 1395153666722 Frame.java REMOVE setFirtsPin(int) METHOD
+RefactoringAction 1395153677717 Frame.java ADD int getFirtsPin() METHOD
+RefactoringAction 1395153677717 Frame.java ADD void setFirtsPin(int) METHOD
+RefactoringAction 1395153677717 Frame.java ADD int getSecondPin() METHOD
+RefactoringAction 1395153677717 Frame.java ADD void setSecondPin(int) METHOD
+RefactoringAction 1395153680216 Frame.java REMOVE getFirtsPin() METHOD
+RefactoringAction 1395153680216 Frame.java REMOVE setSecondPin(int) METHOD
+RefactoringAction 1395153680216 Frame.java REMOVE getSecondPin() METHOD
+RefactoringAction 1395153680216 Frame.java REMOVE setFirtsPin(int) METHOD
+RefactoringAction 1395153728695 Frame.java RENAME Frame()=>Frame(int) METHOD
+RefactoringAction 1395153729694 Frame.java RENAME Frame(int)=>Frame(int, int) METHOD
+RefactoringAction 1395153847662 Frame.java REMOVE firtsPin FIELD
+RefactoringAction 1395153847662 Frame.java REMOVE secondPin FIELD
+RefactoringAction 1395153984171 Frame.java REMOVE frame FIELD
+RefactoringAction 1395153984171 Frame.java REMOVE Frame(int, int) METHOD
+RefactoringAction 1395153988170 Frame.java ADD int first FIELD
+RefactoringAction 1395153992169 Frame.java RENAME first=>int firstPin FIELD
+RefactoringAction 1395153996668 Frame.java ADD int second FIELD
+RefactoringAction 1395153998167 Frame.java RENAME second=>int secondPin FIELD
+RefactoringAction 1395154023676 Frame.java ADD int FIELD
+RefactoringAction 1395154094192 Frame.java ADD Frame() METHOD
+RefactoringAction 1395154105690 Frame.java RENAME Frame()=>Frame(int, int) METHOD
+RefactoringAction 1395154227673 Frame.java REMOVE secondPin FIELD
+RefactoringAction 1395154227673 Frame.java REMOVE firstPin FIELD
+EditAction 1395154233626 Frame.java 674 6 8 0
+RefactoringAction 1395154343161 Frame.java ADD int firstPin FIELD
+RefactoringAction 1395154343161 Frame.java ADD int secondPin FIELD
+RefactoringAction 1395154359659 Frame.java ADD int getFirstPin() METHOD
+RefactoringAction 1395154359659 Frame.java ADD void setFirstPin(int) METHOD
+RefactoringAction 1395154359659 Frame.java ADD int getSecondPin() METHOD
+RefactoringAction 1395154359659 Frame.java ADD void setSecondPin(int) METHOD
+RefactoringAction 1395154379157 TestBowlingScoreKeeper.java RENAME test()=>void testShou() METHOD
+RefactoringAction 1395154380157 TestBowlingScoreKeeper.java RENAME testShou()=>void testShould() METHOD
+RefactoringAction 1395154381657 TestBowlingScoreKeeper.java RENAME testShould()=>void testShouldbe() METHOD
+RefactoringAction 1395154385156 TestBowlingScoreKeeper.java RENAME testShouldbe()=><initializer /1> null
+RefactoringAction 1395154391156 TestBowlingScoreKeeper.java RENAME <initializer /1>=>void test() METHOD
+RefactoringAction 1395154402155 TestBowlingScoreKeeper.java RENAME test()=>void testfirt() METHOD
+RefactoringAction 1395154403654 TestBowlingScoreKeeper.java RENAME testfirt()=>void testfirtpin() METHOD
+RefactoringAction 1395154407154 TestBowlingScoreKeeper.java RENAME testfirtpin()=>void testFirtpin() METHOD
+RefactoringAction 1395154409654 TestBowlingScoreKeeper.java RENAME testFirtpin()=>void testFirtPin() METHOD
+RefactoringAction 1395154413153 TestBowlingScoreKeeper.java ADD void testFirtPin()/2 METHOD
+RefactoringAction 1395154421652 TestBowlingScoreKeeper.java RENAME testFirtPin()/2=>void testSecondPin() METHOD
+RefactoringAction 1395154596049 TestBowlingScoreKeeper.java ADD import java.awt.Frame IMPORT
+RefactoringAction 1395154605173 TestBowlingScoreKeeper.java REMOVE import java.awt.Frame IMPORT
+RefactoringAction 1395154619546 TestBowlingScoreKeeper.java ADD import upm.tdd.training.Frame IMPORT
+EditAction 1395154723827 TestBowlingScoreKeeper.java 393 2 4 2
+CompilationAction 1395154724015 TestBowlingScoreKeeper.java
+CompilationAction 1395154724015 TestBowlingScoreKeeper.java
+EditAction 1395154733388 Frame.java 1006 10 14 0
+UnitTestCaseAction 1395154742278 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395154742278 TestBowlingScoreKeeper OK
+EditAction 1395154789051 Frame.java 1023 10 14 0
+RefactoringAction 1395154797269 TestBowlingScoreKeeper.java ADD void testSecondPin()/2 METHOD
+RefactoringAction 1395154802268 TestBowlingScoreKeeper.java RENAME testSecondPin()/2=>void testScore FIELD
+RefactoringAction 1395154808283 TestBowlingScoreKeeper.java RENAME testScore()=>void testFramScore() METHOD
+RefactoringAction 1395154809283 TestBowlingScoreKeeper.java RENAME testFramScore()=>void testFrameScore() METHOD
+RefactoringAction 1395154817797 TestBowlingScoreKeeper.java RENAME testSecondPin()=>void testFrameSecondPin() METHOD
+RefactoringAction 1395154821812 TestBowlingScoreKeeper.java RENAME testFirtPin()=>void testFrameFirtPin() METHOD
+EditAction 1395154837122 TestBowlingScoreKeeper.java 511 3 6 3
+UnitTestCaseAction 1395154842668 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395154842668 TestBowlingScoreKeeper OK
+RefactoringAction 1395154875756 BowlingGame.java ADD void BowllingGame() METHOD
+RefactoringAction 1395154885755 BowlingGame.java REMOVE BowllingGame() METHOD
+RefactoringAction 1395154950807 BowlingGame.java RENAME BowlingGame()=>BowlingGame(Frame) METHOD
+RefactoringAction 1395154953306 BowlingGame.java RENAME BowlingGame(Frame)=>BowlingGame(Frame, Frame) METHOD
+RefactoringAction 1395154964320 BowlingGame.java RENAME BowlingGame(Frame, Frame)=>BowlingGame(Frame, Frame, Frame, Frame) METHOD
+RefactoringAction 1395154976834 BowlingGame.java RENAME BowlingGame(Frame, Frame, Frame, Frame)=>BowlingGame(Frame, Frame, Frame, Frame, Frame, Frame, Frame) METHOD
+RefactoringAction 1395155002845 BowlingGame.java RENAME BowlingGame(Frame, Frame, Frame, Frame, Frame, Frame, Frame)=>BowlingGame(Frame, Frame, Frame, Frame, Frame, Frame, Frame, Frame, Frame, Frame) METHOD
+EditAction 1395155062102 BowlingGame.java 909 5 12 0
+EditAction 1395155142979 BowlingGame.java 906 5 12 0
+RefactoringAction 1395155245197 BowlingGame.java ADD import java.util.Iterator IMPORT
+EditAction 1395155445679 BowlingGame.java 1054 5 15 0
+RefactoringAction 1395155452100 TestBowlingScoreKeeper.java ADD void testFrameScore()/2 METHOD
+RefactoringAction 1395155463207 TestBowlingScoreKeeper.java RENAME testFrameScore()/2=>void testGameScore() METHOD
+EditAction 1395155648317 TestBowlingScoreKeeper.java 1040 4 18 4
+CompilationAction 1395155648380 TestBowlingScoreKeeper.java
+CompilationAction 1395155648380 TestBowlingScoreKeeper.java
+CompilationAction 1395155648380 TestBowlingScoreKeeper.java
+RefactoringAction 1395155652410 TestBowlingScoreKeeper.java ADD import upm.tdd.training.BowlingGame IMPORT
+CompilationAction 1395155673266 TestBowlingScoreKeeper.java
+CompilationAction 1395155673266 TestBowlingScoreKeeper.java
+CompilationAction 1395155673266 TestBowlingScoreKeeper.java
+CompilationAction 1395155673376 TestBowlingScoreKeeper.java
+CompilationAction 1395155710260 TestBowlingScoreKeeper.java
+UnitTestCaseAction 1395155719337 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395155719337 TestBowlingScoreKeeper OK
+EditAction 1395155886840 Frame.java 1086 10 16 0
+EditAction 1395156069294 Frame.java 1086 10 16 0
+EditAction 1395156252576 BowlingGame.java 1154 5 16 0
+EditAction 1395156488459 BowlingGame.java 1168 5 16 0
+RefactoringAction 1395156501644 TestBowlingScoreKeeper.java ADD void testGameScore()/2 METHOD
+RefactoringAction 1395156505643 TestBowlingScoreKeeper.java RENAME testGameScore()/2=>void testGameScoreWith() METHOD
+RefactoringAction 1395156507659 TestBowlingScoreKeeper.java RENAME testGameScoreWith()=>void testGameScoreWithStrike() METHOD
+EditAction 1395156542372 TestBowlingScoreKeeper.java 1611 5 30 5
+UnitTestCaseAction 1395156547699 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395156547699 TestBowlingScoreKeeper FAIL
+EditAction 1395156669835 BowlingGame.java 1169 5 16 0
+UnitTestCaseAction 1395156678536 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395156678536 TestBowlingScoreKeeper FAIL
+EditAction 1395156694924 BowlingGame.java 1168 5 16 0
+EditAction 1395156739026 BowlingGame.java 1200 5 16 0
+UnitTestCaseAction 1395156750806 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395156750806 TestBowlingScoreKeeper FAIL
+EditAction 1395156788206 BowlingGame.java 1168 5 16 0
+RefactoringAction 1395156793486 BowlingGame.java REMOVE isNextFrameBonus() METHOD
+RefactoringAction 1395156795986 BowlingGame.java ADD boolean isNextFrameBonus() METHOD
+EditAction 1395156799594 BowlingGame.java 1202 5 16 0
+UnitTestCaseAction 1395156805843 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395156805843 TestBowlingScoreKeeper FAIL
+EditAction 1395156855882 BowlingGame.java 1194 5 16 0
+CompilationAction 1395156856022 BowlingGame.java
+CompilationAction 1395156862662 BowlingGame.java
+UnitTestCaseAction 1395156872160 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395156872160 TestBowlingScoreKeeper FAIL
+EditAction 1395156899453 BowlingGame.java 1203 5 16 0
+EditAction 1395157314970 BowlingGame.java 1258 5 17 0
+UnitTestCaseAction 1395157322649 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395157322649 TestBowlingScoreKeeper OK
+EditAction 1395157388462 Frame.java 1136 10 18 0
+EditAction 1395157567603 BowlingGame.java 1312 5 18 0
+EditAction 1395157657874 BowlingGame.java 1414 5 18 0
+UnitTestCaseAction 1395157670268 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395157670268 TestBowlingScoreKeeper OK
+RefactoringAction 1395157678754 TestBowlingScoreKeeper.java ADD void testGameScoreWithStrike()/2 METHOD
+RefactoringAction 1395157685756 TestBowlingScoreKeeper.java RENAME testGameScoreWithStrike()/2=>void testGameScoreWithSpare() METHOD
+EditAction 1395157709746 TestBowlingScoreKeeper.java 2146 6 42 6
+UnitTestCaseAction 1395157716435 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395157716435 TestBowlingScoreKeeper FAIL
+EditAction 1395157926521 BowlingGame.java 1428 5 18 0
+UnitTestCaseAction 1395157933709 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395157933709 TestBowlingScoreKeeper FAIL
+EditAction 1395157959849 BowlingGame.java 1416 5 18 0
+EditAction 1395157986098 BowlingGame.java 1396 5 18 0
+UnitTestCaseAction 1395157995208 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395157995208 TestBowlingScoreKeeper FAIL
+RefactoringAction 1395158026973 TestBowlingScoreKeeper.java ADD void testGameScoreWithSpare()/2 METHOD
+RefactoringAction 1395158029972 TestBowlingScoreKeeper.java RENAME testGameScoreWithSpare()/2=>void is() METHOD
+RefactoringAction 1395158034488 TestBowlingScoreKeeper.java RENAME is()=>void isSpare() METHOD
+RefactoringAction 1395158062566 TestBowlingScoreKeeper.java ADD void isSpare()/2 METHOD
+RefactoringAction 1395158067081 TestBowlingScoreKeeper.java RENAME isSpare()/2=>void isStrike() METHOD
+EditAction 1395158079097 TestBowlingScoreKeeper.java 2367 8 46 8
+UnitTestCaseAction 1395158085721 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395158085721 TestBowlingScoreKeeper FAIL
+EditAction 1395158104502 BowlingGame.java 1414 5 18 0
+EditAction 1395158124580 Frame.java 1136 10 18 0
+UnitTestCaseAction 1395158131735 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395158131735 TestBowlingScoreKeeper OK
+RefactoringAction 1395158155670 TestBowlingScoreKeeper.java ADD void testGameScoreWithSpare()/2 METHOD
+RefactoringAction 1395158162185 TestBowlingScoreKeeper.java RENAME testGameScoreWithSpare()/2=>void testGameScoreWSpare() METHOD
+RefactoringAction 1395158163185 TestBowlingScoreKeeper.java RENAME testGameScoreWSpare()=>void testGameScoreWhenmSpare() METHOD
+RefactoringAction 1395158164201 TestBowlingScoreKeeper.java RENAME testGameScoreWhenmSpare()=>void testGameScoreWhenSpare() METHOD
+RefactoringAction 1395158167700 TestBowlingScoreKeeper.java RENAME testGameScoreWhenSpare()=>void testGameScoreWhenStrikeFollowSpare() METHOD
+EditAction 1395158211554 TestBowlingScoreKeeper.java 2916 9 58 9
+UnitTestCaseAction 1395158218288 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395158218288 TestBowlingScoreKeeper OK
+RefactoringAction 1395158251243 TestBowlingScoreKeeper.java ADD void testGameScoreWhenStrikeFollowSpare()/2 METHOD
+RefactoringAction 1395158259246 TestBowlingScoreKeeper.java RENAME testGameScoreWhenStrikeFollowSpare()/2=>void testGameScoreWhenStrikeFollowStike() METHOD
+EditAction 1395158270968 TestBowlingScoreKeeper.java 3466 10 70 10
+EditAction 1395158280299 TestBowlingScoreKeeper.java 3466 10 70 10
+UnitTestCaseAction 1395158286441 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395158286441 TestBowlingScoreKeeper FAIL
+EditAction 1395158679175 BowlingGame.java 1654 5 20 0
+UnitTestCaseAction 1395158684206 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395158684206 TestBowlingScoreKeeper FAIL
+EditAction 1395158748614 BowlingGame.java 1644 5 11 0
+CompilationAction 1395158748739 BowlingGame.java
+CompilationAction 1395158753270 BowlingGame.java
+UnitTestCaseAction 1395158760786 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395158760786 TestBowlingScoreKeeper OK
+RefactoringAction 1395158793740 TestBowlingScoreKeeper.java ADD void testGameScoreWhenStrikeFollowStike()/2 METHOD
+RefactoringAction 1395158805756 TestBowlingScoreKeeper.java RENAME testGameScoreWhenStrikeFollowStike()/2=>void testGameScoreWhenMultipleSap() METHOD
+RefactoringAction 1395158810256 TestBowlingScoreKeeper.java RENAME testGameScoreWhenMultipleSap()=>void testGameScoreWhenMultipleSpares() METHOD
+EditAction 1395158833194 TestBowlingScoreKeeper.java 4010 11 82 11
+UnitTestCaseAction 1395158838413 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395158838413 TestBowlingScoreKeeper OK
+EditAction 1395158993012 BowlingGame.java 1696 5 20 0
+RefactoringAction 1395159013307 TestBowlingScoreKeeper.java ADD void testGameScoreWhenMultipleSpares()/2 METHOD
+RefactoringAction 1395159024322 TestBowlingScoreKeeper.java RENAME testGameScoreWhenMultipleSpares()/2=>void testGameScoreWhenSpares() METHOD
+RefactoringAction 1395159037837 TestBowlingScoreKeeper.java RENAME testGameScoreWhenSpares()=>void testGameScoreWhenSpareAsTheLast() METHOD
+RefactoringAction 1395159039336 TestBowlingScoreKeeper.java RENAME testGameScoreWhenSpareAsTheLast()=>void testGameScoreWhenSpareAsTheLastFrame() METHOD
+EditAction 1395159061600 TestBowlingScoreKeeper.java 4559 12 94 12
+UnitTestCaseAction 1395159069819 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395159069819 TestBowlingScoreKeeper OK
+EditAction 1395159096989 BowlingGame.java 1744 5 20 0
+RefactoringAction 1395159101988 TestBowlingScoreKeeper.java ADD void testGameScoreWhenSpareAsTheLastFrame()/2 METHOD
+RefactoringAction 1395159109003 TestBowlingScoreKeeper.java RENAME testGameScoreWhenSpareAsTheLastFrame()/2=>void testGameScoreWhenStrikeAsTheLastFrame() METHOD
+EditAction 1395159131142 TestBowlingScoreKeeper.java 5110 13 106 13
+UnitTestCaseAction 1395159138907 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395159138907 TestBowlingScoreKeeper FAIL
+EditAction 1395159202729 BowlingGame.java 1743 5 20 0
+UnitTestCaseAction 1395159208681 TestBowlingScoreKeeper.java OK
+UnitTestSessionAction 1395159208681 TestBowlingScoreKeeper OK
+RefactoringAction 1395159623149 TestBowlingScoreKeeper.java ADD void testGameScoreWhenStrikeAsTheLastFrame()/2 METHOD
+RefactoringAction 1395159629664 TestBowlingScoreKeeper.java RENAME testGameScoreWhenStrikeAsTheLastFrame()/2=>void testPerfectGam FIELD
+EditAction 1395159691813 TestBowlingScoreKeeper.java 5647 14 118 14
+RefactoringAction 1395159778958 BowlingGame.java ADD int firstTh FIELD
+RefactoringAction 1395159779958 BowlingGame.java RENAME firstTh=>int firstThrow FIELD
+RefactoringAction 1395159790488 BowlingGame.java ADD int secondTho FIELD
+RefactoringAction 1395159793003 BowlingGame.java RENAME secondTho=>int secondThrow FIELD
+EditAction 1395159837279 BowlingGame.java 1857 5 22 0
+EditAction 1395159876509 BowlingGame.java 1887 5 22 0
+EditAction 1395159923815 TestBowlingScoreKeeper.java 5699 14 120 14
+EditAction 1395159949624 TestBowlingScoreKeeper.java 5727 14 121 14
+RefactoringAction 1395159961639 TestBowlingScoreKeeper.java ADD void testGameScoreWhenSpareAsTheLastFrame()/2 METHOD
+RefactoringAction 1395159965169 TestBowlingScoreKeeper.java RENAME testGameScoreWhenSpareAsTheLastFrame()/2=>void testGameScoreWhenSpareAsTheLastFrame1() METHOD
+EditAction 1395160047518 TestBowlingScoreKeeper.java 6303 15 134 15
+EditAction 1395160061735 TestBowlingScoreKeeper.java 6304 15 134 15
+UnitTestCaseAction 1395160067328 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395160067328 TestBowlingScoreKeeper FAIL
+EditAction 1395160085310 TestBowlingScoreKeeper.java 6304 15 134 15
+UnitTestCaseAction 1395160091247 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395160091247 TestBowlingScoreKeeper FAIL
+RefactoringAction 1395160117353 TestBowlingScoreKeeper.java ADD void testPerfectGame()/2 METHOD
+RefactoringAction 1395160122868 TestBowlingScoreKeeper.java RENAME testPerfectGame()/2=>void testrelGame() METHOD
+RefactoringAction 1395160123883 TestBowlingScoreKeeper.java RENAME testrelGame()=>void testrealGame() METHOD
+RefactoringAction 1395160126899 TestBowlingScoreKeeper.java RENAME testrealGame()=>void testRealGame() METHOD
+EditAction 1395160187360 TestBowlingScoreKeeper.java 6859 16 147 16
+UnitTestCaseAction 1395160192203 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395160192203 TestBowlingScoreKeeper FAIL
+UnitTestCaseAction 1395160491518 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395160491518 TestBowlingScoreKeeper FAIL
+EditAction 1395160768575 BowlingGame.java 2149 5 24 0
+EditAction 1395160779248 BowlingGame.java 2150 5 24 0
+UnitTestCaseAction 1395160788546 TestBowlingScoreKeeper.java FAIL
+UnitTestSessionAction 1395160788546 TestBowlingScoreKeeper FAIL

@@ -1,0 +1,314 @@
+FileOpenedAction 1395153439629 SudokuTest.java 178 1 1 0
+RefactoringAction 1395153634337 Sudoku.java ADD int FIELD
+RefactoringAction 1395153763346 Sudoku.java ADD void re FIELD
+RefactoringAction 1395153766846 Sudoku.java RENAME re=>void readSolution FIELD
+RefactoringAction 1395153767846 Sudoku.java RENAME readSolution=>void readSolution() METHOD
+RefactoringAction 1395153785359 Sudoku.java RENAME readSolution()=>void readSolution(String) METHOD
+EditAction 1395153893315 Sudoku.java 1335 3 3 0
+RefactoringAction 1395153947465 Sudoku.java REMOVE readSolution(String) METHOD
+RefactoringAction 1395154014458 Sudoku.java ADD int check FIELD
+RefactoringAction 1395154015458 Sudoku.java RENAME check=>int check81 FIELD
+RefactoringAction 1395154018458 Sudoku.java RENAME check81=>int check81Character FIELD
+RefactoringAction 1395154019958 Sudoku.java RENAME check81Character=>int check81Characters FIELD
+RefactoringAction 1395154021458 Sudoku.java RENAME check81Characters=>int check81CharactersLong FIELD
+RefactoringAction 1395154022457 Sudoku.java RENAME check81CharactersLong=>int check81CharactersLong() METHOD
+RefactoringAction 1395154030457 Sudoku.java RENAME check81CharactersLong()=>int check81CharactersLong(String) METHOD
+EditAction 1395154098155 Sudoku.java 1353 3 3 0
+RefactoringAction 1395154105404 SudokuTest.java RENAME test()=>void che() METHOD
+RefactoringAction 1395154106904 SudokuTest.java RENAME che()=>void check() METHOD
+RefactoringAction 1395154112904 SudokuTest.java RENAME check()=>void checkSt() METHOD
+RefactoringAction 1395154116403 SudokuTest.java RENAME checkSt()=>void checkSolution() METHOD
+RefactoringAction 1395154119903 SudokuTest.java RENAME checkSolution()=>void checkSolutionString() METHOD
+RefactoringAction 1395154127403 SudokuTest.java RENAME checkSolutionString()=>void check() METHOD
+RefactoringAction 1395154136902 SudokuTest.java RENAME check()=>void check81CharactersLong() METHOD
+RefactoringAction 1395154149402 SudokuTest.java RENAME check81CharactersLong()=>void check81CharactersLongReturn() METHOD
+RefactoringAction 1395154155401 SudokuTest.java RENAME check81CharactersLongReturn()=>void check81CharactersLongReturnTrue() METHOD
+RefactoringAction 1395154156401 SudokuTest.java RENAME check81CharactersLongReturnTrue()=>void check81CharactersLongReturnTrueIf() METHOD
+RefactoringAction 1395154157901 SudokuTest.java RENAME check81CharactersLongReturnTrueIf()=>void check81CharactersLongReturnTrueIfThe() METHOD
+RefactoringAction 1395154160901 SudokuTest.java RENAME check81CharactersLongReturnTrueIfThe()=>void check81CharactersLongReturnTrueIfTheInputString() METHOD
+RefactoringAction 1395154163401 SudokuTest.java RENAME check81CharactersLongReturnTrueIfTheInputString()=>void check81CharactersLongReturnTrueIfTheInputStringIs() METHOD
+RefactoringAction 1395154165401 SudokuTest.java RENAME check81CharactersLongReturnTrueIfTheInputStringIs()=>void check81CharactersLongReturnTrueIfTheInputStringIs81() METHOD
+RefactoringAction 1395154166901 SudokuTest.java RENAME check81CharactersLongReturnTrueIfTheInputStringIs81()=>void check81CharactersLongReturnTrueIfTheInputStringIs81L() METHOD
+RefactoringAction 1395154169901 SudokuTest.java RENAME check81CharactersLongReturnTrueIfTheInputStringIs81L()=>void check81CharactersLongReturnTrueIfTheInputStringIs81() METHOD
+RefactoringAction 1395154171900 SudokuTest.java RENAME check81CharactersLongReturnTrueIfTheInputStringIs81()=>void check81CharactersLongReturnTrueIfTheInputStringIs81Size() METHOD
+RefactoringAction 1395154480384 SudokuTest.java RENAME check81CharactersLongReturnTrueIfTheInputStringIs81Size()=>void check81CharactersLongReturnFalseIfTheInputStringIs81Size() METHOD
+RefactoringAction 1395154489384 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringIs81Size()=>void check81CharactersLongReturnFalseIfTheInputString81Size() METHOD
+RefactoringAction 1395154497883 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputString81Size()=>void check81CharactersLongReturnFalseIfTheInputStringLengt81Size() METHOD
+RefactoringAction 1395154501383 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringLengt81Size()=>void check81CharactersLongReturnFalseIfTheInputStringLengthIsLo81Size() METHOD
+RefactoringAction 1395154502883 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringLengthIsLo81Size()=>void check81CharactersLongReturnFalseIfTheInputStringLengthIsLower81Size() METHOD
+RefactoringAction 1395154505383 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringLengthIsLower81Size()=>void check81CharactersLongReturnFalseIfTheInputStringLengthIsLowerTha81Size() METHOD
+RefactoringAction 1395154506383 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringLengthIsLowerTha81Size()=>void check81CharactersLongReturnFalseIfTheInputStringLengthIsLowerThan81Size() METHOD
+RefactoringAction 1395154508883 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringLengthIsLowerThan81Size()=>void check81CharactersLongReturnFalseIfTheInputStringLengthIsLowerThan81() METHOD
+EditAction 1395154524585 SudokuTest.java 301 1 2 1
+UnitTestCaseAction 1395154534756 SudokuTest.java OK
+UnitTestSessionAction 1395154534756 SudokuTest OK
+RefactoringAction 1395154602815 Sudoku.java ADD boolean check FIELD
+RefactoringAction 1395154606314 Sudoku.java RENAME check=>boolean checkCorrectFormat FIELD
+RefactoringAction 1395154607314 Sudoku.java RENAME checkCorrectFormat=>boolean checkCorrectFormat() METHOD
+RefactoringAction 1395154620314 Sudoku.java RENAME checkCorrectFormat()=>boolean checkCorrectFormat(String) METHOD
+RefactoringAction 1395154717808 Sudoku.java RENAME check81CharactersLong(String)=>boolean read(String) METHOD
+RefactoringAction 1395154725308 Sudoku.java RENAME read(String)=>boolean readCandidateSolution(String) METHOD
+EditAction 1395154981887 Sudoku.java 1484 4 4 0
+CompilationAction 1395154982090 Sudoku.java
+CompilationAction 1395154982090 SudokuTest.java
+RefactoringAction 1395154987808 Sudoku.java REMOVE checkCorrectFormat(String) METHOD
+CompilationAction 1395154989527 SudokuTest.java
+EditAction 1395155081084 Sudoku.java 1512 3 3 0
+CompilationAction 1395155081225 SudokuTest.java
+RefactoringAction 1395155121300 SudokuTest.java RENAME check81CharactersLongReturnFalseIfTheInputStringLengthIsLowerThan81()=>void checkreadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81() METHOD
+RefactoringAction 1395155124800 SudokuTest.java RENAME checkreadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81()=>void checkReadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81() METHOD
+CompilationAction 1395155125644 SudokuTest.java
+UnitTestCaseAction 1395155127753 SudokuTest.java OK
+UnitTestSessionAction 1395155127769 SudokuTest.checkReadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81 OK
+RefactoringAction 1395155140299 SudokuTest.java ADD void checkReadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81()/2 METHOD
+RefactoringAction 1395155146299 SudokuTest.java RENAME checkReadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81()/2=>void checkReadCandidateSolutionReturnTIfTheInputStringLengthIsLowerThan81() METHOD
+RefactoringAction 1395155147299 SudokuTest.java RENAME checkReadCandidateSolutionReturnTIfTheInputStringLengthIsLowerThan81()=>void checkReadCandidateSolutionReturnTrIfTheInputStringLengthIsLowerThan81() METHOD
+RefactoringAction 1395155149299 SudokuTest.java RENAME checkReadCandidateSolutionReturnTrIfTheInputStringLengthIsLowerThan81()=>void checkReadCandidateSolutionReturnIfTheInputStringLengthIsLowerThan81() METHOD
+RefactoringAction 1395155170799 SudokuTest.java RENAME checkReadCandidateSolutionReturnIfTheInputStringLengthIsLowerThan81()=>void checkReadCandidateSolutionw() METHOD
+RefactoringAction 1395155171799 SudokuTest.java RENAME checkReadCandidateSolutionw()=>void checkReadCandidateSolution() METHOD
+RefactoringAction 1395155173799 SudokuTest.java RENAME checkReadCandidateSolution()=>void checkReadCandidateSolutionWork() METHOD
+RefactoringAction 1395155175799 SudokuTest.java RENAME checkReadCandidateSolutionWork()=>void checkReadCandidateSolutionWorksW() METHOD
+RefactoringAction 1395155181800 SudokuTest.java RENAME checkReadCandidateSolutionWorksW()=>void checkReadCandidateSolutionWorksWithA() METHOD
+RefactoringAction 1395155183800 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithA()=>void checkReadCandidateSolutionWorksWithANon() METHOD
+RefactoringAction 1395155185300 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithANon()=>void checkReadCandidateSolutionWorksWithANo() METHOD
+RefactoringAction 1395155186300 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithANo()=>void checkReadCandidateSolutionWorksWithA() METHOD
+RefactoringAction 1395155192300 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithA()=>void checkReadCandidateSolutionWorksWithStringOf() METHOD
+RefactoringAction 1395155195800 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithStringOf()=>void checkReadCandidateSolutionWorksWithStringOfL() METHOD
+RefactoringAction 1395155199300 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithStringOfL()=>void checkReadCandidateSolutionWorksWithStringOfCharacters() METHOD
+RefactoringAction 1395155398808 Sudoku.java RENAME readCandidateSolution(String)=>boolean read FIELD
+RefactoringAction 1395155400808 Sudoku.java RENAME CandidateSolution(String)=>void CheckCandidateSolution(String) METHOD
+RefactoringAction 1395155402808 Sudoku.java RENAME CheckCandidateSolution(String)=>void CheckLCandidateSolution(String) METHOD
+RefactoringAction 1395155403808 Sudoku.java RENAME CheckLCandidateSolution(String)=>void CheckLengCandidateSolution(String) METHOD
+RefactoringAction 1395155406308 Sudoku.java RENAME CheckLengCandidateSolution(String)=>void CheckLengthCandidateSolution(String) METHOD
+EditAction 1395155422590 Sudoku.java 1526 3 3 0
+CompilationAction 1395155422762 SudokuTest.java
+RefactoringAction 1395155517434 Sudoku.java ADD boolean check FIELD
+RefactoringAction 1395155520434 Sudoku.java RENAME check=>boolean checkR1() METHOD
+CompilationAction 1395155717477 SudokuTest.java
+EditAction 1395155717493 Sudoku.java 1682 4 5 0
+CompilationAction 1395155717586 SudokuTest.java
+RefactoringAction 1395155725445 SudokuTest.java ADD void checkReadCandidateSolutionWorksWithStringOfCharacters()/2 METHOD
+RefactoringAction 1395155740555 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithStringOfCharacters()/2=>void checkReadCandidateSolutionWorksWithStringOf81() METHOD
+RefactoringAction 1395155742555 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithStringOf81()=>void checkReadCandidateSolutionWorksWithStringOf81Ints() METHOD
+CompilationAction 1395155758023 SudokuTest.java
+UnitTestCaseAction 1395155761804 SudokuTest.java OK
+UnitTestSessionAction 1395155761804 SudokuTest.checkReadCandidateSolutionReturnFalseIfTheInputStringLengthIsLowerThan81 OK
+EditAction 1395155786053 SudokuTest.java 836 3 6 3
+UnitTestCaseAction 1395155791772 SudokuTest.java FAIL
+UnitTestSessionAction 1395155791772 SudokuTest FAIL
+EditAction 1395155811521 SudokuTest.java 835 3 6 3
+UnitTestCaseAction 1395155816411 SudokuTest.java OK
+UnitTestSessionAction 1395155816411 SudokuTest OK
+UnitTestCaseAction 1395155826192 SudokuTest.java OK
+UnitTestSessionAction 1395155826192 SudokuTest OK
+UnitTestCaseAction 1395155836770 SudokuTest.java OK
+UnitTestSessionAction 1395155836770 SudokuTest OK
+UnitTestCaseAction 1395155839817 SudokuTest.java OK
+UnitTestSessionAction 1395155839817 SudokuTest OK
+EditAction 1395155965952 Sudoku.java 1686 4 5 0
+UnitTestCaseAction 1395155977889 SudokuTest.java FAIL
+UnitTestSessionAction 1395155977889 SudokuTest FAIL
+EditAction 1395156117024 Sudoku.java 1699 4 5 0
+RefactoringAction 1395156175788 SudokuTest.java ADD void checkReadCandidateSolutionWorksWithStringOf81Ints()/2 METHOD
+RefactoringAction 1395156181288 SudokuTest.java RENAME checkReadCandidateSolutionWorksWithStringOf81Ints()/2=>void checkR1eadCandidateSolutionWorksWithStringOf81Ints() METHOD
+RefactoringAction 1395156186788 SudokuTest.java RENAME checkR1eadCandidateSolutionWorksWithStringOf81Ints()=>void checkR1() METHOD
+RefactoringAction 1395156192289 SudokuTest.java RENAME checkR1()=>void checkR1Detects() METHOD
+RefactoringAction 1395156193289 SudokuTest.java RENAME checkR1Detects()=>void checkR1DetectsA() METHOD
+RefactoringAction 1395156194789 SudokuTest.java RENAME checkR1DetectsA()=>void checkR1DetectsA0() METHOD
+RefactoringAction 1395156200289 SudokuTest.java RENAME checkR1DetectsA0()=>void checkR1DetectsA0In() METHOD
+RefactoringAction 1395156201289 SudokuTest.java RENAME checkR1DetectsA0In()=>void checkR1DetectsA0InThe() METHOD
+RefactoringAction 1395156202289 SudokuTest.java RENAME checkR1DetectsA0InThe()=>void checkR1DetectsA0InTheSt() METHOD
+RefactoringAction 1395156203790 SudokuTest.java RENAME checkR1DetectsA0InTheSt()=>void checkR1DetectsA0InThe() METHOD
+RefactoringAction 1395156206290 SudokuTest.java RENAME checkR1DetectsA0InThe()=>void checkR1DetectsA0InTheSolution() METHOD
+EditAction 1395156217712 SudokuTest.java 1074 4 8 4
+UnitTestCaseAction 1395156220947 SudokuTest.java FAIL
+UnitTestSessionAction 1395156220947 SudokuTest FAIL
+EditAction 1395156273966 SudokuTest.java 1094 4 9 4
+UnitTestCaseAction 1395156275482 SudokuTest.java FAIL
+UnitTestSessionAction 1395156275482 SudokuTest FAIL
+RefactoringAction 1395156373380 Sudoku.java ADD boolean checkR1()/2 METHOD
+RefactoringAction 1395156376380 Sudoku.java RENAME checkR1()/2=>boolean checkR2() METHOD
+RefactoringAction 1395156475886 Sudoku.java RENAME checkR2()=>boolean checkR23() METHOD
+RefactoringAction 1395156477386 Sudoku.java RENAME checkR23()=>boolean checkR3() METHOD
+EditAction 1395156667385 Sudoku.java 2061 5 10 0
+CompilationAction 1395156667651 Sudoku.java
+EditAction 1395156677369 Sudoku.java 2061 5 10 0
+RefactoringAction 1395156686525 SudokuTest.java ADD void checkR1DetectsA0InTheSolution()/2 METHOD
+RefactoringAction 1395156693525 SudokuTest.java RENAME checkR1DetectsA0InTheSolution()/2=>void checkR3DetectsA0InTheSolution() METHOD
+RefactoringAction 1395156704525 SudokuTest.java RENAME checkR3DetectsA0InTheSolution()=>void checkR3DetectsARepeteInTheSolution() METHOD
+RefactoringAction 1395156705525 SudokuTest.java RENAME checkR3DetectsARepeteInTheSolution()=>void checkR3DetectsARepeteeInTheSolution() METHOD
+RefactoringAction 1395156708025 SudokuTest.java RENAME checkR3DetectsARepeteeInTheSolution()=>void checkR3DetectsARepeteInTheSolution() METHOD
+RefactoringAction 1395156721025 SudokuTest.java RENAME checkR3DetectsARepeteInTheSolution()=>void checkR3DetectsARepeatedInTheSolution() METHOD
+RefactoringAction 1395156725025 SudokuTest.java RENAME checkR3DetectsARepeatedInTheSolution()=>void checkR3DetectsARepeatedDigitInTheSolution() METHOD
+RefactoringAction 1395156730525 SudokuTest.java RENAME checkR3DetectsARepeatedDigitInTheSolution()=>void checkR3DetectsARepeatedDigitInARowInTheSolution() METHOD
+RefactoringAction 1395156739025 SudokuTest.java RENAME checkR3DetectsARepeatedDigitInARowInTheSolution()=>void checkR3DetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+EditAction 1395156761275 SudokuTest.java 1373 5 12 5
+EditAction 1395156765869 SudokuTest.java 1373 5 12 5
+UnitTestCaseAction 1395156769009 SudokuTest.java FAIL
+UnitTestSessionAction 1395156769009 SudokuTest FAIL
+RefactoringAction 1395156823523 SudokuTest.java ADD void checkR3DetectsARepeatedDigitInAnyRowInTheSolution()/2 METHOD
+RefactoringAction 1395156840632 SudokuTest.java RENAME checkR3DetectsARepeatedDigitInAnyRowInTheSolution()/2=>void checkR3RetDetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+RefactoringAction 1395156842632 SudokuTest.java RENAME checkR3RetDetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR3ReturnDetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+RefactoringAction 1395156845132 SudokuTest.java RENAME checkR3ReturnDetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR3ReturnTrueDetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+RefactoringAction 1395156851132 SudokuTest.java RENAME checkR3ReturnTrueDetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR3ReturnTrueWithACorrectDetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+RefactoringAction 1395156863631 SudokuTest.java RENAME checkR3ReturnTrueWithACorrectDetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR3ReturnTrueWithACorrect() METHOD
+RefactoringAction 1395156868131 SudokuTest.java RENAME checkR3ReturnTrueWithACorrect()=>void checkR3ReturnTrueWithACorrectRow() METHOD
+RefactoringAction 1395156874631 SudokuTest.java RENAME checkR3ReturnTrueWithACorrectRow()=>void checkR3ReturnTrueWithCorrectRow() METHOD
+RefactoringAction 1395156875631 SudokuTest.java RENAME checkR3ReturnTrueWithCorrectRow()=>void checkR3ReturnTrueWithCorrectsRow() METHOD
+RefactoringAction 1395156876631 SudokuTest.java RENAME checkR3ReturnTrueWithCorrectsRow()=>void checkR3ReturnTrueWithCorrectsRows() METHOD
+EditAction 1395156877506 SudokuTest.java 1638 6 15 6
+EditAction 1395156884334 SudokuTest.java 1637 6 15 6
+UnitTestCaseAction 1395156885787 SudokuTest.java FAIL
+UnitTestSessionAction 1395156885787 SudokuTest FAIL
+RefactoringAction 1395156932676 SudokuTest.java ADD void checkR1DetectsA0InTheSolution()/2 METHOD
+RefactoringAction 1395156938676 SudokuTest.java RENAME checkR1DetectsA0InTheSolution()/2=>void checkR1Return() METHOD
+RefactoringAction 1395156940176 SudokuTest.java RENAME checkR1Return()=>void checkR1ReturnTrue() METHOD
+RefactoringAction 1395156944176 SudokuTest.java RENAME checkR1ReturnTrue()=>void checkR1ReturnTrueWith() METHOD
+RefactoringAction 1395156945175 SudokuTest.java RENAME checkR1ReturnTrueWith()=>void checkR1ReturnTrueWithA() METHOD
+RefactoringAction 1395156954675 SudokuTest.java RENAME checkR1ReturnTrueWithA()=>void checkR1ReturnTrueWithACor() METHOD
+RefactoringAction 1395156959675 SudokuTest.java RENAME checkR1ReturnTrueWithACor()=>void checkR1ReturnTrueWithCorrectDigits() METHOD
+EditAction 1395156966128 SudokuTest.java 1900 7 18 7
+UnitTestCaseAction 1395156969722 SudokuTest.java FAIL
+UnitTestSessionAction 1395156969722 SudokuTest FAIL
+EditAction 1395157004174 Sudoku.java 2061 5 10 0
+EditAction 1395157031579 Sudoku.java 2080 5 10 0
+UnitTestCaseAction 1395157039594 SudokuTest.java FAIL
+UnitTestSessionAction 1395157039594 SudokuTest FAIL
+RefactoringAction 1395157053719 Sudoku.java ADD boolean checkR3()/2 METHOD
+RefactoringAction 1395157057719 Sudoku.java RENAME checkR3()/2=>boolean checkR4() METHOD
+EditAction 1395157112060 Sudoku.java 2327 6 13 0
+RefactoringAction 1395157122716 SudokuTest.java ADD void checkR3DetectsARepeatedDigitInAnyRowInTheSolution()/2 METHOD
+RefactoringAction 1395157122716 SudokuTest.java ADD void checkR3ReturnTrueWithCorrectsRows()/2 METHOD
+RefactoringAction 1395157127216 SudokuTest.java RENAME checkR3DetectsARepeatedDigitInAnyRowInTheSolution()/2=>void checkR4DetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+RefactoringAction 1395157129216 SudokuTest.java RENAME checkR3ReturnTrueWithCorrectsRows()/2=>void checkR4ReturnTrueWithCorrectsRows() METHOD
+RefactoringAction 1395157134716 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectsRows()=>void checkR4ReturnTrueWithCorrect() METHOD
+RefactoringAction 1395157136716 SudokuTest.java RENAME checkR4ReturnTrueWithCorrect()=>void checkR4ReturnTrueWithCorrectCo() METHOD
+RefactoringAction 1395157137716 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectCo()=>void checkR4ReturnTrueWithCorrectCol() METHOD
+RefactoringAction 1395157139216 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectCol()=>void checkR4ReturnTrueWithCorrectColumns() METHOD
+RefactoringAction 1395157141716 SudokuTest.java RENAME checkR3ReturnTrueWithCorrectsRows()=>void checkR3ReturnTrueWithCorrectRows() METHOD
+EditAction 1395157142809 SudokuTest.java 2442 9 24 9
+EditAction 1395157208339 SudokuTest.java 2442 9 24 9
+UnitTestCaseAction 1395157209714 SudokuTest.java FAIL
+UnitTestSessionAction 1395157209714 SudokuTest FAIL
+EditAction 1395157353931 SudokuTest.java 2442 9 24 9
+EditAction 1395157353978 Sudoku.java 2368 6 13 0
+UnitTestCaseAction 1395157354915 SudokuTest.java FAIL
+UnitTestSessionAction 1395157354915 SudokuTest FAIL
+RefactoringAction 1395157368776 Sudoku.java ADD boolean checkR3()/2 METHOD
+RefactoringAction 1395157371276 Sudoku.java RENAME checkR3()/2=>boolean checkR2() METHOD
+EditAction 1395158191273 Sudoku.java 2853 7 16 0
+RefactoringAction 1395158289090 SudokuTest.java ADD void checkR4DetectsARepeatedDigitInAnyRowInTheSolution()/2 METHOD
+RefactoringAction 1395158289090 SudokuTest.java ADD void checkR4ReturnTrueWithCorrectColumns()/2 METHOD
+RefactoringAction 1395158294091 SudokuTest.java RENAME checkR4DetectsARepeatedDigitInAnyRowInTheSolution()/2=>void checkR42DetectsARepeatedDigitInAnyRowInTheSolution() METHOD
+RefactoringAction 1395158304092 SudokuTest.java RENAME checkR42DetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR42DetectsARepeatedDigitInAnySubGridInTheSolution() METHOD
+RefactoringAction 1395158310592 SudokuTest.java RENAME checkR42DetectsARepeatedDigitInAnySubGridInTheSolution()=>void checkR2DetectsARepeatedDigitInAnySubGridInTheSolution() METHOD
+RefactoringAction 1395158327093 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectColumns()/2=>void checkR4ReturnTrueWithCorrectSubG() METHOD
+RefactoringAction 1395158329094 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectSubG()=>void checkR4ReturnTrueWithCorrectSubGrids() METHOD
+EditAction 1395158345376 SudokuTest.java 2990 11 30 11
+UnitTestCaseAction 1395158351736 SudokuTest.java FAIL
+UnitTestSessionAction 1395158351736 SudokuTest FAIL
+EditAction 1395158378097 Sudoku.java 2894 7 16 0
+RefactoringAction 1395158400286 SudokuTest.java ADD void checkR4ReturnTrueWithCorrectColumns()/2 METHOD
+RefactoringAction 1395158406787 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectColumns()/2=>void checkVeriReturnTrueWithCorrectColumns() METHOD
+RefactoringAction 1395158408287 SudokuTest.java RENAME checkVeriReturnTrueWithCorrectColumns()=>void checkVerifyReturnTrueWithCorrectColumns() METHOD
+RefactoringAction 1395158419788 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectColumns()=>void checkR4ReturnsTrueWithCorrectColumns() METHOD
+RefactoringAction 1395158422288 SudokuTest.java RENAME checkR3ReturnTrueWithCorrectRows()=>void checkR3ReturnsTrueWithCorrectRows() METHOD
+RefactoringAction 1395158424788 SudokuTest.java RENAME checkR4ReturnTrueWithCorrectSubGrids()=>void checkR4ReturnsTrueWithCorrectSubGrids() METHOD
+RefactoringAction 1395158428789 SudokuTest.java RENAME checkR1ReturnTrueWithCorrectDigits()=>void checkR1ReturnsTrueWithCorrectDigits() METHOD
+RefactoringAction 1395158439289 SudokuTest.java RENAME checkVerifyReturnTrueWithCorrectColumns()=>void checkVerifyReturnsTrueWithCorrectColumns() METHOD
+RefactoringAction 1395158447790 SudokuTest.java RENAME checkVerifyReturnsTrueWithCorrectColumns()=>void checkVerifyReturns FIELD
+RefactoringAction 1395158457791 SudokuTest.java RENAME checkVerifyReturns()=>void checkVerifyReturnsM() METHOD
+RefactoringAction 1395158460291 SudokuTest.java RENAME checkVerifyReturnsM()=>void checkVerifyReturnsMinus() METHOD
+RefactoringAction 1395158461791 SudokuTest.java RENAME checkVerifyReturnsMinus()=>void checkVerifyReturnsMinus1() METHOD
+RefactoringAction 1395158476292 SudokuTest.java RENAME checkVerifyReturnsMinus1()=>void checkVerifyReturnsMinus1With() METHOD
+RefactoringAction 1395158477792 SudokuTest.java RENAME checkVerifyReturnsMinus1With()=>void checkVerifyReturnsMinus1WithA() METHOD
+RefactoringAction 1395158479793 SudokuTest.java RENAME checkVerifyReturnsMinus1WithA()=>void checkVerifyReturnsMinus1WithASolution() METHOD
+RefactoringAction 1395158482293 SudokuTest.java RENAME checkVerifyReturnsMinus1WithASolution()=>void checkVerifyReturnsMinus1WithASolutionViolating() METHOD
+RefactoringAction 1395158483793 SudokuTest.java RENAME checkVerifyReturnsMinus1WithASolutionViolating()=>void checkVerifyReturnsMinus1WithASolutionViolatingR1() METHOD
+RefactoringAction 1395158491794 SudokuTest.java ADD void checkVerifyReturnsMinus1WithASolutionViolatingR1()/2 METHOD
+RefactoringAction 1395158491794 SudokuTest.java ADD void checkVerifyReturnsMinus1WithASolutionViolatingR1()/3 METHOD
+RefactoringAction 1395158491794 SudokuTest.java ADD void checkVerifyReturnsMinus1WithASolutionViolatingR1()/4 METHOD
+RefactoringAction 1395158493794 SudokuTest.java RENAME checkVerifyReturnsMinus1WithASolutionViolatingR1()/4=>void checkVerifyReturnsMinus2WithASolutionViolatingR1() METHOD
+RefactoringAction 1395158495794 SudokuTest.java RENAME checkVerifyReturnsMinus1WithASolutionViolatingR1()/3=>void checkVerifyReturnsMinus2WithASolutionViolatingR1()/2 METHOD
+RefactoringAction 1395158496794 SudokuTest.java RENAME checkVerifyReturnsMinus2WithASolutionViolatingR1()/2=>void checkVerifyReturnsMinus2WithASolutionViolatingR12() METHOD
+RefactoringAction 1395158498294 SudokuTest.java RENAME checkVerifyReturnsMinus2WithASolutionViolatingR12()=>void checkVerifyReturnsMinus2WithASolutionViolatingR2() METHOD
+RefactoringAction 1395158499794 SudokuTest.java RENAME checkVerifyReturnsMinus2WithASolutionViolatingR1()=>void checkVerifyReturnsMinus3WithASolutionViolatingR1() METHOD
+RefactoringAction 1395158501794 SudokuTest.java RENAME checkVerifyReturnsMinus3WithASolutionViolatingR1()=>void checkVerifyReturnsMinus3WithASolutionViolatingR3() METHOD
+RefactoringAction 1395158504294 SudokuTest.java RENAME checkVerifyReturnsMinus1WithASolutionViolatingR1()/2=>void checkVerifyReturnsMinus4WithASolutionViolatingR1() METHOD
+RefactoringAction 1395158505795 SudokuTest.java RENAME checkVerifyReturnsMinus4WithASolutionViolatingR1()=>void checkVerifyReturnsMinus4WithASolutionViolatingR4() METHOD
+RefactoringAction 1395158511295 SudokuTest.java ADD void checkVerifyReturnsMinus4WithASolutionViolatingR4()/2 METHOD
+RefactoringAction 1395158515295 SudokuTest.java RENAME checkVerifyReturnsMinus4WithASolutionViolatingR4()/2=>void checkVerifyReturns0WithASolutionViolatingR4() METHOD
+RefactoringAction 1395158522295 SudokuTest.java RENAME checkVerifyReturns0WithASolutionViolatingR4()=>void checkVerifyReturns0WithValidASolutionViolatingR4() METHOD
+RefactoringAction 1395158524795 SudokuTest.java RENAME checkVerifyReturns0WithValidASolutionViolatingR4()=>void checkVerifyReturns0WithValidSolutionViolatingR4() METHOD
+RefactoringAction 1395158528296 SudokuTest.java RENAME checkVerifyReturns0WithValidSolutionViolatingR4()=>void checkVerifyReturns0WithValidSolution() METHOD
+EditAction 1395158610640 SudokuTest.java 4319 16 44 16
+EditAction 1395158826299 SudokuTest.java 4060 16 40 16
+CompilationAction 1395158826424 SudokuTest.java
+CompilationAction 1395159320807 SudokuTest.java
+UnitTestCaseAction 1395159324479 SudokuTest.java FAIL
+UnitTestSessionAction 1395159324479 SudokuTest FAIL
+EditAction 1395159388415 Sudoku.java 2894 7 16 0
+UnitTestCaseAction 1395159392634 SudokuTest.java FAIL
+UnitTestSessionAction 1395159392634 SudokuTest FAIL
+EditAction 1395159630847 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395159633472 SudokuTest.java FAIL
+UnitTestSessionAction 1395159633472 SudokuTest FAIL
+EditAction 1395159713986 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395159714908 SudokuTest.java FAIL
+UnitTestSessionAction 1395159714908 SudokuTest FAIL
+EditAction 1395159733048 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395159736392 SudokuTest.java FAIL
+UnitTestSessionAction 1395159736392 SudokuTest FAIL
+EditAction 1395159773234 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395159774203 SudokuTest.java FAIL
+UnitTestSessionAction 1395159774203 SudokuTest FAIL
+RefactoringAction 1395159905637 SudokuTest.java RENAME checkR4ReturnsTrueWithCorrectSubGrids()=>void checkR2ReturnsTrueWithCorrectSubGrids() METHOD
+EditAction 1395159915184 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395159917418 SudokuTest.java FAIL
+UnitTestSessionAction 1395159917418 SudokuTest FAIL
+RefactoringAction 1395159935137 SudokuTest.java RENAME checkR2ReturnsTrueWithCorrectSubGrids()=>void checkR4ReturnsTrueWithCorrectSubGrids() METHOD
+RefactoringAction 1395159959636 SudokuTest.java RENAME checkR4ReturnsTrueWithCorrectSubGrids()=>void checkR2ReturnsTrueWithCorrectSubGrids() METHOD
+EditAction 1395159962964 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395159964980 SudokuTest.java FAIL
+UnitTestSessionAction 1395159964980 SudokuTest FAIL
+EditAction 1395160020431 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395160021775 SudokuTest.java FAIL
+UnitTestSessionAction 1395160021775 SudokuTest FAIL
+EditAction 1395160075586 SudokuTest.java 4126 16 40 16
+UnitTestCaseAction 1395160076992 SudokuTest.java FAIL
+UnitTestSessionAction 1395160076992 SudokuTest FAIL
+RefactoringAction 1395160119132 SudokuTest.java RENAME checkR4DetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR4DetectsARepeatedDigitInAnyColumInTheSolution() METHOD
+RefactoringAction 1395160120632 SudokuTest.java RENAME checkR4DetectsARepeatedDigitInAnyColumInTheSolution()=>void checkR4DetectsARepeatedDigitInAnyColumnInTheSolution() METHOD
+RefactoringAction 1395160125132 SudokuTest.java RENAME checkR4DetectsARepeatedDigitInAnyColumnInTheSolution()=>void checkR4DetectsARepeatedDigitInAnyColumnOnTheSolution() METHOD
+RefactoringAction 1395160128132 SudokuTest.java RENAME checkR4DetectsARepeatedDigitInAnyColumnOnTheSolution()=>void checkR4DetectsARepeatedDigitInAnyColumnOnfTheSolution() METHOD
+RefactoringAction 1395160129632 SudokuTest.java RENAME checkR4DetectsARepeatedDigitInAnyColumnOnfTheSolution()=>void checkR4DetectsARepeatedDigitInAnyColumnOfTheSolution() METHOD
+RefactoringAction 1395160134131 SudokuTest.java RENAME checkR3DetectsARepeatedDigitInAnyRowInTheSolution()=>void checkR3DetectsARepeatedDigitInAnyRowOfTheSolution() METHOD
+RefactoringAction 1395160139131 SudokuTest.java RENAME checkR2DetectsARepeatedDigitInAnySubGridInTheSolution()=>void checkR2DetectsARepeatedDigitInAnySubGridOfTheSolution() METHOD
+EditAction 1395160180662 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395160183396 SudokuTest.java FAIL
+UnitTestSessionAction 1395160183396 SudokuTest FAIL
+EditAction 1395160217582 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395160219004 SudokuTest.java FAIL
+UnitTestSessionAction 1395160219004 SudokuTest FAIL
+EditAction 1395160469441 Sudoku.java 3011 7 16 0
+UnitTestCaseAction 1395160474082 SudokuTest.java FAIL
+UnitTestSessionAction 1395160474082 SudokuTest FAIL
+EditAction 1395160563737 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395160564799 SudokuTest.java FAIL
+UnitTestSessionAction 1395160564799 SudokuTest FAIL
+EditAction 1395160634802 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395160636099 SudokuTest.java FAIL
+UnitTestSessionAction 1395160636099 SudokuTest FAIL
+EditAction 1395160646319 SudokuTest.java 4129 16 40 16
+EditAction 1395160778074 Sudoku.java 3011 7 16 0
+UnitTestCaseAction 1395160784747 SudokuTest.java FAIL
+UnitTestSessionAction 1395160784747 SudokuTest FAIL
+EditAction 1395160861969 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395160863094 SudokuTest.java FAIL
+UnitTestSessionAction 1395160863094 SudokuTest FAIL
+EditAction 1395160988923 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395160989876 SudokuTest.java FAIL
+UnitTestSessionAction 1395160989876 SudokuTest FAIL
+EditAction 1395161134814 SudokuTest.java 4129 16 40 16
+UnitTestCaseAction 1395161136330 SudokuTest.java OK
+UnitTestSessionAction 1395161136330 SudokuTest OK

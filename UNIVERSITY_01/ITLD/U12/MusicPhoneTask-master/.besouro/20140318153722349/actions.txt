@@ -1,0 +1,370 @@
+FileOpenedAction 1395153869550 RecommenderUI.java 8851 15 95 0
+FileOpenedAction 1395153870174 RecommenderAdapter.java 1526 5 6 0
+FileOpenedAction 1395153888164 Recommender.java 1617 9 12 0
+UnitTestCaseAction 1395153948038 SmokeTest.java OK
+UnitTestSessionAction 1395153948054 SmokeTest OK
+FileOpenedAction 1395153951724 SmokeTest.java 1441 1 14 6
+FileOpenedAction 1395154260550 App.java 473 1 6 0
+RefactoringAction 1395154440474 Recommender.java ADD void computeDistance() METHOD
+EditAction 1395154458094 Recommender.java 1671 10 12 0
+FileOpenedAction 1395154487163 GeoPoint.java 503 5 7 0
+RefactoringAction 1395154556142 GeoPoint.java ADD void validLatitude() METHOD
+RefactoringAction 1395154592631 GeoPoint.java ADD boolean validLatitude()/2 METHOD
+RefactoringAction 1395154597130 GeoPoint.java RENAME validLatitude()/2=>boolean validLongitude() METHOD
+EditAction 1395154634369 GeoPoint.java 688 7 9 0
+RefactoringAction 1395154726451 Recommender.java ADD import java.awt.geom.GeneralPath IMPORT
+RefactoringAction 1395154727654 Recommender.java REMOVE import java.awt.geom.GeneralPath IMPORT
+RefactoringAction 1395154730669 Recommender.java ADD import commons.dataClasses.GeoPoint IMPORT
+RefactoringAction 1395154732169 Recommender.java RENAME computeDistance()=>void computeDistance(GeoPoint) METHOD
+RefactoringAction 1395154740166 Recommender.java RENAME computeDistance(GeoPoint)=>void computeDistance(GeoPoint, GeoPoint) METHOD
+RefactoringAction 1395154751163 Recommender.java RENAME computeDistance(GeoPoint, GeoPoint)=>void computeDistance(GeoPoint, GeoPoint, String) METHOD
+CompilationAction 1395154851869 GeoPoint.java
+CompilationAction 1395154851869 GeoPoint.java
+EditAction 1395154918272 GeoPoint.java 749 7 9 0
+CompilationAction 1395154919131 GeoPoint.java
+CompilationAction 1395154919131 GeoPoint.java
+EditAction 1395154925224 GeoPoint.java 751 7 9 0
+CompilationAction 1395154926067 GeoPoint.java
+CompilationAction 1395154926067 GeoPoint.java
+EditAction 1395155077571 Recommender.java 1855 10 13 0
+FileOpenedAction 1395155387861 DeviceManager.java 622 6 6 0
+FileOpenedAction 1395155449047 Recommendation.java 650 5 7 0
+FileOpenedAction 1395155510171 LastFmConnectionException.java 360 2 0 0
+FileOpenedAction 1395155511077 LastFmXmlConnector.java 5248 4 49 0
+FileOpenedAction 1395155528666 IConnector.java 431 3 0 0
+FileOpenedAction 1395155537335 IGps.java 339 4 0 0
+FileOpenedAction 1395155545255 IPlayer.java 222 4 0 0
+FileOpenedAction 1395155554252 IRecommender.java 503 5 0 0
+FileOpenedAction 1395155737186 IGps.java 339 4 0 0
+FileOpenedAction 1395155759805 SmokeTest.java 1441 1 14 6
+FileOpenedAction 1395155799982 IRecommender.java 503 5 0 0
+RefactoringAction 1395155860856 SmokeTest.java ADD void testValidGeoPoints() METHOD
+EditAction 1395155976277 SmokeTest.java 1633 2 17 8
+UnitTestCaseAction 1395155977480 SmokeTest.java FAIL
+UnitTestSessionAction 1395155977480 SmokeTest FAIL
+UnitTestCaseAction 1395155988992 SmokeTest.java FAIL
+UnitTestSessionAction 1395155988992 SmokeTest FAIL
+UnitTestCaseAction 1395155998130 SmokeTest.java FAIL
+UnitTestSessionAction 1395155998130 SmokeTest FAIL
+EditAction 1395156012533 SmokeTest.java 1633 2 17 8
+UnitTestCaseAction 1395156013626 SmokeTest.java FAIL
+UnitTestSessionAction 1395156013626 SmokeTest FAIL
+EditAction 1395156046820 SmokeTest.java 1633 2 17 8
+UnitTestCaseAction 1395156047898 SmokeTest.java OK
+UnitTestSessionAction 1395156047898 SmokeTest OK
+RefactoringAction 1395156110724 Recommender.java ADD int Radius FIELD
+RefactoringAction 1395156131650 Recommender.java RENAME Radius=>int RADIUS FIELD
+RefactoringAction 1395156165920 Recommender.java RENAME RADIUS=>double RADIUS_ FIELD
+RefactoringAction 1395156170427 Recommender.java RENAME RADIUS_=>double RADIUS_KM FIELD
+RefactoringAction 1395156171929 Recommender.java ADD double RADIUS_KM/2 FIELD
+RefactoringAction 1395156177938 Recommender.java RENAME RADIUS_KM/2=>double RADIUS_M FIELD
+RefactoringAction 1395156179941 Recommender.java RENAME RADIUS_M=>double RADIUS_MI FIELD
+CompilationAction 1395156194212 Recommender.java
+RefactoringAction 1395156212490 Recommender.java ADD double RADIUS_MI/2 FIELD
+RefactoringAction 1395156213992 Recommender.java REMOVE RADIUS_MI/2 FIELD
+RefactoringAction 1395156215995 Recommender.java ADD String RADIUS_MI/2 FIELD
+RefactoringAction 1395156217497 Recommender.java RENAME RADIUS_MI/2=>String MKRADIUS_MI FIELD
+RefactoringAction 1395156219000 Recommender.java RENAME MKRADIUS_MI=>String KMRADIUS_MI FIELD
+RefactoringAction 1395156221003 Recommender.java RENAME KMRADIUS_MI=>String KM FIELD
+RefactoringAction 1395156227012 Recommender.java ADD String KM/2 FIELD
+RefactoringAction 1395156230016 Recommender.java RENAME KM/2=>String MI FIELD
+RefactoringAction 1395156234523 Recommender.java RENAME MI=>String MILES FIELD
+CompilationAction 1395156236526 Recommender.java
+CompilationAction 1395156236635 Recommender.java
+CompilationAction 1395156395702 Recommender.java
+CompilationAction 1395156395812 Recommender.java
+CompilationAction 1395156407361 Recommender.java
+CompilationAction 1395156407470 Recommender.java
+EditAction 1395156428297 Recommender.java 2266 10 15 0
+CompilationAction 1395156429172 Recommender.java
+CompilationAction 1395156662194 Recommender.java
+CompilationAction 1395156662304 Recommender.java
+CompilationAction 1395156679076 Recommender.java
+EditAction 1395156809027 GeoPoint.java 813 7 11 0
+RefactoringAction 1395156829526 Recommender.java ADD Double toRadians FIELD
+RefactoringAction 1395156830526 Recommender.java RENAME toRadians=>Double toRadians() METHOD
+RefactoringAction 1395156835526 Recommender.java RENAME toRadians()=>Double toRadians(double) METHOD
+RefactoringAction 1395156852025 SmokeTest.java ADD void testName() METHOD
+RefactoringAction 1395156864024 SmokeTest.java RENAME testName()=>void testDegreesToRadians() METHOD
+EditAction 1395156908429 SmokeTest.java 1633 2 17 8
+EditAction 1395156911007 Recommender.java 2370 11 15 0
+CompilationAction 1395156911866 Recommender.java
+RefactoringAction 1395156917522 Recommender.java REMOVE toRadians(double) METHOD
+FileOpenedAction 1395157033360 ConcertInfo.java 1285 11 15 0
+FileOpenedAction 1395157044701 DeviceManager.java 622 6 6 0
+FileOpenedAction 1395157050700 App.java 473 1 6 0
+FileOpenedAction 1395157055215 Destination.java 1317 12 12 0
+RefactoringAction 1395157223098 GeoPoint.java ADD void getLatitudeNumber() METHOD
+EditAction 1395157260614 GeoPoint.java 892 8 12 0
+RefactoringAction 1395157265757 GeoPoint.java ADD double getLatitudeNumber()/2 METHOD
+EditAction 1395157270197 GeoPoint.java 974 9 13 0
+EditAction 1395157276402 GeoPoint.java 975 9 13 0
+FileOpenedAction 1395157284562 GeoPoint.java 975 9 13 0
+RefactoringAction 1395157299569 GeoPoint.java ADD double getLatitudeNumber()/2 METHOD
+RefactoringAction 1395157299569 GeoPoint.java ADD double getLongitudeNumber()/2 METHOD
+RefactoringAction 1395157304071 GeoPoint.java RENAME getLatitudeNumber()/2=>double getLatitudeNumberRadians() METHOD
+RefactoringAction 1395157307572 GeoPoint.java RENAME getLongitudeNumber()/2=>double getLongitudeNumberRadians() METHOD
+EditAction 1395157325862 GeoPoint.java 1185 11 15 0
+RefactoringAction 1395157370600 GeoPoint.java RENAME getLongitudeNumberRadians()=>double getLongitudeNumberRads() METHOD
+RefactoringAction 1395157372601 GeoPoint.java RENAME getLongitudeNumberRads()=>double getLongitudeNumberRad() METHOD
+RefactoringAction 1395157374602 GeoPoint.java RENAME getLatitudeNumberRadians()=>double getLatitudeNumberRad() METHOD
+RefactoringAction 1395157377103 GeoPoint.java ADD double getLatitudeNumberRadians() METHOD
+RefactoringAction 1395157377103 GeoPoint.java ADD double getLongitudeNumberRadians() METHOD
+EditAction 1395157380761 Recommender.java 2343 10 15 0
+RefactoringAction 1395157432331 SmokeTest.java ADD void testName() METHOD
+RefactoringAction 1395157436332 SmokeTest.java RENAME testName()=>void testComputeDistance() METHOD
+EditAction 1395157575617 GeoPoint.java 1303 11 13 0
+EditAction 1395157586883 SmokeTest.java 1913 3 21 9
+UnitTestCaseAction 1395157588008 SmokeTest.java FAIL
+UnitTestSessionAction 1395157588008 SmokeTest FAIL
+EditAction 1395157598133 SmokeTest.java 1910 3 21 9
+RefactoringAction 1395157606039 SmokeTest.java ADD void testComputeDistance()/2 METHOD
+EditAction 1395157616758 SmokeTest.java 2187 4 25 10
+CompilationAction 1395157617618 SmokeTest.java
+RefactoringAction 1395157620540 SmokeTest.java RENAME testComputeDistance()/2=>void testComputeDistanceWith() METHOD
+RefactoringAction 1395157623540 SmokeTest.java RENAME testComputeDistanceWith()=>void testComputeDistanceWithInvalid() METHOD
+RefactoringAction 1395157627040 SmokeTest.java RENAME testComputeDistanceWithInvalid()=>void testComputeDistanceWithEmpty() METHOD
+RefactoringAction 1395157629040 SmokeTest.java RENAME testComputeDistanceWithEmpty()=>void testComputeDistanceWithEmptyValues() METHOD
+RefactoringAction 1395157640040 SmokeTest.java RENAME testComputeDistance()=>void testComputeDistanceValidValues() METHOD
+RefactoringAction 1395157646040 SmokeTest.java RENAME testComputeDistanceValidValues()=>void testComputeDistanceOut() METHOD
+RefactoringAction 1395157647541 SmokeTest.java RENAME testComputeDistanceOut()=>void testComputeDistanceOutofRange() METHOD
+RefactoringAction 1395157706761 SmokeTest.java RENAME testComputeDistanceOutofRange()=>void testComputeDistanceValid() METHOD
+RefactoringAction 1395157709261 SmokeTest.java RENAME testComputeDistanceValid()=>void testComputeDistance() METHOD
+RefactoringAction 1395157710761 SmokeTest.java RENAME testComputeDistance()=>void testComputeValidDistance() METHOD
+RefactoringAction 1395157714261 SmokeTest.java RENAME testComputeValidDistance()=>void testComputeDistanceValidInputs() METHOD
+RefactoringAction 1395157715761 SmokeTest.java RENAME testComputeDistanceValidInputs()=>void testComputeDistanceValidInput() METHOD
+CompilationAction 1395157746510 SmokeTest.java
+EditAction 1395157754572 SmokeTest.java 2238 4 25 10
+EditAction 1395157773116 SmokeTest.java 2250 4 21 9
+CompilationAction 1395157773960 SmokeTest.java
+CompilationAction 1395157773975 SmokeTest.java
+CompilationAction 1395157776741 SmokeTest.java
+CompilationAction 1395157776850 SmokeTest.java
+EditAction 1395157797082 SmokeTest.java 2255 4 25 10
+UnitTestCaseAction 1395157798191 SmokeTest.java FAIL
+UnitTestSessionAction 1395157798191 SmokeTest FAIL
+EditAction 1395157935408 Recommender.java 2475 10 15 0
+CompilationAction 1395157936267 Recommender.java
+CompilationAction 1395158060672 Recommender.java
+EditAction 1395158075185 Recommender.java 2578 10 15 0
+UnitTestCaseAction 1395158123176 SmokeTest.java OK
+UnitTestSessionAction 1395158123176 SmokeTest OK
+FileOpenedAction 1395158318191 Destination.java 1317 12 12 0
+FileOpenedAction 1395158329367 ConcertInfo.java 1285 11 15 0
+EditAction 1395158355987 Recommender.java 2458 10 15 0
+CompilationAction 1395158356846 Recommender.java
+CompilationAction 1395158410414 Recommender.java
+CompilationAction 1395158410523 Recommender.java
+CompilationAction 1395158410523 Recommender.java
+CompilationAction 1395158410523 Recommender.java
+CompilationAction 1395158456853 Recommender.java
+CompilationAction 1395158456853 Recommender.java
+CompilationAction 1395158456853 Recommender.java
+FileOpenedAction 1395158511159 IGps.java 339 4 0 0
+EditAction 1395158589693 Recommender.java 2536 10 16 0
+CompilationAction 1395158590552 Recommender.java
+RefactoringAction 1395158709151 Recommender.java ADD import commons.dataClasses.ConcertInfo IMPORT
+RefactoringAction 1395158730729 Recommender.java ADD import java.util.ArrayList IMPORT
+CompilationAction 1395158745574 Recommender.java
+RefactoringAction 1395158757481 Recommender.java ADD import dataConnectors.LastFmConnectionException IMPORT
+RefactoringAction 1395158763231 Recommender.java REMOVE import dataConnectors.LastFmConnectionException IMPORT
+RefactoringAction 1395158765746 Recommender.java ADD import dataConnectors.LastFmConnectionException IMPORT
+CompilationAction 1395158766918 Recommender.java
+RefactoringAction 1395158774731 Recommender.java REMOVE import dataConnectors.LastFmConnectionException IMPORT
+RefactoringAction 1395158777075 Recommender.java ADD import dataConnectors.LastFmConnectionException IMPORT
+CompilationAction 1395158809041 Recommender.java
+EditAction 1395158932171 Recommender.java 3060 10 17 0
+EditAction 1395158954779 Recommender.java 3015 10 17 0
+EditAction 1395158957403 Recommender.java 3014 10 17 0
+EditAction 1395158980667 Recommender.java 3010 10 17 0
+RefactoringAction 1395159005696 SmokeTest.java ADD void testName() METHOD
+RefactoringAction 1395159007696 SmokeTest.java RENAME testName()=>void testgetDestinationsForArtists() METHOD
+RefactoringAction 1395159010696 SmokeTest.java RENAME testgetDestinationsForArtists()=>void testFetDestinationsForArtists() METHOD
+RefactoringAction 1395159012196 SmokeTest.java RENAME testFetDestinationsForArtists()=>void testGetDestinationsForArtists() METHOD
+EditAction 1395159014086 SmokeTest.java 2333 5 25 10
+EditAction 1395159151478 Recommender.java 3030 10 17 0
+EditAction 1395159386244 SmokeTest.java 3003 5 25 10
+CompilationAction 1395159387088 SmokeTest.java
+CompilationAction 1395159403757 SmokeTest.java
+UnitTestCaseAction 1395159408288 SmokeTest.java OK
+UnitTestSessionAction 1395159408288 SmokeTest OK
+EditAction 1395159477059 SmokeTest.java 3006 5 34 11
+UnitTestCaseAction 1395159478168 SmokeTest.java OK
+UnitTestSessionAction 1395159478168 SmokeTest OK
+EditAction 1395159482636 SmokeTest.java 3011 5 34 11
+RefactoringAction 1395159503164 SmokeTest.java RENAME testGetDestinationsForArtists()=>void testGetDestinationsForArtistsWithout() METHOD
+RefactoringAction 1395159504664 SmokeTest.java RENAME testGetDestinationsForArtistsWithout()=>void testGetDestinationsForArtistsWithoutConcerts() METHOD
+RefactoringAction 1395159510163 SmokeTest.java ADD void testGetDestinationsForArtistsWithoutConcerts()/2 METHOD
+RefactoringAction 1395159512663 SmokeTest.java RENAME testGetDestinationsForArtistsWithoutConcerts()/2=>void testGetDestinationsForArtistsWithConcerts() METHOD
+EditAction 1395159590355 SmokeTest.java 3797 6 43 12
+EditAction 1395159620132 SmokeTest.java 3800 6 43 12
+UnitTestCaseAction 1395159623069 SmokeTest.java FAIL
+UnitTestSessionAction 1395159623069 SmokeTest FAIL
+FileOpenedAction 1395159632286 IPlayer.java 222 4 0 0
+EditAction 1395159647674 SmokeTest.java 3800 6 43 12
+UnitTestCaseAction 1395159650049 SmokeTest.java FAIL
+UnitTestSessionAction 1395159650049 SmokeTest FAIL
+EditAction 1395159658032 SmokeTest.java 3800 6 43 12
+UnitTestCaseAction 1395159869970 SmokeTest.java OK
+UnitTestSessionAction 1395159869970 SmokeTest OK
+UnitTestCaseAction 1395159983156 SmokeTest.java OK
+UnitTestSessionAction 1395159983156 SmokeTest OK
+EditAction 1395159999732 SmokeTest.java 3802 6 43 12
+EditAction 1395160015245 Recommender.java 3096 10 17 0
+EditAction 1395160024822 Recommender.java 3095 10 18 0
+UnitTestCaseAction 1395160034695 SmokeTest.java OK
+UnitTestSessionAction 1395160034695 SmokeTest OK
+RefactoringAction 1395160259665 Recommender.java ADD import player.Player IMPORT
+FileOpenedAction 1395160277452 Player.java 1421 11 17 0
+FileOpenedAction 1395160288519 Player.java 1421 11 17 0
+FileOpenedAction 1395160346275 DeviceManager.java 622 6 6 0
+EditAction 1395160371378 Recommender.java 3116 10 19 0
+CompilationAction 1395160372238 Recommender.java
+CompilationAction 1395160397075 Recommender.java
+CompilationAction 1395160397075 Recommender.java
+CompilationAction 1395160429931 Recommender.java
+CompilationAction 1395160430040 Recommender.java
+CompilationAction 1395160430040 Recommender.java
+CompilationAction 1395160430040 Recommender.java
+CompilationAction 1395160487906 Recommender.java
+CompilationAction 1395160487906 Recommender.java
+CompilationAction 1395160488203 Recommender.java
+EditAction 1395160500676 Recommender.java 3345 10 22 0
+CompilationAction 1395160566640 Recommender.java
+CompilationAction 1395160566640 Recommender.java
+CompilationAction 1395160572015 Recommender.java
+CompilationAction 1395160572015 Recommender.java
+CompilationAction 1395160572124 Recommender.java
+CompilationAction 1395160572124 Recommender.java
+CompilationAction 1395160578390 Recommender.java
+CompilationAction 1395160578406 Recommender.java
+CompilationAction 1395160578515 Recommender.java
+CompilationAction 1395160578515 Recommender.java
+CompilationAction 1395160593141 Recommender.java
+CompilationAction 1395160593141 Recommender.java
+CompilationAction 1395160593251 Recommender.java
+CompilationAction 1395160593251 Recommender.java
+CompilationAction 1395160885603 Recommender.java
+CompilationAction 1395160885603 Recommender.java
+CompilationAction 1395160885713 Recommender.java
+CompilationAction 1395160885713 Recommender.java
+RefactoringAction 1395161057171 FreqCounter.java ADD FreqCounter.java CLASS
+FileOpenedAction 1395161057342 FreqCounter.java 65 0 0 0
+RefactoringAction 1395161064842 FreqCounter.java ADD import java.util.HashMap IMPORT
+RefactoringAction 1395161073341 FreqCounter.java ADD HashMap<String,Integer> data FIELD
+RefactoringAction 1395161083341 FreqCounter.java ADD void add() METHOD
+RefactoringAction 1395161115339 FreqCounter.java RENAME add()=>void add(String) METHOD
+EditAction 1395161178145 FreqCounter.java 237 1 1 0
+CompilationAction 1395161178989 FreqCounter.java
+CompilationAction 1395161178989 FreqCounter.java
+EditAction 1395161191737 FreqCounter.java 237 1 1 0
+CompilationAction 1395161192581 FreqCounter.java
+EditAction 1395161209954 FreqCounter.java 243 1 1 0
+RefactoringAction 1395161219328 FreqCounter.java ADD void add(String)/2 METHOD
+RefactoringAction 1395161222328 FreqCounter.java RENAME add(String)/2=>void get(String) METHOD
+RefactoringAction 1395161230327 FreqCounter.java RENAME get(String)=>Integer getCount(String) METHOD
+EditAction 1395161264746 FreqCounter.java 382 2 2 0
+RefactoringAction 1395161305757 SmokeTest.java ADD void testName() METHOD
+RefactoringAction 1395161309257 SmokeTest.java RENAME testName()=>void testCounter() METHOD
+EditAction 1395161386749 SmokeTest.java 3997 7 48 13
+EditAction 1395161391358 SmokeTest.java 4000 7 48 13
+EditAction 1395161414496 Recommender.java 3456 10 21 0
+CompilationAction 1395161415340 Recommender.java
+CompilationAction 1395161415340 Recommender.java
+UnitTestCaseAction 1395161418246 SmokeTest.java FAIL
+UnitTestSessionAction 1395161418246 SmokeTest.testCounter FAIL
+CompilationAction 1395161424620 Recommender.java
+CompilationAction 1395161424620 Recommender.java
+CompilationAction 1395161424729 Recommender.java
+CompilationAction 1395161426776 Recommender.java
+CompilationAction 1395161426901 Recommender.java
+CompilationAction 1395161427698 Recommender.java
+CompilationAction 1395161427916 Recommender.java
+CompilationAction 1395161430916 Recommender.java
+UnitTestCaseAction 1395161433619 SmokeTest.java FAIL
+UnitTestSessionAction 1395161433619 SmokeTest.testCounter FAIL
+UnitTestCaseAction 1395161436790 SmokeTest.java FAIL
+UnitTestSessionAction 1395161436790 SmokeTest.testCounter FAIL
+RefactoringAction 1395161460803 FreqCounter.java ADD FreqCounter() METHOD
+EditAction 1395161470349 FreqCounter.java 442 3 3 0
+UnitTestCaseAction 1395161475864 SmokeTest.java FAIL
+UnitTestSessionAction 1395161475864 SmokeTest FAIL
+EditAction 1395161521842 FreqCounter.java 403 3 3 0
+UnitTestCaseAction 1395161527029 SmokeTest.java FAIL
+UnitTestSessionAction 1395161527029 SmokeTest FAIL
+EditAction 1395161545043 FreqCounter.java 399 3 3 0
+UnitTestCaseAction 1395161550511 SmokeTest.java OK
+UnitTestSessionAction 1395161550511 SmokeTest OK
+RefactoringAction 1395161566821 SmokeTest.java ADD void testCounter()/2 METHOD
+RefactoringAction 1395161571321 SmokeTest.java RENAME testCounter()/2=>void testCounterNoEntrie() METHOD
+RefactoringAction 1395161572821 SmokeTest.java RENAME testCounterNoEntrie()=>void testCounterNoEntries() METHOD
+EditAction 1395161581819 SmokeTest.java 4175 8 51 14
+UnitTestCaseAction 1395161584194 SmokeTest.java FAIL
+UnitTestSessionAction 1395161584194 SmokeTest FAIL
+EditAction 1395161595630 SmokeTest.java 4175 8 51 14
+UnitTestCaseAction 1395161597989 SmokeTest.java OK
+UnitTestSessionAction 1395161597989 SmokeTest OK
+RefactoringAction 1395161637297 Recommender.java ADD import commons.dataClasses.FreqCounter IMPORT
+RefactoringAction 1395161713819 FreqCounter.java ADD List<Integer> getSorted FIELD
+RefactoringAction 1395161717319 FreqCounter.java RENAME getSorted=>List<Integer> getSortedData() METHOD
+RefactoringAction 1395161724318 FreqCounter.java ADD import java.util.List IMPORT
+RefactoringAction 1395161841303 FreqCounter.java ADD import java.util.Arrays IMPORT
+EditAction 1395161848974 FreqCounter.java 591 4 5 0
+CompilationAction 1395161849833 FreqCounter.java
+EditAction 1395161875908 FreqCounter.java 618 4 6 0
+CompilationAction 1395161876767 FreqCounter.java
+EditAction 1395161887906 FreqCounter.java 617 4 6 0
+CompilationAction 1395161888750 FreqCounter.java
+CompilationAction 1395161915496 FreqCounter.java
+CompilationAction 1395161915606 FreqCounter.java
+CompilationAction 1395161915606 FreqCounter.java
+CompilationAction 1395161915606 FreqCounter.java
+CompilationAction 1395161915606 FreqCounter.java
+CompilationAction 1395161915606 FreqCounter.java
+CompilationAction 1395161917059 FreqCounter.java
+CompilationAction 1395161917059 FreqCounter.java
+CompilationAction 1395161917059 FreqCounter.java
+CompilationAction 1395161917168 FreqCounter.java
+CompilationAction 1395161917168 FreqCounter.java
+RefactoringAction 1395162148763 FreqCounter.java ADD LinkedHashMap sortHashMapByValuesD(HashMap) METHOD
+RefactoringAction 1395162151263 FreqCounter.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1395162151263 FreqCounter.java ADD import java.util.Collections IMPORT
+RefactoringAction 1395162151263 FreqCounter.java ADD import java.util.Iterator IMPORT
+RefactoringAction 1395162151263 FreqCounter.java ADD import java.util.LinkedHashMap IMPORT
+CompilationAction 1395162167074 FreqCounter.java
+CompilationAction 1395162170120 FreqCounter.java
+CompilationAction 1395162170792 FreqCounter.java
+CompilationAction 1395162171182 FreqCounter.java
+CompilationAction 1395162176916 FreqCounter.java
+RefactoringAction 1395162183259 FreqCounter.java RENAME sortHashMapByValuesD(HashMap)=>LinkedHashMap sortHashMapByValuesD(HashMap<>) METHOD
+RefactoringAction 1395162187258 FreqCounter.java RENAME sortHashMapByValuesD(HashMap<>)=>LinkedHashMap sortHashMapByValuesD() METHOD
+RefactoringAction 1395162189758 FreqCounter.java RENAME sortHashMapByValuesD()=>LinkedHashMap sortHashMapByValuesD(HashMap<String,Integer>) METHOD
+CompilationAction 1395162193492 FreqCounter.java
+CompilationAction 1395162207709 FreqCounter.java
+CompilationAction 1395162223348 FreqCounter.java
+CompilationAction 1395162259923 FreqCounter.java
+CompilationAction 1395162263878 FreqCounter.java
+CompilationAction 1395162276368 FreqCounter.java
+CompilationAction 1395162276477 FreqCounter.java
+CompilationAction 1395162303316 FreqCounter.java
+CompilationAction 1395162303425 FreqCounter.java
+CompilationAction 1395162318431 FreqCounter.java
+RefactoringAction 1395162337783 SmokeTest.java ADD void testName() METHOD
+RefactoringAction 1395162340784 SmokeTest.java RENAME testName()=>void testCounter()/2 METHOD
+EditAction 1395162341660 SmokeTest.java 4238 9 51 14
+CompilationAction 1395162342535 SmokeTest.java
+RefactoringAction 1395162347787 SmokeTest.java RENAME testCounter()/2=>void testCounterSome() METHOD
+RefactoringAction 1395162351288 SmokeTest.java RENAME testCounterSome()=>void testCounterSomeItems() METHOD
+CompilationAction 1395162351476 SmokeTest.java
+RefactoringAction 1395162364294 SmokeTest.java RENAME testCounterSomeItems()=>void testCounterSorting() METHOD
+EditAction 1395162490516 FreqCounter.java 1680 5 12 0
+CompilationAction 1395162491360 FreqCounter.java
+EditAction 1395162495425 FreqCounter.java 1680 5 12 0
+CompilationAction 1395162496269 FreqCounter.java
+CompilationAction 1395162509680 FreqCounter.java
+EditAction 1395162513025 SmokeTest.java 4469 9 59 14
+UnitTestCaseAction 1395162515448 SmokeTest.java FAIL
+UnitTestSessionAction 1395162515448 SmokeTest FAIL
+EditAction 1395162615844 SmokeTest.java 4469 9 59 14
+EditAction 1395162619172 FreqCounter.java 1673 5 12 0
+EditAction 1395162630486 FreqCounter.java 1732 5 12 0

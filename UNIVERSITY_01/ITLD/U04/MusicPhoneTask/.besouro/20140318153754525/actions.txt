@@ -1,0 +1,105 @@
+FileOpenedAction 1395153474791 SmokeTest.java 1441 1 14 6
+FileOpenedAction 1395153878795 App.java 473 1 6 0
+FileOpenedAction 1395153919856 Player.java 1421 11 17 0
+FileOpenedAction 1395153944012 RecommenderAdapter.java 1526 5 6 0
+FileOpenedAction 1395153977652 Gps.java 652 5 5 0
+FileOpenedAction 1395154000449 GpsAdapter.java 659 5 6 0
+FileOpenedAction 1395154001308 GpsUI.java 2164 3 44 0
+RefactoringAction 1395154111788 Gps.java ADD double Computer FIELD
+RefactoringAction 1395154116304 Gps.java RENAME Computer=>static double ComputerDistanceç() METHOD
+RefactoringAction 1395154169982 Gps.java RENAME ComputerDistanceç()=>static double ComputerDistanceç(GeoPoint) METHOD
+RefactoringAction 1395154174498 Gps.java RENAME ComputerDistanceç(GeoPoint)=>static double ComputerDistanceç(GeoPoint, Geopoint) METHOD
+RefactoringAction 1395154281041 Gps.java RENAME ComputerDistanceç(GeoPoint, Geopoint)=>static double ComputerDistanceç(GeoPoint, Geopoint, String) METHOD
+RefactoringAction 1395154293543 Gps.java RENAME ComputerDistanceç(GeoPoint, Geopoint, String)=>static double ComputerDistance(GeoPoint, Geopoint, String) METHOD
+RefactoringAction 1395154300559 Gps.java RENAME ComputerDistance(GeoPoint, Geopoint, String)=>static double ComputerDistance(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395154328156 Gps.java RENAME ComputerDistance(GeoPoint, GeoPoint, String)=>static double computerDistance(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395154365707 Gps.java RENAME computerDistance(GeoPoint, GeoPoint, String)=>static double computerDistance() METHOD
+RefactoringAction 1395154368223 Gps.java RENAME computerDistance()=>static double computerDistance(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395154373724 Gps.java RENAME computerDistance(GeoPoint, GeoPoint, String)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+FileOpenedAction 1395154497246 GeoPoint.java 503 5 7 0
+RefactoringAction 1395154579185 Gps.java REMOVE computeDistance(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395154581185 GeoPoint.java ADD static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+FileOpenedAction 1395154668046 Recommendation.java 650 5 7 0
+EditAction 1395154720281 Gps.java 651 5 5 0
+FileOpenedAction 1395154734906 Destination.java 1317 12 12 0
+FileOpenedAction 1395154789827 Recommendation.java 650 5 7 0
+FileOpenedAction 1395154807686 RecommenderAdapter.java 1526 5 6 0
+FileOpenedAction 1395154810186 RecommenderUI.java 8851 15 95 0
+FileOpenedAction 1395154964558 Recommender.java 1617 9 12 0
+RefactoringAction 1395155000495 GeoPoint.java REMOVE computeDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395155002385 GeoPoint.java 505 5 7 0
+RefactoringAction 1395155012573 Recommender.java ADD import commons.dataClasses.GeoPoint IMPORT
+EditAction 1395155077039 Recommender.java 1749 10 13 0
+FileOpenedAction 1395155112804 GeoPoint.java 505 5 7 0
+EditAction 1395155623336 Recommender.java 1982 10 18 0
+RefactoringAction 1395156483141 SmokeTest.java ADD void How FIELD
+RefactoringAction 1395156485141 SmokeTest.java RENAME How=>void HowTo FIELD
+RefactoringAction 1395156487657 SmokeTest.java RENAME HowTo=>void HowToCheck FIELD
+RefactoringAction 1395156493657 SmokeTest.java RENAME HowToCheck=>void HowToCheckTheDistance() METHOD
+EditAction 1395156717299 Recommender.java 2250 10 23 0
+RefactoringAction 1395157049483 SmokeTest.java ADD Object computeDistance(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395157056592 SmokeTest.java REMOVE computeDistance(GeoPoint, GeoPoint, String) METHOD
+EditAction 1395157090904 SmokeTest.java 1965 2 23 8
+UnitTestCaseAction 1395157151012 SmokeTest.java OK
+UnitTestSessionAction 1395157151028 SmokeTest OK
+RefactoringAction 1395157516549 Recommender.java ADD String get FIELD
+RefactoringAction 1395157520549 Recommender.java RENAME get=>String getDesti FIELD
+RefactoringAction 1395157524065 Recommender.java RENAME getDesti=>String getDestination FIELD
+RefactoringAction 1395157527065 Recommender.java RENAME getDestination=>String getDestinationsForA FIELD
+RefactoringAction 1395157528080 Recommender.java RENAME getDestinationsForA=>String getDestinationsForAr FIELD
+RefactoringAction 1395157530580 Recommender.java RENAME getDestinationsForAr=>String getDestinationsForArtist FIELD
+RefactoringAction 1395157531596 Recommender.java RENAME getDestinationsForArtist=>static String getDestinationsForArtist() METHOD
+EditAction 1395157552517 Recommender.java 2320 11 24 0
+EditAction 1395157986944 SmokeTest.java 1997 2 23 8
+EditAction 1395157987803 Recommender.java 2325 11 24 0
+UnitTestCaseAction 1395157988912 SmokeTest.java OK
+UnitTestSessionAction 1395157988928 SmokeTest OK
+RefactoringAction 1395158046630 Recommender.java ADD static void checkValidity() METHOD
+RefactoringAction 1395158086504 Recommender.java RENAME checkValidity()=>static void checkValidity(GeoPoint, GeoPoint, String) METHOD
+RefactoringAction 1395158090722 Recommender.java RENAME checkValidity(GeoPoint, GeoPoint, String)=>static void checkValidity() METHOD
+RefactoringAction 1395158314925 Recommender.java ADD import dataConnectors.LastFmXmlConnector IMPORT
+EditAction 1395158450512 Recommender.java 2695 12 28 0
+EditAction 1395158549681 SmokeTest.java 2067 2 24 9
+FileOpenedAction 1395158607809 ConcertInfo.java 1285 11 15 0
+EditAction 1395158745363 SmokeTest.java 2103 2 25 9
+CompilationAction 1395158746222 SmokeTest.java
+RefactoringAction 1395158795069 SmokeTest.java ADD import java.util.Date IMPORT
+RefactoringAction 1395159101634 Recommender.java ADD import gps.Gps IMPORT
+RefactoringAction 1395159115650 Recommender.java ADD import commons.dataClasses.ConcertInfo IMPORT
+CompilationAction 1395159773219 SmokeTest.java
+EditAction 1395159817343 Recommender.java 3019 12 24 0
+CompilationAction 1395159818202 Recommender.java
+CompilationAction 1395159818202 Recommender.java
+CompilationAction 1395159818202 Recommender.java
+CompilationAction 1395159818202 Recommender.java
+RefactoringAction 1395160216117 Recommender.java ADD import java.util.Date IMPORT
+CompilationAction 1395160752002 Recommender.java
+CompilationAction 1395160752002 Recommender.java
+CompilationAction 1395160752002 Recommender.java
+CompilationAction 1395160752127 Recommender.java
+CompilationAction 1395160752127 Recommender.java
+CompilationAction 1395160752127 Recommender.java
+CompilationAction 1395160882271 Recommender.java
+CompilationAction 1395160882271 Recommender.java
+CompilationAction 1395160882271 Recommender.java
+CompilationAction 1395160882381 Recommender.java
+CompilationAction 1395161358959 Recommender.java
+CompilationAction 1395161359069 Recommender.java
+CompilationAction 1395161657222 Recommender.java
+RefactoringAction 1395162209105 SmokeTest.java ADD void find FIELD
+RefactoringAction 1395162212199 SmokeTest.java RENAME find=>void Find FIELD
+RefactoringAction 1395162214324 SmokeTest.java RENAME Find=>void FindCon FIELD
+RefactoringAction 1395162216090 SmokeTest.java RENAME FindCon=>void FindConcert FIELD
+RefactoringAction 1395162218996 SmokeTest.java RENAME FindConcert=>void FindConcertFor FIELD
+RefactoringAction 1395162219871 SmokeTest.java RENAME FindConcertFor=>void FindConcertForAn FIELD
+RefactoringAction 1395162221418 SmokeTest.java RENAME FindConcertForAn=>void FindConcertForAnAr FIELD
+RefactoringAction 1395162221949 SmokeTest.java RENAME FindConcertForAnAr=>void FindConcertForAnArt FIELD
+RefactoringAction 1395162223215 SmokeTest.java RENAME FindConcertForAnArt=>void FindConcertForAnArtist FIELD
+RefactoringAction 1395162224636 SmokeTest.java RENAME FindConcertForAnArtist=>void FindConcertForAnArtist() METHOD
+EditAction 1395162230043 SmokeTest.java 2202 3 24 9
+FileOpenedAction 1395162326403 ConcertInfo.java 1285 11 15 0
+RefactoringAction 1395162429491 Recommender.java ADD Recommender()/2 METHOD
+RefactoringAction 1395162441336 Recommender.java RENAME Recommender()/2=>Recommender(ConcertInfo) METHOD
+RefactoringAction 1395162458072 Recommender.java RENAME Recommender(ConcertInfo)=>Recommender(ConcertInfo, double) METHOD
+RefactoringAction 1395162515515 Recommender.java REMOVE Recommender(ConcertInfo, double) METHOD
+EditAction 1395162516718 Recommender.java 3001 12 29 0

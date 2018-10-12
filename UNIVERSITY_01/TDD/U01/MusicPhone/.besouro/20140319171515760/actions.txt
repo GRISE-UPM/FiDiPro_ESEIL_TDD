@@ -1,0 +1,148 @@
+UnitTestCaseAction 1395246575725 SmokeTest.java OK
+UnitTestSessionAction 1395246575725 tests OK
+FileOpenedAction 1395246597350 SmokeTest.java 1441 1 14 6
+FileOpenedAction 1395247055582 RecommenderAdapter.java 1526 5 6 0
+FileOpenedAction 1395247070035 Recommender.java 1617 9 12 0
+RefactoringAction 1395247183061 Recommender.java ADD double compute FIELD
+RefactoringAction 1395247185560 Recommender.java RENAME compute=>double computeDistance FIELD
+RefactoringAction 1395247187575 Recommender.java RENAME computeDistance=>double computeDistance() METHOD
+RefactoringAction 1395247290719 Recommender.java RENAME computeDistance()=>static double computeDistance(Geopoint) METHOD
+RefactoringAction 1395247293219 Recommender.java RENAME computeDistance(Geopoint)=>static double computeDistance(Geopoint, Geopoint) METHOD
+RefactoringAction 1395247297717 Recommender.java RENAME computeDistance(Geopoint, Geopoint)=>static double computeDistance(Geopoint, Geopoint, String) METHOD
+RefactoringAction 1395247308215 Recommender.java RENAME computeDistance(Geopoint, Geopoint, String)=>static double computeDistance(GeoPoint, Geopoint, String) METHOD
+RefactoringAction 1395247312713 Recommender.java RENAME computeDistance(GeoPoint, Geopoint, String)=>static double computeDistance(GeoPoint, GeoPoint, String) METHOD
+FileOpenedAction 1395247446084 GeoPoint.java 503 5 7 0
+RefactoringAction 1395247521166 Recommender.java ADD import commons.dataClasses.Recommendation/2 IMPORT
+RefactoringAction 1395247527665 Recommender.java RENAME import commons.dataClasses.Recommendation/2=>import commons.dataClasses IMPORT
+RefactoringAction 1395247528665 Recommender.java REMOVE import commons.dataClasses IMPORT
+RefactoringAction 1395247532165 Recommender.java ADD import commons.dataClasses.Destination/2 IMPORT
+EditAction 1395247538445 Recommender.java 1740 10 12 0
+CompilationAction 1395247540070 Recommender.java
+FileOpenedAction 1395247549194 Destination.java 1317 12 12 0
+FileOpenedAction 1395247552913 Recommendation.java 650 5 7 0
+RefactoringAction 1395247581160 Recommender.java RENAME import commons.dataClasses.Destination/2=>import commons.dataClasses.GeoPoint IMPORT
+CompilationAction 1395247585800 Recommender.java
+CompilationAction 1395247585925 Recommender.java
+RefactoringAction 1395247863119 SmokeTest.java ADD void Test FIELD
+RefactoringAction 1395247865619 SmokeTest.java RENAME Test=>void TestcomputeDistance FIELD
+RefactoringAction 1395247867619 SmokeTest.java RENAME TestcomputeDistance=>void TestcomputeDistanceN FIELD
+RefactoringAction 1395247869119 SmokeTest.java RENAME TestcomputeDistanceN=>void TestcomputeDistanceNula FIELD
+RefactoringAction 1395247871118 SmokeTest.java RENAME TestcomputeDistanceNula=>void TestcomputeDistanceNu FIELD
+RefactoringAction 1395247872118 SmokeTest.java RENAME TestcomputeDistanceNu=>void TestcomputeDistanceNull FIELD
+RefactoringAction 1395247873118 SmokeTest.java RENAME TestcomputeDistanceNull=>void TestcomputeDistanceNull() METHOD
+RefactoringAction 1395248149621 SmokeTest.java RENAME TestcomputeDistanceNull()=>void TestcomputeInvalid() METHOD
+RefactoringAction 1395248152621 SmokeTest.java RENAME TestcomputeInvalid()=>void TestcomputeInvalidLatitude() METHOD
+RefactoringAction 1395248205620 SmokeTest.java ADD import commons.dataClasses.GeoPoint IMPORT
+EditAction 1395248212244 SmokeTest.java 1703 2 14 6
+CompilationAction 1395248213151 SmokeTest.java
+CompilationAction 1395248213151 SmokeTest.java
+CompilationAction 1395248213151 SmokeTest.java
+CompilationAction 1395248213151 SmokeTest.java
+CompilationAction 1395248326819 SmokeTest.java
+CompilationAction 1395248326819 SmokeTest.java
+CompilationAction 1395248326835 SmokeTest.java
+CompilationAction 1395248326835 SmokeTest.java
+EditAction 1395248516204 Recommender.java 1752 10 13 0
+UnitTestCaseAction 1395248517361 SmokeTest.java OK
+UnitTestSessionAction 1395248517361 SmokeTest OK
+EditAction 1395248936274 Recommender.java 1879 10 15 0
+UnitTestCaseAction 1395248944023 SmokeTest.java OK
+UnitTestSessionAction 1395248944023 MusicPhone OK
+RefactoringAction 1395249108114 SmokeTest.java ADD void TestcomputeInvalidLatitude()/2 METHOD
+RefactoringAction 1395249112614 SmokeTest.java RENAME TestcomputeInvalidLatitude()/2=>void TestcomputeInvalidLa() METHOD
+RefactoringAction 1395249116114 SmokeTest.java RENAME TestcomputeInvalidLa()=>void TestcomputeInvalidLongitude() METHOD
+EditAction 1395249161738 SmokeTest.java 2119 3 26 8
+EditAction 1395249162660 Recommender.java 1985 10 15 0
+UnitTestCaseAction 1395249165175 SmokeTest.java OK
+UnitTestSessionAction 1395249165175 SmokeTest OK
+RefactoringAction 1395249187737 SmokeTest.java ADD void TestcomputeInvalidLongitude()/2 METHOD
+RefactoringAction 1395249191737 SmokeTest.java RENAME TestcomputeInvalidLongitude()/2=>void TestcomputevalidLongitude() METHOD
+RefactoringAction 1395249192737 SmokeTest.java RENAME TestcomputevalidLongitude()=>void TestcomputealidLongitude() METHOD
+RefactoringAction 1395249194737 SmokeTest.java RENAME TestcomputealidLongitude()=>void TestcomputeValidLongitude() METHOD
+RefactoringAction 1395249210237 SmokeTest.java RENAME TestcomputeValidLongitude()=>void TestcomputeValid() METHOD
+RefactoringAction 1395249212737 SmokeTest.java RENAME TestcomputeValid()=>void TestcomputeValidPoints() METHOD
+UnitTestCaseAction 1395249333656 SmokeTest.java OK
+UnitTestSessionAction 1395249333656 SmokeTest OK
+EditAction 1395249499096 Recommender.java 2006 10 15 0
+UnitTestCaseAction 1395249501159 SmokeTest.java OK
+UnitTestSessionAction 1395249501159 MusicPhone OK
+EditAction 1395250195201 Recommender.java 2265 10 22 0
+CompilationAction 1395250744101 Recommender.java
+CompilationAction 1395250744101 Recommender.java
+CompilationAction 1395250744101 Recommender.java
+CompilationAction 1395250982582 Recommender.java
+CompilationAction 1395250982582 Recommender.java
+CompilationAction 1395250982582 Recommender.java
+CompilationAction 1395250982692 Recommender.java
+CompilationAction 1395250982692 Recommender.java
+CompilationAction 1395250982692 Recommender.java
+CompilationAction 1395251277313 Recommender.java
+CompilationAction 1395251277313 Recommender.java
+CompilationAction 1395251277313 Recommender.java
+EditAction 1395251332792 Recommender.java 2790 10 25 0
+UnitTestCaseAction 1395251336479 SmokeTest.java OK
+UnitTestSessionAction 1395251336479 MusicPhone OK
+RefactoringAction 1395251395160 SmokeTest.java ADD void TestcomputeValidPoints()/2 METHOD
+RefactoringAction 1395251401160 SmokeTest.java RENAME TestcomputeValidPoints()/2=>void TestcomputeValid() METHOD
+RefactoringAction 1395251403660 SmokeTest.java RENAME TestcomputeValid()=>void TestcomputeValidDistance() METHOD
+EditAction 1395251567455 SmokeTest.java 2551 5 40 10
+UnitTestCaseAction 1395251569393 SmokeTest.java OK
+UnitTestSessionAction 1395251569393 SmokeTest OK
+UnitTestCaseAction 1395251707605 SmokeTest.java FAIL
+UnitTestSessionAction 1395251707605 SmokeTest FAIL
+EditAction 1395251871332 Recommender.java 2660 10 25 0
+UnitTestCaseAction 1395251874378 SmokeTest.java FAIL
+UnitTestSessionAction 1395251874378 MusicPhone FAIL
+UnitTestCaseAction 1395251907643 SmokeTest.java FAIL
+UnitTestSessionAction 1395251907643 SmokeTest FAIL
+RefactoringAction 1395251993844 SmokeTest.java REMOVE TestcomputeValidPoints() METHOD
+RefactoringAction 1395251993844 SmokeTest.java REMOVE TestcomputeInvalidLongitude() METHOD
+RefactoringAction 1395251993844 SmokeTest.java REMOVE TestcomputeValidDistance() METHOD
+UnitTestCaseAction 1395252008078 SmokeTest.java FAIL
+UnitTestSessionAction 1395252008078 SmokeTest FAIL
+EditAction 1395252101685 Recommender.java 2660 10 25 0
+UnitTestCaseAction 1395252103435 SmokeTest.java FAIL
+UnitTestSessionAction 1395252103435 MusicPhone FAIL
+UnitTestCaseAction 1395252258948 SmokeTest.java OK
+UnitTestSessionAction 1395252258948 SmokeTest OK
+RefactoringAction 1395252276994 SmokeTest.java ADD void TestcomputeInvalidLongitude() METHOD
+RefactoringAction 1395252276994 SmokeTest.java ADD void TestcomputeValidPoints() METHOD
+RefactoringAction 1395252276994 SmokeTest.java ADD void TestcomputeValidDistance() METHOD
+EditAction 1395252295385 SmokeTest.java 2595 5 40 10
+UnitTestCaseAction 1395252296478 SmokeTest.java FAIL
+UnitTestSessionAction 1395252296478 SmokeTest FAIL
+RefactoringAction 1395252306556 SmokeTest.java REMOVE TestcomputeValidPoints() METHOD
+RefactoringAction 1395252306556 SmokeTest.java REMOVE TestcomputeValidDistance() METHOD
+UnitTestCaseAction 1395252317697 SmokeTest.java OK
+UnitTestSessionAction 1395252317697 SmokeTest OK
+RefactoringAction 1395252326087 SmokeTest.java ADD void TestcomputeValidPoints() METHOD
+RefactoringAction 1395252326087 SmokeTest.java ADD void TestcomputeValidDistance() METHOD
+RefactoringAction 1395252329587 SmokeTest.java REMOVE TestcomputeValidDistance() METHOD
+EditAction 1395252331041 SmokeTest.java 2607 4 32 9
+UnitTestCaseAction 1395252332915 SmokeTest.java FAIL
+UnitTestSessionAction 1395252332915 SmokeTest FAIL
+UnitTestCaseAction 1395252348431 SmokeTest.java FAIL
+UnitTestSessionAction 1395252348431 SmokeTest FAIL
+RefactoringAction 1395252392087 SmokeTest.java REMOVE TestcomputeValidPoints() METHOD
+RefactoringAction 1395252398587 SmokeTest.java ADD void TestcomputeValidDistance() METHOD
+RefactoringAction 1395252410086 SmokeTest.java REMOVE TestcomputeValidDistance() METHOD
+RefactoringAction 1395252417086 SmokeTest.java ADD void TestcomputeValidPoints() METHOD
+RefactoringAction 1395252424586 SmokeTest.java REMOVE TestcomputeValidPoints() METHOD
+RefactoringAction 1395252427086 SmokeTest.java ADD void TestcomputeValidDistance() METHOD
+UnitTestCaseAction 1395252433305 SmokeTest.java OK
+UnitTestSessionAction 1395252433305 SmokeTest OK
+EditAction 1395252482882 SmokeTest.java 2342 4 34 9
+UnitTestCaseAction 1395252484570 SmokeTest.java OK
+UnitTestSessionAction 1395252484570 SmokeTest OK
+RefactoringAction 1395252508085 SmokeTest.java RENAME TestcomputeValidDistance()=>void TestcomputeValidDistancekm() METHOD
+RefactoringAction 1395252509585 SmokeTest.java RENAME TestcomputeValidDistancekm()=>void TestcomputeValidDistance() METHOD
+RefactoringAction 1395252512085 SmokeTest.java RENAME TestcomputeValidDistance()=>void TestcomputeValidDistanceKm() METHOD
+RefactoringAction 1395252523085 SmokeTest.java ADD void TestcomputeValidDistanceKm()/2 METHOD
+RefactoringAction 1395252526585 SmokeTest.java RENAME TestcomputeValidDistanceKm()/2=>void TestcomputeValidDistance() METHOD
+RefactoringAction 1395252528085 SmokeTest.java RENAME TestcomputeValidDistance()=>void TestcomputeValidDistanceMin() METHOD
+RefactoringAction 1395252587584 SmokeTest.java RENAME TestcomputeValidDistanceMin()=>void TestcomputeValidDistanceMi() METHOD
+UnitTestCaseAction 1395252591318 SmokeTest.java OK
+UnitTestSessionAction 1395252591318 SmokeTest.TestcomputeValidDistanceMi OK
+UnitTestCaseAction 1395253497354 SmokeTest.java OK
+UnitTestSessionAction 1395253497354 MusicPhone OK
+FileOpenedAction 1395254386811 IConnector.java 431 3 0 0

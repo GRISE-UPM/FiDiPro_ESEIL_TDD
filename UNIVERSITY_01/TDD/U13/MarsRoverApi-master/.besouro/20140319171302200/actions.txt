@@ -1,0 +1,294 @@
+FileOpenedAction 1395245582637 MarsRover.java 1083 2 1 0
+FileOpenedAction 1395245897560 TestRover.java 184 1 1 0
+EditAction 1395245939480 MarsRover.java 1089 2 1 0
+RefactoringAction 1395246218049 TestRover.java RENAME test()=>void movetest() METHOD
+RefactoringAction 1395246225049 TestRover.java RENAME movetest()=>void moveForwardtest() METHOD
+RefactoringAction 1395246231049 TestRover.java RENAME moveForwardtest()=>void moveForwardTest() METHOD
+EditAction 1395246241751 TestRover.java 195 1 1 0
+EditAction 1395246248017 TestRover.java 197 1 0 0
+RefactoringAction 1395246315109 TestRover.java ADD void create FIELD
+RefactoringAction 1395246319608 TestRover.java RENAME create=>void createGru FIELD
+RefactoringAction 1395246321108 TestRover.java RENAME createGru=>void createGrid FIELD
+RefactoringAction 1395246323108 TestRover.java RENAME createGrid=>void createGridTest() METHOD
+EditAction 1395246326686 TestRover.java 210 2 0 0
+RefactoringAction 1395246353248 TestRover.java ADD import upm.tdd.training.MarsRover IMPORT
+EditAction 1395246370997 TestRover.java 291 2 1 0
+CompilationAction 1395246371154 TestRover.java
+CompilationAction 1395246387122 TestRover.java
+UnitTestCaseAction 1395246405137 TestRover.java OK
+UnitTestSessionAction 1395246405137 TestRover OK
+EditAction 1395246450104 TestRover.java 299 2 1 0
+EditAction 1395246521102 MarsRover.java 1131 2 1 0
+CompilationAction 1395246521227 MarsRover.java
+CompilationAction 1395246521227 MarsRover.java
+CompilationAction 1395246521227 MarsRover.java
+CompilationAction 1395246521227 MarsRover.java
+CompilationAction 1395246521227 MarsRover.java
+EditAction 1395246522399 MarsRover.java 1132 2 1 0
+CompilationAction 1395246522539 MarsRover.java
+CompilationAction 1395246522539 MarsRover.java
+CompilationAction 1395246522539 MarsRover.java
+CompilationAction 1395246522539 MarsRover.java
+CompilationAction 1395246561413 MarsRover.java
+EditAction 1395246580584 MarsRover.java 1134 2 2 0
+CompilationAction 1395246580725 MarsRover.java
+CompilationAction 1395246598021 MarsRover.java
+EditAction 1395246602349 MarsRover.java 1132 2 2 0
+RefactoringAction 1395246613771 MarsRover.java ADD Integer FIELD
+RefactoringAction 1395246646270 MarsRover.java RENAME MarsRover(int, int, String)=>void MarsRover2(int, int, String) METHOD
+RefactoringAction 1395246647770 MarsRover.java RENAME MarsRover2(int, int, String)=>MarsRover(int, int, String) METHOD
+EditAction 1395246654191 MarsRover.java 1149 2 2 0
+EditAction 1395246781844 MarsRover.java 1233 2 3 0
+UnitTestCaseAction 1395246787625 TestRover.java FAIL
+UnitTestSessionAction 1395246787625 TestRover FAIL
+EditAction 1395246829280 MarsRover.java 1231 2 3 0
+UnitTestCaseAction 1395246848685 TestRover.java OK
+UnitTestSessionAction 1395246848685 MarsRoverApi-master OK
+UnitTestCaseAction 1395246855294 TestRover.java OK
+UnitTestSessionAction 1395246855310 TestRover OK
+EditAction 1395246877028 MarsRover.java 1258 2 3 0
+EditAction 1395247368731 MarsRover.java 1304 2 4 0
+EditAction 1395247378824 MarsRover.java 1311 2 3 0
+RefactoringAction 1395247436666 TestRover.java RENAME createGridTest()=>void createGridTestOn() METHOD
+RefactoringAction 1395247439666 TestRover.java RENAME createGridTestOn()=>void createGridTestOnInitia() METHOD
+RefactoringAction 1395247442166 TestRover.java RENAME createGridTestOnInitia()=>void createGridTestOnInitialization() METHOD
+EditAction 1395247527882 TestRover.java 450 2 1 0
+CompilationAction 1395247528023 TestRover.java
+CompilationAction 1395247528023 TestRover.java
+CompilationAction 1395247543772 TestRover.java
+CompilationAction 1395247543882 TestRover.java
+CompilationAction 1395247543882 TestRover.java
+CompilationAction 1395247554209 TestRover.java
+CompilationAction 1395247554209 TestRover.java
+CompilationAction 1395247554319 TestRover.java
+EditAction 1395247558600 TestRover.java 452 2 4 0
+RefactoringAction 1395247657753 TestRover.java ADD import junit.framework.TestCase IMPORT
+UnitTestCaseAction 1395247677393 TestRover.java FAIL
+UnitTestSessionAction 1395247677393 TestRover FAIL
+EditAction 1395247690268 MarsRover.java 1314 2 3 0
+UnitTestCaseAction 1395247695580 TestRover.java FAIL
+UnitTestSessionAction 1395247695580 TestRover FAIL
+EditAction 1395247708064 TestRover.java 506 2 4 1
+UnitTestCaseAction 1395247720017 TestRover.java FAIL
+UnitTestSessionAction 1395247720017 TestRover FAIL
+UnitTestCaseAction 1395247737688 TestRover.java FAIL
+UnitTestSessionAction 1395247737688 TestRover FAIL
+FileOpenedAction 1395247774702 SudokuTest.java 278 1 3 0
+FileOpenedAction 1395247787889 SudokuTest.java 278 1 3 0
+UnitTestCaseAction 1395247825263 TestRover.java FAIL
+UnitTestSessionAction 1395247825263 TestRover FAIL
+RefactoringAction 1395247864637 TestRover.java RENAME import org.junit.Test=>import org.junit.Assert.* IMPORT
+CompilationAction 1395247868168 TestRover.java
+CompilationAction 1395247868168 TestRover.java
+CompilationAction 1395247871152 TestRover.java
+CompilationAction 1395247871277 TestRover.java
+RefactoringAction 1395247873137 TestRover.java ADD import org.junit.Assert.assertEquals IMPORT
+RefactoringAction 1395247873137 TestRover.java ADD import org.junit.Test IMPORT
+CompilationAction 1395247873637 TestRover.java
+UnitTestCaseAction 1395247877137 TestRover.java OK
+UnitTestSessionAction 1395247877137 TestRover OK
+EditAction 1395247898730 MarsRover.java 1320 2 3 0
+EditAction 1395247927213 MarsRover.java 1340 2 4 0
+CompilationAction 1395247927354 MarsRover.java
+RefactoringAction 1395247962196 MarsRover.java ADD void moveInGrid(String) METHOD
+RefactoringAction 1395247985852 TestRover.java ADD void moveForwardTest()/2 METHOD
+RefactoringAction 1395247999851 TestRover.java REMOVE moveForwardTest()/2 METHOD
+EditAction 1395248260124 MarsRover.java 1556 3 6 0
+UnitTestCaseAction 1395248267265 SudokuTest.java OK
+UnitTestSessionAction 1395248267265 SudokuTest OK
+UnitTestCaseAction 1395248275405 TestRover.java OK
+UnitTestSessionAction 1395248275405 TestRover OK
+RefactoringAction 1395248307732 MarsRover.java ADD void mkaveMovement(String) METHOD
+RefactoringAction 1395248356824 MarsRover.java ADD String direction FIELD
+EditAction 1395248361402 MarsRover.java 1642 4 7 0
+CompilationAction 1395248361543 MarsRover.java
+RefactoringAction 1395248407088 MarsRover.java ADD String DIE FIELD
+RefactoringAction 1395248408604 MarsRover.java RENAME DIE=>String DI FIELD
+RefactoringAction 1395248411604 MarsRover.java RENAME DI=>String DIRECTION FIELD
+RefactoringAction 1395248412620 MarsRover.java RENAME DIRECTION=>String DIRECTION_ FIELD
+RefactoringAction 1395248415119 MarsRover.java RENAME DIRECTION_=>String DIRECTION_N FIELD
+RefactoringAction 1395248438650 MarsRover.java ADD String DIRECTION_N/2 FIELD
+RefactoringAction 1395248438650 MarsRover.java ADD String DIRECTION_N/3 FIELD
+RefactoringAction 1395248440165 MarsRover.java ADD String DIRECTION_N/4 FIELD
+RefactoringAction 1395248447681 MarsRover.java RENAME DIRECTION_N/4=>String DIRECTION_S FIELD
+RefactoringAction 1395248522194 MarsRover.java RENAME DIRECTION_N/3=>String DIRECTION_E FIELD
+RefactoringAction 1395248532725 MarsRover.java RENAME DIRECTION_N/2=>String DIRECTION_W FIELD
+CompilationAction 1395248535444 MarsRover.java
+CompilationAction 1395248535553 MarsRover.java
+RefactoringAction 1395248548365 MarsRover.java RENAME direction=>String curdirection FIELD
+RefactoringAction 1395248550881 MarsRover.java RENAME curdirection=>String currentDirection FIELD
+CompilationAction 1395248562505 MarsRover.java
+CompilationAction 1395248562630 MarsRover.java
+CompilationAction 1395248633097 MarsRover.java
+EditAction 1395248644909 MarsRover.java 2010 4 7 0
+RefactoringAction 1395248852840 MarsRover.java ADD String DIRECTION_W/2 FIELD
+RefactoringAction 1395248858355 MarsRover.java RENAME DIRECTION_W/2=>String COMMAND FIELD
+RefactoringAction 1395248861855 MarsRover.java RENAME COMMAND=>String COMMAND_ FIELD
+RefactoringAction 1395248869870 MarsRover.java RENAME COMMAND_=>String COMMAND_F FIELD
+RefactoringAction 1395248876386 MarsRover.java ADD String COMMAND_F/2 FIELD
+RefactoringAction 1395248877386 MarsRover.java ADD String COMMAND_F/3 FIELD
+RefactoringAction 1395248878386 MarsRover.java ADD String COMMAND_F/4 FIELD
+RefactoringAction 1395248881401 MarsRover.java RENAME COMMAND_F/4=>String COMMAND_b FIELD
+RefactoringAction 1395248882401 MarsRover.java RENAME COMMAND_b=>String COMMAND_B FIELD
+RefactoringAction 1395248886917 MarsRover.java RENAME COMMAND_F/3=>String COMMAND_L FIELD
+RefactoringAction 1395248898448 MarsRover.java RENAME COMMAND_F/2=>String COMMAND_R FIELD
+EditAction 1395248950384 MarsRover.java 2186 4 7 0
+RefactoringAction 1395248958227 MarsRover.java RENAME mkaveMovement(String)=>void maeMovement(String) METHOD
+RefactoringAction 1395248959243 MarsRover.java RENAME maeMovement(String)=>void maKeMovement(String) METHOD
+RefactoringAction 1395248960243 MarsRover.java RENAME maKeMovement(String)=>void maeMovement(String) METHOD
+RefactoringAction 1395248961258 MarsRover.java RENAME maeMovement(String)=>void makeMovement(String) METHOD
+EditAction 1395248961805 MarsRover.java 2185 4 7 0
+CompilationAction 1395248961977 MarsRover.java
+CompilationAction 1395248974602 MarsRover.java
+RefactoringAction 1395249103316 MarsRover.java ADD Integer currentPositionX FIELD
+RefactoringAction 1395249110832 MarsRover.java ADD Integer currentPositionX/2 FIELD
+RefactoringAction 1395249113347 MarsRover.java RENAME currentPositionX/2=>Integer currentPositionY FIELD
+EditAction 1395249363136 MarsRover.java 2340 4 7 0
+EditAction 1395249369698 MarsRover.java 2340 4 7 0
+EditAction 1395249538943 MarsRover.java 2398 4 7 0
+EditAction 1395249586988 MarsRover.java 2430 4 7 0
+EditAction 1395249668079 MarsRover.java 2476 4 7 0
+UnitTestCaseAction 1395249672735 TestRover.java FAIL
+UnitTestSessionAction 1395249672735 TestRover FAIL
+EditAction 1395249700344 TestRover.java 549 2 4 0
+UnitTestCaseAction 1395249706031 TestRover.java OK
+UnitTestSessionAction 1395249706031 TestRover OK
+UnitTestCaseAction 1395249771170 TestRover.java OK
+UnitTestSessionAction 1395249771185 TestRover OK
+UnitTestCaseAction 1395249792263 TestRover.java OK
+UnitTestSessionAction 1395249792263 TestRover OK
+EditAction 1395249814434 TestRover.java 551 2 4 0
+UnitTestCaseAction 1395249819199 TestRover.java OK
+UnitTestSessionAction 1395249819199 TestRover OK
+EditAction 1395249826715 TestRover.java 552 2 4 0
+UnitTestCaseAction 1395249832215 TestRover.java OK
+UnitTestSessionAction 1395249832230 TestRover OK
+RefactoringAction 1395249863276 TestRover.java RENAME moveForwardTest()=>void moveForwardFFFTest() METHOD
+RefactoringAction 1395249866292 TestRover.java RENAME moveForwardFFFTest()=>void moveForwardFFFFTest() METHOD
+EditAction 1395249885244 TestRover.java 507 2 4 1
+UnitTestCaseAction 1395249888338 TestRover.java OK
+UnitTestSessionAction 1395249888338 TestRover.moveForwardFFTest OK
+UnitTestCaseAction 1395249897681 TestRover.java OK
+UnitTestSessionAction 1395249897681 TestRover OK
+EditAction 1395249911025 TestRover.java 471 2 4 1
+RefactoringAction 1395249920806 TestRover.java ADD void moveForwardFFTest()/2 METHOD
+RefactoringAction 1395249926321 TestRover.java RENAME moveForwardFFTest()/2=>void moveForwardBBTest() METHOD
+EditAction 1395249936852 TestRover.java 656 3 7 2
+UnitTestCaseAction 1395249941805 TestRover.java FAIL
+UnitTestSessionAction 1395249941805 TestRover FAIL
+UnitTestCaseAction 1395250164954 TestRover.java FAIL
+UnitTestSessionAction 1395250164954 TestRover FAIL
+CompilationAction 1395250312027 MarsRover.java
+CompilationAction 1395250326011 MarsRover.java
+CompilationAction 1395250326027 MarsRover.java
+CompilationAction 1395250326027 MarsRover.java
+CompilationAction 1395250326027 MarsRover.java
+CompilationAction 1395250343870 MarsRover.java
+CompilationAction 1395250343870 MarsRover.java
+CompilationAction 1395250343980 MarsRover.java
+CompilationAction 1395250356135 MarsRover.java
+UnitTestCaseAction 1395250361823 TestRover.java FAIL
+UnitTestSessionAction 1395250361823 TestRover FAIL
+UnitTestCaseAction 1395250430164 TestRover.java FAIL
+UnitTestSessionAction 1395250430164 TestRover FAIL
+UnitTestCaseAction 1395250544598 TestRover.java FAIL
+UnitTestSessionAction 1395250544598 TestRover FAIL
+EditAction 1395250600003 TestRover.java 655 3 7 2
+UnitTestCaseAction 1395250607315 TestRover.java FAIL
+UnitTestSessionAction 1395250607315 TestRover FAIL
+EditAction 1395250629330 TestRover.java 655 3 7 2
+UnitTestCaseAction 1395250632298 TestRover.java FAIL
+UnitTestSessionAction 1395250632298 TestRover FAIL
+CompilationAction 1395251063175 MarsRover.java
+CompilationAction 1395251069722 MarsRover.java
+CompilationAction 1395251069847 MarsRover.java
+CompilationAction 1395251106955 MarsRover.java
+CompilationAction 1395251106971 MarsRover.java
+CompilationAction 1395251347613 MarsRover.java
+CompilationAction 1395251347723 MarsRover.java
+CompilationAction 1395251357203 MarsRover.java
+UnitTestCaseAction 1395251387065 TestRover.java FAIL
+UnitTestSessionAction 1395251387065 TestRover FAIL
+EditAction 1395251443040 MarsRover.java 3103 4 9 0
+EditAction 1395251456003 MarsRover.java 3119 4 9 0
+UnitTestCaseAction 1395251460860 TestRover.java FAIL
+UnitTestSessionAction 1395251460860 TestRover FAIL
+EditAction 1395251473433 MarsRover.java 3119 4 9 0
+UnitTestCaseAction 1395251478556 TestRover.java OK
+UnitTestSessionAction 1395251478556 TestRover OK
+EditAction 1395251520735 MarsRover.java 3121 4 8 0
+UnitTestCaseAction 1395251524687 TestRover.java OK
+UnitTestSessionAction 1395251524687 TestRover OK
+EditAction 1395251546012 MarsRover.java 3079 4 8 0
+EditAction 1395251555463 TestRover.java 655 3 7 2
+UnitTestCaseAction 1395251558525 TestRover.java FAIL
+UnitTestSessionAction 1395251558525 TestRover FAIL
+EditAction 1395251936863 MarsRover.java 3432 4 8 0
+CompilationAction 1395251937019 MarsRover.java
+CompilationAction 1395252061915 MarsRover.java
+EditAction 1395252188158 MarsRover.java 3883 4 8 0
+EditAction 1395252194876 MarsRover.java 3879 4 8 0
+EditAction 1395252207266 MarsRover.java 3321 4 8 0
+UnitTestCaseAction 1395252216235 TestRover.java FAIL
+UnitTestSessionAction 1395252216235 TestRover FAIL
+UnitTestCaseAction 1395252377773 TestRover.java FAIL
+UnitTestSessionAction 1395252377789 TestRover FAIL
+UnitTestCaseAction 1395252419990 TestRover.java FAIL
+UnitTestSessionAction 1395252419990 TestRover FAIL
+UnitTestCaseAction 1395252484207 TestRover.java FAIL
+UnitTestSessionAction 1395252484207 TestRover FAIL
+UnitTestCaseAction 1395252518221 TestRover.java FAIL
+UnitTestSessionAction 1395252518221 TestRover FAIL
+UnitTestCaseAction 1395252579265 TestRover.java FAIL
+UnitTestSessionAction 1395252579265 TestRover FAIL
+EditAction 1395252584312 TestRover.java 657 3 7 2
+EditAction 1395252597671 TestRover.java 687 3 8 2
+UnitTestCaseAction 1395252600187 TestRover.java FAIL
+UnitTestSessionAction 1395252600187 TestRover FAIL
+UnitTestCaseAction 1395252755556 TestRover.java OK
+UnitTestSessionAction 1395252755556 TestRover OK
+EditAction 1395252759462 TestRover.java 685 3 8 2
+UnitTestCaseAction 1395252762525 TestRover.java OK
+UnitTestSessionAction 1395252762525 TestRover OK
+RefactoringAction 1395252783102 TestRover.java ADD void moveForwardBBTest()/2 METHOD
+RefactoringAction 1395252788118 TestRover.java RENAME moveForwardBBTest()/2=>void moveForwardBLBTest() METHOD
+RefactoringAction 1395252789117 TestRover.java RENAME moveForwardBLBTest()=>void moveForwardBBTest()/2 METHOD
+RefactoringAction 1395252790117 TestRover.java RENAME moveForwardBBTest()/2=>void moveForwardBlBTest() METHOD
+EditAction 1395252808367 TestRover.java 872 4 11 3
+EditAction 1395252820163 TestRover.java 872 4 11 3
+UnitTestCaseAction 1395252823976 TestRover.java FAIL
+UnitTestSessionAction 1395252823976 TestRover FAIL
+UnitTestCaseAction 1395253043312 TestRover.java FAIL
+UnitTestSessionAction 1395253043312 TestRover FAIL
+EditAction 1395253177636 TestRover.java 872 4 11 3
+UnitTestCaseAction 1395253187573 TestRover.java FAIL
+UnitTestSessionAction 1395253187573 TestRover FAIL
+RefactoringAction 1395253245481 TestRover.java RENAME moveForwardBlBTest()=>void moveForwardBRBTest() METHOD
+EditAction 1395253270420 TestRover.java 872 4 11 3
+UnitTestCaseAction 1395253280499 TestRover.java FAIL
+UnitTestSessionAction 1395253280499 TestRover FAIL
+UnitTestCaseAction 1395253501232 TestRover.java FAIL
+UnitTestSessionAction 1395253501232 TestRover FAIL
+UnitTestCaseAction 1395253583014 TestRover.java FAIL
+UnitTestSessionAction 1395253583014 TestRover FAIL
+UnitTestCaseAction 1395253711639 TestRover.java FAIL
+UnitTestSessionAction 1395253711639 TestRover FAIL
+UnitTestCaseAction 1395253729779 TestRover.java FAIL
+UnitTestSessionAction 1395253729779 TestRover FAIL
+EditAction 1395253782498 TestRover.java 872 4 11 3
+UnitTestCaseAction 1395253785826 TestRover.java OK
+UnitTestSessionAction 1395253785826 TestRover OK
+EditAction 1395253801982 TestRover.java 872 4 11 3
+UnitTestCaseAction 1395253805061 TestRover.java OK
+UnitTestSessionAction 1395253805061 TestRover OK
+RefactoringAction 1395253826060 TestRover.java ADD void moveForwardBRBTest()/2 METHOD
+RefactoringAction 1395253831060 TestRover.java REMOVE moveForwardBRBTest()/2 METHOD
+RefactoringAction 1395253837576 TestRover.java RENAME moveForwardFFTest()=>void moveFFTest() METHOD
+RefactoringAction 1395253841091 TestRover.java RENAME moveForwardBBTest()=>void moveBBTest() METHOD
+RefactoringAction 1395253844591 TestRover.java RENAME moveForwardBRBTest()=>void moveBRBTest() METHOD
+RefactoringAction 1395253849607 TestRover.java ADD void moveBRBTest()/2 METHOD
+RefactoringAction 1395253860607 TestRover.java RENAME moveBRBTest()/2=>void moveFRFTest() METHOD
+EditAction 1395253868216 TestRover.java 1039 5 14 4
+EditAction 1395253893747 TestRover.java 1039 5 14 4
+UnitTestCaseAction 1395253903809 TestRover.java FAIL
+UnitTestSessionAction 1395253903809 TestRover FAIL

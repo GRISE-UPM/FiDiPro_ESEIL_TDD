@@ -1,0 +1,253 @@
+FileOpenedAction 1458040686466 MarsRover.java 1083 2 1 0
+FileOpenedAction 1458040704642 TestMarsRover.java 182 1 1 0
+RefactoringAction 1458040976172 MarsRover.java ADD int m FIELD
+RefactoringAction 1458040986827 MarsRover.java RENAME m=>int m_PosX FIELD
+RefactoringAction 1458040994448 MarsRover.java ADD int m_PosX/2 FIELD
+RefactoringAction 1458040996972 MarsRover.java RENAME m_PosX/2=>int m_PosY FIELD
+EditAction 1458040999145 MarsRover.java 1125 2 1 0
+RefactoringAction 1458041108983 MarsRover.java RENAME F=>enum Facing null
+RefactoringAction 1458041122132 MarsRover.java ADD int m_PosX FIELD
+RefactoringAction 1458041122132 MarsRover.java ADD int m_PosY FIELD
+RefactoringAction 1458041122132 MarsRover.java ADD MarsRover(int, int, String) METHOD
+RefactoringAction 1458041122132 MarsRover.java ADD String executeCommand(String) METHOD
+RefactoringAction 1458041140829 MarsRover.java ADD Facing NORTH FIELD
+RefactoringAction 1458041154619 MarsRover.java ADD Facing EAST FIELD
+RefactoringAction 1458041160758 MarsRover.java ADD Facing SOUTH FIELD
+RefactoringAction 1458041169400 MarsRover.java ADD Facing WEST FIELD
+RefactoringAction 1458041188718 MarsRover.java ADD int value FIELD
+RefactoringAction 1458041218470 MarsRover.java ADD Facing(int) METHOD
+RefactoringAction 1458041218470 MarsRover.java ADD int m_PosX FIELD
+RefactoringAction 1458041218470 MarsRover.java ADD int m_PosY FIELD
+RefactoringAction 1458041218481 MarsRover.java ADD void MarsRover(int, int, String) METHOD
+RefactoringAction 1458041218481 MarsRover.java ADD String executeCommand(String) METHOD
+RefactoringAction 1458041221014 MarsRover.java RENAME Facing(int)=>Facing() METHOD
+RefactoringAction 1458041231079 MarsRover.java RENAME Facing()=>Facing(int) METHOD
+RefactoringAction 1458041234694 MarsRover.java ADD int m_PosX FIELD
+RefactoringAction 1458041234694 MarsRover.java ADD int m_PosY FIELD
+RefactoringAction 1458041234694 MarsRover.java ADD MarsRover(int, int, String) METHOD
+RefactoringAction 1458041234694 MarsRover.java ADD String executeCommand(String) METHOD
+RefactoringAction 1458041361556 MarsRover.java ADD Facing m_ FIELD
+RefactoringAction 1458041362588 MarsRover.java RENAME m_=>Facing m_F FIELD
+RefactoringAction 1458041364621 MarsRover.java RENAME m_F=>Facing m_Facing FIELD
+EditAction 1458041389226 MarsRover.java 1351 3 5 0
+RefactoringAction 1458041472175 MarsRover.java ADD priate String FIELD
+RefactoringAction 1458041476802 MarsRover.java ADD void GetFacing() METHOD
+RefactoringAction 1458041596925 MarsRover.java REMOVE String FIELD
+EditAction 1458041621820 MarsRover.java 1498 4 7 0
+CompilationAction 1458041622071 MarsRover.java
+CompilationAction 1458041622081 MarsRover.java
+CompilationAction 1458041672213 MarsRover.java
+CompilationAction 1458041672213 MarsRover.java
+CompilationAction 1458041672373 MarsRover.java
+CompilationAction 1458041672373 MarsRover.java
+CompilationAction 1458041919599 MarsRover.java
+CompilationAction 1458041919599 MarsRover.java
+CompilationAction 1458041919599 MarsRover.java
+CompilationAction 1458041919599 MarsRover.java
+RefactoringAction 1458041976400 MarsRover.java ADD void ToString() METHOD
+CompilationAction 1458042020193 MarsRover.java
+CompilationAction 1458042020193 MarsRover.java
+CompilationAction 1458042020193 MarsRover.java
+CompilationAction 1458042020193 MarsRover.java
+CompilationAction 1458042020404 MarsRover.java
+CompilationAction 1458042020404 MarsRover.java
+CompilationAction 1458042020404 MarsRover.java
+CompilationAction 1458042020404 MarsRover.java
+EditAction 1458042058428 MarsRover.java 1691 5 11 0
+CompilationAction 1458042058689 MarsRover.java
+CompilationAction 1458042058689 MarsRover.java
+CompilationAction 1458042058689 MarsRover.java
+CompilationAction 1458042058689 MarsRover.java
+EditAction 1458042081952 MarsRover.java 1704 5 11 0
+CompilationAction 1458042082162 MarsRover.java
+CompilationAction 1458042082162 MarsRover.java
+CompilationAction 1458042082162 MarsRover.java
+CompilationAction 1458042082162 MarsRover.java
+EditAction 1458042215734 MarsRover.java 1826 5 16 0
+CompilationAction 1458042215955 MarsRover.java
+CompilationAction 1458042215955 MarsRover.java
+CompilationAction 1458042215955 MarsRover.java
+CompilationAction 1458042215955 MarsRover.java
+RefactoringAction 1458042251917 TestMarsRover.java ADD void test()/2 METHOD
+RefactoringAction 1458042257464 TestMarsRover.java RENAME test()/2=>void testCrea() METHOD
+RefactoringAction 1458042258496 TestMarsRover.java RENAME testCrea()=>void testCreation() METHOD
+RefactoringAction 1458042315838 TestMarsRover.java RENAME testCreation()=>void testCreationPos() METHOD
+RefactoringAction 1458042317881 TestMarsRover.java RENAME testCreationPos()=>void testCreationPosFacing() METHOD
+EditAction 1458042326444 TestMarsRover.java 275 2 2 0
+RefactoringAction 1458042400100 TestMarsRover.java ADD void testCreationPosFacing()/2 METHOD
+RefactoringAction 1458042414190 TestMarsRover.java RENAME testCreationPosFacing()/2=>void testEmpty() METHOD
+RefactoringAction 1458042415241 TestMarsRover.java RENAME testEmpty()=>void testEmptyEx() METHOD
+RefactoringAction 1458042418806 TestMarsRover.java RENAME testEmptyEx()=>void testEmptyExe() METHOD
+RefactoringAction 1458042420349 TestMarsRover.java RENAME testEmptyExe()=>void testEmptyExecute() METHOD
+RefactoringAction 1458042423403 TestMarsRover.java RENAME testEmptyExecute()=>void testEmptyExecuteCommand() METHOD
+EditAction 1458042424745 TestMarsRover.java 370 3 3 0
+CompilationAction 1458042597744 MarsRover.java
+CompilationAction 1458042597744 MarsRover.java
+CompilationAction 1458042597744 MarsRover.java
+CompilationAction 1458042597754 MarsRover.java
+CompilationAction 1458042597954 MarsRover.java
+CompilationAction 1458042597954 MarsRover.java
+CompilationAction 1458042597954 MarsRover.java
+CompilationAction 1458042597954 MarsRover.java
+CompilationAction 1458042597954 MarsRover.java
+CompilationAction 1458042895191 MarsRover.java
+CompilationAction 1458042895202 MarsRover.java
+CompilationAction 1458042895202 MarsRover.java
+CompilationAction 1458042895202 MarsRover.java
+CompilationAction 1458042895202 MarsRover.java
+CompilationAction 1458042895422 MarsRover.java
+CompilationAction 1458042910834 MarsRover.java
+CompilationAction 1458043182745 TestMarsRover.java
+RefactoringAction 1458043209493 TestMarsRover.java ADD import tdd.tr IMPORT
+RefactoringAction 1458043212027 TestMarsRover.java REMOVE import tdd.tr IMPORT
+RefactoringAction 1458043213559 TestMarsRover.java ADD import tdd.training.paf.Ma IMPORT
+RefactoringAction 1458043216594 TestMarsRover.java RENAME import tdd.training.paf.Ma=>import tdd.training.paf.MarsRover IMPORT
+CompilationAction 1458043221340 TestMarsRover.java
+CompilationAction 1458043221491 TestMarsRover.java
+EditAction 1458043265885 TestMarsRover.java 501 3 5 2
+CompilationAction 1458043266085 TestMarsRover.java
+EditAction 1458043296048 TestMarsRover.java 501 3 5 2
+CompilationAction 1458043296258 TestMarsRover.java
+CompilationAction 1458043335595 TestMarsRover.java
+UnitTestCaseAction 1458043344968 TestMarsRover.java FAIL
+UnitTestSessionAction 1458043345008 TestMarsRover FAIL
+EditAction 1458043358247 TestMarsRover.java 507 3 4 2
+UnitTestCaseAction 1458043364737 TestMarsRover.java OK
+UnitTestSessionAction 1458043364737 TestMarsRover OK
+RefactoringAction 1458043486542 MarsRover.java ADD String executeOne FIELD
+RefactoringAction 1458043488605 MarsRover.java RENAME executeOne=>String executeOneCommand FIELD
+RefactoringAction 1458043490658 MarsRover.java RENAME executeOneCommand=>String executeOneCommand() METHOD
+RefactoringAction 1458043526159 MarsRover.java RENAME executeOneCommand()=>String executeOneCommand(String) METHOD
+EditAction 1458044134183 MarsRover.java 1985 5 18 0
+CompilationAction 1458044135415 MarsRover.java
+CompilationAction 1458044182913 MarsRover.java
+CompilationAction 1458044183073 MarsRover.java
+CompilationAction 1458044189653 MarsRover.java
+RefactoringAction 1458044348071 MarsRover.java REMOVE ToString() METHOD
+RefactoringAction 1458044348071 MarsRover.java REMOVE GetFacing() METHOD
+RefactoringAction 1458044351616 MarsRover.java ADD String GetFacing() METHOD
+RefactoringAction 1458044351616 MarsRover.java ADD String ToString() METHOD
+EditAction 1458044352136 MarsRover.java 2195 5 18 0
+RefactoringAction 1458044384343 MarsRover.java ADD void Cap FIELD
+RefactoringAction 1458044386906 MarsRover.java RENAME Cap=>void CapFacing() METHOD
+EditAction 1458044432121 MarsRover.java 2247 6 20 0
+RefactoringAction 1458044465289 MarsRover.java ADD int Grid FIELD
+RefactoringAction 1458044476025 MarsRover.java REMOVE Grid FIELD
+EditAction 1458044480351 MarsRover.java 2276 6 20 0
+CompilationAction 1458044481553 MarsRover.java
+RefactoringAction 1458044498767 MarsRover.java ADD int Grid FIELD
+RefactoringAction 1458044501341 MarsRover.java REMOVE Grid FIELD
+RefactoringAction 1458044503895 MarsRover.java ADD int Grid FIELD
+RefactoringAction 1458044610378 MarsRover.java ADD void Setup FIELD
+RefactoringAction 1458044612931 MarsRover.java RENAME Setup=>void SetupGrid FIELD
+RefactoringAction 1458044614003 MarsRover.java RENAME SetupGrid=>void SetupGrid() METHOD
+RefactoringAction 1458044617608 MarsRover.java RENAME SetupGrid()=>void SetupGrid(String) METHOD
+RefactoringAction 1458044664265 MarsRover.java RENAME Grid=>int FIELD
+CompilationAction 1458044688881 MarsRover.java
+CompilationAction 1458044703962 MarsRover.java
+RefactoringAction 1458044730711 TestMarsRover.java ADD void testEmptyExecuteCommand()/2 METHOD
+RefactoringAction 1458044742778 TestMarsRover.java RENAME testEmptyExecuteCommand()/2=>void testOneCommand() METHOD
+EditAction 1458044826208 TestMarsRover.java 644 4 6 3
+UnitTestCaseAction 1458044832317 TestMarsRover.java OK
+UnitTestSessionAction 1458044832317 TestMarsRover OK
+RefactoringAction 1458044851735 TestMarsRover.java ADD void testOneCommand()/2 METHOD
+RefactoringAction 1458044863382 TestMarsRover.java RENAME testOneCommand()/2=>void testOneCommandCounter() METHOD
+RefactoringAction 1458044864934 TestMarsRover.java RENAME testOneCommandCounter()=>void testOneCommandCounterClock() METHOD
+RefactoringAction 1458044869480 TestMarsRover.java RENAME testOneCommandCounterClock()=>void testOneCommandCounterClockwise() METHOD
+RefactoringAction 1458044872535 TestMarsRover.java RENAME testOneCommandCounterClockwise()=>void testOneCommandCounterClockwiseComplete() METHOD
+RefactoringAction 1458044874097 TestMarsRover.java RENAME testOneCommandCounterClockwiseComplete()=>void testOneCommandCounterClockwiseCompleteRotta() METHOD
+RefactoringAction 1458044876641 TestMarsRover.java RENAME testOneCommandCounterClockwiseCompleteRotta()=>void testOneCommandCounterClockwiseCompleteRottation() METHOD
+EditAction 1458044902067 TestMarsRover.java 866 5 8 4
+EditAction 1458044946491 TestMarsRover.java 1019 5 11 7
+UnitTestCaseAction 1458044961473 TestMarsRover.java OK
+UnitTestSessionAction 1458044961483 TestMarsRover OK
+RefactoringAction 1458044973230 TestMarsRover.java ADD void testOneCommandCounterClockwiseCompleteRottation()/2 METHOD
+RefactoringAction 1458044983414 TestMarsRover.java RENAME testOneCommandCounterClockwiseCompleteRottation()/2=>void testOneCommandClockwiseCompleteRottation() METHOD
+EditAction 1458045004084 TestMarsRover.java 1361 6 16 11
+UnitTestCaseAction 1458045014930 TestMarsRover.java OK
+UnitTestSessionAction 1458045014930 TestMarsRover OK
+RefactoringAction 1458045131667 MarsRover.java ADD void ExecuteRotation() METHOD
+RefactoringAction 1458045144476 MarsRover.java RENAME ExecuteRotation()=>void ExecuteRotation(String) METHOD
+EditAction 1458045176001 MarsRover.java 2454 8 24 0
+UnitTestCaseAction 1458045183432 TestMarsRover.java OK
+UnitTestSessionAction 1458045183432 TestMarsRover OK
+RefactoringAction 1458045213135 MarsRover.java ADD void ExecuteRotation(String)/2 METHOD
+RefactoringAction 1458045222708 MarsRover.java RENAME ExecuteRotation(String)/2=>void ExecuteMov(String) METHOD
+RefactoringAction 1458045225292 MarsRover.java RENAME ExecuteMov(String)=>void ExecuteMovement(String) METHOD
+EditAction 1458045225472 MarsRover.java 2634 9 26 0
+EditAction 1458045282404 MarsRover.java 2517 9 26 0
+RefactoringAction 1458045335581 MarsRover.java ADD void CapFacing()/2 METHOD
+RefactoringAction 1458045344694 MarsRover.java RENAME CapFacing()/2=>void CapPosition() METHOD
+EditAction 1458045345605 MarsRover.java 2647 10 28 0
+EditAction 1458045553854 MarsRover.java 2675 10 28 0
+EditAction 1458045622143 MarsRover.java 2694 10 28 0
+EditAction 1458045726423 MarsRover.java 2835 10 30 0
+EditAction 1458045977634 MarsRover.java 2873 10 31 0
+RefactoringAction 1458046049307 MarsRover.java ADD void InitGrid FIELD
+RefactoringAction 1458046050869 MarsRover.java RENAME InitGrid=>void InitGrid() METHOD
+EditAction 1458046067964 MarsRover.java 2920 11 32 0
+EditAction 1458046096154 MarsRover.java 2954 11 32 0
+EditAction 1458046532482 MarsRover.java 3312 11 32 0
+EditAction 1458046542536 MarsRover.java 3312 11 32 0
+EditAction 1458046561013 MarsRover.java 3312 11 32 0
+RefactoringAction 1458046597836 TestMarsRover.java ADD void testOneCommandClockwiseCompleteRottation()/2 METHOD
+RefactoringAction 1458046622521 TestMarsRover.java RENAME testOneCommandClockwiseCompleteRottation()/2=>void testOneCommandMovements() METHOD
+EditAction 1458046622932 TestMarsRover.java 1686 7 21 15
+EditAction 1458046649911 TestMarsRover.java 1688 7 21 15
+EditAction 1458046703668 TestMarsRover.java 1586 7 19 13
+EditAction 1458046740020 TestMarsRover.java 1588 7 19 13
+EditAction 1458046748132 TestMarsRover.java 1590 7 19 13
+UnitTestCaseAction 1458046757025 TestMarsRover.java OK
+UnitTestSessionAction 1458046757025 TestMarsRover OK
+UnitTestCaseAction 1458046920630 TestMarsRover.java OK
+UnitTestSessionAction 1458046920630 TestMarsRover OK
+UnitTestCaseAction 1458046975829 TestMarsRover.java OK
+UnitTestSessionAction 1458046975829 TestMarsRover OK
+CompilationAction 1458047256883 MarsRover.java
+CompilationAction 1458047262481 MarsRover.java
+CompilationAction 1458047262662 MarsRover.java
+CompilationAction 1458047339783 MarsRover.java
+UnitTestCaseAction 1458047350688 TestMarsRover.java FAIL
+UnitTestSessionAction 1458047350688 TestMarsRover FAIL
+UnitTestCaseAction 1458047494695 TestMarsRover.java OK
+UnitTestSessionAction 1458047494695 TestMarsRover OK
+UnitTestCaseAction 1458047568161 TestMarsRover.java OK
+UnitTestSessionAction 1458047568171 TestMarsRover OK
+RefactoringAction 1458047704327 TestMarsRover.java ADD void testOneCommandMovements()/2 METHOD
+RefactoringAction 1458047717986 TestMarsRover.java REMOVE testOneCommandMovements()/2 METHOD
+EditAction 1458047785383 TestMarsRover.java 1686 7 21 14
+EditAction 1458047800335 MarsRover.java 3768 11 32 0
+UnitTestCaseAction 1458047808937 TestMarsRover.java FAIL
+UnitTestSessionAction 1458047808937 TestMarsRover FAIL
+RefactoringAction 1458047816378 TestMarsRover.java REMOVE testOneCommandMovements() METHOD
+RefactoringAction 1458047816378 TestMarsRover.java REMOVE testEmptyExecuteCommand() METHOD
+RefactoringAction 1458047816378 TestMarsRover.java REMOVE testOneCommandClockwiseCompleteRottation() METHOD
+RefactoringAction 1458047816378 TestMarsRover.java REMOVE testCreationPosFacing() METHOD
+RefactoringAction 1458047816378 TestMarsRover.java REMOVE testOneCommand() METHOD
+RefactoringAction 1458047816378 TestMarsRover.java REMOVE testOneCommandCounterClockwiseCompleteRottation() METHOD
+EditAction 1458047821986 TestMarsRover.java 1690 1 2 1
+UnitTestCaseAction 1458047830078 TestMarsRover.java FAIL
+UnitTestSessionAction 1458047830088 TestMarsRover FAIL
+UnitTestCaseAction 1458047872368 TestMarsRover.java FAIL
+UnitTestSessionAction 1458047872368 TestMarsRover FAIL
+EditAction 1458047971701 TestMarsRover.java 1690 1 2 1
+CompilationAction 1458047972883 TestMarsRover.java
+UnitTestCaseAction 1458047978080 TestMarsRover.java FAIL
+UnitTestSessionAction 1458047978080 TestMarsRover FAIL
+EditAction 1458047987524 TestMarsRover.java 1689 1 0 0
+CompilationAction 1458047988736 TestMarsRover.java
+CompilationAction 1458047988736 TestMarsRover.java
+UnitTestCaseAction 1458047995345 TestMarsRover.java FAIL
+UnitTestSessionAction 1458047995345 TestMarsRover FAIL
+CompilationAction 1458048023325 TestMarsRover.java
+UnitTestCaseAction 1458048031667 TestMarsRover.java FAIL
+UnitTestSessionAction 1458048031667 TestMarsRover FAIL
+RefactoringAction 1458048081529 TestMarsRover.java ADD void testCreationPosFacing() METHOD
+RefactoringAction 1458048081529 TestMarsRover.java ADD void testEmptyExecuteCommand() METHOD
+RefactoringAction 1458048081529 TestMarsRover.java ADD void testOneCommand() METHOD
+RefactoringAction 1458048081529 TestMarsRover.java ADD void testOneCommandCounterClockwiseCompleteRottation() METHOD
+RefactoringAction 1458048081529 TestMarsRover.java ADD void testOneCommandClockwiseCompleteRottation() METHOD
+RefactoringAction 1458048081529 TestMarsRover.java ADD void testOneCommandMovements() METHOD
+EditAction 1458048085735 TestMarsRover.java 1686 7 21 14
+UnitTestCaseAction 1458048092355 TestMarsRover.java FAIL
+UnitTestSessionAction 1458048092365 TestMarsRover FAIL

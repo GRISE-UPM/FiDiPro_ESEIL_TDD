@@ -1,0 +1,439 @@
+FileOpenedAction 1395153517359 Sudoku.java 1134 2 1 0
+RefactoringAction 1395153604008 Sudoku.java ADD void readFile() METHOD
+RefactoringAction 1395153693849 Sudoku.java ADD import java.io.File IMPORT
+EditAction 1395153746731 Sudoku.java 1857 3 2 0
+RefactoringAction 1395153797394 Sudoku.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1395153797394 Sudoku.java ADD import java.util.List IMPORT
+RefactoringAction 1395153813891 Sudoku.java ADD import java.io.BufferedReader IMPORT
+RefactoringAction 1395153813891 Sudoku.java ADD import java.io.FileNotFoundException IMPORT
+RefactoringAction 1395153813891 Sudoku.java ADD import java.io.FileReader IMPORT
+RefactoringAction 1395153813891 Sudoku.java ADD import java.io.IOException IMPORT
+CompilationAction 1395153821390 Sudoku.java
+CompilationAction 1395153828560 Sudoku.java
+CompilationAction 1395153828685 Sudoku.java
+CompilationAction 1395153828685 Sudoku.java
+CompilationAction 1395153840386 Sudoku.java
+CompilationAction 1395153840496 Sudoku.java
+CompilationAction 1395153855930 Sudoku.java
+EditAction 1395153860086 Sudoku.java 2468 3 5 0
+RefactoringAction 1395153877395 SudokuTest.java ADD import upm.tdd.training.Sudoku IMPORT
+EditAction 1395153907796 SudokuTest.java 247 1 2 0
+UnitTestCaseAction 1395153911280 SudokuTest.java OK
+UnitTestSessionAction 1395153911280 SudokuTest OK
+EditAction 1395153945212 Sudoku.java 2470 3 5 0
+UnitTestCaseAction 1395153953524 SudokuTest.java OK
+UnitTestSessionAction 1395153953524 SudokuTest OK
+UnitTestCaseAction 1395154013703 SudokuTest.java FAIL
+UnitTestSessionAction 1395154013703 SudokuTest FAIL
+EditAction 1395154047807 Sudoku.java 2518 3 5 0
+UnitTestCaseAction 1395154052447 SudokuTest.java OK
+UnitTestSessionAction 1395154052447 SudokuTest OK
+EditAction 1395154123484 Sudoku.java 2518 3 5 0
+EditAction 1395154140342 Sudoku.java 2450 3 5 0
+RefactoringAction 1395154151934 Sudoku.java ADD List<String> rows FIELD
+RefactoringAction 1395154154433 Sudoku.java REMOVE rows FIELD
+EditAction 1395154168541 Sudoku.java 2473 3 6 0
+EditAction 1395154181117 Sudoku.java 1955 3 6 0
+RefactoringAction 1395154193928 Sudoku.java RENAME readFile()=>List<String> ens() METHOD
+RefactoringAction 1395154197928 Sudoku.java RENAME ens()=>List<String> assemble() METHOD
+RefactoringAction 1395154199927 Sudoku.java RENAME assemble()=>List<String> assembleRo() METHOD
+RefactoringAction 1395154201427 Sudoku.java RENAME assembleRo()=>List<String> assembleRows() METHOD
+RefactoringAction 1395154202099 Sudoku.java RENAME assembleRows()=>List<String> readFile() METHOD
+EditAction 1395154202318 Sudoku.java 1959 3 6 0
+EditAction 1395154202349 SudokuTest.java 251 1 2 0
+RefactoringAction 1395154241422 Sudoku.java RENAME assembleRows()=>List<String> assembleFileRows() METHOD
+RefactoringAction 1395154243921 Sudoku.java RENAME assembleFileRows()=>List<String> assembleFileTo() METHOD
+RefactoringAction 1395154244921 Sudoku.java RENAME assembleFileTo()=>List<String> assembleFileToS() METHOD
+RefactoringAction 1395154247921 Sudoku.java RENAME assembleFileToS()=>List<String> assembleFileToList() METHOD
+RefactoringAction 1395154251420 Sudoku.java RENAME assembleFileToList()=>List<String> assembleFileToListS() METHOD
+RefactoringAction 1395154252420 Sudoku.java RENAME assembleFileToListS()=>List<String> assembleFileToList() METHOD
+RefactoringAction 1395154255560 Sudoku.java RENAME assembleFileToList()=>List<String> assembleRows() METHOD
+EditAction 1395154255701 Sudoku.java 1974 3 6 0
+EditAction 1395154255732 SudokuTest.java 266 1 2 0
+EditAction 1395154278760 Sudoku.java 2033 3 6 0
+RefactoringAction 1395154321911 Sudoku.java ADD void validate81CharactersInFile() METHOD
+RefactoringAction 1395154327410 Sudoku.java RENAME validate81CharactersInFile()=>void validate81Characters() METHOD
+RefactoringAction 1395154353907 Sudoku.java RENAME validate81Characters()=>boolean validate81Characters(List<String>) METHOD
+EditAction 1395154355344 Sudoku.java 2126 4 7 0
+EditAction 1395154442130 Sudoku.java 2230 4 9 0
+RefactoringAction 1395154461861 SudokuTest.java ADD void test()/2 METHOD
+RefactoringAction 1395154479359 SudokuTest.java REMOVE test()/2 METHOD
+RefactoringAction 1395154495357 SudokuTest.java RENAME import org.junit.Assert.*=>import java.awt.List IMPORT
+RefactoringAction 1395154534852 SudokuTest.java REMOVE import java.awt.List IMPORT
+RefactoringAction 1395154544351 SudokuTest.java ADD import java.util.List IMPORT
+UnitTestCaseAction 1395154583939 SudokuTest.java OK
+UnitTestSessionAction 1395154583939 SudokuTest OK
+UnitTestCaseAction 1395154606858 SudokuTest.java OK
+UnitTestSessionAction 1395154606858 SudokuTest OK
+UnitTestCaseAction 1395154615420 SudokuTest.java OK
+UnitTestSessionAction 1395154615420 SudokuTest OK
+RefactoringAction 1395154716063 Sudoku.java ADD int a FIELD
+RefactoringAction 1395154727562 Sudoku.java REMOVE a FIELD
+RefactoringAction 1395154729562 Sudoku.java ADD String a FIELD
+RefactoringAction 1395154731562 Sudoku.java REMOVE a FIELD
+CompilationAction 1395154761308 Sudoku.java
+CompilationAction 1395154767838 Sudoku.java
+EditAction 1395154778571 Sudoku.java 2346 4 9 0
+EditAction 1395154801850 Sudoku.java 2436 4 9 0
+EditAction 1395154815301 Sudoku.java 2437 4 9 0
+EditAction 1395154849000 SudokuTest.java 506 1 4 0
+UnitTestCaseAction 1395154853219 SudokuTest.java OK
+UnitTestSessionAction 1395154853219 SudokuTest OK
+UnitTestCaseAction 1395154903822 SudokuTest.java OK
+UnitTestSessionAction 1395154903822 SudokuTest OK
+EditAction 1395154943770 Sudoku.java 2500 4 9 0
+UnitTestCaseAction 1395154947738 SudokuTest.java OK
+UnitTestSessionAction 1395154947738 SudokuTest OK
+UnitTestCaseAction 1395154960471 SudokuTest.java OK
+UnitTestSessionAction 1395154960471 SudokuTest OK
+RefactoringAction 1395154989265 Sudoku.java ADD int valita FIELD
+RefactoringAction 1395154993764 Sudoku.java RENAME valita=>int fullVali FIELD
+RefactoringAction 1395154995764 Sudoku.java RENAME fullVali=>int fullValidation FIELD
+RefactoringAction 1395154996764 Sudoku.java RENAME fullValidation=>int fullValidation() METHOD
+EditAction 1395155066958 Sudoku.java 2604 5 9 0
+CompilationAction 1395155067099 Sudoku.java
+RefactoringAction 1395155151746 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS/2 FIELD
+RefactoringAction 1395155151746 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS/3 FIELD
+RefactoringAction 1395155151746 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS/4 FIELD
+RefactoringAction 1395155154746 Sudoku.java REMOVE NUM_MAX_OF_CHARACTERS/4 FIELD
+RefactoringAction 1395155154746 Sudoku.java REMOVE NUM_MAX_OF_CHARACTERS/3 FIELD
+RefactoringAction 1395155160745 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS/2=>int RETURN FIELD
+RefactoringAction 1395155165245 Sudoku.java RENAME RETURN=>int RETURN_ FIELD
+RefactoringAction 1395155166745 Sudoku.java RENAME RETURN_=>int RETURN_VALID FIELD
+RefactoringAction 1395155168245 Sudoku.java RENAME RETURN_VALID=>int RETURN_VALID_S FIELD
+RefactoringAction 1395155169744 Sudoku.java RENAME RETURN_VALID_S=>int RETURN_VALID_SOL FIELD
+RefactoringAction 1395155171244 Sudoku.java RENAME RETURN_VALID_SOL=>int RETURN_VALID_SOLUTION FIELD
+RefactoringAction 1395155188742 Sudoku.java ADD int RETURN_VALID_SOLUTION/2 FIELD
+RefactoringAction 1395155188742 Sudoku.java ADD int RETURN_VALID_SOLUTION/3 FIELD
+RefactoringAction 1395155188742 Sudoku.java ADD int RETURN_VALID_SOLUTION/4 FIELD
+RefactoringAction 1395155196242 Sudoku.java RENAME RETURN_VALID_SOLUTION/4=>int RETURN_NO FIELD
+RefactoringAction 1395155197242 Sudoku.java RENAME RETURN_NO=>int RETURN_ FIELD
+RefactoringAction 1395155199241 Sudoku.java RENAME RETURN_=>int RETURN_VIL FIELD
+RefactoringAction 1395155200741 Sudoku.java RENAME RETURN_VIL=>int RETURN_VIOLAT FIELD
+RefactoringAction 1395155203241 Sudoku.java RENAME RETURN_VIOLAT=>int RETURN_VIOLATE_ FIELD
+RefactoringAction 1395155206241 Sudoku.java RENAME RETURN_VIOLATE_=>int RETURN_VIOLATE_RULE FIELD
+RefactoringAction 1395155207241 Sudoku.java RENAME RETURN_VIOLATE_RULE=>int RETURN_VIOLATE_RULE_1 FIELD
+RefactoringAction 1395155209240 Sudoku.java REMOVE RETURN_VALID_SOLUTION/3 FIELD
+RefactoringAction 1395155209240 Sudoku.java REMOVE RETURN_VALID_SOLUTION/2 FIELD
+RefactoringAction 1395155214240 Sudoku.java ADD int RETURN_VIOLATE_RULE_1/2 FIELD
+RefactoringAction 1395155214240 Sudoku.java ADD int RETURN_VIOLATE_RULE_1/3 FIELD
+RefactoringAction 1395155215240 Sudoku.java ADD int RETURN_VIOLATE_RULE_1/4 FIELD
+RefactoringAction 1395155217739 Sudoku.java RENAME RETURN_VIOLATE_RULE_1/4=>int RETURN_VIOLATE_RULE_2 FIELD
+RefactoringAction 1395155219239 Sudoku.java ADD int RETURN_VIOLATE_RULE_3 FIELD
+RefactoringAction 1395155219239 Sudoku.java ADD int RETURN_VIOLATE_RULE_4 FIELD
+RefactoringAction 1395155311730 Sudoku.java RENAME fullValidation()=>boolean validate81Characters(List<String>)/2 METHOD
+RefactoringAction 1395155313730 Sudoku.java ADD int fullValidation() METHOD
+RefactoringAction 1395155325228 Sudoku.java RENAME validate81Characters(List<String>)/2=>boolean validate(List<String>) METHOD
+RefactoringAction 1395155332243 Sudoku.java RENAME validate(List<String>)=>boolean validate9(List<String>) METHOD
+RefactoringAction 1395155334243 Sudoku.java RENAME validate9(List<String>)=>boolean validate9x9(List<String>) METHOD
+RefactoringAction 1395155339743 Sudoku.java RENAME validate9x9(List<String>)=>boolean validate9x9Charac(List<String>) METHOD
+RefactoringAction 1395155341242 Sudoku.java RENAME validate9x9Charac(List<String>)=>boolean validate9x9Characters(List<String>) METHOD
+CompilationAction 1395155364256 Sudoku.java
+CompilationAction 1395155364256 Sudoku.java
+CompilationAction 1395155405454 Sudoku.java
+CompilationAction 1395155405454 Sudoku.java
+CompilationAction 1395155405564 Sudoku.java
+CompilationAction 1395155405564 Sudoku.java
+CompilationAction 1395155405564 Sudoku.java
+CompilationAction 1395155414859 Sudoku.java
+CompilationAction 1395155414859 Sudoku.java
+CompilationAction 1395155414859 Sudoku.java
+CompilationAction 1395155414969 Sudoku.java
+CompilationAction 1395155414969 Sudoku.java
+CompilationAction 1395155414969 Sudoku.java
+RefactoringAction 1395155449309 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS=>int NUM_MAX_OF_TOTALCHARACTERS FIELD
+RefactoringAction 1395155450230 Sudoku.java RENAME NUM_MAX_OF_TOTALCHARACTERS=>int NUM_MAX_OF_CHARACTERS FIELD
+CompilationAction 1395155453933 Sudoku.java
+CompilationAction 1395155453933 Sudoku.java
+CompilationAction 1395155453933 Sudoku.java
+CompilationAction 1395155454042 Sudoku.java
+CompilationAction 1395155454042 Sudoku.java
+RefactoringAction 1395155465307 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS/2 FIELD
+RefactoringAction 1395155482899 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS/2=>int NUM_MAX_OF_CHA FIELD
+RefactoringAction 1395155484898 Sudoku.java RENAME NUM_MAX_OF_CHA=>int NUM_MAX_OF_CHARACTERS/2 FIELD
+RefactoringAction 1395155486398 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS/2=>int NUM_MAX_OF_CHARACTERS_PER FIELD
+RefactoringAction 1395155490898 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS_PER=>int NUM_MAX_OF_CHARACTERS_PER_FILES FIELD
+RefactoringAction 1395155495397 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS_PER_FILES/2 FIELD
+RefactoringAction 1395155500896 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS_PER_FILES/2=>int NUM_MAX_OF_CHARACTERS_PER_ROW FIELD
+RefactoringAction 1395155508896 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS_PER_FILES=>int NUM_MAX_OF_CHARACTERS_OD FIELD
+RefactoringAction 1395155511895 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS_OD=>int NUM_MAX_OF_CHARACTERS_OF_ROWS FIELD
+RefactoringAction 1395155519394 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS_OF_ROWS=>int NUM_MAX_OF_ROWS FIELD
+CompilationAction 1395155520175 Sudoku.java
+CompilationAction 1395155520175 Sudoku.java
+CompilationAction 1395155520285 Sudoku.java
+CompilationAction 1395155520285 Sudoku.java
+CompilationAction 1395155587824 Sudoku.java
+CompilationAction 1395155587840 Sudoku.java
+CompilationAction 1395155587949 Sudoku.java
+CompilationAction 1395155587949 Sudoku.java
+CompilationAction 1395155728760 Sudoku.java
+CompilationAction 1395155728760 Sudoku.java
+CompilationAction 1395155728870 Sudoku.java
+RefactoringAction 1395155741493 Sudoku.java ADD void validate9x9Characters() METHOD
+RefactoringAction 1395155742993 Sudoku.java REMOVE validate9x9Characters() METHOD
+EditAction 1395155748742 Sudoku.java 3777 6 14 0
+CompilationAction 1395155748899 Sudoku.java
+CompilationAction 1395155748899 Sudoku.java
+CompilationAction 1395155748899 Sudoku.java
+CompilationAction 1395155763881 Sudoku.java
+CompilationAction 1395155763881 Sudoku.java
+CompilationAction 1395155763881 Sudoku.java
+CompilationAction 1395155763991 Sudoku.java
+EditAction 1395155779520 Sudoku.java 3798 6 18 0
+CompilationAction 1395155779661 Sudoku.java
+EditAction 1395155809048 Sudoku.java 3822 6 18 0
+UnitTestCaseAction 1395155813406 SudokuTest.java OK
+UnitTestSessionAction 1395155813406 SudokuTest OK
+EditAction 1395155841309 SudokuTest.java 542 1 4 0
+CompilationAction 1395155841450 SudokuTest.java
+CompilationAction 1395155844075 SudokuTest.java
+EditAction 1395155862307 SudokuTest.java 601 1 4 0
+CompilationAction 1395155862463 SudokuTest.java
+CompilationAction 1395155865931 SudokuTest.java
+UnitTestCaseAction 1395155869509 SudokuTest.java OK
+UnitTestSessionAction 1395155869509 SudokuTest OK
+UnitTestCaseAction 1395155882539 SudokuTest.java OK
+UnitTestSessionAction 1395155882539 SudokuTest OK
+UnitTestCaseAction 1395155887569 SudokuTest.java OK
+UnitTestSessionAction 1395155887569 SudokuTest OK
+EditAction 1395155899990 Sudoku.java 3823 6 18 0
+UnitTestCaseAction 1395155904520 SudokuTest.java OK
+UnitTestSessionAction 1395155904520 SudokuTest OK
+UnitTestCaseAction 1395155920065 SudokuTest.java OK
+UnitTestSessionAction 1395155920065 SudokuTest OK
+UnitTestCaseAction 1395155951187 SudokuTest.java OK
+UnitTestSessionAction 1395155951187 SudokuTest OK
+UnitTestCaseAction 1395155986979 SudokuTest.java OK
+UnitTestSessionAction 1395155986979 SudokuTest OK
+UnitTestCaseAction 1395156020413 SudokuTest.java OK
+UnitTestSessionAction 1395156020413 SudokuTest OK
+UnitTestCaseAction 1395156033020 SudokuTest.java OK
+UnitTestSessionAction 1395156033020 SudokuTest OK
+UnitTestCaseAction 1395156059720 SudokuTest.java OK
+UnitTestSessionAction 1395156059720 SudokuTest OK
+UnitTestCaseAction 1395156070860 SudokuTest.java OK
+UnitTestSessionAction 1395156070860 SudokuTest OK
+UnitTestCaseAction 1395156082577 SudokuTest.java OK
+UnitTestSessionAction 1395156082577 SudokuTest OK
+EditAction 1395156098434 Sudoku.java 3684 6 18 0
+RefactoringAction 1395156208408 Sudoku.java ADD boolean validate FIELD
+RefactoringAction 1395156213408 Sudoku.java RENAME validate=>boolean validateSu FIELD
+RefactoringAction 1395156214908 Sudoku.java RENAME validateSu=>boolean validateSo FIELD
+RefactoringAction 1395156216407 Sudoku.java RENAME validateSo=>boolean validateSoduke FIELD
+RefactoringAction 1395156218407 Sudoku.java RENAME validateSoduke=>boolean validateSodukeR FIELD
+RefactoringAction 1395156220407 Sudoku.java RENAME validateSodukeR=>boolean validateSodukeRules() METHOD
+RefactoringAction 1395156229406 Sudoku.java RENAME validateSodukeRules()=>boolean validateSudukeRules() METHOD
+RefactoringAction 1395156230906 Sudoku.java RENAME validateSudukeRules()=>boolean validateSudokeRules() METHOD
+RefactoringAction 1395156242405 Sudoku.java RENAME validateSudokeRules()=>boolean validateSudokeRules(List<String>) METHOD
+RefactoringAction 1395156290901 Sudoku.java RENAME validateSudokeRules(List<String>)=>boolean validateSudokuRules(List<String>) METHOD
+RefactoringAction 1395156453901 Sudoku.java ADD static boolean isNumeric(String) METHOD
+EditAction 1395156478227 Sudoku.java 4023 8 21 0
+CompilationAction 1395156478367 Sudoku.java
+CompilationAction 1395156489179 Sudoku.java
+CompilationAction 1395156494615 Sudoku.java
+EditAction 1395156525362 Sudoku.java 4116 8 22 0
+UnitTestCaseAction 1395156529643 SudokuTest.java OK
+UnitTestSessionAction 1395156529658 SudokuTest OK
+UnitTestCaseAction 1395156547594 SudokuTest.java OK
+UnitTestSessionAction 1395156547594 SudokuTest OK
+EditAction 1395156555609 Sudoku.java 4117 8 22 0
+UnitTestCaseAction 1395156559718 SudokuTest.java OK
+UnitTestSessionAction 1395156559718 SudokuTest OK
+UnitTestCaseAction 1395156571701 SudokuTest.java OK
+UnitTestSessionAction 1395156571701 SudokuTest OK
+UnitTestCaseAction 1395156580075 SudokuTest.java OK
+UnitTestSessionAction 1395156580075 SudokuTest OK
+EditAction 1395156607978 Sudoku.java 4117 8 22 0
+EditAction 1395156672784 Sudoku.java 4155 8 22 0
+EditAction 1395156698968 Sudoku.java 4154 8 22 0
+EditAction 1395156712498 Sudoku.java 4168 8 22 0
+UnitTestCaseAction 1395156729449 SudokuTest.java OK
+UnitTestSessionAction 1395156729449 SudokuTest OK
+EditAction 1395156739432 Sudoku.java 4169 8 22 0
+FileOpenedAction 1395156743901 Sudoku.java 4169 8 22 0
+UnitTestCaseAction 1395156752931 SudokuTest.java OK
+UnitTestSessionAction 1395156752931 SudokuTest OK
+UnitTestCaseAction 1395156765914 SudokuTest.java OK
+UnitTestSessionAction 1395156765914 SudokuTest OK
+EditAction 1395156795738 Sudoku.java 4139 8 22 0
+UnitTestCaseAction 1395156825516 SudokuTest.java OK
+UnitTestSessionAction 1395156825516 SudokuTest OK
+EditAction 1395156842608 Sudoku.java 4133 8 22 0
+EditAction 1395156866855 Sudoku.java 4126 8 22 0
+EditAction 1395156952392 Sudoku.java 4194 8 22 0
+RefactoringAction 1395157045350 Sudoku.java ADD void validateSubGrid() METHOD
+RefactoringAction 1395157049365 Sudoku.java RENAME validateSubGrid()=>void privatevalidateSubGrid() METHOD
+EditAction 1395157077987 Sudoku.java 4239 9 22 0
+CompilationAction 1395157078127 Sudoku.java
+RefactoringAction 1395157095360 Sudoku.java RENAME privatevalidateSubGrid()=>void validateSubGrid() METHOD
+RefactoringAction 1395157106358 Sudoku.java RENAME validateSubGrid()=>void validateSubGrid(List<String>) METHOD
+CompilationAction 1395157250459 Sudoku.java
+RefactoringAction 1395157529909 Sudoku.java RENAME validateSubGrid(List<String>)=>boolean validateSubGrids(List<String>) METHOD
+RefactoringAction 1395157539908 Sudoku.java RENAME validateSubGrids(List<String>)=>boolean validateRows(List<String>) METHOD
+RefactoringAction 1395157541408 Sudoku.java RENAME validateRows(List<String>)=>boolean validate(List<String>) METHOD
+RefactoringAction 1395157548407 Sudoku.java RENAME validate(List<String>)=>boolean validateDigi(List<String>) METHOD
+RefactoringAction 1395157549407 Sudoku.java RENAME validateDigi(List<String>)=>boolean validateDigits(List<String>) METHOD
+RefactoringAction 1395157552906 Sudoku.java RENAME validateDigits(List<String>)=>boolean validateDigitsInRow(List<String>) METHOD
+RefactoringAction 1395157554906 Sudoku.java RENAME validateDigitsInRow(List<String>)=>boolean validateDigitsInRowsAnd(List<String>) METHOD
+RefactoringAction 1395157556406 Sudoku.java RENAME validateDigitsInRowsAnd(List<String>)=>boolean validateDigitsInRowsAndCol(List<String>) METHOD
+RefactoringAction 1395157557906 Sudoku.java RENAME validateDigitsInRowsAndCol(List<String>)=>boolean validateDigitsInRowsAndColumns(List<String>) METHOD
+RefactoringAction 1395157702408 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS_PER_ROW/2 FIELD
+RefactoringAction 1395157711407 Sudoku.java REMOVE NUM_MAX_OF_CHARACTERS_PER_ROW/2 FIELD
+RefactoringAction 1395157722906 Sudoku.java RENAME RETURN_VIOLATE_RULE_4=>int NUM_MAX_OF_CHARACTERS_PER_ROW/2 FIELD
+RefactoringAction 1395157724906 Sudoku.java ADD int NUM_MAX_OF_CHARACTERS_PER_ROW/3 FIELD
+RefactoringAction 1395157736404 Sudoku.java RENAME NUM_MAX_OF_CHARACTERS_PER_ROW/3=>int NUM_MAX_O FIELD
+RefactoringAction 1395157737404 Sudoku.java RENAME NUM_MAX_O=>int NUM_MAX_OF FIELD
+RefactoringAction 1395157738904 Sudoku.java RENAME NUM_MAX_OF=>int NUM_MAX_OF_ FIELD
+RefactoringAction 1395157743904 Sudoku.java RENAME NUM_MAX_OF_=>int NUM_MAX_OF_FILE FIELD
+RefactoringAction 1395157748903 Sudoku.java RENAME NUM_MAX_OF_FILE=>int NUM_MAX_OF_FILE_OR FIELD
+RefactoringAction 1395157750403 Sudoku.java RENAME NUM_MAX_OF_FILE_OR=>int NUM_MAX_OF_FILE_OR_SUB FIELD
+RefactoringAction 1395157753903 Sudoku.java RENAME NUM_MAX_OF_FILE_OR_SUB=>int NUM_MAX_OF_FILE_OR_SUBGRID FIELD
+RefactoringAction 1395157759902 Sudoku.java ADD int NUM_MAX_OF_FILE_OR_SUBGRID/2 FIELD
+RefactoringAction 1395157763417 Sudoku.java RENAME NUM_MAX_OF_FILE_OR_SUBGRID/2=>int NUM_MIN_OF_FILE_OR_SUBGRID FIELD
+CompilationAction 1395157769104 Sudoku.java
+CompilationAction 1395157769104 Sudoku.java
+CompilationAction 1395157769104 Sudoku.java
+CompilationAction 1395157769104 Sudoku.java
+RefactoringAction 1395157773916 Sudoku.java REMOVE NUM_MAX_OF_CHARACTERS_PER_ROW/2 FIELD
+CompilationAction 1395157774463 Sudoku.java
+CompilationAction 1395157774463 Sudoku.java
+CompilationAction 1395157774463 Sudoku.java
+CompilationAction 1395157774463 Sudoku.java
+CompilationAction 1395157774572 Sudoku.java
+CompilationAction 1395157774572 Sudoku.java
+CompilationAction 1395157879140 Sudoku.java
+CompilationAction 1395157879140 Sudoku.java
+EditAction 1395158047419 Sudoku.java 4632 9 25 0
+RefactoringAction 1395158146439 Sudoku.java ADD void validateDigitBetween1And9() METHOD
+RefactoringAction 1395158256453 Sudoku.java RENAME validateDigitBetween1And9()=>boolean validateDigitNotBetween1And9() METHOD
+RefactoringAction 1395158260953 Sudoku.java RENAME validateDigitNotBetween1And9()=>boolean validateDigitNotRepeatedBetween1And9() METHOD
+RefactoringAction 1395158272953 Sudoku.java RENAME validateDigitNotRepeatedBetween1And9()=>boolean validateDigitNotRepeatedBetween1And9(List<Integer>) METHOD
+RefactoringAction 1395158348954 Sudoku.java RENAME validateDigitNotRepeatedBetween1And9(List<Integer>)=>boolean validateDigitNotRepeatedBetween1And9(List<Integer>, int) METHOD
+CompilationAction 1395158428768 Sudoku.java
+CompilationAction 1395158458956 Sudoku.java
+EditAction 1395158462659 Sudoku.java 5017 10 28 0
+EditAction 1395158465643 Sudoku.java 5011 10 28 0
+EditAction 1395158553670 Sudoku.java 5122 10 28 0
+UnitTestCaseAction 1395158557670 SudokuTest.java FAIL
+UnitTestSessionAction 1395158557670 SudokuTest FAIL
+EditAction 1395158698615 Sudoku.java 5069 10 26 0
+CompilationAction 1395158698771 Sudoku.java
+CompilationAction 1395158701036 Sudoku.java
+UnitTestCaseAction 1395158705974 SudokuTest.java FAIL
+UnitTestSessionAction 1395158705974 SudokuTest FAIL
+UnitTestCaseAction 1395158735191 SudokuTest.java FAIL
+UnitTestSessionAction 1395158735191 SudokuTest FAIL
+UnitTestCaseAction 1395158741956 SudokuTest.java FAIL
+UnitTestSessionAction 1395158741956 SudokuTest FAIL
+RefactoringAction 1395158863930 Sudoku.java REMOVE validateDigitNotRepeatedBetween1And9(List<Integer>, int) METHOD
+RefactoringAction 1395158867930 Sudoku.java ADD boolean validateDigitNotRepeatedBetween1And9(List<Integer>, int) METHOD
+EditAction 1395158868883 Sudoku.java 5073 10 28 0
+UnitTestCaseAction 1395158872961 SudokuTest.java OK
+UnitTestSessionAction 1395158872961 SudokuTest OK
+EditAction 1395158937580 Sudoku.java 5072 10 28 0
+CompilationAction 1395158937720 Sudoku.java
+EditAction 1395159089222 Sudoku.java 5589 10 28 0
+CompilationAction 1395159180823 Sudoku.java
+CompilationAction 1395159180823 Sudoku.java
+CompilationAction 1395159180823 Sudoku.java
+CompilationAction 1395159221381 Sudoku.java
+CompilationAction 1395159221381 Sudoku.java
+CompilationAction 1395159221381 Sudoku.java
+UnitTestCaseAction 1395159243036 SudokuTest.java FAIL
+UnitTestSessionAction 1395159243036 SudokuTest FAIL
+EditAction 1395159317778 Sudoku.java 5629 10 28 0
+UnitTestCaseAction 1395159322700 SudokuTest.java OK
+UnitTestSessionAction 1395159322700 SudokuTest OK
+EditAction 1395159377773 Sudoku.java 5710 10 28 0
+UnitTestCaseAction 1395159381710 SudokuTest.java OK
+UnitTestSessionAction 1395159381710 SudokuTest OK
+EditAction 1395159425565 Sudoku.java 5795 10 28 0
+UnitTestCaseAction 1395159429408 SudokuTest.java OK
+UnitTestSessionAction 1395159429408 SudokuTest OK
+EditAction 1395159463077 Sudoku.java 5793 10 28 0
+UnitTestCaseAction 1395159468733 SudokuTest.java OK
+UnitTestSessionAction 1395159468733 SudokuTest OK
+UnitTestCaseAction 1395159476810 SudokuTest.java OK
+UnitTestSessionAction 1395159476810 SudokuTest OK
+EditAction 1395159502745 Sudoku.java 5835 10 28 0
+UnitTestCaseAction 1395159509838 SudokuTest.java OK
+UnitTestSessionAction 1395159509838 SudokuTest OK
+UnitTestCaseAction 1395159524259 SudokuTest.java OK
+UnitTestSessionAction 1395159524259 SudokuTest OK
+UnitTestCaseAction 1395159537492 SudokuTest.java OK
+UnitTestSessionAction 1395159537492 SudokuTest OK
+EditAction 1395159565364 Sudoku.java 5843 10 28 0
+UnitTestCaseAction 1395159569739 SudokuTest.java OK
+UnitTestSessionAction 1395159569739 SudokuTest OK
+EditAction 1395159598298 Sudoku.java 5847 10 28 0
+UnitTestCaseAction 1395159610797 SudokuTest.java OK
+UnitTestSessionAction 1395159610797 SudokuTest OK
+EditAction 1395159621734 Sudoku.java 5910 10 28 0
+UnitTestCaseAction 1395159627577 SudokuTest.java OK
+UnitTestSessionAction 1395159627577 SudokuTest OK
+EditAction 1395159635873 Sudoku.java 5912 10 28 0
+UnitTestCaseAction 1395159641341 SudokuTest.java OK
+UnitTestSessionAction 1395159641341 SudokuTest OK
+UnitTestCaseAction 1395159661433 SudokuTest.java OK
+UnitTestSessionAction 1395159661433 SudokuTest OK
+EditAction 1395159682212 Sudoku.java 5910 10 28 0
+UnitTestCaseAction 1395159686509 SudokuTest.java OK
+UnitTestSessionAction 1395159686509 SudokuTest OK
+UnitTestCaseAction 1395159697804 SudokuTest.java OK
+UnitTestSessionAction 1395159697804 SudokuTest OK
+UnitTestCaseAction 1395160009382 SudokuTest.java OK
+UnitTestSessionAction 1395160009382 SudokuTest OK
+EditAction 1395160183442 Sudoku.java 5909 10 28 0
+UnitTestCaseAction 1395160189363 SudokuTest.java OK
+UnitTestSessionAction 1395160189363 SudokuTest OK
+EditAction 1395160211627 Sudoku.java 5910 10 28 0
+RefactoringAction 1395160281830 Sudoku.java RENAME NUM_MIN_OF_FILE_OR_SUBGRID=>int NUM_MIN_OF_FILES_OR_SUBGRID FIELD
+RefactoringAction 1395160286330 Sudoku.java RENAME NUM_MAX_OF_FILE_OR_SUBGRID=>int NUM_MAX_OF_FILES_OR_SUBGRID FIELD
+UnitTestCaseAction 1395160317221 SudokuTest.java OK
+UnitTestSessionAction 1395160317221 SudokuTest OK
+UnitTestCaseAction 1395160374799 SudokuTest.java OK
+UnitTestSessionAction 1395160374799 SudokuTest OK
+UnitTestCaseAction 1395160397706 SudokuTest.java OK
+UnitTestSessionAction 1395160397706 SudokuTest OK
+UnitTestCaseAction 1395160438237 SudokuTest.java OK
+UnitTestSessionAction 1395160438237 SudokuTest OK
+UnitTestCaseAction 1395160448862 SudokuTest.java OK
+UnitTestSessionAction 1395160448862 SudokuTest OK
+UnitTestCaseAction 1395160470034 SudokuTest.java OK
+UnitTestSessionAction 1395160470034 SudokuTest OK
+EditAction 1395160479675 Sudoku.java 5913 10 28 0
+EditAction 1395160486878 Sudoku.java 5903 10 28 0
+UnitTestCaseAction 1395160490862 SudokuTest.java OK
+UnitTestSessionAction 1395160490862 SudokuTest OK
+EditAction 1395160531080 Sudoku.java 5933 10 28 0
+UnitTestCaseAction 1395160552032 SudokuTest.java OK
+UnitTestSessionAction 1395160552032 SudokuTest OK
+UnitTestCaseAction 1395160564359 SudokuTest.java OK
+UnitTestSessionAction 1395160564359 SudokuTest OK
+UnitTestCaseAction 1395160581155 SudokuTest.java OK
+UnitTestSessionAction 1395160581155 SudokuTest OK
+EditAction 1395160597217 Sudoku.java 5372 10 28 0
+EditAction 1395160646354 Sudoku.java 5296 10 28 0
+CompilationAction 1395160998843 Sudoku.java
+CompilationAction 1395161010076 Sudoku.java
+CompilationAction 1395161010185 Sudoku.java
+CompilationAction 1395161010185 Sudoku.java
+CompilationAction 1395161010185 Sudoku.java
+CompilationAction 1395161010185 Sudoku.java
+CompilationAction 1395161010185 Sudoku.java
+CompilationAction 1395161010185 Sudoku.java
+CompilationAction 1395161018716 Sudoku.java
+CompilationAction 1395161018716 Sudoku.java
+CompilationAction 1395161018716 Sudoku.java
+CompilationAction 1395161018716 Sudoku.java
+CompilationAction 1395161018716 Sudoku.java
+CompilationAction 1395161018716 Sudoku.java
+EditAction 1395161043010 Sudoku.java 5747 10 30 0
+EditAction 1395161117426 Sudoku.java 5739 10 30 0
+UnitTestCaseAction 1395161123472 SudokuTest.java OK
+UnitTestSessionAction 1395161123472 SudokuTest OK
+UnitTestCaseAction 1395161213745 SudokuTest.java OK
+UnitTestSessionAction 1395161213745 SudokuTest OK
+EditAction 1395161261771 Sudoku.java 5789 10 30 0
+UnitTestCaseAction 1395161265396 SudokuTest.java OK
+UnitTestSessionAction 1395161265396 SudokuTest OK

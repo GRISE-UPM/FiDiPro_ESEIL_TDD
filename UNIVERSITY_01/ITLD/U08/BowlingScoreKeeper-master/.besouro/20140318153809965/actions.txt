@@ -1,0 +1,6 @@
+FileOpenedAction 1395153490199 BowlingGame.java 545 5 2 0
+FileOpenedAction 1395154422877 Frame.java 577 5 5 0
+FileOpenedAction 1395155051295 TestBowlingScoreKeeper.java 197 1 1 0
+RefactoringAction 1395155322238 Frame.java RENAME <initializer /1>=>void throws2() METHOD
+RefactoringAction 1395155324739 Frame.java RENAME throws2()=>void throws1() METHOD
+FileOpenedAction 1395156057200 TestBowlingScoreKeeper.java 197 1 1 0

@@ -1,0 +1,24 @@
+FileOpenedAction 1395161505918 Sudoku.java 2868 8 20 0
+EditAction 1395161658995 Sudoku.java 2933 8 21 0
+EditAction 1395161746431 Sudoku.java 3038 8 21 0
+EditAction 1395161930552 Sudoku.java 3139 8 18 0
+CompilationAction 1395161930693 Sudoku.java
+CompilationAction 1395161930693 Sudoku.java
+CompilationAction 1395161936505 Sudoku.java
+CompilationAction 1395161936505 Sudoku.java
+CompilationAction 1395161936615 Sudoku.java
+CompilationAction 1395161952083 Sudoku.java
+EditAction 1395161995614 Sudoku.java 3209 8 21 0
+RefactoringAction 1395162024941 SudokuTest.java ADD void Test FIELD
+RefactoringAction 1395162027441 SudokuTest.java RENAME Test=>void TestAllRulers FIELD
+RefactoringAction 1395162028941 SudokuTest.java RENAME TestAllRulers=>void TestAllRulers() METHOD
+EditAction 1395162085862 SudokuTest.java 1853 7 21 5
+EditAction 1395162098830 Sudoku.java 3209 8 21 0
+EditAction 1395162192454 SudokuTest.java 2039 7 22 5
+EditAction 1395162205016 SudokuTest.java 2067 7 22 5
+EditAction 1395162224406 SudokuTest.java 2164 7 22 5
+EditAction 1395162268155 SudokuTest.java 2422 7 22 5
+EditAction 1395162272062 SudokuTest.java 2419 7 22 5
+UnitTestCaseAction 1395162276436 SudokuTest.java OK
+UnitTestSessionAction 1395162276436 Rerun upm.tdd.training.tests.SudokuTest OK
+EditAction 1395162335892 Sudoku.java 3209 8 21 0

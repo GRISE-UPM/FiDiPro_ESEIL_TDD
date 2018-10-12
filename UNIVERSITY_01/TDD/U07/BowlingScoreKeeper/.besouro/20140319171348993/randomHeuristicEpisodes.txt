@@ -1,0 +1,16 @@
+1395248469568 test-first 1 2840 true
+1395249497473 refactoring 2A 983 false
+1395249597597 production 1 0 true
+1395249614550 regression 1 0 false
+1395249670940 regression 1 0 false
+1395249703753 regression 1 0 true
+1395249967105 refactoring 2A 188 true
+1395250067576 regression 1 0 true
+1395250189325 refactoring 3 85 true
+1395250245350 production 1 40 false
+1395251317598 refactoring 3 1007 false
+1395251687919 refactoring 2A 275 true
+1395253223265 refactoring 2A 1374 false
+1395253509338 regression 1 0 false
+1395253672491 refactoring 2A 92 false
+1395254135264 refactoring 2A 381 true
