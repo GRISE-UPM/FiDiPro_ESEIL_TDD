@@ -1,0 +1,312 @@
+Test Class: US01 Tackled: true QLTYi: 100.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverStaysAtOriginOnceLandedAndExecutedAnEmptyCommand ClassName: US01
+Assertion: 1 assertThat(,(0,0,N)) Fail: false Message: null
+
+Summary1 :0: assertions FAILED :0:%
+Summary2 :1: assertions SUCCEDED :100:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :1: RUN IN TOTAL
+Summary5 :1: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US02_separateAssert Tackled: true QLTYi: 45.45%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverFacesWestAfterLandingAndExecutingALeftCommandThreeTimesInARow ClassName: US02_separateAssert
+Assertion: 1 assertThat(,(0,0,E)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,0,E)
+Test case: 2 methodName: theRoverFacesSouthAfterLandingAndExecutingATurnCommandToTimesInARow_1 ClassName: US02_separateAssert
+Assertion: 2 assertThat(,(0,0,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,0,S)
+Test case: 3 methodName: theRoverFacesSouthAfterLandingAndExecutingATurnCommandToTimesInARow_2 ClassName: US02_separateAssert
+Assertion: 3 assertThat(,(0,0,N)) Fail: false Message: null
+Test case: 4 methodName: theRoverMovesForwardOnceLanding_1 ClassName: US02_separateAssert
+Assertion: 4 assertThat(,(0,1,N)) Fail: false Message: null
+Test case: 5 methodName: theRoverMovesForwardOnceLanding_2 ClassName: US02_separateAssert
+Assertion: 5 assertThat(,(0,2,N)) Fail: false Message: null
+Test case: 6 methodName: theRoverMovesBackwardsnceLanding ClassName: US02_separateAssert
+Assertion: 6 assertThat(,(0,0,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,S)")     but: was (0,0,N)
+Test case: 7 methodName: theRoverIsFacingTheSameDirectionAfterExecutingFourTimesTheSameTurnCommand_1 ClassName: US02_separateAssert
+Assertion: 7 assertThat(,(0,0,N)) Fail: false Message: null
+Test case: 8 methodName: theRoverIsFacingTheSameDirectionAfterExecutingFourTimesTheSameTurnCommand_2 ClassName: US02_separateAssert
+Assertion: 8 assertThat(,(0,0,N)) Fail: false Message: null
+Test case: 9 methodName: theRoverShouldChangeFacingTWhenGivenATurnCommandAfterLanding_1 ClassName: US02_separateAssert
+Assertion: 9 assertThat(,(0,0,W)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,0,W)")     but: was (0,0,W)
+Test case: 10 methodName: theRoverShouldChangeFacingTWhenGivenATurnCommandAfterLanding_2 ClassName: US02_separateAssert
+Assertion: 10 assertThat(,(0,0,E)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,0,N)")     but: was (0,0,E)
+Test case: 11 methodName: theRoverFacesEastAfterLandingAndExecutingARightCommandThreeTimesInARow ClassName: US02_separateAssert
+Assertion: 11 assertThat(,(0,0,W)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,0,W)
+
+Summary1 :6: assertions FAILED :55:%
+Summary2 :5: assertions SUCCEDED :45:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :11: RUN IN TOTAL
+Summary5 :11: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US03_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverMovesForwardWestBoundedOnceLanding_1 ClassName: US03_separateAssert
+Assertion: 1 assertThat(,(3,10,W)) Fail: true Message: Expected: is equalToIgnoringCase("(1,0,N)")     but: was (3,10,W)
+Test case: 2 methodName: theRoverMovesForwardWestBoundedOnceLanding_2 ClassName: US03_separateAssert
+Assertion: 2 assertThat(,(2,10,W)) Fail: true Message: Expected: is equalToIgnoringCase("(1,1,N)")     but: was (2,10,W)
+Test case: 3 methodName: theRoverMovesForwardNorthBoundedOnceLanding_1 ClassName: US03_separateAssert
+Assertion: 3 assertThat(,(0,10,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,10,N)
+Test case: 4 methodName: theRoverMovesForwardNorthBoundedOnceLanding_2 ClassName: US03_separateAssert
+Assertion: 4 assertThat(,(0,11,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (0,11,N)
+Test case: 5 methodName: theRoverMovesForwardEastBoundedOnceLanding_1 ClassName: US03_separateAssert
+Assertion: 5 assertThat(,(10,10,E)) Fail: true Message: Expected: is equalToIgnoringCase("(1,0,N)")     but: was (10,10,E)
+Test case: 6 methodName: theRoverMovesForwardEastBoundedOnceLanding_2 ClassName: US03_separateAssert
+Assertion: 6 assertThat(,(11,10,E)) Fail: true Message: Expected: is equalToIgnoringCase("(1,1,N)")     but: was (11,10,E)
+Test case: 7 methodName: theRoverMovesForwardSouthBoundedOnceLanding ClassName: US03_separateAssert
+Assertion: 7 assertThat(,(0,5,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,5,S)
+Test case: 8 methodName: theRoverMovesForwardSouthBoundedOnceLanding_1 ClassName: US03_separateAssert
+Assertion: 8 assertThat(,(0,4,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (0,4,S)
+
+Summary1 :8: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :8: RUN IN TOTAL
+Summary5 :8: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US04_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverMovesBackwardSouthBoundedOnceLanding_1 ClassName: US04_separateAssert
+Assertion: 1 assertThat(,(0,15,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,15,S)
+Test case: 2 methodName: theRoverMovesBackwardSouthBoundedOnceLanding_2 ClassName: US04_separateAssert
+Assertion: 2 assertThat(,(0,16,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-1,S)")     but: was (0,16,S)
+Test case: 3 methodName: theRoverMovesBackwardWestBoundedOnceLanding ClassName: US04_separateAssert
+Assertion: 3 assertThat(,(3,10,W)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,0,N)")     but: was (3,10,W)
+Test case: 4 methodName: theRoverMovesBackwardEastBoundedOnceLanding_1 ClassName: US04_separateAssert
+Assertion: 4 assertThat(,(2,10,E)) Fail: true Message: Expected: is equalToIgnoringCase("(1,0,N)")     but: was (2,10,E)
+Test case: 5 methodName: theRoverMovesBackwardEastBoundedOnceLanding_2 ClassName: US04_separateAssert
+Assertion: 5 assertThat(,(1,10,E)) Fail: true Message: Expected: is equalToIgnoringCase("(1,-1,S)")     but: was (1,10,E)
+Test case: 6 methodName: theRoverMovesBackwardNorthBoundedOnceLanding_1 ClassName: US04_separateAssert
+Assertion: 6 assertThat(,(0,6,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-1,N)")     but: was (0,6,N)
+Test case: 7 methodName: theRoverMovesBackwardNorthBoundedOnceLanding_2 ClassName: US04_separateAssert
+Assertion: 7 assertThat(,(0,5,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-2,S)")     but: was (0,5,N)
+
+Summary1 :7: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :7: RUN IN TOTAL
+Summary5 :7: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US05_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: moveRightInsideGridOnClearPathNorthBounded_1 ClassName: US05_separateAssert
+Assertion: 1 assertThat(,(5,5,E)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (5,5,E)
+Test case: 2 methodName: moveRightInsideGridOnClearPathNorthBounded_2 ClassName: US05_separateAssert
+Assertion: 2 assertThat(,(4,5,E)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-1,S)")     but: was (4,5,E)
+Test case: 3 methodName: moveLeftInsideGridOnClearPathNorthBounded_1 ClassName: US05_separateAssert
+Assertion: 3 assertThat(,(9,5,W)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (9,5,W)
+Test case: 4 methodName: moveLeftInsideGridOnClearPathNorthBounded_2 ClassName: US05_separateAssert
+Assertion: 4 assertThat(,(10,5,W)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,S)")     but: was (10,5,W)
+Test case: 5 methodName: moveRightInsideGridOnClearPathSouthBounded_1 ClassName: US05_separateAssert
+Assertion: 5 assertThat(,(11,4,E)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,1,N)")     but: was (11,4,E)
+Test case: 6 methodName: moveRightInsideGridOnClearPathSouthBounded_2 ClassName: US05_separateAssert
+Assertion: 6 assertThat(,(10,4,E)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,0,S)")     but: was (10,4,E)
+Test case: 7 methodName: moveLeftInsideGridOnClearPathSouthBounded_1 ClassName: US05_separateAssert
+Assertion: 7 assertThat(,(9,5,W)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (9,5,W)
+Test case: 8 methodName: moveLeftInsideGridOnClearPathSouthBounded_2 ClassName: US05_separateAssert
+Assertion: 8 assertThat(,(10,5,W)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,S)")     but: was (10,5,W)
+
+Summary1 :8: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :8: RUN IN TOTAL
+Summary5 :8: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US06 Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverShouldSpawnOnTheRightSideWhenCrossingLeftBackward_1 ClassName: US06
+Assertion: 1 assertThat(,(99,0,E)) Fail: true Message: Expected: is equalToIgnoringCase("(1,-1,S)")     but: was (99,0,E)
+Test case: 2 methodName: theRoverShouldSpawnOnTheLeftSideWhenCrossingRightBackwards_1 ClassName: US06
+Assertion: 2 assertThat(,(0,0,W)) Fail: true Message: Expected: is equalToIgnoringCase("(1,-1,S)")     but: was (0,0,W)
+Test case: 3 methodName: theRoverShouldSpawnOnTheNorthSideWhenCrossingSouth_1 ClassName: US06
+Assertion: 3 assertThat(,(0,99,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (0,99,S)
+Test case: 4 methodName: theRoverShouldSpawnOnTheLeftSideWhenCrossingRight_1 ClassName: US06
+Assertion: 4 assertThat(,(0,0,E)) Fail: true Message: Expected: is equalToIgnoringCase("(1,1,N)")     but: was (0,0,E)
+Test case: 5 methodName: theRoverShouldSpawnOnTheNorthSideWhenCrossingSouthBackwards_1 ClassName: US06
+Assertion: 5 assertThat(,(0,99,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-1,S)")     but: was (0,99,N)
+Test case: 6 methodName: roverShouldSpawnOnThebottomWhenCrossingNorthBackwards_1 ClassName: US06
+Assertion: 6 assertThat(,(0,0,S)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-1,S)")     but: was (0,0,S)
+Test case: 7 methodName: theRoverShouldSpawnOnTheBottomSideWhenCrossingNorth_1 ClassName: US06
+Assertion: 7 assertThat(,(0,0,N)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (0,0,N)
+Test case: 8 methodName: theRoverShouldSpawnOnTheRightSideWhenCrossingLeft_1 ClassName: US06
+Assertion: 8 assertThat(,(99,0,W)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,1,N)")     but: was (99,0,W)
+
+Summary1 :8: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :8: RUN IN TOTAL
+Summary5 :8: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US07_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverEncounters2ObstaclesInARow_1 ClassName: US07_separateAssert
+Assertion: 1 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(2,2,N)(1,1)(3,1)") or equalToIgnoringCase("(1,0,N)(1,1)"))     but: was "(0,0,N)"
+Test case: 2 methodName: theRoverEncounters2ObstaclesInARow_2 ClassName: US07_separateAssert
+Assertion: 2 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(2,1,N)(1,0)(1,2)") or equalToIgnoringCase("(0,0,E)(1,0)"))     but: was "(0,0,N)"
+Test case: 3 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForward_1 ClassName: US07_separateAssert
+Assertion: 3 assertThat(,(50,98,N)(50,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,98,N)(50,99)
+Test case: 4 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForward_2 ClassName: US07_separateAssert
+Assertion: 4 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(50,1,N)(50,0)") or equalToIgnoringCase("(50,1,S)(50,0)"))     but: was "(0,0,N)"
+Test case: 5 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingForward_1 ClassName: US07_separateAssert
+Assertion: 5 assertThat(,(0,98,N)(0,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,98,N)(0,99)
+Test case: 6 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingForward_2 ClassName: US07_separateAssert
+Assertion: 6 assertThat(,(99,98,N)(99,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (99,98,N)(99,99)
+Test case: 7 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingForward_3 ClassName: US07_separateAssert
+Assertion: 7 assertThat(,(99,1,S)(99,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (99,1,S)(99,0)
+Test case: 8 methodName: theRoverEncountersAnObstacleInTheMiddleOfThePlanetWhileMovingForward_1 ClassName: US07_separateAssert
+Assertion: 8 assertThat(,(49,50,E)(50,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (49,50,E)(50,50)
+Test case: 9 methodName: theRoverEncountersAnObstacleInTheMiddleOfThePlanetWhileMovingForward_2 ClassName: US07_separateAssert
+Assertion: 9 assertThat(,(50,51,S)(50,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,51,S)(50,50)
+Test case: 10 methodName: theRoverEncountersAnObstacleInTheMiddleOfThePlanetWhileMovingForward_3 ClassName: US07_separateAssert
+Assertion: 10 assertThat(,(51,50,W)(50,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (51,50,W)(50,50)
+Test case: 11 methodName: theRoverEncountersAnObstacleInTheMiddleOfThePlanetWhileMovingForward_4 ClassName: US07_separateAssert
+Assertion: 11 assertThat(,(50,49,N)(50,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,49,N)(50,50)
+Test case: 12 methodName: theRoverEncounters3ObstaclesInARow_1 ClassName: US07_separateAssert
+Assertion: 12 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(2,1,N)(3,1)(2,2)(1,1)") or equalToIgnoringCase("(2,1,E)(3,1)"))     but: was "(0,0,N)"
+Test case: 13 methodName: theRoverEncounters3ObstaclesInARow_2 ClassName: US07_separateAssert
+Assertion: 13 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(2,1,N)(2,0)(3,1)(2,2)") or equalToIgnoringCase("(2,1,S)(2,0)"))     but: was "(0,0,N)"
+Test case: 14 methodName: theRoverEncounters3ObstaclesInARow_3 ClassName: US07_separateAssert
+Assertion: 14 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(2,1,N)(1,1)(2,0)(3,1)") or equalToIgnoringCase("(2,1,W)(1,1)"))     but: was "(0,0,N)"
+Test case: 15 methodName: theRoverEncounters2ObstaclesInARowFromLanding ClassName: US07_separateAssert
+Assertion: 15 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(0,0,N)(0,1)(1,0)") or equalToIgnoringCase("(0,0,N)(0,1)"))     but: was "(0,0,N)"
+
+Summary1 :15: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :15: RUN IN TOTAL
+Summary5 :15: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US08_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardRighTop_1 ClassName: US08_separateAssert
+Assertion: 1 assertThat(,(50,98,S)(50,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,98,S)(50,99)
+Test case: 2 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardRighTop_2 ClassName: US08_separateAssert
+Assertion: 2 assertThat(,(50,1,N)(50,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,1,N)(50,0)
+Test case: 3 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingBackwardsLeft_1 ClassName: US08_separateAssert
+Assertion: 3 assertThat(,(0,98,S)(0,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,98,S)(0,99)
+Test case: 4 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingBackwardsLeft_2 ClassName: US08_separateAssert
+Assertion: 4 assertThat(,(1,99,E)(0,99)) Fail: true Message: Expected: is "(0,0,N)"     but: was "(1,99,E)(0,99)"
+Test case: 5 methodName: theRoverEncountersAnObstacleInTheMiddleOfThePlanetWhileMovingBackward_1 ClassName: US08_separateAssert
+Assertion: 5 assertThat(,(50,51,N)(50,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,51,N)(50,50)
+Test case: 6 methodName: theRoverEncountersAnObstacleInTheMiddleOfThePlanetWhileMovingBackward_2 ClassName: US08_separateAssert
+Assertion: 6 assertThat(,(50,49,S)(50,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (50,49,S)(50,50)
+Test case: 7 methodName: theRoverEncountersSevenObstaclesOnATourAroundThePlanet_1 ClassName: US08_separateAssert
+Assertion: 7 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(0,0,N)(0,50)(0,99)(50,99)(99,99)(99,50)(99,0)(50,0)") or equalToIgnoringCase("(0,49,S)(0,50)"))     but: was "(0,0,N)"
+Test case: 8 methodName: theRoverEncountersSevenObstaclesOnATourAroundThePlanet_2 ClassName: US08_separateAssert
+Assertion: 8 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(0,0,N)(50,0)(99,0)(99,50)(99,99)(50,99)(0,99)(0,50)") or equalToIgnoringCase("(49,0,W)(50,0)"))     but: was "(0,0,N)"
+
+Summary1 :8: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :8: RUN IN TOTAL
+Summary5 :8: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US09_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardRight_1 ClassName: US09_separateAssert
+Assertion: 1 assertThat(,(98,50,W)(99,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (98,50,W)(99,50)
+Test case: 2 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardRight_2 ClassName: US09_separateAssert
+Assertion: 2 assertThat(,(49,99,W)(50,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (49,99,W)(50,99)
+Test case: 3 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardRight_3 ClassName: US09_separateAssert
+Assertion: 3 assertThat(,(49,0,W)(50,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (49,0,W)(50,0)
+Test case: 4 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForwardRight_1 ClassName: US09_separateAssert
+Assertion: 4 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(98,50,N)(99,50)") or equalToIgnoringCase("(98,50,E)(99,50)"))     but: was "(0,0,N)"
+Test case: 5 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForwardRight_2 ClassName: US09_separateAssert
+Assertion: 5 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(49,99,N)(50,99)") or equalToIgnoringCase("(49,99,E)(50,99)"))     but: was "(0,0,N)"
+Test case: 6 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForwardRight_3 ClassName: US09_separateAssert
+Assertion: 6 assertThat(,(0,0,N)) Fail: true Message: Expected: (equalToIgnoringCase("(49,0,N)(50,0)") or equalToIgnoringCase("(49,0,E)(50,0)"))     but: was "(0,0,N)"
+Test case: 7 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingBackwardsRight_1 ClassName: US09_separateAssert
+Assertion: 7 assertThat(,(98,99,W)(99,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (98,99,W)(99,99)
+Test case: 8 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingBackwardsRight_2 ClassName: US09_separateAssert
+Assertion: 8 assertThat(,(98,0,W)(99,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (98,0,W)(99,0)
+
+Summary1 :8: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :8: RUN IN TOTAL
+Summary5 :8: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US10_separateAssert Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForwardLeft_1 ClassName: US10_separateAssert
+Assertion: 1 assertThat(,(1,50,N)(0,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (1,50,N)(0,50)
+Test case: 2 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForwardLeft_2 ClassName: US10_separateAssert
+Assertion: 2 assertThat(,(51,99,N)(50,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (51,99,N)(50,99)
+Test case: 3 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingForwardLeft_3 ClassName: US10_separateAssert
+Assertion: 3 assertThat(,(51,0,N)(50,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (51,0,N)(50,0)
+Test case: 4 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardLeft_1 ClassName: US10_separateAssert
+Assertion: 4 assertThat(,(1,50,E)(0,50)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (1,50,E)(0,50)
+Test case: 5 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardLeft_2 ClassName: US10_separateAssert
+Assertion: 5 assertThat(,(51,99,E)(50,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (51,99,E)(50,99)
+Test case: 6 methodName: theRoverEncountersAnObstacleOnTheEdgesOfThePlanetWhileMovingBackwardLeft_3 ClassName: US10_separateAssert
+Assertion: 6 assertThat(,(51,0,E)(50,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (51,0,E)(50,0)
+Test case: 7 methodName: theRoverEncountersAnObstacleOnTheCornersOfThePlanetWhileMovingForwardLeft ClassName: US10_separateAssert
+Assertion: 7 assertThat(,(1,99,W)(0,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (1,99,W)(0,99)
+
+Summary1 :7: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :7: RUN IN TOTAL
+Summary5 :7: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Test Class: US11 Tackled: false QLTYi: 0.0%
+--------------------------------------------------------
+Test case: 1 methodName: roverEncountersAnObstacleWhenTriesToSpawnEastGoingBackward ClassName: US11
+Assertion: 1 assertThat(,(0,30,E)(99,30)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,0,N)")     but: was (0,30,E)(99,30)
+Test case: 2 methodName: roverEncountersAnObstacleWhenTriesToSpawnWestGoingForward ClassName: US11
+Assertion: 2 assertThat(,(99,30,E)(0,30)) Fail: true Message: Expected: is equalToIgnoringCase("(1,1,N)")     but: was (99,30,E)(0,30)
+Test case: 3 methodName: roverEncountersAnObstacleWhenTriesToSpawnSouthWhileGoingForward ClassName: US11
+Assertion: 3 assertThat(,(1,99,N)(1,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,1,N)")     but: was (1,99,N)(1,0)
+Test case: 4 methodName: roverEncountersAnObstacleWhenTriesToSpawnWestGoingBackward ClassName: US11
+Assertion: 4 assertThat(,(99,30,W)(0,30)) Fail: true Message: Expected: is equalToIgnoringCase("(1,0,N)")     but: was (99,30,W)(0,30)
+Test case: 5 methodName: roverEncountersAnObstacleWhenTriesToSpawnSouthWhileGoingBackward ClassName: US11
+Assertion: 5 assertThat(,(1,99,S)(1,0)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (1,99,S)(1,0)
+Test case: 6 methodName: roverEncountersAnObstacleWhenTriesToSpawnNorthWhileGoingForward ClassName: US11
+Assertion: 6 assertThat(,(0,0,S)(0,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,0,N)")     but: was (0,0,S)(0,99)
+Test case: 7 methodName: roverEncountersAnObstacleWhenTriesToSpawnEastGoingForward ClassName: US11
+Assertion: 7 assertThat(,(0,30,W)(99,30)) Fail: true Message: Expected: is equalToIgnoringCase("(-1,1,N)")     but: was (0,30,W)(99,30)
+Test case: 8 methodName: roverEncountersAnObstacleWhenTriesToSpawnNorthWhileGoingBackward ClassName: US11
+Assertion: 8 assertThat(,(0,0,N)(0,99)) Fail: true Message: Expected: is equalToIgnoringCase("(0,-1,S)")     but: was (0,0,N)(0,99)
+
+Summary1 :8: assertions FAILED :100:%
+Summary2 :0: assertions SUCCEDED :0:%
+Summary3 :0: assertions ERRORS :0:%
+Summary4 :8: RUN IN TOTAL
+Summary5 :8: TOTAL TEST CASES
+---------------------------------------------------------
+
+
+Final metrics
+---------------------------------------------------------
+
+Summary6 :83: assertions FAILED :93:%
+Summary7 :6: assertions SUCCEDED :7:%
+Summary8 :0: assertions ERRORS :0:%
+Summary9 :89: ASSERTIONS RUN IN TOTAL
+Summary10 :89: TOTAL TEST CASES RUN
+
+TUS: 2
+PERTUS: 18.18%
+QLTY: 72.72%
+PROD: 6.74%

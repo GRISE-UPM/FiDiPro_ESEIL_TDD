@@ -1,0 +1,83 @@
+FileOpenedAction 1494524967544 BowlingException.java 58 0 0 0
+FileOpenedAction 1494524998859 Frame.java 671 6 7 0
+FileOpenedAction 1494525052154 BowlingGame.java 708 4 1 0
+FileOpenedAction 1494525256280 TestBowling.java 165 1 1 0
+RefactoringAction 1494526182116 TestBowling.java RENAME test()=><initializer /1> null
+RefactoringAction 1494526184627 TestBowling.java RENAME <initializer /1>=>void frame1_() METHOD
+RefactoringAction 1494526190640 TestBowling.java RENAME frame1_()=>void frame1_test() METHOD
+RefactoringAction 1494526425023 TestBowling.java RENAME frame1_test()=>void TEST_ FIELD
+RefactoringAction 1494526431539 TestBowling.java RENAME TEST_=>void test_isStrike FIELD
+EditAction 1494526535648 TestBowling.java 231 1 2 1
+EditAction 1494526536949 Frame.java 728 6 7 0
+EditAction 1494526537156 BowlingGame.java 830 4 4 0
+UnitTestCaseAction 1494526538826 TestBowling.java OK
+UnitTestSessionAction 1494526538829 TestBowling.java OK
+EditAction 1494526545081 TestBowling.java 231 1 2 1
+UnitTestCaseAction 1494526545589 TestBowling.java FAIL
+UnitTestSessionAction 1494526545591 TestBowling.java FAIL
+EditAction 1494526553045 TestBowling.java 231 1 2 1
+UnitTestCaseAction 1494526553552 TestBowling.java OK
+UnitTestSessionAction 1494526553553 TestBowling.java OK
+RefactoringAction 1494526560782 TestBowling.java ADD void test_isStrike()/2 METHOD
+RefactoringAction 1494526573799 TestBowling.java RENAME test_isStrike()/2=>void test_isSpare FIELD
+EditAction 1494526588612 TestBowling.java 365 2 4 2
+CompilationAction 1494526588910 TestBowling.java
+CompilationAction 1494526616403 TestBowling.java
+UnitTestCaseAction 1494526616841 TestBowling.java OK
+UnitTestSessionAction 1494526616842 TestBowling.java OK
+RefactoringAction 1494526682477 TestBowling.java ADD void test_isStrike()/2 METHOD
+RefactoringAction 1494526686489 TestBowling.java RENAME test_isStrike()/2=>void test_isNotStrike() METHOD
+EditAction 1494526700979 TestBowling.java 503 3 6 3
+UnitTestCaseAction 1494526701485 TestBowling.java OK
+UnitTestSessionAction 1494526701486 TestBowling.java OK
+RefactoringAction 1494526715068 TestBowling.java ADD void test_isSpare()/2 METHOD
+RefactoringAction 1494526720583 TestBowling.java RENAME test_isSpare()/2=>void test_NotSpare() METHOD
+EditAction 1494526725292 TestBowling.java 637 4 8 4
+UnitTestCaseAction 1494526725773 TestBowling.java OK
+UnitTestSessionAction 1494526725774 TestBowling.java OK
+EditAction 1494526741587 TestBowling.java 638 4 8 4
+UnitTestCaseAction 1494526742117 TestBowling.java FAIL
+UnitTestSessionAction 1494526742118 TestBowling.java FAIL
+EditAction 1494526745419 TestBowling.java 638 4 8 4
+UnitTestCaseAction 1494526747706 TestBowling.java OK
+UnitTestSessionAction 1494526747707 TestBowling.java OK
+RefactoringAction 1494527940743 TestBowling.java ADD void test_NotSpare()/2 METHOD
+RefactoringAction 1494527946258 TestBowling.java RENAME test_NotSpare()/2=>void test_bonus() METHOD
+RefactoringAction 1494528375349 BowlingGame.java ADD Frame gey FIELD
+RefactoringAction 1494528378361 BowlingGame.java RENAME gey=>Frame getBonus FIELD
+RefactoringAction 1494528379372 BowlingGame.java RENAME getBonus=>Frame getBonus() METHOD
+EditAction 1494528601934 Frame.java 765 6 8 0
+RefactoringAction 1494528657374 TestBowling.java ADD void test_NotSpare()/2 METHOD
+RefactoringAction 1494528662389 TestBowling.java RENAME test_NotSpare()/2=>void test_score() METHOD
+RefactoringAction 1494528706897 BowlingGame.java ADD import org.junit.Assert.assertFalse IMPORT
+RefactoringAction 1494528706898 BowlingGame.java ADD import org.junit.Test IMPORT
+RefactoringAction 1494528710410 BowlingGame.java REMOVE import org.junit.Assert.assertFalse IMPORT
+RefactoringAction 1494528710410 BowlingGame.java REMOVE import org.junit.Test IMPORT
+EditAction 1494528912718 TestBowling.java 1148 6 20 6
+CompilationAction 1494528913023 TestBowling.java
+EditAction 1494528913042 BowlingGame.java 1156 5 5 0
+CompilationAction 1494528913354 BowlingGame.java
+CompilationAction 1494528913355 TestBowling.java
+RefactoringAction 1494529010882 TestBowling.java REMOVE test_bonus() METHOD
+CompilationAction 1494529013720 BowlingGame.java
+UnitTestCaseAction 1494529014503 TestBowling.java OK
+UnitTestSessionAction 1494529014504 TestBowling.java OK
+RefactoringAction 1494529018401 TestBowling.java ADD void test_bonus() METHOD
+EditAction 1494529036787 TestBowling.java 1136 6 20 6
+UnitTestCaseAction 1494529037233 TestBowling.java FAIL
+UnitTestSessionAction 1494529037234 TestBowling.java FAIL
+EditAction 1494529120796 BowlingGame.java 1199 5 7 0
+UnitTestCaseAction 1494529123363 TestBowling.java FAIL
+UnitTestSessionAction 1494529123364 TestBowling.java FAIL
+UnitTestCaseAction 1494529124626 TestBowling.java FAIL
+UnitTestSessionAction 1494529124626 TestBowling.java FAIL
+EditAction 1494529163015 BowlingGame.java 1211 5 8 0
+UnitTestCaseAction 1494529163732 TestBowling.java FAIL
+UnitTestSessionAction 1494529163733 TestBowling.java FAIL
+RefactoringAction 1494529311180 TestBowling.java RENAME test_bonus()=>void test_bonus_() METHOD
+RefactoringAction 1494529312686 TestBowling.java RENAME test_bonus_()=>void test_bonus_is() METHOD
+RefactoringAction 1494529314692 TestBowling.java RENAME test_bonus_is()=>void test_bonus_isSparw() METHOD
+RefactoringAction 1494529316202 TestBowling.java RENAME test_bonus_isSparw()=>void test_bonus_isSpare() METHOD
+RefactoringAction 1494529480383 TestBowling.java REMOVE test_bonus_isSpare() METHOD
+EditAction 1494530030357 BowlingGame.java 1216 5 8 0
+EditAction 1494530031686 TestBowling.java 1135 5 10 5

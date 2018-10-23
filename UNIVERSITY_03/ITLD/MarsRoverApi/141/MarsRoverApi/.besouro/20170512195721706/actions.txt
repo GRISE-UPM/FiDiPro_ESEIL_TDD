@@ -1,0 +1,186 @@
+FileOpenedAction 1494611842291 PlanetExplorer.java 1245 2 1 0
+EditAction 1494612327256 PlanetExplorer.java 1254 2 1 0
+RefactoringAction 1494612519051 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+EditAction 1494612522123 PlanetExplorerException.java 105 1 0 0
+RefactoringAction 1494612537659 PlanetExplorerException.java ADD String toString FIELD
+RefactoringAction 1494612539173 PlanetExplorerException.java RENAME toString=>String toString() METHOD
+EditAction 1494612545197 PlanetExplorerException.java 151 2 1 0
+EditAction 1494612613535 PlanetExplorer.java 1293 2 3 0
+RefactoringAction 1494612789098 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612789100 PlanetExplorer.java ADD int y FIELD
+EditAction 1494612805466 PlanetExplorer.java 1321 2 3 0
+RefactoringAction 1494612853444 PlanetExplorer.java ADD int trenutna FIELD
+RefactoringAction 1494612855991 PlanetExplorer.java RENAME trenutna=>int trenutnaX FIELD
+RefactoringAction 1494612862029 PlanetExplorer.java ADD int trnutna FIELD
+RefactoringAction 1494612867090 PlanetExplorer.java RENAME trnutna=>int trnutnaY FIELD
+RefactoringAction 1494612869631 PlanetExplorer.java RENAME trnutnaY=>int trenutnaY FIELD
+EditAction 1494612885053 PlanetExplorer.java 1372 2 3 0
+RefactoringAction 1494612926702 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494612935220 TestPlanetExplorer.java RENAME test=>void testStartPosition FIELD
+RefactoringAction 1494612936240 TestPlanetExplorer.java RENAME testStartPosition=>void testStartPosition() METHOD
+RefactoringAction 1494612985005 PlanetExplorer.java ADD String obstacles FIELD
+EditAction 1494612995960 PlanetExplorer.java 1449 2 6 0
+RefactoringAction 1494613167459 PlanetExplorer.java ADD String facing FIELD
+RefactoringAction 1494613268600 PlanetExplorer.java ADD PlanetExplorer(int) METHOD
+RefactoringAction 1494613271134 PlanetExplorer.java RENAME PlanetExplorer(int)=>PlanetExplorer(int, int) METHOD
+EditAction 1494613299835 PlanetExplorer.java 1597 3 11 0
+EditAction 1494613474489 PlanetExplorer.java 1663 3 11 0
+RefactoringAction 1494613486257 TestPlanetExplorer.java RENAME testStartPosition()=>void test() METHOD
+RefactoringAction 1494613489775 TestPlanetExplorer.java RENAME test()=>void testOnceForwar() METHOD
+RefactoringAction 1494613490796 TestPlanetExplorer.java RENAME testOnceForwar()=>void testOnceForward() METHOD
+EditAction 1494613574709 TestPlanetExplorer.java 373 2 4 1
+UnitTestCaseAction 1494613588513 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613588517 TestPlanetExplorer.java FAIL
+RefactoringAction 1494613598487 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+EditAction 1494613598916 TestPlanetExplorer.java 377 1 3 1
+UnitTestCaseAction 1494613604622 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613604623 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494613688815 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613688818 TestPlanetExplorer.java FAIL
+EditAction 1494613724003 TestPlanetExplorer.java 423 1 3 1
+UnitTestCaseAction 1494613730462 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613730465 TestPlanetExplorer.java OK
+RefactoringAction 1494613741781 TestPlanetExplorer.java RENAME testOnceForward()=>void testOnceForwardW() METHOD
+RefactoringAction 1494613746315 TestPlanetExplorer.java RENAME testOnceForwardW()=>void testOnceForwardWithoutObstacles() METHOD
+EditAction 1494613746583 TestPlanetExplorer.java 430 1 3 1
+UnitTestCaseAction 1494613752207 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613752209 TestPlanetExplorer.testOnceForwardWithoutObstacles OK
+EditAction 1494613790458 PlanetExplorer.java 1768 3 12 0
+RefactoringAction 1494613799918 TestPlanetExplorer.java ADD void testOnceForwardWithoutObstacles()/2 METHOD
+RefactoringAction 1494613804960 TestPlanetExplorer.java RENAME testOnceForwardWithoutObstacles()/2=>void testOnceBackwardWithoutObstacles() METHOD
+EditAction 1494613824825 TestPlanetExplorer.java 713 2 7 2
+UnitTestCaseAction 1494613829727 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613829731 TestPlanetExplorer.java OK
+EditAction 1494613921684 PlanetExplorer.java 1866 3 12 0
+EditAction 1494613938185 PlanetExplorer.java 1887 3 12 0
+RefactoringAction 1494613959788 TestPlanetExplorer.java ADD void testOnceBackwardWithoutObstacles()/2 METHOD
+RefactoringAction 1494613963315 TestPlanetExplorer.java RENAME testOnceBackwardWithoutObstacles()/2=>void test() METHOD
+RefactoringAction 1494614001344 TestPlanetExplorer.java RENAME test()=>void testPrelazakIvice() METHOD
+RefactoringAction 1494614006893 TestPlanetExplorer.java RENAME testPrelazakIvice()=>void testOver() METHOD
+RefactoringAction 1494614011440 TestPlanetExplorer.java RENAME testOver()=>void testOverEdge() METHOD
+EditAction 1494614036143 TestPlanetExplorer.java 1042 3 13 3
+EditAction 1494614041114 TestPlanetExplorer.java 1042 3 13 3
+UnitTestCaseAction 1494614051086 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614051087 TestPlanetExplorer.java OK
+EditAction 1494614082956 PlanetExplorer.java 1985 3 12 0
+EditAction 1494614094233 PlanetExplorer.java 1995 3 12 0
+EditAction 1494614101951 PlanetExplorer.java 1997 3 12 0
+EditAction 1494614109988 PlanetExplorer.java 2007 3 12 0
+RefactoringAction 1494614120297 TestPlanetExplorer.java ADD void testOverEdge()/2 METHOD
+RefactoringAction 1494614123358 TestPlanetExplorer.java RENAME testOverEdge()/2=>void testOverEdgeForward() METHOD
+RefactoringAction 1494614126418 TestPlanetExplorer.java RENAME testOverEdge()=>void testOverEdgeBackward() METHOD
+EditAction 1494614178134 TestPlanetExplorer.java 1290 4 16 4
+EditAction 1494614182877 PlanetExplorer.java 2009 3 12 0
+UnitTestCaseAction 1494614188667 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614188670 TestPlanetExplorer.java OK
+EditAction 1494614247589 PlanetExplorer.java 2051 3 13 0
+EditAction 1494614317765 PlanetExplorer.java 2093 3 14 0
+RefactoringAction 1494614327358 TestPlanetExplorer.java ADD void testOverEdgeBackward()/2 METHOD
+RefactoringAction 1494614332900 TestPlanetExplorer.java RENAME testOverEdgeBackward()/2=>void testFacing() METHOD
+RefactoringAction 1494614334448 TestPlanetExplorer.java RENAME testFacing()=>void testFacingE() METHOD
+RefactoringAction 1494614336024 TestPlanetExplorer.java RENAME testFacingE()=>void testFacingEast() METHOD
+EditAction 1494614351498 TestPlanetExplorer.java 1525 5 19 5
+UnitTestCaseAction 1494614358308 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614358310 TestPlanetExplorer.java FAIL
+EditAction 1494614383176 PlanetExplorer.java 2201 3 14 0
+UnitTestCaseAction 1494614389706 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614389708 TestPlanetExplorer.java OK
+RefactoringAction 1494614394747 TestPlanetExplorer.java ADD void testFacingEast()/2 METHOD
+RefactoringAction 1494614398800 TestPlanetExplorer.java RENAME testFacingEast()/2=>void testFacingt() METHOD
+RefactoringAction 1494614400342 TestPlanetExplorer.java RENAME testFacingt()=>void testFacingWest() METHOD
+EditAction 1494614400944 TestPlanetExplorer.java 1758 6 22 6
+EditAction 1494614412949 TestPlanetExplorer.java 1758 6 22 6
+UnitTestCaseAction 1494614419492 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614419494 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494614429331 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614429333 TestPlanetExplorer.java OK
+EditAction 1494614476362 PlanetExplorer.java 2151 3 14 0
+EditAction 1494614547445 PlanetExplorer.java 2265 3 14 0
+RefactoringAction 1494614566122 TestPlanetExplorer.java ADD void testOverEdgeForward()/2 METHOD
+RefactoringAction 1494614570181 TestPlanetExplorer.java RENAME testOverEdgeForward()/2=>void testOverEdgeForwardX() METHOD
+EditAction 1494614601509 TestPlanetExplorer.java 2095 7 28 7
+UnitTestCaseAction 1494614606632 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614606634 TestPlanetExplorer.java FAIL
+EditAction 1494614692847 PlanetExplorer.java 2265 3 14 0
+UnitTestCaseAction 1494614698106 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614698108 TestPlanetExplorer.java FAIL
+EditAction 1494614719621 PlanetExplorer.java 2319 3 14 0
+UnitTestCaseAction 1494614726492 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614726494 TestPlanetExplorer.java FAIL
+EditAction 1494614758727 PlanetExplorer.java 2321 3 14 0
+UnitTestCaseAction 1494614764457 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614764459 TestPlanetExplorer.java FAIL
+EditAction 1494614970263 TestPlanetExplorer.java 2099 7 27 7
+EditAction 1494614978943 PlanetExplorer.java 2321 3 14 0
+UnitTestCaseAction 1494614985853 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614985856 TestPlanetExplorer.java OK
+EditAction 1494615248463 PlanetExplorer.java 2431 3 14 0
+RefactoringAction 1494615256573 TestPlanetExplorer.java ADD void testOverEdgeForwardX()/2 METHOD
+RefactoringAction 1494615262636 TestPlanetExplorer.java RENAME testOverEdgeForwardX()/2=>void testOverEdgeBackwardX() METHOD
+EditAction 1494615290628 TestPlanetExplorer.java 2371 8 31 8
+UnitTestCaseAction 1494615295586 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615295588 TestPlanetExplorer.java FAIL
+EditAction 1494615434579 PlanetExplorer.java 2444 3 14 0
+UnitTestCaseAction 1494615441382 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615441384 TestPlanetExplorer.java OK
+EditAction 1494615491007 PlanetExplorer.java 2471 3 14 0
+RefactoringAction 1494615500122 TestPlanetExplorer.java ADD void testOverEdgeBackwardX()/2 METHOD
+RefactoringAction 1494615504662 TestPlanetExplorer.java RENAME testOverEdgeBackwardX()/2=>void testOverEdgeBackwardX2() METHOD
+EditAction 1494615517491 PlanetExplorer.java 2444 3 14 0
+EditAction 1494615540304 PlanetExplorer.java 2563 3 14 0
+EditAction 1494615547376 TestPlanetExplorer.java 2646 9 35 9
+UnitTestCaseAction 1494615553768 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615553770 TestPlanetExplorer.java FAIL
+EditAction 1494615576986 TestPlanetExplorer.java 2646 9 35 9
+UnitTestCaseAction 1494615582406 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615582408 TestPlanetExplorer.java FAIL
+EditAction 1494615705845 PlanetExplorer.java 2563 3 14 0
+UnitTestCaseAction 1494615773640 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615773642 TestPlanetExplorer.java FAIL
+EditAction 1494615886009 PlanetExplorer.java 2682 3 14 0
+EditAction 1494615891150 PlanetExplorer.java 2687 3 14 0
+RefactoringAction 1494615903195 TestPlanetExplorer.java REMOVE testOverEdgeBackwardX2() METHOD
+EditAction 1494615905487 TestPlanetExplorer.java 2654 8 31 8
+UnitTestCaseAction 1494615909393 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615909395 TestPlanetExplorer.java OK
+RefactoringAction 1494615927817 TestPlanetExplorer.java ADD void testOverEdgeBackwardX()/2 METHOD
+RefactoringAction 1494615933405 TestPlanetExplorer.java RENAME testOverEdgeBackwardX()/2=>void testOverEdgeForwaddX() METHOD
+RefactoringAction 1494615934959 TestPlanetExplorer.java RENAME testOverEdgeForwaddX()=>void testOverEdgeForwarddX() METHOD
+RefactoringAction 1494615937508 TestPlanetExplorer.java RENAME testOverEdgeForwarddX()=>void testOverEdgeForwardX()/2 METHOD
+RefactoringAction 1494615940070 TestPlanetExplorer.java RENAME testOverEdgeForwardX()/2=>void testOverEdgeForwardX2() METHOD
+EditAction 1494615965337 TestPlanetExplorer.java 2999 9 37 9
+UnitTestCaseAction 1494615984216 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615984217 TestPlanetExplorer.java OK
+EditAction 1494616120813 PlanetExplorer.java 2811 3 14 0
+RefactoringAction 1494616129541 TestPlanetExplorer.java ADD void testOverEdgeForwardX2()/2 METHOD
+RefactoringAction 1494616134595 TestPlanetExplorer.java RENAME testOverEdgeForwardX2()/2=>void testOverEdgeBackwardX2() METHOD
+EditAction 1494616154673 TestPlanetExplorer.java 3347 10 43 10
+UnitTestCaseAction 1494616159251 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616159253 TestPlanetExplorer.java FAIL
+EditAction 1494616170850 TestPlanetExplorer.java 3347 10 43 10
+UnitTestCaseAction 1494616178781 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616178786 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616178950 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616178952 TestPlanetExplorer.java OK
+EditAction 1494616187536 TestPlanetExplorer.java 3338 10 43 10
+RefactoringAction 1494616238242 TestPlanetExplorer.java REMOVE testOverEdgeBackwardX2() METHOD
+RefactoringAction 1494616238244 TestPlanetExplorer.java REMOVE testOverEdgeForwardX2() METHOD
+RefactoringAction 1494616239785 TestPlanetExplorer.java ADD void testOverEdgeBackwardX2() METHOD
+RefactoringAction 1494616239789 TestPlanetExplorer.java ADD void testOverEdgeForwardX2() METHOD
+RefactoringAction 1494616239790 TestPlanetExplorer.java ADD void testOverEdgeBackwardX2()/2 METHOD
+EditAction 1494616240476 TestPlanetExplorer.java 3334 11 47 11
+CompilationAction 1494616243504 TestPlanetExplorer.java
+RefactoringAction 1494616252917 TestPlanetExplorer.java RENAME testOverEdgeBackwardX2()/2=>void testOverEdgeBackwardX()/2 METHOD
+RefactoringAction 1494616253958 TestPlanetExplorer.java RENAME testOverEdgeBackwardX()/2=>void testOverEdgeBackwardX3() METHOD
+EditAction 1494616254994 TestPlanetExplorer.java 3334 11 47 11
+UnitTestCaseAction 1494616259660 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616259662 TestPlanetExplorer.testOverEdgeBackwardX3 OK
+UnitTestCaseAction 1494616271484 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616271485 TestPlanetExplorer.java OK
+EditAction 1494616318659 TestPlanetExplorer.java 3334 11 47 11
+UnitTestCaseAction 1494616323917 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616323918 TestPlanetExplorer.java FAIL
+EditAction 1494616413118 PlanetExplorer.java 2816 3 14 0
+EditAction 1494616470768 TestPlanetExplorer.java 3334 11 47 11
+UnitTestCaseAction 1494616475613 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616475623 TestPlanetExplorer.java OK

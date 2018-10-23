@@ -1,0 +1,115 @@
+FileOpenedAction 1496943578657 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1496943926317 TestPlanetExplorer.java 174 1 1 0
+FileOpenedAction 1496943945969 PlanetExplorerException.java 61 0 0 0
+RefactoringAction 1496943965536 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+RefactoringAction 1496943971555 PlanetExplorerException.java RENAME PlanetExplorerException()=>PlanetExplorerException(String) METHOD
+EditAction 1496943981886 PlanetExplorerException.java 136 1 1 0
+RefactoringAction 1496944144094 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496944936048 TestPlanetExplorer.java RENAME test()=>void testDa() METHOD
+RefactoringAction 1496944941064 TestPlanetExplorer.java RENAME testDa()=>void testProveraDaL() METHOD
+RefactoringAction 1496944947078 TestPlanetExplorer.java RENAME testProveraDaL()=>void testProveraDaLiOde() METHOD
+RefactoringAction 1496944952093 TestPlanetExplorer.java RENAME testProveraDaLiOde()=>void testProveraDaLiOdeNapredJednom FIELD
+EditAction 1496945022389 PlanetExplorer.java 1305 2 0 0
+CompilationAction 1496945030339 PlanetExplorer.java
+CompilationAction 1496945030340 PlanetExplorer.java
+CompilationAction 1496945030342 PlanetExplorer.java
+CompilationAction 1496945128685 PlanetExplorer.java
+CompilationAction 1496945128688 PlanetExplorer.java
+CompilationAction 1496945128691 PlanetExplorer.java
+RefactoringAction 1496945151948 PlanetExplorer.java ADD void pozicijaNaMapi() METHOD
+RefactoringAction 1496945196084 PlanetExplorer.java REMOVE pozicijaNaMapi() METHOD
+RefactoringAction 1496945288260 PlanetExplorer.java ADD String pozicija FIELD
+RefactoringAction 1496945293280 PlanetExplorer.java RENAME pozicija=>String pozicijaNaMa FIELD
+RefactoringAction 1496945295295 PlanetExplorer.java RENAME pozicijaNaMa=>String pozicijaNaMapi() METHOD
+RefactoringAction 1496945306821 PlanetExplorer.java RENAME pozicijaNaMapi()=>String pozicijaNaMapi(int, int) METHOD
+EditAction 1496945374238 TestPlanetExplorer.java 577 2 5 1
+UnitTestCaseAction 1496945386652 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945386655 TestPlanetExplorer.testProveraDaLiOdeNapredJednom FAIL
+EditAction 1496945461792 PlanetExplorer.java 1563 3 7 0
+UnitTestCaseAction 1496945473318 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945473320 TestPlanetExplorer.testProveraDaLiOdeNapredJednom OK
+RefactoringAction 1496945519225 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496945522741 TestPlanetExplorer.java RENAME test=>void testProveraDa FIELD
+RefactoringAction 1496945523755 TestPlanetExplorer.java RENAME testProveraDa=>void testProveraDaLi FIELD
+RefactoringAction 1496945527275 TestPlanetExplorer.java RENAME testProveraDaLi=>void testProveraDaLiIdeNazad FIELD
+RefactoringAction 1496945528787 TestPlanetExplorer.java RENAME testProveraDaLiIdeNazad=>void testProveraDaLiIdeNazadZaJ FIELD
+RefactoringAction 1496945531800 TestPlanetExplorer.java RENAME testProveraDaLiIdeNazadZaJ=>void testProveraDaLiIdeNazadZaJedan() METHOD
+RefactoringAction 1496946398151 PlanetExplorer.java RENAME pozicijaNaMapi(int, int)=>String pozicijaNaMapi(int, int, String) METHOD
+EditAction 1496946471204 TestPlanetExplorer.java 808 3 9 2
+UnitTestCaseAction 1496946483068 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946483070 TestPlanetExplorer.java FAIL
+RefactoringAction 1496946586109 PlanetExplorer.java ADD int xKo FIELD
+RefactoringAction 1496946586111 PlanetExplorer.java ADD int yKo FIELD
+RefactoringAction 1496946599187 PlanetExplorer.java ADD int yKo/2 FIELD
+RefactoringAction 1496946604220 PlanetExplorer.java REMOVE yKo/2 FIELD
+RefactoringAction 1496946623247 PlanetExplorer.java ADD int getxKo() METHOD
+RefactoringAction 1496946623249 PlanetExplorer.java ADD void setxKo(int) METHOD
+RefactoringAction 1496946623250 PlanetExplorer.java ADD int getyKo() METHOD
+RefactoringAction 1496946623252 PlanetExplorer.java ADD void setyKo(int) METHOD
+EditAction 1496946693581 TestPlanetExplorer.java 850 3 11 2
+CompilationAction 1496946701813 TestPlanetExplorer.java
+CompilationAction 1496946701814 TestPlanetExplorer.java
+CompilationAction 1496946821206 TestPlanetExplorer.java
+CompilationAction 1496946821208 TestPlanetExplorer.java
+EditAction 1496946858805 TestPlanetExplorer.java 858 3 11 2
+UnitTestCaseAction 1496946962228 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946962230 TestPlanetExplorer.java FAIL
+RefactoringAction 1496946990115 TestPlanetExplorer.java ADD void testProvera FIELD
+RefactoringAction 1496946991623 TestPlanetExplorer.java RENAME testProvera=>void testProveraDa FIELD
+RefactoringAction 1496946993131 TestPlanetExplorer.java RENAME testProveraDa=>void testProveraDaLi FIELD
+RefactoringAction 1496946996145 TestPlanetExplorer.java RENAME testProveraDaLi=>void testProveraDaLiIdeDesno FIELD
+RefactoringAction 1496947000662 TestPlanetExplorer.java RENAME testProveraDaLiIdeDesno=>void testProveraDaLiIdeDesnoZaJedan() METHOD
+EditAction 1496947334062 TestPlanetExplorer.java 1145 4 17 3
+UnitTestCaseAction 1496947343425 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947343427 TestPlanetExplorer.java FAIL
+RefactoringAction 1496947347527 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1496947347530 TestPlanetExplorer.java REMOVE testProveraDaLiOdeNapredJednom() METHOD
+RefactoringAction 1496947347532 TestPlanetExplorer.java REMOVE testProveraDaLiIdeDesnoZaJedan() METHOD
+RefactoringAction 1496947347534 TestPlanetExplorer.java REMOVE testProveraDaLiIdeNazadZaJedan() METHOD
+RefactoringAction 1496947349545 TestPlanetExplorer.java ADD void testProveraDaLiOdeNapredJednom() METHOD
+RefactoringAction 1496947349546 TestPlanetExplorer.java ADD void testProveraDaLiIdeNazadZaJedan() METHOD
+RefactoringAction 1496947349548 TestPlanetExplorer.java ADD void testProveraDaLiIdeDesnoZaJedan() METHOD
+RefactoringAction 1496947375117 TestPlanetExplorer.java ADD void testPorveraDaLiIdeJedan FIELD
+RefactoringAction 1496947377128 TestPlanetExplorer.java RENAME testPorveraDaLiIdeJedan=>void testPorveraDaLiIdeJedanLevo() METHOD
+EditAction 1496947438359 TestPlanetExplorer.java 1433 4 22 4
+EditAction 1496947497411 PlanetExplorer.java 2095 7 10 0
+UnitTestCaseAction 1496947506124 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947506125 TestPlanetExplorer.java OK
+RefactoringAction 1496947526924 TestPlanetExplorer.java ADD void pro FIELD
+RefactoringAction 1496947532443 TestPlanetExplorer.java RENAME pro=>void testDaLiO FIELD
+RefactoringAction 1496947533457 TestPlanetExplorer.java RENAME testDaLiO=>void testDaLiOde FIELD
+RefactoringAction 1496947534472 TestPlanetExplorer.java RENAME testDaLiOde=>void testDaLiOdeU FIELD
+EditAction 1496947744844 TestPlanetExplorer.java 1849 5 26 4
+UnitTestCaseAction 1496947758229 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947758231 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947785300 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947785302 TestPlanetExplorer.java FAIL
+EditAction 1496947855231 TestPlanetExplorer.java 1878 5 27 4
+EditAction 1496947863784 PlanetExplorer.java 2249 7 10 0
+UnitTestCaseAction 1496947876320 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947876322 TestPlanetExplorer.java OK
+RefactoringAction 1496947898577 TestPlanetExplorer.java ADD void testDaLiUdara FIELD
+RefactoringAction 1496947900591 TestPlanetExplorer.java RENAME testDaLiUdara=>void testDaLiUdaraUP FIELD
+RefactoringAction 1496947902132 TestPlanetExplorer.java RENAME testDaLiUdaraUP=>void testDaLiUdaraUp FIELD
+RefactoringAction 1496947905645 TestPlanetExplorer.java RENAME testDaLiUdaraUp=>void testDaLiUdaraUprepreli() METHOD
+RefactoringAction 1496947930730 TestPlanetExplorer.java RENAME testDaLiUdaraUprepreli()=>void testDaLi() METHOD
+RefactoringAction 1496947933743 TestPlanetExplorer.java RENAME testDaLi()=>void testDaLiIdeVise() METHOD
+RefactoringAction 1496947934756 TestPlanetExplorer.java RENAME testDaLiIdeVise()=>void testDaLiIdeViseKo() METHOD
+RefactoringAction 1496947936269 TestPlanetExplorer.java RENAME testDaLiIdeViseKo()=>void testDaLiIdeViseKorakaN() METHOD
+RefactoringAction 1496947937788 TestPlanetExplorer.java RENAME testDaLiIdeViseKorakaN()=>void testDaLiIdeViseKorakaNapred() METHOD
+EditAction 1496947963071 TestPlanetExplorer.java 2191 6 33 5
+UnitTestCaseAction 1496947976344 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947976346 TestPlanetExplorer.java FAIL
+EditAction 1496948028385 TestPlanetExplorer.java 2192 6 33 5
+UnitTestCaseAction 1496948037084 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496948037086 TestPlanetExplorer.java FAIL
+EditAction 1496948108630 TestPlanetExplorer.java 2195 6 33 5
+EditAction 1496948116789 PlanetExplorer.java 2254 7 10 0
+UnitTestCaseAction 1496948129969 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496948129971 TestPlanetExplorer.java FAIL
+RefactoringAction 1496948248664 TestPlanetExplorer.java ADD void testDaLiOdeUNedozvoljenuPoziciju()/2 METHOD
+RefactoringAction 1496948257683 TestPlanetExplorer.java RENAME testDaLiOdeUNedozvoljenuPoziciju()/2=>void testDaLiOdeUNedozvoljenuPozicijuNaDruguStranu() METHOD
+EditAction 1496948273618 TestPlanetExplorer.java 2532 7 38 5
+EditAction 1496948305730 PlanetExplorer.java 2359 7 10 0
+UnitTestCaseAction 1496948320675 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496948320676 TestPlanetExplorer.java FAIL

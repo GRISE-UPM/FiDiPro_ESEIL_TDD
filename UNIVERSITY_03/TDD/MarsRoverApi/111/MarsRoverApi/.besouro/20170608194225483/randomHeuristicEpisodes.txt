@@ -1,0 +1,12 @@
+1496944918474 test-first 3 1172 true
+1496945114663 test-first 3 154 true
+1496945415834 test-first 3 287 true
+1496945995440 test-first 3 343 true
+1496947418368 refactoring 2A 1153 false
+1496947693662 test-first 3 259 true
+1496947728169 test-addition 1 27 false
+1496947770117 test-addition 2 34 true
+1496947865850 test-addition 1 85 false
+1496947895295 test-addition 1 23 false
+1496948210473 refactoring 3 209 false
+1496948235367 test-addition 1 14 false

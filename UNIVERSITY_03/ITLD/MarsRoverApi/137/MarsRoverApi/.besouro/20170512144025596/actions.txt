@@ -1,0 +1,7 @@
+FileOpenedAction 1494592826252 PlanetExplorer.java 1245 2 3 0
+FileOpenedAction 1494592946096 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494593002431 PlanetExplorer.java ADD string komanda FIELD
+RefactoringAction 1494593479689 PlanetExplorer.java ADD int i FIELD
+RefactoringAction 1494593479689 PlanetExplorer.java ADD int j FIELD
+EditAction 1494593965564 PlanetExplorer.java 1762 2 5 0
+CompilationAction 1494593968736 PlanetExplorer.java

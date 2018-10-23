@@ -1,0 +1,459 @@
+FileOpenedAction 1494591979782 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494592181263 TestPlanetExplorer.java 174 1 1 0
+FileOpenedAction 1494592184281 PlanetExplorerException.java 61 0 0 0
+RefactoringAction 1494592196338 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+RefactoringAction 1494592196339 PlanetExplorerException.java ADD PlanetExplorerException(String) METHOD
+EditAction 1494592202661 PlanetExplorerException.java 184 2 2 0
+RefactoringAction 1494592253210 PlanetExplorer.java ADD int gridX FIELD
+RefactoringAction 1494592255238 PlanetExplorer.java ADD int gridY FIELD
+EditAction 1494592256805 PlanetExplorer.java 1277 2 1 0
+RefactoringAction 1494592300093 PlanetExplorer.java ADD String FIELD
+EditAction 1494592302033 PlanetExplorer.java 1299 2 1 0
+RefactoringAction 1494592309689 PlanetExplorer.java REMOVE obstacleList FIELD
+RefactoringAction 1494592313731 PlanetExplorer.java ADD ArrayList<String> obstacleList FIELD
+EditAction 1494592314270 PlanetExplorer.java 1308 2 1 0
+CompilationAction 1494592314421 PlanetExplorer.java
+RefactoringAction 1494592317253 PlanetExplorer.java ADD import java.util.ArrayList IMPORT
+CompilationAction 1494592318680 PlanetExplorer.java
+EditAction 1494592385840 PlanetExplorer.java 1339 2 1 0
+RefactoringAction 1494592630812 Util.java ADD Util.java CLASS
+FileOpenedAction 1494592631183 Util.java 24 0 0 0
+RefactoringAction 1494592655392 Util.java RENAME Utils=>char FORWARD FIELD
+EditAction 1494592658969 Util.java 1665 7 16 0
+CompilationAction 1494592659167 Util.java
+CompilationAction 1494592671764 Util.java
+RefactoringAction 1494592712507 Position.java ADD Position.java CLASS
+FileOpenedAction 1494592713003 Position.java 28 0 0 0
+EditAction 1494592717146 Position.java 961 5 16 0
+CompilationAction 1494592717311 Position.java
+CompilationAction 1494592717311 Position.java
+EditAction 1494592721957 Position.java 963 5 16 0
+CompilationAction 1494592722112 Position.java
+EditAction 1494592724274 Position.java 967 5 16 0
+CompilationAction 1494592724434 Position.java
+RefactoringAction 1494592755087 Util.java REMOVE LEFT FIELD
+RefactoringAction 1494592755087 Util.java REMOVE RIGHT FIELD
+RefactoringAction 1494592755087 Util.java REMOVE formatPosition(int, int) METHOD
+RefactoringAction 1494592755087 Util.java REMOVE cycleDirectionLeft(String) METHOD
+RefactoringAction 1494592755087 Util.java REMOVE isInteger(String) METHOD
+RefactoringAction 1494592755087 Util.java REMOVE FORWARD FIELD
+RefactoringAction 1494592755087 Util.java REMOVE countOccurencesOf(String, String) METHOD
+RefactoringAction 1494592755087 Util.java REMOVE formatPosition(int, int, String) METHOD
+RefactoringAction 1494592755087 Util.java REMOVE cycleDirectionRight(String) METHOD
+RefactoringAction 1494592755087 Util.java REMOVE BACKWARD FIELD
+RefactoringAction 1494592755087 Util.java REMOVE isInteger(String, int) METHOD
+EditAction 1494592755203 Util.java 25 0 0 0
+RefactoringAction 1494592787246 Util.java ADD static String cycleDirectionLeft(String) METHOD
+EditAction 1494592787346 Util.java 318 1 3 0
+EditAction 1494592789323 Util.java 320 1 3 0
+EditAction 1494592798447 Util.java 25 0 0 0
+EditAction 1494592825678 Position.java 59 0 0 0
+RefactoringAction 1494592847084 Position.java ADD Position() METHOD
+EditAction 1494592850876 Position.java 114 1 2 0
+RefactoringAction 1494592855162 Position.java ADD Position()/2 METHOD
+RefactoringAction 1494592857173 Position.java RENAME Position()/2=>Position(int, int) METHOD
+EditAction 1494592864605 Position.java 176 2 4 0
+EditAction 1494592865841 Position.java 178 2 4 0
+EditAction 1494592899982 Position.java 423 3 9 0
+EditAction 1494592929292 Position.java 670 4 14 0
+CompilationAction 1494592929371 Position.java
+RefactoringAction 1494592933641 Position.java RENAME moveForward(String)/2=>void moveBackwards(String) METHOD
+CompilationAction 1494592934026 Position.java
+EditAction 1494592951106 Position.java 674 4 14 0
+EditAction 1494592952098 Position.java 673 4 14 0
+RefactoringAction 1494592993369 TestUtil.java ADD TestUtil.java CLASS
+FileOpenedAction 1494592993794 TestUtil.java 28 0 0 0
+RefactoringAction 1494592999319 TestUtil.java ADD import org.junit.Assert.* IMPORT
+EditAction 1494593005628 TestUtil.java 164 1 1 0
+RefactoringAction 1494593017948 TestUtil.java RENAME test_executeCommand()=>void test_moveForward() METHOD
+RefactoringAction 1494593022979 TestUtil.java ADD void test_moveForward()/2 METHOD
+RefactoringAction 1494593028518 TestUtil.java RENAME test_moveForward()/2=>void test_moveBackwards() METHOD
+EditAction 1494593028625 TestUtil.java 184 2 0 0
+RefactoringAction 1494593039594 TestUtil.java ADD Position pos FIELD
+EditAction 1494593056098 TestUtil.java 247 2 2 0
+EditAction 1494593059669 Position.java 677 4 14 0
+RefactoringAction 1494593100568 Position.java ADD int getX() METHOD
+RefactoringAction 1494593100568 Position.java ADD void setX(int) METHOD
+RefactoringAction 1494593100568 Position.java ADD int getY() METHOD
+RefactoringAction 1494593100568 Position.java ADD void setY(int) METHOD
+EditAction 1494593100813 Position.java 841 8 18 0
+EditAction 1494593101999 TestUtil.java 274 2 0 0
+CompilationAction 1494593102159 TestUtil.java
+CompilationAction 1494593102159 TestUtil.java
+EditAction 1494593106505 TestUtil.java 280 2 3 1
+UnitTestCaseAction 1494593111004 TestUtil.java FAIL
+UnitTestSessionAction 1494593111005 TestUtil.java FAIL
+EditAction 1494593122400 TestUtil.java 278 2 3 1
+UnitTestCaseAction 1494593127283 TestUtil.java OK
+UnitTestSessionAction 1494593127283 TestUtil.java OK
+EditAction 1494593140612 TestUtil.java 358 2 6 2
+UnitTestCaseAction 1494593144205 TestUtil.java FAIL
+UnitTestSessionAction 1494593144205 TestUtil.java FAIL
+EditAction 1494593160040 TestUtil.java 360 2 6 2
+UnitTestCaseAction 1494593163531 TestUtil.java OK
+UnitTestSessionAction 1494593163532 TestUtil.java OK
+RefactoringAction 1494593197117 Position.java ADD boolean equals(Object) METHOD
+EditAction 1494593209586 Position.java 936 9 19 0
+CompilationAction 1494593209747 Position.java
+EditAction 1494593275060 Position.java 1017 9 19 0
+CompilationAction 1494593275261 Position.java
+EditAction 1494593292642 Position.java 1045 9 19 0
+CompilationAction 1494593292811 Position.java
+EditAction 1494593329146 Position.java 1137 9 19 0
+RefactoringAction 1494593341571 TestUtil.java ADD void test_equal_positions() METHOD
+EditAction 1494593355659 TestUtil.java 472 3 8 2
+EditAction 1494593363227 TestUtil.java 502 3 6 2
+CompilationAction 1494593363380 TestUtil.java
+EditAction 1494593366542 TestUtil.java 503 3 9 3
+UnitTestCaseAction 1494593369864 TestUtil.java OK
+UnitTestSessionAction 1494593369864 TestUtil.java OK
+EditAction 1494593374024 TestUtil.java 503 3 9 3
+EditAction 1494593375057 TestUtil.java 503 3 9 3
+UnitTestCaseAction 1494593378045 TestUtil.java FAIL
+UnitTestSessionAction 1494593378045 TestUtil.java FAIL
+EditAction 1494593380625 TestUtil.java 503 3 9 3
+UnitTestCaseAction 1494593383979 TestUtil.java OK
+UnitTestSessionAction 1494593383979 TestUtil.java OK
+RefactoringAction 1494593412795 TestUtil.java REMOVE TestUtil.java CLASS
+UnitTestCaseAction 1494593418576 TestPosition.java OK
+UnitTestSessionAction 1494593418576 TestPosition.java OK
+RefactoringAction 1494593528907 Util.java ADD char FORWARD FIELD
+EditAction 1494593545701 Util.java 96 0 0 0
+RefactoringAction 1494593551568 Util.java ADD char LEFT FIELD
+EditAction 1494593553330 Util.java 126 0 0 0
+RefactoringAction 1494593558620 Util.java ADD char RIGHT FIELD
+EditAction 1494593560036 Util.java 159 0 0 0
+RefactoringAction 1494593565664 Util.java RENAME FORWARD=>char MOVEFORWARD FIELD
+RefactoringAction 1494593567173 Util.java RENAME BACKWARD=>char MOVEBACKWARD FIELD
+RefactoringAction 1494593568685 Util.java RENAME LEFT=>char MOVELEFT FIELD
+EditAction 1494593570142 Util.java 175 0 0 0
+RefactoringAction 1494593581748 Util.java ADD static String cycleDirectionLeft() METHOD
+RefactoringAction 1494593607460 Util.java RENAME cycleDirectionLeft()=>static String cycleDirectionLeft(String) METHOD
+EditAction 1494593619644 Util.java 265 1 1 0
+CompilationAction 1494593619800 Util.java
+EditAction 1494593683946 Util.java 290 1 2 0
+CompilationAction 1494593684093 Util.java
+EditAction 1494593756669 Util.java 431 1 2 0
+CompilationAction 1494593756820 Util.java
+EditAction 1494593768736 Util.java 451 1 3 0
+RefactoringAction 1494593786767 TestUtil.java ADD TestUtil.java CLASS
+FileOpenedAction 1494593787137 TestUtil.java 28 0 0 0
+RefactoringAction 1494593794181 TestUtil.java ADD void test FIELD
+RefactoringAction 1494593795693 TestUtil.java RENAME test=>void test_cyce FIELD
+RefactoringAction 1494593808777 TestUtil.java RENAME test_cyce=>void test_cycleDirectionToLeft() METHOD
+EditAction 1494593835445 TestUtil.java 124 1 0 0
+CompilationAction 1494593835614 TestUtil.java
+CompilationAction 1494593835614 TestUtil.java
+CompilationAction 1494593835614 TestUtil.java
+CompilationAction 1494593835614 TestUtil.java
+CompilationAction 1494593858257 TestUtil.java
+CompilationAction 1494593858257 TestUtil.java
+CompilationAction 1494593858257 TestUtil.java
+CompilationAction 1494593858425 TestUtil.java
+RefactoringAction 1494593869004 TestUtil.java ADD import org.junit.Test IMPORT
+CompilationAction 1494593869714 TestUtil.java
+UnitTestCaseAction 1494593875296 TestUtil.java OK
+UnitTestSessionAction 1494593875296 TestUtil.java OK
+RefactoringAction 1494593887978 Util.java ADD static String cycleDirectionLeft(String)/2 METHOD
+RefactoringAction 1494593891008 Util.java RENAME cycleDirectionLeft(String)/2=>static String cycleDirectionRi(String) METHOD
+EditAction 1494593891222 Util.java 726 2 6 0
+EditAction 1494593928193 Util.java 726 2 6 0
+CompilationAction 1494593928368 Util.java
+EditAction 1494593938011 Util.java 726 2 6 0
+RefactoringAction 1494593961856 TestUtil.java ADD void test_cycleDirectionToLeft()/2 METHOD
+EditAction 1494593965445 TestUtil.java 295 2 2 2
+EditAction 1494593971851 TestUtil.java 295 2 2 2
+UnitTestCaseAction 1494593975896 TestUtil.java FAIL
+UnitTestSessionAction 1494593975896 TestUtil.java FAIL
+RefactoringAction 1494593992042 TestUtil.java RENAME test_cycleDirectionToRight()=>void test_cycleDirectionToR() METHOD
+RefactoringAction 1494593996572 TestUtil.java RENAME test_cycleDirectionToR()=>void test_cycleDirectionToRight() METHOD
+EditAction 1494593999258 TestUtil.java 296 2 2 2
+EditAction 1494594007055 TestUtil.java 296 2 2 2
+UnitTestCaseAction 1494594010925 TestUtil.java OK
+UnitTestSessionAction 1494594010925 TestUtil.java OK
+RefactoringAction 1494594048516 Util.java ADD int countNum FIELD
+RefactoringAction 1494594057568 Util.java RENAME countNum=>static int countNumOfMovement(String) METHOD
+RefactoringAction 1494594061089 Util.java RENAME countNumOfMovement(String)=>static int countNumOfMovement(String, String) METHOD
+EditAction 1494594095241 Util.java 853 3 7 0
+EditAction 1494594107999 Util.java 857 3 7 0
+EditAction 1494594130595 TestUtil.java 350 3 2 2
+EditAction 1494594153730 TestUtil.java 408 3 2 2
+CompilationAction 1494594153888 TestUtil.java
+CompilationAction 1494594153888 TestUtil.java
+CompilationAction 1494594167458 TestUtil.java
+CompilationAction 1494594167631 TestUtil.java
+EditAction 1494594177916 TestUtil.java 408 3 2 2
+CompilationAction 1494594178074 TestUtil.java
+EditAction 1494594182592 TestUtil.java 409 3 3 3
+UnitTestCaseAction 1494594186885 TestUtil.java FAIL
+UnitTestSessionAction 1494594186885 TestUtil.java FAIL
+EditAction 1494594193632 TestUtil.java 409 3 3 3
+UnitTestCaseAction 1494594197871 TestUtil.java FAIL
+UnitTestSessionAction 1494594197871 TestUtil.java FAIL
+EditAction 1494594202409 TestUtil.java 407 3 3 3
+UnitTestCaseAction 1494594205903 TestUtil.java OK
+UnitTestSessionAction 1494594205903 TestUtil.java OK
+EditAction 1494594215181 TestUtil.java 405 3 3 3
+RefactoringAction 1494594232593 Util.java ADD static String formatPosition() METHOD
+RefactoringAction 1494594236615 Util.java RENAME formatPosition()=>static String formatPosition(int, int) METHOD
+EditAction 1494594237366 Util.java 915 4 7 0
+CompilationAction 1494594237531 Util.java
+EditAction 1494594241879 Util.java 925 4 8 0
+EditAction 1494594267411 Util.java 949 4 8 0
+RefactoringAction 1494594278748 TestUtil.java ADD void test_ FIELD
+RefactoringAction 1494594283778 TestUtil.java RENAME test_=>void test_positionOutput() METHOD
+EditAction 1494594302002 TestUtil.java 505 4 4 4
+UnitTestCaseAction 1494594305888 TestUtil.java OK
+UnitTestSessionAction 1494594305888 TestUtil.java OK
+RefactoringAction 1494594316624 Util.java ADD static String formatPosition(int, int)/2 METHOD
+RefactoringAction 1494594320650 Util.java RENAME formatPosition(int, int)/2=>static String formatPositionWithDir(int, int) METHOD
+RefactoringAction 1494594329238 Util.java RENAME formatPositionWithDir(int, int)=>static String formatPositionWithDir(int, int, String) METHOD
+EditAction 1494594340309 Util.java 1069 5 9 0
+CompilationAction 1494594340477 Util.java
+CompilationAction 1494594345827 Util.java
+RefactoringAction 1494594356292 TestUtil.java ADD void test_positionOutput()/2 METHOD
+RefactoringAction 1494594359817 TestUtil.java RENAME test_positionOutput()/2=>void test_positionOutputWithDir() METHOD
+EditAction 1494594359866 TestUtil.java 612 5 5 5
+EditAction 1494594365174 TestUtil.java 618 5 5 5
+CompilationAction 1494594365328 TestUtil.java
+EditAction 1494594371235 TestUtil.java 625 5 5 5
+UnitTestCaseAction 1494594374977 TestUtil.java OK
+UnitTestSessionAction 1494594374978 TestUtil.java OK
+RefactoringAction 1494594429399 Util.java ADD static boolean isInteger() METHOD
+RefactoringAction 1494594433922 Util.java RENAME isInteger()=>static boolean isInteger(String) METHOD
+EditAction 1494594436223 Util.java 1124 6 9 0
+CompilationAction 1494594436384 Util.java
+RefactoringAction 1494594473191 Util.java ADD static boolean isInteger(String, int) METHOD
+EditAction 1494594474067 Util.java 1484 7 12 0
+CompilationAction 1494594474265 Util.java
+EditAction 1494594489191 Util.java 1511 7 13 0
+RefactoringAction 1494594497090 TestUtil.java ADD void test_i FIELD
+RefactoringAction 1494594500113 TestUtil.java RENAME test_i=>void test_isInteger() METHOD
+EditAction 1494594514052 TestUtil.java 685 6 6 6
+CompilationAction 1494594514218 TestUtil.java
+EditAction 1494594522461 TestUtil.java 704 6 6 6
+UnitTestCaseAction 1494594526192 TestUtil.java OK
+UnitTestSessionAction 1494594526192 TestUtil.java OK
+RefactoringAction 1494594567963 PlanetExplorer.java REMOVE gridX FIELD
+RefactoringAction 1494594567963 PlanetExplorer.java REMOVE obstacleList FIELD
+RefactoringAction 1494594567963 PlanetExplorer.java REMOVE gridY FIELD
+RefactoringAction 1494594580521 PlanetExplorer.java ADD Position expPosition FIELD
+RefactoringAction 1494594581532 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>int x FIELD
+RefactoringAction 1494594596136 PlanetExplorer.java ADD Position grid FIELD
+RefactoringAction 1494594597660 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>int x FIELD
+EditAction 1494594600893 PlanetExplorer.java 1377 2 1 0
+RefactoringAction 1494594615286 PlanetExplorer.java ADD String explorer FIELD
+RefactoringAction 1494594617811 PlanetExplorer.java RENAME expPosition=>Position explorerPosition FIELD
+RefactoringAction 1494594621834 PlanetExplorer.java RENAME explorer=>String explorerDirection FIELD
+RefactoringAction 1494594649038 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>ArrayList<Position> obstacleList FIELD
+EditAction 1494594658162 PlanetExplorer.java 1494 2 1 0
+RefactoringAction 1494594664215 PlanetExplorer.java ADD ArrayList<Position> obstacleList/2 FIELD
+RefactoringAction 1494594669746 PlanetExplorer.java RENAME obstacleList/2=>ArrayList<Position> obstaclesFound FIELD
+EditAction 1494594670257 PlanetExplorer.java 1567 2 1 0
+EditAction 1494594746444 PlanetExplorer.java 1633 2 1 0
+CompilationAction 1494594746606 PlanetExplorer.java
+CompilationAction 1494594746607 PlanetExplorer.java
+EditAction 1494594772995 PlanetExplorer.java 1687 2 2 0
+EditAction 1494594799843 PlanetExplorer.java 1714 2 4 0
+CompilationAction 1494594800078 PlanetExplorer.java
+CompilationAction 1494594800078 PlanetExplorer.java
+CompilationAction 1494594807305 PlanetExplorer.java
+CompilationAction 1494594807470 PlanetExplorer.java
+CompilationAction 1494594807470 PlanetExplorer.java
+EditAction 1494594827617 PlanetExplorer.java 1712 2 4 0
+CompilationAction 1494594827776 PlanetExplorer.java
+CompilationAction 1494594827776 PlanetExplorer.java
+CompilationAction 1494594836506 PlanetExplorer.java
+CompilationAction 1494594836506 PlanetExplorer.java
+CompilationAction 1494594836632 PlanetExplorer.java
+CompilationAction 1494594844248 PlanetExplorer.java
+CompilationAction 1494594844366 PlanetExplorer.java
+CompilationAction 1494594851012 PlanetExplorer.java
+EditAction 1494594890247 TestPlanetExplorer.java 152 1 0 0
+EditAction 1494594915621 PlanetExplorer.java 1719 2 4 0
+EditAction 1494594943115 PlanetExplorer.java 1776 2 5 0
+EditAction 1494595042963 PlanetExplorer.java 2009 2 5 0
+CompilationAction 1494595043119 PlanetExplorer.java
+CompilationAction 1494595043120 PlanetExplorer.java
+CompilationAction 1494595059026 PlanetExplorer.java
+CompilationAction 1494595059192 PlanetExplorer.java
+CompilationAction 1494595061373 PlanetExplorer.java
+CompilationAction 1494595061529 PlanetExplorer.java
+CompilationAction 1494595061529 PlanetExplorer.java
+CompilationAction 1494595063754 PlanetExplorer.java
+CompilationAction 1494595063875 PlanetExplorer.java
+CompilationAction 1494595063875 PlanetExplorer.java
+CompilationAction 1494595065213 PlanetExplorer.java
+CompilationAction 1494595065213 PlanetExplorer.java
+CompilationAction 1494595065414 PlanetExplorer.java
+CompilationAction 1494595065415 PlanetExplorer.java
+CompilationAction 1494595091947 PlanetExplorer.java
+CompilationAction 1494595092113 PlanetExplorer.java
+CompilationAction 1494595096851 PlanetExplorer.java
+EditAction 1494595108607 PlanetExplorer.java 2021 2 5 0
+EditAction 1494595112926 PlanetExplorer.java 2025 2 5 0
+EditAction 1494595123398 PlanetExplorer.java 2078 2 5 0
+EditAction 1494595135442 PlanetExplorer.java 2118 2 5 0
+EditAction 1494595146053 PlanetExplorer.java 2167 2 5 0
+EditAction 1494595150665 PlanetExplorer.java 2170 2 5 0
+EditAction 1494595183841 PlanetExplorer.java 2223 2 5 0
+EditAction 1494595213570 PlanetExplorer.java 2281 2 5 0
+EditAction 1494595249030 PlanetExplorer.java 2388 2 5 0
+EditAction 1494595289365 PlanetExplorer.java 2407 2 1 0
+CompilationAction 1494595289518 PlanetExplorer.java
+EditAction 1494595299935 PlanetExplorer.java 2430 2 5 0
+EditAction 1494595310646 PlanetExplorer.java 2477 2 5 0
+EditAction 1494595373453 PlanetExplorer.java 2620 2 5 0
+EditAction 1494595424946 PlanetExplorer.java 2727 2 5 0
+EditAction 1494595442158 PlanetExplorer.java 2761 2 5 0
+EditAction 1494595449840 PlanetExplorer.java 2811 2 5 0
+EditAction 1494595460088 PlanetExplorer.java 2856 2 5 0
+RefactoringAction 1494595483831 TestPlanetExplorer.java ADD PlanetExplorer plntexp FIELD
+RefactoringAction 1494595492891 TestPlanetExplorer.java RENAME test_executeCommand()=>void test_spawn() METHOD
+CompilationAction 1494595499196 TestPlanetExplorer.java
+CompilationAction 1494595499196 TestPlanetExplorer.java
+CompilationAction 1494595499196 TestPlanetExplorer.java
+CompilationAction 1494595524102 TestPlanetExplorer.java
+CompilationAction 1494595524102 TestPlanetExplorer.java
+CompilationAction 1494595524102 TestPlanetExplorer.java
+CompilationAction 1494595524282 TestPlanetExplorer.java
+CompilationAction 1494595537092 TestPlanetExplorer.java
+RefactoringAction 1494595603647 PlanetExplorer.java ADD Position getGrid() METHOD
+RefactoringAction 1494595603647 PlanetExplorer.java ADD void setGrid(Position) METHOD
+RefactoringAction 1494595603647 PlanetExplorer.java ADD ArrayList<Position> getObstacleList() METHOD
+RefactoringAction 1494595603647 PlanetExplorer.java ADD void setObstacleList(ArrayList<Position>) METHOD
+EditAction 1494595606649 TestPlanetExplorer.java 329 1 2 0
+CompilationAction 1494595606810 TestPlanetExplorer.java
+CompilationAction 1494595643351 TestPlanetExplorer.java
+CompilationAction 1494595643470 TestPlanetExplorer.java
+CompilationAction 1494595643470 TestPlanetExplorer.java
+CompilationAction 1494595643470 TestPlanetExplorer.java
+CompilationAction 1494595649389 TestPlanetExplorer.java
+CompilationAction 1494595649509 TestPlanetExplorer.java
+CompilationAction 1494595649509 TestPlanetExplorer.java
+UnitTestCaseAction 1494595671749 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494595671749 TestPlanetExplorer.java OK
+EditAction 1494595723485 TestPlanetExplorer.java 693 1 0 0
+CompilationAction 1494595723703 TestPlanetExplorer.java
+EditAction 1494595726427 TestPlanetExplorer.java 694 1 3 1
+UnitTestCaseAction 1494595729552 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494595729552 TestPlanetExplorer.java OK
+EditAction 1494595740581 PlanetExplorer.java 3152 6 9 0
+EditAction 1494595760966 PlanetExplorer.java 3192 6 10 0
+RefactoringAction 1494595807315 PlanetExplorer.java ADD Position move(char) METHOD
+EditAction 1494595813720 PlanetExplorer.java 3980 7 17 0
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+CompilationAction 1494595813917 PlanetExplorer.java
+RefactoringAction 1494595847539 PlanetExplorer.java RENAME explorerDirection=>String exploreexplorerDirectionection FIELD
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848376 PlanetExplorer.java
+CompilationAction 1494595848793 PlanetExplorer.java
+CompilationAction 1494595848793 PlanetExplorer.java
+CompilationAction 1494595848793 PlanetExplorer.java
+CompilationAction 1494595848793 PlanetExplorer.java
+CompilationAction 1494595848793 PlanetExplorer.java
+CompilationAction 1494595848794 PlanetExplorer.java
+CompilationAction 1494595848794 PlanetExplorer.java
+CompilationAction 1494595848794 PlanetExplorer.java
+RefactoringAction 1494595864653 PlanetExplorer.java RENAME exploreexplorerDirectionection=>String explorerDirection FIELD
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865070 PlanetExplorer.java
+CompilationAction 1494595865216 PlanetExplorer.java
+CompilationAction 1494595865217 PlanetExplorer.java
+CompilationAction 1494595865217 PlanetExplorer.java
+CompilationAction 1494595865217 PlanetExplorer.java
+CompilationAction 1494595865217 PlanetExplorer.java
+CompilationAction 1494595865217 PlanetExplorer.java
+CompilationAction 1494595865217 PlanetExplorer.java
+CompilationAction 1494595872377 PlanetExplorer.java
+CompilationAction 1494595872377 PlanetExplorer.java
+CompilationAction 1494595872377 PlanetExplorer.java
+CompilationAction 1494595872377 PlanetExplorer.java
+CompilationAction 1494595872377 PlanetExplorer.java
+CompilationAction 1494595872498 PlanetExplorer.java
+CompilationAction 1494595872498 PlanetExplorer.java
+CompilationAction 1494595872498 PlanetExplorer.java
+CompilationAction 1494595872498 PlanetExplorer.java
+CompilationAction 1494595872498 PlanetExplorer.java
+CompilationAction 1494595872498 PlanetExplorer.java
+CompilationAction 1494595877174 PlanetExplorer.java
+CompilationAction 1494595877174 PlanetExplorer.java
+CompilationAction 1494595877174 PlanetExplorer.java
+CompilationAction 1494595877174 PlanetExplorer.java
+CompilationAction 1494595877174 PlanetExplorer.java
+CompilationAction 1494595877174 PlanetExplorer.java
+CompilationAction 1494595877321 PlanetExplorer.java
+CompilationAction 1494595877321 PlanetExplorer.java
+CompilationAction 1494595877321 PlanetExplorer.java
+CompilationAction 1494595877321 PlanetExplorer.java
+CompilationAction 1494595877321 PlanetExplorer.java
+CompilationAction 1494595889041 PlanetExplorer.java
+CompilationAction 1494595889041 PlanetExplorer.java
+CompilationAction 1494595889041 PlanetExplorer.java
+CompilationAction 1494595889041 PlanetExplorer.java
+CompilationAction 1494595889159 PlanetExplorer.java
+CompilationAction 1494595889159 PlanetExplorer.java
+CompilationAction 1494595889160 PlanetExplorer.java
+CompilationAction 1494595889160 PlanetExplorer.java
+CompilationAction 1494595889160 PlanetExplorer.java
+CompilationAction 1494595910522 PlanetExplorer.java
+CompilationAction 1494595910522 PlanetExplorer.java
+CompilationAction 1494595922172 PlanetExplorer.java
+CompilationAction 1494595922321 PlanetExplorer.java
+CompilationAction 1494595922321 PlanetExplorer.java
+CompilationAction 1494595955246 PlanetExplorer.java
+CompilationAction 1494595955246 PlanetExplorer.java
+CompilationAction 1494595955396 PlanetExplorer.java
+CompilationAction 1494595964585 PlanetExplorer.java
+CompilationAction 1494595964752 PlanetExplorer.java
+RefactoringAction 1494595977460 Util.java RENAME countNumOfMovement(String, String)=>String in FIELD
+EditAction 1494595989047 Util.java 1518 6 12 0
+CompilationAction 1494595989249 PlanetExplorer.java
+CompilationAction 1494595989250 PlanetExplorer.java
+CompilationAction 1494595989250 Util.java
+CompilationAction 1494595989250 Util.java
+CompilationAction 1494595989250 Util.java
+CompilationAction 1494595989250 Util.java
+CompilationAction 1494595989250 TestUtil.java
+CompilationAction 1494596013617 Util.java
+CompilationAction 1494596013758 PlanetExplorer.java
+CompilationAction 1494596013758 Util.java
+CompilationAction 1494596013758 Util.java
+CompilationAction 1494596013758 Util.java
+CompilationAction 1494596013758 TestUtil.java
+CompilationAction 1494596052405 Util.java
+CompilationAction 1494596052405 Util.java
+CompilationAction 1494596082503 PlanetExplorer.java
+CompilationAction 1494596082503 PlanetExplorer.java
+EditAction 1494596091278 PlanetExplorer.java 3926 7 15 0
+CompilationAction 1494596091451 PlanetExplorer.java
+CompilationAction 1494596091451 PlanetExplorer.java
+CompilationAction 1494596096878 PlanetExplorer.java
+CompilationAction 1494596097040 PlanetExplorer.java
+CompilationAction 1494596109461 PlanetExplorer.java
+CompilationAction 1494596109612 PlanetExplorer.java
+CompilationAction 1494596117305 PlanetExplorer.java
+EditAction 1494596135839 TestPlanetExplorer.java 698 1 3 1
+CompilationAction 1494596184525 PlanetExplorer.java
+CompilationAction 1494596199425 PlanetExplorer.java
+EditAction 1494596250855 PlanetExplorer.java 4066 7 12 0
+CompilationAction 1494596251045 PlanetExplorer.java
+EditAction 1494596256407 PlanetExplorer.java 4077 7 15 0

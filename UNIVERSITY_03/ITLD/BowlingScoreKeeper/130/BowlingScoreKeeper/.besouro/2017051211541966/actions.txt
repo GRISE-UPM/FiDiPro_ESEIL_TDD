@@ -1,0 +1,55 @@
+FileOpenedAction 1494582859997 BowlingGame.java 708 4 1 0
+FileOpenedAction 1494582902328 Frame.java 671 6 7 0
+FileOpenedAction 1494582903957 BowlingException.java 58 0 0 0
+FileOpenedAction 1494583288511 TestBowling.java 165 1 1 0
+EditAction 1494583737704 Frame.java 753 6 9 0
+EditAction 1494583743317 BowlingGame.java 738 4 2 0
+EditAction 1494583836990 Frame.java 782 6 9 0
+RefactoringAction 1494584111245 BowlingGame.java ADD Frame pomocni FIELD
+EditAction 1494584579647 BowlingGame.java 834 4 4 0
+FileOpenedAction 1494584843135 TestBowling.java 165 1 1 0
+RefactoringAction 1494584855655 TestBowling.java ADD void test()/2 METHOD
+RefactoringAction 1494584861671 TestBowling.java RENAME test()/2=>void testAddFrame() METHOD
+FileOpenedAction 1494584868655 BowlingException.java 58 0 0 0
+EditAction 1494584999392 BowlingGame.java 933 4 6 0
+EditAction 1494585002924 TestBowling.java 272 2 3 0
+CompilationAction 1494585006165 TestBowling.java
+RefactoringAction 1494585306635 BowlingGame.java ADD int size FIELD
+RefactoringAction 1494585307720 BowlingGame.java RENAME size=>int size() METHOD
+EditAction 1494585362625 BowlingGame.java 986 5 7 0
+CompilationAction 1494585368341 TestBowling.java
+EditAction 1494585369627 TestBowling.java 385 2 5 1
+UnitTestCaseAction 1494585375067 TestBowling.java OK
+UnitTestSessionAction 1494585375070 TestBowling.testAddFrame OK
+RefactoringAction 1494585384903 TestBowling.java ADD void testAddFrame()/2 METHOD
+RefactoringAction 1494585393909 TestBowling.java RENAME testAddFrame()/2=>void testGameScore() METHOD
+RefactoringAction 1494585394947 TestBowling.java RENAME testGameScore()=>void testGameScoreIf() METHOD
+RefactoringAction 1494585397979 TestBowling.java RENAME testGameScoreIf()=>void testGameScoreIfAll() METHOD
+RefactoringAction 1494585402014 TestBowling.java RENAME testGameScoreIfAll()=>void testGameScoreIfAllFrames() METHOD
+RefactoringAction 1494585403542 TestBowling.java RENAME testGameScoreIfAllFrames()=>void testGameScoreIfAllFramesAre() METHOD
+RefactoringAction 1494585404578 TestBowling.java RENAME testGameScoreIfAllFramesAre()=>void testGameScoreIfAllFramesAre5() METHOD
+EditAction 1494585439855 TestBowling.java 624 3 9 2
+UnitTestCaseAction 1494585443854 TestBowling.java OK
+UnitTestSessionAction 1494585443856 TestBowling.testGameScoreIfAllFramesAre5 OK
+EditAction 1494585573322 BowlingGame.java 1010 5 7 0
+CompilationAction 1494585576746 TestBowling.java
+CompilationAction 1494585598346 TestBowling.java
+RefactoringAction 1494586324173 Frame.java ADD int third FIELD
+RefactoringAction 1494586327199 Frame.java RENAME third=>int thirdT FIELD
+RefactoringAction 1494586328722 Frame.java RENAME thirdT=>int thirdThrow FIELD
+RefactoringAction 1494586350839 Frame.java ADD void set FIELD
+RefactoringAction 1494586357379 Frame.java RENAME set=>void setThirdThrow() METHOD
+RefactoringAction 1494586397587 Frame.java RENAME setThirdThrow()=>void setThirdThrow(int) METHOD
+RefactoringAction 1494586422189 Frame.java ADD boolean chec FIELD
+RefactoringAction 1494586424721 Frame.java RENAME chec=>boolean checkThird FIELD
+RefactoringAction 1494586425744 Frame.java RENAME checkThird=>boolean checkThird() METHOD
+RefactoringAction 1494586452880 Frame.java RENAME checkThird()=>boolean setThird() METHOD
+RefactoringAction 1494586459947 Frame.java RENAME setThird()=>boolean setThird(boolean) METHOD
+RefactoringAction 1494586460973 Frame.java RENAME setThird(boolean)=>boolean setThird() METHOD
+RefactoringAction 1494586462505 Frame.java RENAME setThird()=>boolean setThird(boolean) METHOD
+RefactoringAction 1494586489126 Frame.java ADD boolean proveraTreceg FIELD
+EditAction 1494586565284 Frame.java 1093 8 12 0
+EditAction 1494586570099 BowlingGame.java 1324 5 9 0
+EditAction 1494586902344 BowlingGame.java 1334 5 8 0
+RefactoringAction 1494586973472 BowlingGame.java REMOVE bonus FIELD
+EditAction 1494587189092 BowlingGame.java 1328 5 8 0

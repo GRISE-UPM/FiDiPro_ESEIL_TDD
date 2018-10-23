@@ -1,0 +1,143 @@
+FileOpenedAction 1497002153553 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1497002563841 TestPlanetExplorer.java RENAME test_executeCommand()=>void test_start() METHOD
+RefactoringAction 1497002567355 TestPlanetExplorer.java RENAME test_start()=>void test_startna() METHOD
+RefactoringAction 1497002570873 TestPlanetExplorer.java RENAME test_startna()=>void test_startnaPozicija() METHOD
+EditAction 1497002797401 TestPlanetExplorer.java 262 1 0 0
+CompilationAction 1497002805093 TestPlanetExplorer.java
+CompilationAction 1497002924955 TestPlanetExplorer.java
+CompilationAction 1497002925279 TestPlanetExplorer.java
+EditAction 1497002925464 PlanetExplorer.java 1255 2 1 0
+UnitTestCaseAction 1497002937838 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497002937841 TestPlanetExplorer.java FAIL
+RefactoringAction 1497002980256 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1497002990789 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1497002994805 PlanetExplorer.java ADD String strana FIELD
+EditAction 1497002999602 PlanetExplorer.java 1325 2 1 0
+CompilationAction 1497003007393 TestPlanetExplorer.java
+RefactoringAction 1497003030956 PlanetExplorer.java ADD int getX() METHOD
+RefactoringAction 1497003030958 PlanetExplorer.java ADD void setX(int) METHOD
+RefactoringAction 1497003030961 PlanetExplorer.java ADD int getY() METHOD
+RefactoringAction 1497003030962 PlanetExplorer.java ADD void setY(int) METHOD
+RefactoringAction 1497003030964 PlanetExplorer.java ADD String getStrana() METHOD
+RefactoringAction 1497003030968 PlanetExplorer.java ADD void setStrana(String) METHOD
+RefactoringAction 1497003049019 PlanetExplorer.java ADD PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1497003065542 PlanetExplorer.java REMOVE PlanetExplorer(int, int, String)/2 METHOD
+EditAction 1497003101024 PlanetExplorer.java 1668 8 10 0
+CompilationAction 1497003108658 TestPlanetExplorer.java
+RefactoringAction 1497003129349 PlanetExplorer.java ADD void napred FIELD
+RefactoringAction 1497003130361 PlanetExplorer.java RENAME napred=>void napred() METHOD
+RefactoringAction 1497003416465 PlanetExplorer.java ADD String pozicija FIELD
+RefactoringAction 1497003417476 PlanetExplorer.java RENAME pozicija=>String pozicija() METHOD
+EditAction 1497003455928 PlanetExplorer.java 1893 10 12 0
+CompilationAction 1497003465932 TestPlanetExplorer.java
+RefactoringAction 1497003684872 PlanetExplorer.java REMOVE getX() METHOD
+RefactoringAction 1497003684874 PlanetExplorer.java REMOVE napred() METHOD
+RefactoringAction 1497003684876 PlanetExplorer.java REMOVE setX(int) METHOD
+RefactoringAction 1497003684877 PlanetExplorer.java REMOVE setY(int) METHOD
+RefactoringAction 1497003684879 PlanetExplorer.java REMOVE pozicija() METHOD
+RefactoringAction 1497003684880 PlanetExplorer.java REMOVE getStrana() METHOD
+RefactoringAction 1497003684882 PlanetExplorer.java REMOVE getY() METHOD
+RefactoringAction 1497003684884 PlanetExplorer.java REMOVE setStrana(String) METHOD
+RefactoringAction 1497003687397 PlanetExplorer.java ADD String pozicija() METHOD
+RefactoringAction 1497003687400 PlanetExplorer.java ADD int getX() METHOD
+RefactoringAction 1497003687402 PlanetExplorer.java ADD void setX(int) METHOD
+RefactoringAction 1497003687403 PlanetExplorer.java ADD int getY() METHOD
+RefactoringAction 1497003687404 PlanetExplorer.java ADD void setY(int) METHOD
+RefactoringAction 1497003687405 PlanetExplorer.java ADD String getStrana() METHOD
+RefactoringAction 1497003687407 PlanetExplorer.java ADD void setStrana(String) METHOD
+EditAction 1497003688497 PlanetExplorer.java 1899 9 11 0
+CompilationAction 1497003699346 TestPlanetExplorer.java
+RefactoringAction 1497003759448 TestPlanetExplorer.java ADD void assertNotTrue(PlanetExplorer) METHOD
+RefactoringAction 1497003763864 TestPlanetExplorer.java REMOVE assertNotTrue(PlanetExplorer) METHOD
+EditAction 1497003798755 TestPlanetExplorer.java 230 1 2 1
+UnitTestCaseAction 1497003806901 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003806903 TestPlanetExplorer.java OK
+EditAction 1497003973025 TestPlanetExplorer.java 266 1 3 1
+UnitTestCaseAction 1497003985174 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003985176 TestPlanetExplorer.java FAIL
+CompilationAction 1497004112719 TestPlanetExplorer.java
+CompilationAction 1497004112721 TestPlanetExplorer.java
+RefactoringAction 1497004158349 PlanetExplorer.java REMOVE getX() METHOD
+RefactoringAction 1497004158350 PlanetExplorer.java REMOVE setX(int) METHOD
+RefactoringAction 1497004158351 PlanetExplorer.java REMOVE setY(int) METHOD
+RefactoringAction 1497004158353 PlanetExplorer.java REMOVE pozicija() METHOD
+RefactoringAction 1497004158355 PlanetExplorer.java REMOVE getStrana() METHOD
+RefactoringAction 1497004158356 PlanetExplorer.java REMOVE getY() METHOD
+RefactoringAction 1497004158358 PlanetExplorer.java REMOVE setStrana(String) METHOD
+RefactoringAction 1497004159873 PlanetExplorer.java ADD void napred() METHOD
+RefactoringAction 1497004159875 PlanetExplorer.java ADD String pozicija() METHOD
+RefactoringAction 1497004159876 PlanetExplorer.java ADD int getX() METHOD
+RefactoringAction 1497004159878 PlanetExplorer.java ADD void setX(int) METHOD
+RefactoringAction 1497004159880 PlanetExplorer.java ADD int getY() METHOD
+RefactoringAction 1497004159882 PlanetExplorer.java ADD void setY(int) METHOD
+RefactoringAction 1497004159884 PlanetExplorer.java ADD String getStrana() METHOD
+RefactoringAction 1497004159886 PlanetExplorer.java ADD void setStrana(String) METHOD
+EditAction 1497004432836 PlanetExplorer.java 2018 10 12 0
+UnitTestCaseAction 1497004444581 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004444583 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004605600 TestPlanetExplorer.java ADD void test_startnaPozicija()/2 METHOD
+RefactoringAction 1497004612112 TestPlanetExplorer.java RENAME test_startnaPozicija()/2=>void test_() METHOD
+RefactoringAction 1497004619134 TestPlanetExplorer.java RENAME test_()=>void test_desno() METHOD
+RefactoringAction 1497004709338 TestPlanetExplorer.java REMOVE test_desno() METHOD
+UnitTestCaseAction 1497004715182 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004715184 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004756399 TestPlanetExplorer.java ADD void test_desno() METHOD
+UnitTestCaseAction 1497004823583 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004823585 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004915258 PlanetExplorer.java ADD void napred()/2 METHOD
+RefactoringAction 1497004918769 PlanetExplorer.java RENAME napred()/2=>void nazad() METHOD
+EditAction 1497004934357 PlanetExplorer.java 2287 11 13 0
+RefactoringAction 1497004970874 PlanetExplorer.java RENAME pozicija()=>String pozicija(String) METHOD
+CompilationAction 1497004989272 TestPlanetExplorer.java
+RefactoringAction 1497005035970 PlanetExplorer.java ADD void nazad()/2 METHOD
+RefactoringAction 1497005038485 PlanetExplorer.java RENAME nazad()/2=>void levo() METHOD
+EditAction 1497005110421 PlanetExplorer.java 2594 12 14 0
+CompilationAction 1497005118478 TestPlanetExplorer.java
+RefactoringAction 1497005138327 PlanetExplorer.java ADD void levo()/2 METHOD
+RefactoringAction 1497005140338 PlanetExplorer.java RENAME levo()/2=>void de() METHOD
+RefactoringAction 1497005141350 PlanetExplorer.java RENAME de()=>void desno() METHOD
+RefactoringAction 1497005209957 PlanetExplorer.java RENAME pozicija(String)=>String pozicija() METHOD
+EditAction 1497005210226 PlanetExplorer.java 2893 13 15 0
+CompilationAction 1497005223276 TestPlanetExplorer.java
+EditAction 1497005512228 PlanetExplorer.java 3153 13 16 0
+UnitTestCaseAction 1497005615630 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005615631 TestPlanetExplorer.java FAIL
+RefactoringAction 1497005696146 TestPlanetExplorer.java ADD void test_desno()/2 METHOD
+RefactoringAction 1497005697656 TestPlanetExplorer.java ADD void test_desno()/3 METHOD
+RefactoringAction 1497005704169 TestPlanetExplorer.java RENAME test_desno()/3=>void test_desno1() METHOD
+RefactoringAction 1497005707682 TestPlanetExplorer.java RENAME test_desno()/2=>void test_desno2() METHOD
+RefactoringAction 1497005779803 PlanetExplorer.java RENAME pozicija()=>void pozicija(String) METHOD
+RefactoringAction 1497005782317 PlanetExplorer.java RENAME pozicija(String)=>v pozicija() METHOD
+RefactoringAction 1497005803871 PlanetExplorerException.java ADD void PlanetExplorerException FIELD
+RefactoringAction 1497005805377 PlanetExplorerException.java RENAME PlanetExplorerException=>void PlanetExplorerException() METHOD
+RefactoringAction 1497005826937 PlanetExplorerException.java REMOVE PlanetExplorerException() METHOD
+EditAction 1497005827726 PlanetExplorerException.java 62 0 0 0
+CompilationAction 1497005927919 PlanetExplorer.java
+CompilationAction 1497005927921 TestPlanetExplorer.java
+CompilationAction 1497005945906 PlanetExplorer.java
+RefactoringAction 1497006046520 TestPlanetExplorer.java RENAME test_desno1()=>void test_desnoD() METHOD
+RefactoringAction 1497006048030 TestPlanetExplorer.java RENAME test_desnoD()=>void test_desnoDva FIELD
+RefactoringAction 1497006059054 TestPlanetExplorer.java RENAME test_desno2()/2=>void test_desno3() METHOD
+UnitTestCaseAction 1497006149311 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006149313 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006168220 TestPlanetExplorer.java ADD void test_desno3()/2 METHOD
+RefactoringAction 1497006173730 TestPlanetExplorer.java RENAME test_desno3()/2=>void test_levo3() METHOD
+RefactoringAction 1497006175243 TestPlanetExplorer.java RENAME test_levo3()=>void test_levo() METHOD
+RefactoringAction 1497006200824 TestPlanetExplorer.java ADD void test_levo()/2 METHOD
+RefactoringAction 1497006202835 TestPlanetExplorer.java RENAME test_levo()/2=>void test_levo1() METHOD
+CompilationAction 1497006247265 PlanetExplorer.java
+CompilationAction 1497006247564 PlanetExplorer.java
+EditAction 1497006255489 PlanetExplorer.java 3180 13 16 0
+CompilationAction 1497006263386 PlanetExplorer.java
+RefactoringAction 1497006377531 TestPlanetExplorer.java ADD void test_levo1()/2 METHOD
+RefactoringAction 1497006380062 TestPlanetExplorer.java RENAME test_levo1()/2=>void test_levo2() METHOD
+RefactoringAction 1497006434656 TestPlanetExplorer.java ADD void test_levo2()/2 METHOD
+RefactoringAction 1497006439169 TestPlanetExplorer.java RENAME test_levo2()/2=>void test_napred() METHOD
+RefactoringAction 1497006557421 TestPlanetExplorer.java ADD void test_napred()/2 METHOD
+RefactoringAction 1497006560935 TestPlanetExplorer.java RENAME test_napred()/2=>void test_napred1() METHOD
+RefactoringAction 1497006661688 TestPlanetExplorer.java ADD void test_napred1()/2 METHOD
+RefactoringAction 1497006666201 TestPlanetExplorer.java RENAME test_napred1()/2=>void test_napred2() METHOD
+UnitTestCaseAction 1497006689179 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006689181 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006706259 TestPlanetExplorer.java ADD void test_napred2()/2 METHOD
+RefactoringAction 1497006711273 TestPlanetExplorer.java RENAME test_napred2()/2=>void test_move() METHOD

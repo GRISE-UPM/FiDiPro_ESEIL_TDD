@@ -1,0 +1,65 @@
+FileOpenedAction 1494612103184 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494612138522 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494612144093 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494613290952 car.java ADD car.java CLASS
+FileOpenedAction 1494613291531 car.java 27 0 0 0
+RefactoringAction 1494613312597 car.java ADD int x FIELD
+RefactoringAction 1494613318116 car.java ADD int y FIELD
+RefactoringAction 1494613351165 car.java ADD car() METHOD
+RefactoringAction 1494613378242 car.java ADD car()/2 METHOD
+RefactoringAction 1494613382770 car.java RENAME car()/2=>car(int) METHOD
+RefactoringAction 1494613385281 car.java RENAME car(int)=>car(int, int) METHOD
+RefactoringAction 1494613581479 car.java ADD int getX() METHOD
+RefactoringAction 1494613581481 car.java ADD void setX(int) METHOD
+RefactoringAction 1494613581481 car.java ADD int getY() METHOD
+RefactoringAction 1494613581482 car.java ADD void setY(int) METHOD
+RefactoringAction 1494613591507 car.java REMOVE car() METHOD
+RefactoringAction 1494613591508 car.java REMOVE car(int, int) METHOD
+RefactoringAction 1494613597042 car.java ADD car() METHOD
+RefactoringAction 1494613597043 car.java ADD car(int, int) METHOD
+RefactoringAction 1494613600567 car.java REMOVE y FIELD
+RefactoringAction 1494613600573 car.java REMOVE x FIELD
+RefactoringAction 1494613603103 car.java ADD int x FIELD
+RefactoringAction 1494613603104 car.java ADD int y FIELD
+RefactoringAction 1494613696168 car.java ADD int FIELD
+RefactoringAction 1494613771230 car.java ADD String moveUp(int) METHOD
+RefactoringAction 1494613820847 car.java RENAME moveUp(int)=>String moveUp() METHOD
+RefactoringAction 1494613851381 car.java ADD string strana FIELD
+RefactoringAction 1494613858950 car.java RENAME car(int, int)=>car(int, int, string) METHOD
+RefactoringAction 1494613865993 car.java REMOVE strana FIELD
+RefactoringAction 1494613868013 car.java RENAME car(int, int, string)=>car(int, int) METHOD
+RefactoringAction 1494613922104 car.java REMOVE moveUp() METHOD
+RefactoringAction 1494613975620 car.java REMOVE y FIELD
+RefactoringAction 1494613975622 car.java REMOVE getX() METHOD
+RefactoringAction 1494613975622 car.java REMOVE car() METHOD
+RefactoringAction 1494613975623 car.java REMOVE x FIELD
+RefactoringAction 1494613975624 car.java REMOVE setX(int) METHOD
+RefactoringAction 1494613975625 car.java REMOVE getY() METHOD
+RefactoringAction 1494613975626 car.java REMOVE setY(int) METHOD
+RefactoringAction 1494613975627 car.java REMOVE coordinates FIELD
+RefactoringAction 1494613975627 car.java REMOVE car(int, int) METHOD
+RefactoringAction 1494613981825 car.java REMOVE car.java CLASS
+RefactoringAction 1494614003164 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494614003167 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494614003169 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494614003170 PlanetExplorer.java ADD void car() METHOD
+RefactoringAction 1494614003171 PlanetExplorer.java ADD void car(int, int) METHOD
+RefactoringAction 1494614003176 PlanetExplorer.java ADD int getX() METHOD
+RefactoringAction 1494614003177 PlanetExplorer.java ADD void setX(int) METHOD
+RefactoringAction 1494614003178 PlanetExplorer.java ADD int getY() METHOD
+RefactoringAction 1494614003179 PlanetExplorer.java ADD void setY(int) METHOD
+RefactoringAction 1494614009215 PlanetExplorer.java REMOVE car(int, int) METHOD
+RefactoringAction 1494614009217 PlanetExplorer.java REMOVE car() METHOD
+RefactoringAction 1494614016807 PlanetExplorer.java REMOVE getX() METHOD
+RefactoringAction 1494614016818 PlanetExplorer.java REMOVE setX(int) METHOD
+RefactoringAction 1494614016819 PlanetExplorer.java REMOVE setY(int) METHOD
+RefactoringAction 1494614016820 PlanetExplorer.java REMOVE getY() METHOD
+RefactoringAction 1494614020342 PlanetExplorer.java ADD int getX() METHOD
+RefactoringAction 1494614020344 PlanetExplorer.java ADD void setX(int) METHOD
+RefactoringAction 1494614020345 PlanetExplorer.java ADD int getY() METHOD
+RefactoringAction 1494614020347 PlanetExplorer.java ADD void setY(int) METHOD
+RefactoringAction 1494614025871 PlanetExplorer.java REMOVE coordinates FIELD
+EditAction 1494614147830 PlanetExplorer.java 1472 6 7 0
+RefactoringAction 1494614371667 PlanetExplorer.java ADD String o FIELD
+RefactoringAction 1494614374203 PlanetExplorer.java RENAME o=>String obsta FIELD
+RefactoringAction 1494614376242 PlanetExplorer.java RENAME obsta=>String obstacles FIELD

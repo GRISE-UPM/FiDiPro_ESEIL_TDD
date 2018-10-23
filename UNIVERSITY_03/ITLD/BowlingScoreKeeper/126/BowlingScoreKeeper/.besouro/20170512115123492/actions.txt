@@ -1,0 +1,12 @@
+FileOpenedAction 1494582684045 BowlingGame.java 708 4 1 0
+EditAction 1494583425402 Frame.java 771 6 7 0
+UnitTestCaseAction 1494584504415 TestBowling.java FAIL
+UnitTestSessionAction 1494584504419 TestBowling.java FAIL
+RefactoringAction 1494584534237 TestBowling.java ADD void prviFra FIELD
+RefactoringAction 1494584536259 TestBowling.java RENAME prviFra=>void prviFrame() METHOD
+EditAction 1494586171708 TestBowling.java 215 2 1 0
+EditAction 1494586174922 BowlingGame.java 964 4 3 0
+EditAction 1494586461789 BowlingGame.java 970 4 3 0
+FileOpenedAction 1494586535178 BowlingException.java 58 0 0 0
+FileOpenedAction 1494586535974 BowlingGame.java 970 4 3 0
+FileOpenedAction 1494586537050 Frame.java 771 6 7 0

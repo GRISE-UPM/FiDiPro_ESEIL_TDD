@@ -1,0 +1,248 @@
+FileOpenedAction 1496943575222 TestPlanetExplorer.java 174 1 1 0
+UnitTestCaseAction 1496944023519 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944023522 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496944037545 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944037547 TestPlanetExplorer.java FAIL
+EditAction 1496944197469 TestPlanetExplorer.java 214 1 2 1
+UnitTestCaseAction 1496944208481 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944208485 TestPlanetExplorer.java OK
+RefactoringAction 1496944233982 TestPlanetExplorer.java ADD void test_ FIELD
+RefactoringAction 1496944238498 TestPlanetExplorer.java RENAME test_=>void test_dimenzije FIELD
+RefactoringAction 1496944239506 TestPlanetExplorer.java RENAME test_dimenzije=>void test_dimenzije() METHOD
+RefactoringAction 1496944303587 TestPlanetExplorer.java RENAME test_dimenzije()=>void test_dimenzijeGrida() METHOD
+EditAction 1496944375898 TestPlanetExplorer.java 358 2 4 2
+CompilationAction 1496944383769 TestPlanetExplorer.java
+RefactoringAction 1496944391763 PlanetExplorer.java ADD Object METHOD
+EditAction 1496944410487 PlanetExplorer.java 1330 3 2 0
+CompilationAction 1496944418277 TestPlanetExplorer.java
+RefactoringAction 1496944428088 TestPlanetExplorer.java ADD void assertArrayEquals(String, String) METHOD
+RefactoringAction 1496944438869 TestPlanetExplorer.java REMOVE assertArrayEquals(String, String) METHOD
+CompilationAction 1496944447131 TestPlanetExplorer.java
+UnitTestCaseAction 1496944448085 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944448086 TestPlanetExplorer.java FAIL
+RefactoringAction 1496944480936 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496944480938 PlanetExplorer.java ADD int y FIELD
+UnitTestCaseAction 1496944497893 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944497894 TestPlanetExplorer.java OK
+RefactoringAction 1496944520034 PlanetExplorer.java RENAME x=>int gr FIELD
+RefactoringAction 1496944521545 PlanetExplorer.java RENAME gr=>int gridX FIELD
+RefactoringAction 1496944523557 PlanetExplorer.java RENAME y=>int gridY FIELD
+UnitTestCaseAction 1496944538261 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944538263 TestPlanetExplorer.java OK
+RefactoringAction 1496944549516 TestPlanetExplorer.java ADD void test_ FIELD
+RefactoringAction 1496944557031 TestPlanetExplorer.java RENAME test_=>void test_pocetneKoordinate() METHOD
+RefactoringAction 1496944585599 PlanetExplorer.java ADD Object getVoziloKoor() METHOD
+EditAction 1496944592941 PlanetExplorer.java 1488 4 5 0
+EditAction 1496944609110 TestPlanetExplorer.java 500 3 6 3
+UnitTestCaseAction 1496944619805 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944619807 TestPlanetExplorer.java FAIL
+RefactoringAction 1496944635757 PlanetExplorer.java ADD int voziloX FIELD
+RefactoringAction 1496944635759 PlanetExplorer.java ADD int vozilo FIELD
+RefactoringAction 1496944645279 PlanetExplorer.java RENAME vozilo=>vozilo Y FIELD
+RefactoringAction 1496944647799 PlanetExplorer.java RENAME voziloXvozilo=>int voziloX FIELD
+RefactoringAction 1496944649814 PlanetExplorer.java RENAME vozilo=>int voziloY FIELD
+UnitTestCaseAction 1496944707212 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944707214 TestPlanetExplorer.java OK
+EditAction 1496944748949 PlanetExplorer.java 1573 4 7 0
+UnitTestCaseAction 1496944759960 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944759962 TestPlanetExplorer.java OK
+RefactoringAction 1496944865397 TestPlanetExplorer.java ADD void test_pocetneKoordinate()/2 METHOD
+RefactoringAction 1496944878424 TestPlanetExplorer.java RENAME test_pocetneKoordinate()/2=>void test_pocetnA() METHOD
+RefactoringAction 1496944881934 TestPlanetExplorer.java RENAME test_pocetnA()=>void test_pocetnaStrana() METHOD
+RefactoringAction 1496944911834 PlanetExplorer.java ADD Object getVoziloStrana() METHOD
+EditAction 1496944919371 PlanetExplorer.java 1662 5 8 0
+EditAction 1496944931832 TestPlanetExplorer.java 639 4 8 4
+UnitTestCaseAction 1496944943467 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944943469 TestPlanetExplorer.java FAIL
+EditAction 1496944948964 PlanetExplorer.java 1663 5 8 0
+UnitTestCaseAction 1496944960649 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944960651 TestPlanetExplorer.java OK
+RefactoringAction 1496944968382 PlanetExplorer.java ADD String strana FIELD
+UnitTestCaseAction 1496944994184 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944994186 TestPlanetExplorer.java FAIL
+EditAction 1496945004047 PlanetExplorer.java 1698 5 9 0
+UnitTestCaseAction 1496945018290 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945018291 TestPlanetExplorer.java OK
+RefactoringAction 1496945044683 TestPlanetExplorer.java ADD void test_dimenzijeGrida()/2 METHOD
+RefactoringAction 1496945049197 TestPlanetExplorer.java RENAME test_dimenzijeGrida()/2=>void test_pa() METHOD
+RefactoringAction 1496945052211 TestPlanetExplorer.java RENAME test_pa()=>void test_pomeri() METHOD
+RefactoringAction 1496945057227 TestPlanetExplorer.java RENAME test_pomeri()=>void test_pomeri1() METHOD
+RefactoringAction 1496945075293 TestPlanetExplorer.java RENAME test_pomeri1()=>void test_pomeriNapred() METHOD
+EditAction 1496945107333 TestPlanetExplorer.java 783 5 10 5
+UnitTestCaseAction 1496945132061 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945132063 TestPlanetExplorer.java FAIL
+EditAction 1496945206479 TestPlanetExplorer.java 807 5 11 5
+UnitTestCaseAction 1496945214784 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945214786 TestPlanetExplorer.java FAIL
+EditAction 1496945231109 TestPlanetExplorer.java 809 5 11 5
+EditAction 1496945253034 TestPlanetExplorer.java 788 5 10 5
+UnitTestCaseAction 1496945265347 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945265349 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496945380416 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945380417 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496945544458 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945544460 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496945561288 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945561289 TestPlanetExplorer.java FAIL
+EditAction 1496945577046 TestPlanetExplorer.java 788 5 10 5
+UnitTestCaseAction 1496945590647 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945590649 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496945615198 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945615200 TestPlanetExplorer.java FAIL
+EditAction 1496945631152 PlanetExplorer.java 1910 5 11 0
+UnitTestCaseAction 1496945645521 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945645523 TestPlanetExplorer.java OK
+RefactoringAction 1496945658727 TestPlanetExplorer.java ADD void test_pomeriNapred()/2 METHOD
+RefactoringAction 1496945664743 TestPlanetExplorer.java RENAME test_pomeriNapred()/2=>void test_pomeriDesno() METHOD
+RefactoringAction 1496945680774 TestPlanetExplorer.java RENAME test_pomeriDesno()=>void test_pomeriNazad() METHOD
+EditAction 1496945693412 TestPlanetExplorer.java 934 6 12 6
+UnitTestCaseAction 1496945707769 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945707772 TestPlanetExplorer.java FAIL
+EditAction 1496945748901 TestPlanetExplorer.java 934 6 12 6
+EditAction 1496945790951 TestPlanetExplorer.java 935 6 12 6
+UnitTestCaseAction 1496945810898 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945810900 TestPlanetExplorer.java OK
+EditAction 1496945826177 TestPlanetExplorer.java 934 6 12 6
+EditAction 1496945862240 TestPlanetExplorer.java 935 6 12 6
+UnitTestCaseAction 1496945871128 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945871130 TestPlanetExplorer.java OK
+RefactoringAction 1496945875523 TestPlanetExplorer.java ADD void test_pomeriNazad()/2 METHOD
+RefactoringAction 1496945880546 TestPlanetExplorer.java RENAME test_pomeriNazad()/2=>void test_pomeriNazadSaPrebacivanjem() METHOD
+EditAction 1496945896414 TestPlanetExplorer.java 1096 7 14 7
+EditAction 1496945910805 TestPlanetExplorer.java 1096 7 14 7
+UnitTestCaseAction 1496945930904 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945930906 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496945975691 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945975692 TestPlanetExplorer.java OK
+RefactoringAction 1496945987168 TestPlanetExplorer.java ADD void test_pomeriNazadSaPrebacivanjem()/2 METHOD
+RefactoringAction 1496945991679 TestPlanetExplorer.java RENAME test_pomeriNazadSaPrebacivanjem()/2=>void test_pomeriNapredSaPrebacivanjem() METHOD
+EditAction 1496946010637 TestPlanetExplorer.java 1260 8 16 8
+UnitTestCaseAction 1496946025875 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946025876 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946062923 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946062924 TestPlanetExplorer.java OK
+RefactoringAction 1496946077273 TestPlanetExplorer.java ADD void test_pomeriNapredSaPrebacivanjem()/2 METHOD
+RefactoringAction 1496946081784 TestPlanetExplorer.java RENAME test_pomeriNapredSaPrebacivanjem()/2=>void test_pomeriRotiraj() METHOD
+RefactoringAction 1496946091805 TestPlanetExplorer.java RENAME test_pomeriRotiraj()=>void test_pomeriRotirajDesno() METHOD
+EditAction 1496946159025 TestPlanetExplorer.java 1413 9 18 9
+UnitTestCaseAction 1496946167983 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946167985 TestPlanetExplorer.test_pomeriNapredSaPrebacivanjem OK
+UnitTestCaseAction 1496946178372 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946178374 TestPlanetExplorer.java FAIL
+RefactoringAction 1496946232600 PlanetExplorer.java ADD String strane FIELD
+EditAction 1496946266777 TestPlanetExplorer.java 1413 9 18 9
+RefactoringAction 1496946303834 PlanetExplorer.java ADD int intStrane FIELD
+UnitTestCaseAction 1496946378674 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946378676 TestPlanetExplorer.java OK
+RefactoringAction 1496946388096 TestPlanetExplorer.java ADD void test_pomeriRotirajDesno()/2 METHOD
+RefactoringAction 1496946391608 TestPlanetExplorer.java RENAME test_pomeriRotirajDesno()/2=>void test_pomeriRotirajLevo() METHOD
+EditAction 1496946399612 TestPlanetExplorer.java 1565 10 20 10
+UnitTestCaseAction 1496946414888 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946414891 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946469616 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946469618 TestPlanetExplorer.java OK
+RefactoringAction 1496946475708 TestPlanetExplorer.java ADD void test_pomeriRotirajDesno()/2 METHOD
+RefactoringAction 1496946479722 TestPlanetExplorer.java RENAME test_pomeriRotirajDesno()/2=>void test_pomeriRotirajDesnoPunKrug() METHOD
+EditAction 1496946487349 TestPlanetExplorer.java 1728 11 22 11
+UnitTestCaseAction 1496946495589 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946495591 TestPlanetExplorer.java OK
+RefactoringAction 1496946501264 TestPlanetExplorer.java ADD void test_pomeriRotirajDesnoPunKrug()/2 METHOD
+RefactoringAction 1496946507782 TestPlanetExplorer.java RENAME test_pomeriRotirajDesnoPunKrug()/2=>void test_pomeriRotirajLevoPunKrug() METHOD
+EditAction 1496946523779 TestPlanetExplorer.java 1890 12 24 12
+UnitTestCaseAction 1496946532057 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946532059 TestPlanetExplorer.java OK
+RefactoringAction 1496946549346 TestPlanetExplorer.java ADD void test_pomeriRotirajLevoPunKrug()/2 METHOD
+RefactoringAction 1496946555361 TestPlanetExplorer.java RENAME test_pomeriRotirajLevoPunKrug()/2=>void test_pomeriRotirajLevoI() METHOD
+RefactoringAction 1496946556870 TestPlanetExplorer.java RENAME test_pomeriRotirajLevoI()=>void test_pomeriRotirajLevo()/2 METHOD
+RefactoringAction 1496946559883 TestPlanetExplorer.java RENAME test_pomeriRotirajLevo()/2=>void test_pomeriRotirajLevoIdiNapred() METHOD
+RefactoringAction 1496946570906 TestPlanetExplorer.java RENAME test_pomeriRotirajLevoIdiNapred()=>void test_pomeriRotirajDesnoIdiNapred() METHOD
+EditAction 1496946589207 TestPlanetExplorer.java 2053 13 26 13
+UnitTestCaseAction 1496946597537 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946597540 TestPlanetExplorer.java OK
+EditAction 1496946625637 TestPlanetExplorer.java 2053 13 26 13
+UnitTestCaseAction 1496946633995 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946633997 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946700054 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946700056 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946770059 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946770060 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946803291 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946803292 TestPlanetExplorer.java FAIL
+EditAction 1496946845869 PlanetExplorer.java 2379 5 11 0
+UnitTestCaseAction 1496946861821 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946861822 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946889162 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946889164 TestPlanetExplorer.java OK
+RefactoringAction 1496946896267 TestPlanetExplorer.java ADD void test_pomeriRotirajDesnoIdiNapred()/2 METHOD
+RefactoringAction 1496946902783 TestPlanetExplorer.java RENAME test_pomeriRotirajDesnoIdiNapred()/2=>void test_pomeriRotirajLevoIdiNapred() METHOD
+EditAction 1496946917080 TestPlanetExplorer.java 2215 14 28 14
+UnitTestCaseAction 1496946933063 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946933064 TestPlanetExplorer.java FAIL
+EditAction 1496946942553 TestPlanetExplorer.java 2215 14 28 14
+UnitTestCaseAction 1496946951134 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946951136 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947034256 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947034258 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947082507 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947082509 TestPlanetExplorer.java OK
+RefactoringAction 1496947094012 TestPlanetExplorer.java ADD void test_pomeriRotirajDesnoIdiNapred()/2 METHOD
+RefactoringAction 1496947103535 TestPlanetExplorer.java RENAME test_pomeriRotirajDesnoIdiNapred()/2=>void test_pomeriRotirajDesnoIdiNazad() METHOD
+EditAction 1496947128504 TestPlanetExplorer.java 2377 15 30 15
+UnitTestCaseAction 1496947136888 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947136890 TestPlanetExplorer.java FAIL
+RefactoringAction 1496947205426 PlanetExplorer.java ADD void pomeri() METHOD
+RefactoringAction 1496947216451 PlanetExplorer.java REMOVE pomeri() METHOD
+RefactoringAction 1496947331192 PlanetExplorer.java ADD void proveri() METHOD
+UnitTestCaseAction 1496947375906 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947375908 TestPlanetExplorer.java OK
+RefactoringAction 1496947383999 TestPlanetExplorer.java ADD void test_pomeriRotirajDesnoIdiNazad()/2 METHOD
+RefactoringAction 1496947388510 TestPlanetExplorer.java RENAME test_pomeriRotirajDesnoIdiNazad()/2=>void test_pomeriRotirajLevoIdiNazad() METHOD
+EditAction 1496947413557 TestPlanetExplorer.java 2537 16 32 16
+UnitTestCaseAction 1496947421999 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947422000 TestPlanetExplorer.java OK
+RefactoringAction 1496947454103 TestPlanetExplorer.java ADD void test_pomeriRotirajLevoIdiNazad()/2 METHOD
+RefactoringAction 1496947457113 TestPlanetExplorer.java RENAME test_pomeriRotirajLevoIdiNazad()/2=>void test_pomeriRotirajDIdiNazad() METHOD
+RefactoringAction 1496947459624 TestPlanetExplorer.java RENAME test_pomeriRotirajDIdiNazad()=>void test_pomeriRotirajDesnoDesnoIdiNazad() METHOD
+EditAction 1496947489842 TestPlanetExplorer.java 2707 17 34 17
+UnitTestCaseAction 1496947507738 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947507739 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947535051 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947535053 TestPlanetExplorer.java FAIL
+EditAction 1496947558888 TestPlanetExplorer.java 2707 17 34 17
+UnitTestCaseAction 1496947567203 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947567205 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947731435 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947731437 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947734575 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947734577 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947738474 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947738475 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947744460 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947744461 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947763381 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947763382 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947773562 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947773564 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947835822 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947835824 TestPlanetExplorer.java OK
+RefactoringAction 1496947840522 TestPlanetExplorer.java ADD void test_pomeriRotirajDesnoDesnoIdiNazad()/2 METHOD
+RefactoringAction 1496947856043 TestPlanetExplorer.java RENAME test_pomeriRotirajDesnoDesnoIdiNazad()/2=>void test_pomeriRotirajDesnoDesnoIdiNapred() METHOD
+EditAction 1496947871391 TestPlanetExplorer.java 2878 18 36 18
+UnitTestCaseAction 1496947879876 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947879878 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496947897883 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947897885 TestPlanetExplorer.java OK
+RefactoringAction 1496947902615 TestPlanetExplorer.java ADD void test_pomeriRotirajDesnoDesnoIdiNazad()/2 METHOD
+RefactoringAction 1496947906128 TestPlanetExplorer.java RENAME test_pomeriRotirajDesnoDesnoIdiNazad()/2=>void test_ex() METHOD
+RefactoringAction 1496947913146 TestPlanetExplorer.java RENAME test_ex()=>void test_exceptionPogresanUnos() METHOD
+EditAction 1496947943732 TestPlanetExplorer.java 3055 19 38 18
+UnitTestCaseAction 1496947951526 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947951528 TestPlanetExplorer.java FAIL
+CompilationAction 1496948088242 TestPlanetExplorer.java
+CompilationAction 1496948150075 TestPlanetExplorer.java
+UnitTestCaseAction 1496948151132 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496948151134 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496948185415 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496948185417 TestPlanetExplorer.test_exceptionPogresanUnos OK
+UnitTestCaseAction 1496948217010 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496948217011 TestPlanetExplorer.java OK
