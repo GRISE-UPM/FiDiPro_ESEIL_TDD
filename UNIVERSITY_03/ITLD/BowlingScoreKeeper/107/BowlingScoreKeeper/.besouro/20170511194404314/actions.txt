@@ -1,0 +1,30 @@
+FileOpenedAction 1494524644836 BowlingException.java 58 0 0 0
+RefactoringAction 1494525740498 TestBowling.java RENAME test()=>void test_() METHOD
+RefactoringAction 1494525746010 TestBowling.java RENAME test_()=>void test_number_of_frames() METHOD
+RefactoringAction 1494526020146 BowlingException.java ADD void BowLingException() METHOD
+RefactoringAction 1494526033219 BowlingException.java RENAME BowLingException()=><initializer /1> null
+RefactoringAction 1494526044749 BowlingException.java RENAME <initializer /1>=>void BowLingException() METHOD
+RefactoringAction 1494526096778 BowlingException.java RENAME BowLingException()=><initializer /1> null
+RefactoringAction 1494526100295 BowlingException.java RENAME <initializer /1>=>BowlingException() METHOD
+RefactoringAction 1494526114333 BowlingException.java ADD BowlingException()/2 METHOD
+RefactoringAction 1494526130403 BowlingException.java RENAME BowlingException()/2=>BowlingException(String) METHOD
+EditAction 1494526139636 BowlingException.java 171 2 2 0
+RefactoringAction 1494527005290 BowlingGame.java ADD int num FIELD
+RefactoringAction 1494527007305 BowlingGame.java REMOVE num FIELD
+RefactoringAction 1494527008329 BowlingGame.java ADD int num FIELD
+EditAction 1494527091325 TestBowling.java 219 1 1 0
+EditAction 1494527352907 Frame.java 676 6 7 0
+RefactoringAction 1494527373228 TestBowling.java ADD void test_ FIELD
+RefactoringAction 1494527378743 TestBowling.java RENAME test_=>void test_strike FIELD
+RefactoringAction 1494527379761 TestBowling.java RENAME test_strike=>void test_strike_ FIELD
+RefactoringAction 1494527380786 TestBowling.java RENAME test_strike_=>void test_strike FIELD
+RefactoringAction 1494527382303 TestBowling.java RENAME test_strike=>void test_strike() METHOD
+EditAction 1494527903772 BowlingGame.java 848 4 2 0
+RefactoringAction 1494528691718 BowlingGame.java ADD void addFrame(int, int) METHOD
+RefactoringAction 1494528701362 BowlingGame.java REMOVE addFrame(int, int) METHOD
+RefactoringAction 1494529240819 TestBowling.java REMOVE test_strike() METHOD
+RefactoringAction 1494529292599 TestBowling.java ADD void test_strike() METHOD
+EditAction 1494529418722 TestBowling.java 386 2 4 1
+EditAction 1494529446758 Frame.java 931 6 7 0
+UnitTestCaseAction 1494529451559 TestBowling.java FAIL
+UnitTestSessionAction 1494529451562 TestBowling.java FAIL

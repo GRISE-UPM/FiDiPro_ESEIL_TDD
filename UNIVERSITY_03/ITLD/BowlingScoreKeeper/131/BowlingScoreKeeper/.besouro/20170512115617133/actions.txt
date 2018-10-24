@@ -1,0 +1,56 @@
+FileOpenedAction 1494582977678 BowlingException.java 58 0 0 0
+FileOpenedAction 1494583101074 BowlingGame.java 708 4 1 0
+FileOpenedAction 1494583102081 Frame.java 671 6 7 0
+FileOpenedAction 1494583103933 TestBowling.java 165 1 1 0
+RefactoringAction 1494583557058 TestBowling.java RENAME test()=><initializer /1> null
+RefactoringAction 1494583560073 TestBowling.java RENAME <initializer /1>=>void isStrike() METHOD
+RefactoringAction 1494583636280 TestBowling.java ADD void assertEquals() METHOD
+RefactoringAction 1494583653380 TestBowling.java REMOVE assertEquals() METHOD
+EditAction 1494583673116 TestBowling.java 240 1 3 1
+EditAction 1494583678866 Frame.java 718 6 8 0
+UnitTestCaseAction 1494583683924 TestBowling.java FAIL
+UnitTestSessionAction 1494583683926 TestBowling.java FAIL
+EditAction 1494583709435 TestBowling.java 239 1 3 1
+UnitTestCaseAction 1494583715382 TestBowling.java OK
+UnitTestSessionAction 1494583715386 TestBowling.java OK
+EditAction 1494583787250 Frame.java 820 6 9 0
+RefactoringAction 1494583799650 TestBowling.java ADD void is FIELD
+RefactoringAction 1494583801168 TestBowling.java RENAME is=>void isSpare FIELD
+RefactoringAction 1494583808696 TestBowling.java RENAME isSpare=>void isSpare() METHOD
+EditAction 1494583849025 TestBowling.java 367 2 6 2
+UnitTestCaseAction 1494583854434 TestBowling.java OK
+UnitTestSessionAction 1494583854435 TestBowling.java OK
+EditAction 1494584013466 Frame.java 860 6 10 0
+CompilationAction 1494584016750 Frame.java
+RefactoringAction 1494584027164 Frame.java RENAME score()=><initializer /1> null
+CompilationAction 1494584034760 Frame.java
+UnitTestCaseAction 1494584037340 TestBowling.java OK
+UnitTestSessionAction 1494584037343 TestBowling.java OK
+RefactoringAction 1494584055962 Frame.java ADD returns the FIELD
+RefactoringAction 1494584055966 Frame.java ADD score of FIELD
+RefactoringAction 1494584055967 Frame.java ADD a single FIELD
+RefactoringAction 1494584055967 Frame.java ADD int score() METHOD
+RefactoringAction 1494584068049 Frame.java REMOVE of FIELD
+RefactoringAction 1494584068050 Frame.java REMOVE single FIELD
+RefactoringAction 1494584068052 Frame.java REMOVE score() METHOD
+RefactoringAction 1494584068053 Frame.java REMOVE the FIELD
+RefactoringAction 1494584076614 Frame.java ADD to be FIELD
+EditAction 1494584107936 Frame.java 878 6 11 0
+RefactoringAction 1494584143276 TestBowling.java ADD void one FIELD
+RefactoringAction 1494584146800 TestBowling.java RENAME one=>void one_frame_score FIELD
+RefactoringAction 1494584156821 TestBowling.java RENAME one_frame_score=>void single_frame_score FIELD
+RefactoringAction 1494584162344 TestBowling.java RENAME single_frame_score=>void single_frame_score() METHOD
+EditAction 1494584311098 TestBowling.java 507 3 9 3
+UnitTestCaseAction 1494584318396 TestBowling.java OK
+UnitTestSessionAction 1494584318398 TestBowling.java OK
+EditAction 1494586189568 Frame.java 864 6 11 0
+UnitTestCaseAction 1494586246341 TestBowling.java OK
+UnitTestSessionAction 1494586246343 TestBowling.java OK
+UnitTestCaseAction 1494586267943 TestBowling.java OK
+UnitTestSessionAction 1494586267945 TestBowling.java OK
+EditAction 1494586281949 TestBowling.java 509 3 9 3
+UnitTestCaseAction 1494586286892 TestBowling.java OK
+UnitTestSessionAction 1494586286895 TestBowling.java OK
+EditAction 1494586295255 TestBowling.java 508 3 9 3
+UnitTestCaseAction 1494586299947 TestBowling.java OK
+UnitTestSessionAction 1494586299949 TestBowling.java OK

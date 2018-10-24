@@ -1,0 +1,277 @@
+FileOpenedAction 1494611786043 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494611801754 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494611804682 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612220925 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612220929 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494612225971 PlanetExplorer.java ADD int obstacles FIELD
+RefactoringAction 1494612235002 PlanetExplorer.java REMOVE obstacles FIELD
+RefactoringAction 1494612240533 PlanetExplorer.java ADD String obs FIELD
+RefactoringAction 1494612243548 PlanetExplorer.java REMOVE obs FIELD
+RefactoringAction 1494612250075 PlanetExplorer.java ADD String obsta FIELD
+RefactoringAction 1494612252092 PlanetExplorer.java RENAME obsta=>String obstacles FIELD
+RefactoringAction 1494612403480 PlanetExplorer.java ADD String initi FIELD
+RefactoringAction 1494612406994 PlanetExplorer.java RENAME initi=>String initialize FIELD
+RefactoringAction 1494612409004 PlanetExplorer.java RENAME initialize=>String initialize() METHOD
+RefactoringAction 1494612432578 PlanetExplorer.java REMOVE initialize() METHOD
+RefactoringAction 1494612496214 PlanetExplorer.java RENAME <initializer /1>=>void vihacle() METHOD
+RefactoringAction 1494612500728 PlanetExplorer.java RENAME vihacle()=><initializer /1> null
+RefactoringAction 1494612520782 PlanetExplorer.java ADD int x_ FIELD
+RefactoringAction 1494612522296 PlanetExplorer.java RENAME x_=>int x_Pos FIELD
+RefactoringAction 1494612529333 PlanetExplorer.java ADD int y/2 FIELD
+RefactoringAction 1494612531343 PlanetExplorer.java RENAME y/2=>int y_P FIELD
+RefactoringAction 1494612532354 PlanetExplorer.java RENAME y_P=>int y_Pos FIELD
+RefactoringAction 1494612562455 PlanetExplorer.java ADD String direction FIELD
+EditAction 1494612571550 PlanetExplorer.java 423 2 4 0
+RefactoringAction 1494612707447 PlanetExplorer.java RENAME direction=>String facing FIELD
+RefactoringAction 1494612727383 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1494612741938 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494612743449 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1494612746461 TestPlanetExplorer.java RENAME test_=>void test_Initialize FIELD
+RefactoringAction 1494612749479 TestPlanetExplorer.java RENAME test_Initialize=>void test_Initialize() METHOD
+EditAction 1494612884224 TestPlanetExplorer.java 402 1 2 1
+CompilationAction 1494612892405 TestPlanetExplorer.java
+EditAction 1494612910605 TestPlanetExplorer.java 406 1 2 1
+UnitTestCaseAction 1494612927408 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494612927411 TestPlanetExplorer.java OK
+EditAction 1494613100804 PlanetExplorer.java 488 2 5 0
+RefactoringAction 1494613178324 TestPlanetExplorer.java ADD void test_moving FIELD
+RefactoringAction 1494613180332 TestPlanetExplorer.java RENAME test_moving=>void test_moving_ FIELD
+RefactoringAction 1494613183341 TestPlanetExplorer.java RENAME test_moving_=>void test_moving_forwoard FIELD
+RefactoringAction 1494613185349 TestPlanetExplorer.java RENAME test_moving_forwoard=>void test_moving_forwoard() METHOD
+EditAction 1494613234644 TestPlanetExplorer.java 635 2 4 2
+EditAction 1494613252520 TestPlanetExplorer.java 634 2 4 2
+UnitTestCaseAction 1494613262064 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613262066 TestPlanetExplorer.java OK
+RefactoringAction 1494613269536 TestPlanetExplorer.java ADD void test_moving_forwoard()/2 METHOD
+RefactoringAction 1494613277557 TestPlanetExplorer.java RENAME test_moving_forwoard()/2=>void test_moving_backwoard() METHOD
+EditAction 1494613307186 TestPlanetExplorer.java 871 3 6 3
+UnitTestCaseAction 1494613319716 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613319718 TestPlanetExplorer.java OK
+RefactoringAction 1494613340655 TestPlanetExplorer.java ADD PlanetExplorer plnt FIELD
+EditAction 1494613348724 TestPlanetExplorer.java 758 3 3 3
+UnitTestCaseAction 1494613358432 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613358434 TestPlanetExplorer.java OK
+EditAction 1494613389433 PlanetExplorer.java 568 2 6 0
+UnitTestCaseAction 1494613402194 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613402196 TestPlanetExplorer.java OK
+RefactoringAction 1494613492332 TestPlanetExplorer.java ADD void test_moving_backwoard()/2 METHOD
+RefactoringAction 1494613498843 TestPlanetExplorer.java RENAME test_moving_backwoard()/2=>void test_moving_right() METHOD
+EditAction 1494613508820 TestPlanetExplorer.java 926 4 4 4
+EditAction 1494613520212 PlanetExplorer.java 637 2 7 0
+UnitTestCaseAction 1494613531720 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613531722 TestPlanetExplorer.java OK
+RefactoringAction 1494613567951 TestPlanetExplorer.java ADD void test_moving_right()/2 METHOD
+RefactoringAction 1494613570964 TestPlanetExplorer.java RENAME test_moving_right()/2=>void test_moving_right_() METHOD
+RefactoringAction 1494613572980 TestPlanetExplorer.java RENAME test_moving_right_()=>void test_moving_right_whe() METHOD
+RefactoringAction 1494613573991 TestPlanetExplorer.java RENAME test_moving_right_whe()=>void test_moving_right_when_() METHOD
+RefactoringAction 1494613576004 TestPlanetExplorer.java RENAME test_moving_right_when_()=>void test_moving_right_when_north() METHOD
+EditAction 1494613576639 TestPlanetExplorer.java 1104 5 5 5
+RefactoringAction 1494613589028 TestPlanetExplorer.java RENAME test_moving_right()=>void test_moving_right_() METHOD
+RefactoringAction 1494613591544 TestPlanetExplorer.java RENAME test_moving_right_()=>void test_moving_right_when FIELD
+RefactoringAction 1494613595582 TestPlanetExplorer.java RENAME test_moving_right_when_easr()=>void test_moving_right_when_east() METHOD
+EditAction 1494613603872 PlanetExplorer.java 685 2 7 0
+EditAction 1494613611614 TestPlanetExplorer.java 1114 5 5 5
+UnitTestCaseAction 1494613623874 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613623875 TestPlanetExplorer.java OK
+EditAction 1494613647441 PlanetExplorer.java 733 2 7 0
+RefactoringAction 1494613668186 TestPlanetExplorer.java ADD void test_moving_right_when_east()/2 METHOD
+RefactoringAction 1494613672202 TestPlanetExplorer.java RENAME test_moving_right_when_east()/2=>void test_moving_right_when_south() METHOD
+EditAction 1494613675368 TestPlanetExplorer.java 1289 6 6 6
+UnitTestCaseAction 1494613688731 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613688735 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494613689051 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613689053 TestPlanetExplorer.java OK
+EditAction 1494613705132 PlanetExplorer.java 764 2 7 0
+RefactoringAction 1494613722783 TestPlanetExplorer.java ADD void test_moving_right_when_south()/2 METHOD
+RefactoringAction 1494613727796 TestPlanetExplorer.java RENAME test_moving_right_when_south()/2=>void test_moving_right_when_west() METHOD
+EditAction 1494613733084 TestPlanetExplorer.java 1463 7 7 7
+EditAction 1494613750757 TestPlanetExplorer.java 1463 7 7 7
+UnitTestCaseAction 1494613764555 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613764557 TestPlanetExplorer.java OK
+EditAction 1494613836262 PlanetExplorer.java 833 2 8 0
+RefactoringAction 1494613852943 TestPlanetExplorer.java ADD void test_moving_right_when_west()/2 METHOD
+RefactoringAction 1494613857453 TestPlanetExplorer.java RENAME test_moving_right_when_west()/2=>void test_moving_le_when_west() METHOD
+RefactoringAction 1494613858463 TestPlanetExplorer.java RENAME test_moving_le_when_west()=>void test_moving_left_when_west() METHOD
+RefactoringAction 1494613862978 TestPlanetExplorer.java RENAME test_moving_left_when_west()=>void test_moving_left_when_north() METHOD
+EditAction 1494613868300 TestPlanetExplorer.java 1637 8 8 8
+UnitTestCaseAction 1494613883494 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613883497 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494613883818 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613883819 TestPlanetExplorer.java OK
+EditAction 1494613908901 PlanetExplorer.java 881 2 8 0
+RefactoringAction 1494613924067 TestPlanetExplorer.java ADD void test_moving_left_when_north()/2 METHOD
+RefactoringAction 1494613929087 TestPlanetExplorer.java RENAME test_moving_left_when_north()/2=>void test_moving_left_when_east() METHOD
+EditAction 1494613934843 TestPlanetExplorer.java 1810 9 9 9
+UnitTestCaseAction 1494613948915 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613948917 TestPlanetExplorer.java OK
+EditAction 1494613976091 PlanetExplorer.java 913 2 8 0
+EditAction 1494613995665 PlanetExplorer.java 929 2 8 0
+RefactoringAction 1494614011187 TestPlanetExplorer.java ADD void test_moving_left_when_east()/2 METHOD
+RefactoringAction 1494614013701 TestPlanetExplorer.java RENAME test_moving_left_when_east()/2=>void test_moving_left_when_() METHOD
+RefactoringAction 1494614015715 TestPlanetExplorer.java RENAME test_moving_left_when_()=>void test_moving_left_when_south() METHOD
+EditAction 1494614020768 TestPlanetExplorer.java 1984 10 10 10
+UnitTestCaseAction 1494614031277 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614031278 TestPlanetExplorer.java OK
+EditAction 1494614057769 PlanetExplorer.java 960 2 8 0
+RefactoringAction 1494614072282 TestPlanetExplorer.java ADD void test_moving_left_when_south()/2 METHOD
+RefactoringAction 1494614074794 TestPlanetExplorer.java RENAME test_moving_left_when_south()/2=>void test_moving_left_when_s() METHOD
+RefactoringAction 1494614075808 TestPlanetExplorer.java RENAME test_moving_left_when_s()=>void test_moving_left_when_() METHOD
+RefactoringAction 1494614077318 TestPlanetExplorer.java RENAME test_moving_left_when_()=>void test_moving_left_when_west() METHOD
+EditAction 1494614088114 TestPlanetExplorer.java 2157 11 11 11
+UnitTestCaseAction 1494614108978 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614108980 TestPlanetExplorer.java OK
+EditAction 1494614134456 PlanetExplorer.java 980 2 8 0
+EditAction 1494614227442 PlanetExplorer.java 1063 2 8 0
+RefactoringAction 1494614243483 TestPlanetExplorer.java REMOVE plnt FIELD
+EditAction 1494614278213 TestPlanetExplorer.java 2720 11 22 11
+UnitTestCaseAction 1494614293881 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614293884 TestPlanetExplorer.java OK
+EditAction 1494614351965 TestPlanetExplorer.java 2790 11 22 11
+UnitTestCaseAction 1494614368100 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614368102 TestPlanetExplorer.java FAIL
+EditAction 1494614390669 TestPlanetExplorer.java 2791 11 22 11
+UnitTestCaseAction 1494614406155 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614406158 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494614406603 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614406605 TestPlanetExplorer.java FAIL
+EditAction 1494614426487 TestPlanetExplorer.java 2790 11 22 11
+EditAction 1494614448997 TestPlanetExplorer.java 2790 11 22 11
+EditAction 1494614467547 TestPlanetExplorer.java 2796 11 22 11
+UnitTestCaseAction 1494614477462 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614477464 TestPlanetExplorer.java FAIL
+EditAction 1494614502739 TestPlanetExplorer.java 2798 11 22 11
+EditAction 1494614519649 TestPlanetExplorer.java 2805 11 22 11
+UnitTestCaseAction 1494614543848 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614543849 TestPlanetExplorer.java FAIL
+EditAction 1494614581780 TestPlanetExplorer.java 2802 11 22 11
+UnitTestCaseAction 1494614592518 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614592519 TestPlanetExplorer.java FAIL
+EditAction 1494614628164 TestPlanetExplorer.java 2802 11 22 11
+UnitTestCaseAction 1494614644715 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614644717 TestPlanetExplorer.java FAIL
+EditAction 1494614659137 TestPlanetExplorer.java 2803 11 22 11
+UnitTestCaseAction 1494614684951 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614684953 TestPlanetExplorer.java FAIL
+EditAction 1494614735811 TestPlanetExplorer.java 2830 11 23 11
+UnitTestCaseAction 1494614754509 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614754511 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494614754953 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614754955 TestPlanetExplorer.java FAIL
+EditAction 1494614846931 PlanetExplorer.java 1136 2 8 0
+EditAction 1494614943959 PlanetExplorer.java 1254 2 8 0
+EditAction 1494615048523 PlanetExplorer.java 1309 2 5 0
+CompilationAction 1494615073381 PlanetExplorer.java
+EditAction 1494615079369 PlanetExplorer.java 1301 2 5 0
+EditAction 1494615095623 PlanetExplorer.java 1306 2 6 0
+EditAction 1494615121267 TestPlanetExplorer.java 2802 11 22 11
+UnitTestCaseAction 1494615147913 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615147915 TestPlanetExplorer.java FAIL
+EditAction 1494615175278 TestPlanetExplorer.java 2800 11 22 11
+UnitTestCaseAction 1494615185541 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615185543 TestPlanetExplorer.java FAIL
+EditAction 1494615206040 TestPlanetExplorer.java 2800 11 22 11
+UnitTestCaseAction 1494615225733 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494615225735 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494615225746 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615225742 TestPlanetExplorer.java FAILUnitTestSessionAction 1494615225756 TestPlanetExplorer.java FAIL
+
+UnitTestSessionAction 1494615225758 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494615225788 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615225790 TestPlanetExplorer.java FAIL
+EditAction 1494615235786 TestPlanetExplorer.java 2800 11 22 11
+UnitTestCaseAction 1494615256054 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256056 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615256084 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256086 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615256130 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256135 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615256479 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615256481 TestPlanetExplorer.java OK
+RefactoringAction 1494615277986 TestPlanetExplorer.java ADD void test_moving_left_when_west()/2 METHOD
+RefactoringAction 1494615281496 TestPlanetExplorer.java RENAME test_moving_left_when_west()/2=>void test_moving_left_when_() METHOD
+RefactoringAction 1494615284508 TestPlanetExplorer.java RENAME test_moving_left_when_()=>void test_moving_left_when_f() METHOD
+RefactoringAction 1494615290029 TestPlanetExplorer.java RENAME test_moving_left_when_f()=>void test_moving_left_when_ff() METHOD
+RefactoringAction 1494615291041 TestPlanetExplorer.java RENAME test_moving_left_when_ff()=>void test_moving_left_when_ffr() METHOD
+RefactoringAction 1494615294050 TestPlanetExplorer.java RENAME test_moving_left_when_ffr()=>void test_moving_left_when_ffrf() METHOD
+EditAction 1494615294873 TestPlanetExplorer.java 3046 12 24 12
+EditAction 1494615319045 TestPlanetExplorer.java 3048 12 24 12
+UnitTestCaseAction 1494615337910 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615337913 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494615338485 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615338545 TestPlanetExplorer.java OK
+RefactoringAction 1494615377637 PlanetExplorer.java ADD boolean check FIELD
+RefactoringAction 1494615380150 PlanetExplorer.java RENAME check=>boolean checkIf FIELD
+RefactoringAction 1494615382661 PlanetExplorer.java RENAME checkIf=>boolean checkIfCor FIELD
+RefactoringAction 1494615384170 PlanetExplorer.java RENAME checkIfCor=>boolean checkIfCorrect FIELD
+RefactoringAction 1494615386683 PlanetExplorer.java RENAME checkIfCorrect=>boolean checkIfCorrect() METHOD
+RefactoringAction 1494615402703 PlanetExplorer.java RENAME checkIfCorrect()=>boolean checkIfCorrect(char) METHOD
+RefactoringAction 1494615415757 PlanetExplorer.java RENAME checkIfCorrect(char)=>boolean checkIfCorrect() METHOD
+RefactoringAction 1494615421769 PlanetExplorer.java RENAME checkIfCorrect()=>boolean checkIfCorrect(int) METHOD
+RefactoringAction 1494615486959 PlanetExplorer.java RENAME checkIfCorrect(int)=>boolean checkIfCorrectX(int) METHOD
+RefactoringAction 1494615508015 PlanetExplorer.java ADD boolean checkIfCorrectX(int)/2 METHOD
+RefactoringAction 1494615510527 PlanetExplorer.java RENAME checkIfCorrectX(int)/2=>boolean checkIfCorrect(int) METHOD
+RefactoringAction 1494615511537 PlanetExplorer.java RENAME checkIfCorrect(int)=>boolean checkIfCorrectY(int) METHOD
+EditAction 1494615517841 PlanetExplorer.java 1540 4 10 0
+EditAction 1494615606089 PlanetExplorer.java 1609 4 10 0
+RefactoringAction 1494615621850 TestPlanetExplorer.java ADD void test_moving_left_when_ffrf()/2 METHOD
+RefactoringAction 1494615627363 TestPlanetExplorer.java RENAME test_moving_left_when_ffrf()/2=>void test_moving_left_when() METHOD
+RefactoringAction 1494615630375 TestPlanetExplorer.java RENAME test_moving_left_when()=>void test_moving_left_when_exit() METHOD
+RefactoringAction 1494615635389 TestPlanetExplorer.java RENAME test_moving_left_when_exit()=>void test_moving_left_when_crossing() METHOD
+RefactoringAction 1494615638400 TestPlanetExplorer.java RENAME test_moving_left_when_crossing()=>void test_moving_left_when_crossing_over() METHOD
+EditAction 1494615653058 TestPlanetExplorer.java 3300 13 26 13
+UnitTestCaseAction 1494615663082 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615663083 TestPlanetExplorer.java OK
+EditAction 1494615719024 PlanetExplorer.java 1679 4 10 0
+RefactoringAction 1494615735045 TestPlanetExplorer.java ADD void test_moving_left_when_crossing_over()/2 METHOD
+RefactoringAction 1494615742062 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over()/2=>void test_moving_left_when_crossing_over_() METHOD
+RefactoringAction 1494615748079 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_()=>void test_moving_left_when_crossing_over_when_moving() METHOD
+RefactoringAction 1494615749087 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving()=>void test_moving_left_when_crossing_over_when_moving_() METHOD
+RefactoringAction 1494615750598 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_()=>void test_moving_left_when_crossing_over_when_moving_for() METHOD
+RefactoringAction 1494615752107 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_for()=>void test_moving_left_when_crossing_over_when_moving_forwoar() METHOD
+RefactoringAction 1494615753116 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar()=>void test_moving_left_when_crossing_over_when_moving_forwoar_() METHOD
+RefactoringAction 1494615756130 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_()=>void test_moving_left_when_crossing_over_when_moving_forwoar_when_() METHOD
+RefactoringAction 1494615759143 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_when_()=>void test_moving_left_when_crossing_over_when_moving_forwoar_when_nortg() METHOD
+RefactoringAction 1494615760154 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_when_nortg()=>void test_moving_left_when_crossing_over_when_moving_forwoar_when_north() METHOD
+RefactoringAction 1494615768169 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over()=>void test_moving_left_when_crossing_over_() METHOD
+RefactoringAction 1494615769178 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_()=>void test_moving_left_when_crossing_over_when_moving_forwoar_when_north()/2 METHOD
+RefactoringAction 1494615772686 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_when_north()/2=>void test_moving_left_when_crossing_over_when_moving_forwoard_when_north() METHOD
+RefactoringAction 1494615785202 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_when_north()=>void test_moving_left_when_crossing_over_when_moving_forwoar_when_south() METHOD
+EditAction 1494615817258 TestPlanetExplorer.java 3615 14 28 14
+UnitTestCaseAction 1494615827910 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615827912 TestPlanetExplorer.java FAIL
+EditAction 1494615848459 TestPlanetExplorer.java 3615 14 28 14
+UnitTestCaseAction 1494615858617 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615858619 TestPlanetExplorer.java OK
+EditAction 1494615935266 PlanetExplorer.java 1819 4 10 0
+EditAction 1494616085799 PlanetExplorer.java 2102 4 7 0
+EditAction 1494616104252 PlanetExplorer.java 2101 4 10 0
+RefactoringAction 1494616121528 TestPlanetExplorer.java ADD void test_moving_left_when_crossing_over_when_moving_forwoar_when_south()/2 METHOD
+RefactoringAction 1494616138557 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoard_when_north()=>void test_moving_when_crossing_over_when_moving_forwoard_when_north() METHOD
+RefactoringAction 1494616143567 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_when_south()/2=>void test_moving_when_crossing_over_when_moving_forwoar_when_south() METHOD
+RefactoringAction 1494616146080 TestPlanetExplorer.java RENAME test_moving_left_when_crossing_over_when_moving_forwoar_when_south()=>void test_moving_when_crossing_over_when_moving_forwoar_when_south()/2 METHOD
+RefactoringAction 1494616158099 TestPlanetExplorer.java RENAME test_moving_when_crossing_over_when_moving_forwoar_when_south()/2=>void test_moving_when_crossing_over_when_moving_backwoard_when_south() METHOD
+RefactoringAction 1494616172126 TestPlanetExplorer.java RENAME test_moving_when_crossing_over_when_moving_backwoard_when_south()=>void test_moving_when_crossing_over_when_moving_backwoard_when_s() METHOD
+RefactoringAction 1494616175137 TestPlanetExplorer.java RENAME test_moving_when_crossing_over_when_moving_backwoard_when_s()=>void test_moving_when_crossing_over_when_moving_backwoard_when_north() METHOD
+EditAction 1494616181462 TestPlanetExplorer.java 3883 15 30 15
+UnitTestCaseAction 1494616210559 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616210560 TestPlanetExplorer.java FAIL
+EditAction 1494616227902 TestPlanetExplorer.java 3882 15 30 15
+UnitTestCaseAction 1494616247239 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616247241 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616247244 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247242 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247247 TestPlanetExplorer.java OKUnitTestSessionAction 1494616247250 TestPlanetExplorer.java OK
+
+UnitTestCaseAction 1494616247284 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247287 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616247329 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616247331 TestPlanetExplorer.java OK
+EditAction 1494616348008 PlanetExplorer.java 2158 4 11 0
+RefactoringAction 1494616376464 PlanetExplorer.java ADD check i FIELD
+RefactoringAction 1494616386477 PlanetExplorer.java RENAME i=>boolean checkIfHitObstacle() METHOD
+RefactoringAction 1494616389988 PlanetExplorer.java RENAME checkIfHitObstacle()=>boolean checkIfHitObstacle(int) METHOD
+CompilationAction 1494616467121 PlanetExplorer.java
+RefactoringAction 1494616472746 PlanetExplorer.java REMOVE executeCommand(String) METHOD
+RefactoringAction 1494616472748 PlanetExplorer.java REMOVE checkIfHitObstacle(int) METHOD
+RefactoringAction 1494616475268 PlanetExplorer.java ADD String executeCommand(String) METHOD
+CompilationAction 1494616476565 PlanetExplorer.java

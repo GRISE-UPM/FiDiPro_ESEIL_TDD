@@ -1,0 +1,147 @@
+FileOpenedAction 1497011590797 BowlingGame.java 708 4 1 0
+FileOpenedAction 1497011603946 TestBowling.java 165 1 1 0
+RefactoringAction 1497011848357 TestBowling.java ADD void test FIELD
+RefactoringAction 1497011849869 TestBowling.java RENAME test=>void test_ FIELD
+RefactoringAction 1497011851380 TestBowling.java RENAME test_=>void test_of FIELD
+RefactoringAction 1497011852889 TestBowling.java RENAME test_of=>void test_of_ FIELD
+RefactoringAction 1497011855899 TestBowling.java RENAME test_of_=>void test_of_limits FIELD
+RefactoringAction 1497011912485 TestBowling.java REMOVE test_of_limits FIELD
+RefactoringAction 1497011916003 TestBowling.java ADD void test_of_limits FIELD
+FileOpenedAction 1497012098614 Frame.java 671 6 7 0
+RefactoringAction 1497012098764 Frame.java ADD Frame(double) METHOD
+RefactoringAction 1497012121420 TestBowling.java RENAME test_of_limits=>void test FIELD
+RefactoringAction 1497012122431 TestBowling.java RENAME test=>void test_ FIELD
+RefactoringAction 1497012123942 TestBowling.java RENAME test_=>void test_of FIELD
+RefactoringAction 1497012125956 TestBowling.java RENAME test_of=>void test_of_limitl FIELD
+RefactoringAction 1497012127468 TestBowling.java RENAME test_of_limitl=>void test_of_limits FIELD
+EditAction 1497012154080 TestBowling.java 581 1 1 0
+CompilationAction 1497012161401 TestBowling.java
+CompilationAction 1497012161404 TestBowling.java
+CompilationAction 1497012161405 TestBowling.java
+CompilationAction 1497012161406 TestBowling.java
+CompilationAction 1497012175902 TestBowling.java
+CompilationAction 1497012175904 TestBowling.java
+CompilationAction 1497012175906 TestBowling.java
+CompilationAction 1497012175908 TestBowling.java
+RefactoringAction 1497012183733 Frame.java ADD Frame(double)/2 METHOD
+EditAction 1497012191174 Frame.java 823 8 7 0
+CompilationAction 1497012192766 Frame.java
+CompilationAction 1497012192769 TestBowling.java
+CompilationAction 1497012192773 TestBowling.java
+CompilationAction 1497012192774 TestBowling.java
+RefactoringAction 1497012197705 Frame.java REMOVE Frame(double)/2 METHOD
+FileOpenedAction 1497012231394 BowlingException.java 58 0 0 0
+RefactoringAction 1497012528285 TestBowling.java ADD void test FIELD
+RefactoringAction 1497012529301 TestBowling.java RENAME test=>void test_ FIELD
+RefactoringAction 1497012530811 TestBowling.java RENAME test_=>void test_test FIELD
+RefactoringAction 1497012533820 TestBowling.java RENAME test_test=>void test_od_ FIELD
+RefactoringAction 1497012535331 TestBowling.java RENAME test_od_=>void test_od_spare FIELD
+RefactoringAction 1497012833924 TestBowling.java REMOVE test_of_limits FIELD
+RefactoringAction 1497012833925 TestBowling.java REMOVE test() METHOD
+RefactoringAction 1497012833927 TestBowling.java REMOVE test_od_spare FIELD
+RefactoringAction 1497012835942 TestBowling.java ADD void test_of_limits FIELD
+RefactoringAction 1497012835944 TestBowling.java ADD void test_od_spare FIELD
+RefactoringAction 1497012838476 TestBowling.java REMOVE test_of_limits FIELD
+RefactoringAction 1497012838477 TestBowling.java REMOVE test_od_spare FIELD
+RefactoringAction 1497012839988 TestBowling.java ADD void test() METHOD
+RefactoringAction 1497012839990 TestBowling.java ADD void test_of_limits FIELD
+RefactoringAction 1497012839991 TestBowling.java ADD void test_od_spare FIELD
+RefactoringAction 1497012923032 Frame.java ADD int size() METHOD
+RefactoringAction 1497012950595 TestBowling.java RENAME test_od_spare=>void test_od_spare_ FIELD
+EditAction 1497013027913 TestBowling.java 740 3 9 0
+CompilationAction 1497013029489 TestBowling.java
+CompilationAction 1497013029492 TestBowling.java
+CompilationAction 1497013029493 TestBowling.java
+RefactoringAction 1497013041312 TestBowling.java RENAME test_od_spare_works()=>void test_if_spare_works() METHOD
+RefactoringAction 1497013165025 TestBowling.java ADD void test_if_frame_strike_works() METHOD
+RefactoringAction 1497013170039 TestBowling.java REMOVE test_if_spare_works() METHOD
+RefactoringAction 1497013192582 BowlingGame.java ADD Object getFrames() METHOD
+EditAction 1497013202885 BowlingGame.java 897 5 3 0
+CompilationAction 1497013204406 BowlingGame.java
+CompilationAction 1497013204409 TestBowling.java
+CompilationAction 1497013204410 TestBowling.java
+CompilationAction 1497013204412 TestBowling.java
+RefactoringAction 1497013222788 Frame.java ADD int size()/2 METHOD
+RefactoringAction 1497013227680 Frame.java REMOVE size()/2 METHOD
+EditAction 1497013228695 Frame.java 834 8 8 0
+CompilationAction 1497013230149 BowlingGame.java
+CompilationAction 1497013230151 TestBowling.java
+CompilationAction 1497013230153 TestBowling.java
+CompilationAction 1497013230154 TestBowling.java
+RefactoringAction 1497013330828 TestBowling.java ADD void test_if_spare_works() METHOD
+RefactoringAction 1497013548198 TestBowling.java ADD void test_if_strike_works() METHOD
+RefactoringAction 1497013628956 TestBowling.java REMOVE test_if_frame_strike_works() METHOD
+CompilationAction 1497013664461 TestBowling.java
+CompilationAction 1497013664461 TestBowling.java
+CompilationAction 1497013729140 BowlingGame.java
+CompilationAction 1497013729343 TestBowling.java
+CompilationAction 1497013729343 TestBowling.java
+EditAction 1497013731421 TestBowling.java 1174 4 17 2
+CompilationAction 1497013732905 TestBowling.java
+RefactoringAction 1497013785336 TestBowling.java ADD void te FIELD
+RefactoringAction 1497013786867 TestBowling.java REMOVE te FIELD
+RefactoringAction 1497013879619 TestBowling.java ADD void test FIELD
+RefactoringAction 1497013880650 TestBowling.java RENAME test=>void test_ FIELD
+RefactoringAction 1497013883195 TestBowling.java RENAME test_=>void test_score FIELD
+RefactoringAction 1497013884711 TestBowling.java RENAME test_score=>void test_score() METHOD
+EditAction 1497014007872 TestBowling.java 1452 5 21 3
+CompilationAction 1497014009341 TestBowling.java
+EditAction 1497014074850 BowlingException.java 61 0 0 0
+UnitTestCaseAction 1497014078855 TestBowling.java FAIL
+UnitTestSessionAction 1497014078855 TestBowling.java FAIL
+RefactoringAction 1497014198918 BowlingGame.java ADD int getFramesBumber() METHOD
+RefactoringAction 1497014202418 BowlingGame.java RENAME getFramesBumber()=>int getFramesumber() METHOD
+RefactoringAction 1497014203434 BowlingGame.java RENAME getFramesumber()=>int getFramesNumber() METHOD
+CompilationAction 1497014471813 TestBowling.java
+CompilationAction 1497014471985 TestBowling.java
+CompilationAction 1497014485859 TestBowling.java
+UnitTestCaseAction 1497014487688 TestBowling.java FAIL
+UnitTestSessionAction 1497014487688 TestBowling.java FAIL
+RefactoringAction 1497014923462 BowlingException.java ADD BowlingException() METHOD
+RefactoringAction 1497014943339 BowlingException.java ADD BowlingException()/2 METHOD
+EditAction 1497014947542 BowlingException.java 110 1 1 0
+RefactoringAction 1497015120685 TestBowling.java ADD void check_if_single_frame_score_is_inside_bounds() METHOD
+RefactoringAction 1497015120685 TestBowling.java ADD void check_if_game_score_works() METHOD
+EditAction 1497015143917 TestBowling.java 1983 7 29 4
+CompilationAction 1497015145463 TestBowling.java
+UnitTestCaseAction 1497015150019 TestBowling.java FAIL
+UnitTestSessionAction 1497015150019 TestBowling.java FAIL
+UnitTestCaseAction 1497015160837 TestBowling.java FAIL
+UnitTestSessionAction 1497015160837 TestBowling.java FAIL
+EditAction 1497015281964 TestBowling.java 1964 7 29 4
+CompilationAction 1497015283495 TestBowling.java
+RefactoringAction 1497015336226 TestBowling.java ADD void test_if_frame_spare_works() METHOD
+RefactoringAction 1497015336226 TestBowling.java ADD void test_if_frame_strike_works() METHOD
+RefactoringAction 1497015336226 TestBowling.java ADD void check_if_frame_score_works() METHOD
+CompilationAction 1497015406408 TestBowling.java
+UnitTestCaseAction 1497015499164 TestBowling.java FAIL
+UnitTestSessionAction 1497015499164 TestBowling.java FAIL
+EditAction 1497015513383 BowlingException.java 107 1 1 0
+UnitTestCaseAction 1497015516407 TestBowling.java FAIL
+UnitTestSessionAction 1497015516407 TestBowling.java FAIL
+CompilationAction 1497015707056 TestBowling.java
+CompilationAction 1497015707196 TestBowling.java
+UnitTestCaseAction 1497015709094 TestBowling.java FAIL
+UnitTestSessionAction 1497015709094 TestBowling.java FAIL
+UnitTestCaseAction 1497015716680 TestBowling.java OK
+UnitTestSessionAction 1497015716680 Rerun TestBowling.check_if_single_frame_score_is_inside_bounds OK
+CompilationAction 1497015985753 TestBowling.java
+CompilationAction 1497015985936 TestBowling.java
+UnitTestCaseAction 1497016047316 TestBowling.java FAIL
+UnitTestSessionAction 1497016047316 TestBowling.java FAIL
+UnitTestCaseAction 1497016060981 TestBowling.java FAIL
+UnitTestSessionAction 1497016060981 TestBowling.java FAIL
+UnitTestCaseAction 1497016068081 TestBowling.java FAIL
+UnitTestSessionAction 1497016068081 TestBowling.java FAIL
+UnitTestCaseAction 1497016079111 TestBowling.java FAIL
+UnitTestSessionAction 1497016079111 TestBowling.java FAIL
+UnitTestCaseAction 1497016083194 TestBowling.java FAIL
+UnitTestSessionAction 1497016083194 TestBowling.java FAIL
+UnitTestCaseAction 1497016087380 TestBowling.java FAIL
+UnitTestSessionAction 1497016087380 TestBowling.java FAIL
+UnitTestCaseAction 1497016090850 TestBowling.java FAIL
+UnitTestSessionAction 1497016090850 TestBowling.java FAIL
+UnitTestCaseAction 1497016095237 TestBowling.java FAIL
+UnitTestSessionAction 1497016095252 TestBowling.java FAIL
+UnitTestCaseAction 1497016098931 TestBowling.java OK
+UnitTestSessionAction 1497016098931 Rerun TestBowling.check_if_single_frame_score_is_inside_bounds OK

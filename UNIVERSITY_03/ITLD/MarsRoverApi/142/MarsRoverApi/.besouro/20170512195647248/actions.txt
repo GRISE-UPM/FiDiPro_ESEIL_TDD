@@ -1,0 +1,110 @@
+FileOpenedAction 1494611807809 PlanetExplorer.java 1245 2 1 0
+RefactoringAction 1494612232892 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612236920 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494612250109 PlanetExplorer.java ADD String obstacles FIELD
+RefactoringAction 1494612271748 PlanetExplorer.java ADD String FIELD
+RefactoringAction 1494612279272 PlanetExplorer.java RENAME obstacles/2=>String FIELD
+RefactoringAction 1494612557671 PlanetExplorer.java ADD String direction FIELD
+FileOpenedAction 1494612697288 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494612702584 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612761253 PlanetExplorer.java ADD int y/2 FIELD
+RefactoringAction 1494612762783 PlanetExplorer.java RENAME y/2=>int yPo FIELD
+RefactoringAction 1494612764312 PlanetExplorer.java RENAME yPo=>int yPos FIELD
+RefactoringAction 1494612770367 PlanetExplorer.java ADD int xPos FIELD
+RefactoringAction 1494613323819 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1494613438514 TestPlanetExplorer.java ADD void tes FIELD
+RefactoringAction 1494613439529 TestPlanetExplorer.java RENAME tes=>void test FIELD
+RefactoringAction 1494613441043 TestPlanetExplorer.java RENAME test=>void testMove FIELD
+RefactoringAction 1494613442559 TestPlanetExplorer.java RENAME testMove=>void testMoveUp FIELD
+RefactoringAction 1494613446584 TestPlanetExplorer.java RENAME testMoveUp=>void testMoveUp() METHOD
+RefactoringAction 1494613454642 TestPlanetExplorer.java RENAME testMoveUp()=>void testMo() METHOD
+RefactoringAction 1494613456657 TestPlanetExplorer.java RENAME testMo()=>void testMoveN() METHOD
+EditAction 1494613617987 PlanetExplorerException.java 64 0 0 0
+EditAction 1494613623820 PlanetExplorer.java 2191 2 10 0
+EditAction 1494613626941 TestPlanetExplorer.java 328 1 2 1
+UnitTestCaseAction 1494613632762 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613632764 TestPlanetExplorer.java OK
+RefactoringAction 1494613643767 TestPlanetExplorer.java RENAME testMoveN()=>void test() METHOD
+RefactoringAction 1494613644794 TestPlanetExplorer.java RENAME test()=>void testcom() METHOD
+RefactoringAction 1494613645831 TestPlanetExplorer.java RENAME testcom()=>void testcomf() METHOD
+RefactoringAction 1494613688961 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494613690489 TestPlanetExplorer.java RENAME test=>void testcom FIELD
+RefactoringAction 1494613691515 TestPlanetExplorer.java RENAME testcom=>void testcoml FIELD
+RefactoringAction 1494613693541 TestPlanetExplorer.java RENAME testcoml=>void testcomb FIELD
+RefactoringAction 1494613694567 TestPlanetExplorer.java RENAME testcomb=>void testcomb() METHOD
+EditAction 1494613851760 TestPlanetExplorer.java 490 2 4 2
+UnitTestCaseAction 1494613855869 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613855870 TestPlanetExplorer.java FAIL
+EditAction 1494613885584 TestPlanetExplorer.java 518 2 5 2
+UnitTestCaseAction 1494613889281 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613889284 TestPlanetExplorer.java OK
+RefactoringAction 1494613969893 TestPlanetExplorer.java ADD void testcomb()/2 METHOD
+RefactoringAction 1494613973922 TestPlanetExplorer.java RENAME testcomb()/2=>void testcoml() METHOD
+EditAction 1494614001575 TestPlanetExplorer.java 669 3 7 3
+UnitTestCaseAction 1494614005707 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614005709 TestPlanetExplorer.java OK
+RefactoringAction 1494614056531 TestPlanetExplorer.java ADD void testcoml()/2 METHOD
+RefactoringAction 1494614059057 TestPlanetExplorer.java RENAME testcoml()/2=>void testcomr() METHOD
+EditAction 1494614069068 TestPlanetExplorer.java 817 4 9 4
+UnitTestCaseAction 1494614073090 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614073092 TestPlanetExplorer.java OK
+RefactoringAction 1494614252711 PlanetExplorer.java ADD ArrayList lista FIELD
+RefactoringAction 1494614263294 PlanetExplorer.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1494614296625 PlanetExplorer.java REMOVE lista FIELD
+RefactoringAction 1494614298653 PlanetExplorer.java ADD ArrayList<> lista FIELD
+RefactoringAction 1494614305275 PlanetExplorer.java REMOVE lista FIELD
+RefactoringAction 1494614315401 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494614327483 PlanetExplorer.java REMOVE array FIELD
+RefactoringAction 1494614351545 PlanetExplorer.java ADD ArrayList<Integer> arl FIELD
+RefactoringAction 1494614535651 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+RefactoringAction 1494614535653 PlanetExplorerException.java ADD PlanetExplorerException(String) METHOD
+RefactoringAction 1494614657668 PlanetExplorer.java ADD void signal() METHOD
+RefactoringAction 1494614707278 PlanetExplorer.java RENAME signal()=><initializer /1> null
+RefactoringAction 1494614709316 PlanetExplorer.java RENAME <initializer /1>=>void obstacle() METHOD
+RefactoringAction 1494614710383 PlanetExplorer.java RENAME obstacle()=>void obstacles() METHOD
+RefactoringAction 1494615191773 TestPlanetExplorer.java ADD void test_command_ifis_W_andgoCommandF() METHOD
+RefactoringAction 1494615219399 TestPlanetExplorer.java RENAME test_command_ifis_W_andgoCommandF()=>void test_co() METHOD
+RefactoringAction 1494615220428 TestPlanetExplorer.java RENAME test_co()=>void test_command_ifis_W_andgoCommandF() METHOD
+RefactoringAction 1494615234481 TestPlanetExplorer.java RENAME test_command_ifis_W_andgoCommandF()=>void test_() METHOD
+RefactoringAction 1494615238508 TestPlanetExplorer.java RENAME test_()=>void testf() METHOD
+RefactoringAction 1494615241066 TestPlanetExplorer.java RENAME testf()=>void testfWthenF() METHOD
+EditAction 1494615269658 PlanetExplorerException.java 182 2 2 0
+EditAction 1494615273243 PlanetExplorer.java 2872 3 12 0
+EditAction 1494615276794 TestPlanetExplorer.java 1022 5 13 5
+UnitTestCaseAction 1494615281820 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615281823 TestPlanetExplorer.java FAIL
+RefactoringAction 1494615322441 TestPlanetExplorer.java REMOVE testfWthenF() METHOD
+EditAction 1494615324657 TestPlanetExplorer.java 821 4 9 4
+UnitTestCaseAction 1494615329634 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615329636 TestPlanetExplorer.java FAIL
+EditAction 1494615383652 TestPlanetExplorer.java 826 4 9 4
+UnitTestCaseAction 1494615388531 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615388534 TestPlanetExplorer.java FAIL
+EditAction 1494615421817 PlanetExplorer.java 2894 3 12 0
+UnitTestCaseAction 1494615428314 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615428316 TestPlanetExplorer.java FAIL
+RefactoringAction 1494615583707 PlanetExplorer.java ADD PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1494615590832 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)/2=>PlanetExplorer(int, int) METHOD
+UnitTestCaseAction 1494615597418 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615597420 TestPlanetExplorer.java FAIL
+EditAction 1494615605944 TestPlanetExplorer.java 821 4 9 4
+UnitTestCaseAction 1494615610190 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615610191 TestPlanetExplorer.java FAIL
+EditAction 1494615633616 PlanetExplorer.java 2925 4 14 0
+UnitTestCaseAction 1494615639245 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615639248 TestPlanetExplorer.java FAIL
+RefactoringAction 1494615729591 PlanetExplorer.java ADD void signa FIELD
+RefactoringAction 1494615737145 PlanetExplorer.java RENAME signa=>void check() METHOD
+RefactoringAction 1494615761275 PlanetExplorer.java ADD boolean signal FIELD
+RefactoringAction 1494615823377 PlanetExplorer.java REMOVE PlanetExplorer(int, int) METHOD
+EditAction 1494615872722 TestPlanetExplorer.java 829 4 9 4
+UnitTestCaseAction 1494615877338 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615877340 TestPlanetExplorer.java OK
+RefactoringAction 1494615903140 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494615905673 TestPlanetExplorer.java RENAME test=>void testObstacles FIELD
+RefactoringAction 1494615907705 TestPlanetExplorer.java RENAME testObstacles=>void testObstacles() METHOD
+RefactoringAction 1494616235781 PlanetExplorer.java RENAME arl=>String ArrayList FIELD
+RefactoringAction 1494616241890 PlanetExplorer.java RENAME ArrayList=>String FIELD
+RefactoringAction 1494616244944 PlanetExplorer.java RENAME obstacles/2=>String FIELD
+RefactoringAction 1494616246990 PlanetExplorer.java RENAME obstaclesT=>String FIELD
+RefactoringAction 1494616248527 PlanetExplorer.java RENAME obstacles/2=>String FIELD

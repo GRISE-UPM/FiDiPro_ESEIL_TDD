@@ -1,0 +1,107 @@
+FileOpenedAction 1496943932069 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1496944640578 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1496944672216 TestPlanetExplorer.java ADD void kreiranjePlanete() METHOD
+EditAction 1496944781013 TestPlanetExplorer.java 233 1 2 1
+EditAction 1496944800101 TestPlanetExplorer.java 236 1 2 1
+UnitTestCaseAction 1496944811385 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944811387 TestPlanetExplorer.java OK
+EditAction 1496944827608 TestPlanetExplorer.java 233 1 2 1
+UnitTestCaseAction 1496944837882 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944837887 TestPlanetExplorer.java FAIL
+RefactoringAction 1496944873256 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496944881795 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1496944887841 PlanetExplorer.java ADD String FIELD
+EditAction 1496944967512 PlanetExplorer.java 1119 2 4 0
+UnitTestCaseAction 1496944976258 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944976259 TestPlanetExplorer.java FAIL
+EditAction 1496944983565 TestPlanetExplorer.java 236 1 2 1
+UnitTestCaseAction 1496944994107 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496944994109 TestPlanetExplorer.java OK
+RefactoringAction 1496945068745 TestPlanetExplorer.java ADD void pocetnaPo FIELD
+RefactoringAction 1496945069755 TestPlanetExplorer.java RENAME pocetnaPo=>void pocetnaPozc FIELD
+RefactoringAction 1496945071766 TestPlanetExplorer.java RENAME pocetnaPozc=>void pocetnaPozicija FIELD
+RefactoringAction 1496945074779 TestPlanetExplorer.java RENAME pocetnaPozicija=>void pocetnaPozicijaVozila() METHOD
+EditAction 1496945298145 TestPlanetExplorer.java 456 2 5 2
+CompilationAction 1496945306198 TestPlanetExplorer.java
+CompilationAction 1496945306200 TestPlanetExplorer.java
+CompilationAction 1496945306202 TestPlanetExplorer.java
+UnitTestCaseAction 1496945309185 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945309188 TestPlanetExplorer.java FAIL
+EditAction 1496945624798 PlanetExplorer.java 362 2 4 0
+RefactoringAction 1496945840907 TestPlanetExplorer.java RENAME kreiranjePlanete()=>void kreiranje() METHOD
+RefactoringAction 1496945845923 TestPlanetExplorer.java RENAME kreiranje()=>void kreiranjeVozila() METHOD
+CompilationAction 1496945891722 TestPlanetExplorer.java
+EditAction 1496945894284 PlanetExplorer.java 363 2 4 0
+UnitTestCaseAction 1496945907980 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945907982 TestPlanetExplorer.java FAIL
+RefactoringAction 1496945927640 TestPlanetExplorer.java REMOVE pocetnaPozicijaVozila() METHOD
+RefactoringAction 1496945959702 TestPlanetExplorer.java ADD void pocetna FIELD
+RefactoringAction 1496945963216 TestPlanetExplorer.java RENAME pocetna=>void pocetnaPozicijaV FIELD
+RefactoringAction 1496945965732 TestPlanetExplorer.java RENAME pocetnaPozicijaV=>void pocetnaPozicijaVozila() METHOD
+EditAction 1496946008929 TestPlanetExplorer.java 361 2 4 2
+UnitTestCaseAction 1496946018744 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946018746 TestPlanetExplorer.java OK
+RefactoringAction 1496946031160 PlanetExplorer.java ADD PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1496946037674 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)/2=>PlanetExplorer(int, int) METHOD
+RefactoringAction 1496946039185 PlanetExplorer.java RENAME PlanetExplorer(int, int)=>PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1496946044698 PlanetExplorer.java ADD String smer FIELD
+EditAction 1496946062641 PlanetExplorer.java 474 3 7 0
+CompilationAction 1496946070871 PlanetExplorer.java
+UnitTestCaseAction 1496946098856 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946098857 TestPlanetExplorer.java OK
+RefactoringAction 1496946129328 PlanetExplorer.java REMOVE PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1496946130838 PlanetExplorer.java REMOVE y FIELD
+RefactoringAction 1496946130839 PlanetExplorer.java REMOVE obstacles FIELD
+RefactoringAction 1496946130841 PlanetExplorer.java REMOVE x FIELD
+RefactoringAction 1496946130842 PlanetExplorer.java REMOVE smer FIELD
+RefactoringAction 1496946134507 TestPlanetExplorer.java REMOVE pocetnaPozicijaVozila() METHOD
+RefactoringAction 1496946134508 TestPlanetExplorer.java REMOVE kreiranjeVozila() METHOD
+EditAction 1496946135381 TestPlanetExplorer.java 98 0 0 0
+CompilationAction 1496946151863 PlanetExplorer.java
+RefactoringAction 1496946352205 TestPlanetExplorer.java ADD void create FIELD
+RefactoringAction 1496946357215 TestPlanetExplorer.java RENAME create=>void createPlanet FIELD
+RefactoringAction 1496946359227 TestPlanetExplorer.java RENAME createPlanet=>void createPlanetExp FIELD
+RefactoringAction 1496946362736 TestPlanetExplorer.java RENAME createPlanetExp=>void createPlanetExplorer() METHOD
+EditAction 1496946551551 TestPlanetExplorer.java 227 1 2 1
+UnitTestCaseAction 1496946566326 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946566328 TestPlanetExplorer.java OK
+RefactoringAction 1496946577224 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496946584747 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1496946606776 PlanetExplorer.java ADD String obstacles FIELD
+RefactoringAction 1496946614297 PlanetExplorer.java ADD String vozilo FIELD
+EditAction 1496946659473 PlanetExplorer.java 395 2 5 0
+UnitTestCaseAction 1496946672122 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946672124 TestPlanetExplorer.java OK
+RefactoringAction 1496946735292 TestPlanetExplorer.java ADD void vo FIELD
+RefactoringAction 1496946739803 TestPlanetExplorer.java RENAME vo=>void voziloIde FIELD
+RefactoringAction 1496946742312 TestPlanetExplorer.java RENAME voziloIde=>void voziloIdeNaSve FIELD
+RefactoringAction 1496946744823 TestPlanetExplorer.java RENAME voziloIdeNaSve=>void voziloIdeNaSever() METHOD
+EditAction 1496946862847 TestPlanetExplorer.java 414 2 5 2
+CompilationAction 1496946875187 TestPlanetExplorer.java
+UnitTestCaseAction 1496946880169 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946880171 TestPlanetExplorer.java FAIL
+RefactoringAction 1496947111713 PlanetExplorer.java REMOVE vozilo FIELD
+RefactoringAction 1496947116734 PlanetExplorer.java ADD String vozilo FIELD
+EditAction 1496947225569 PlanetExplorer.java 536 2 7 0
+UnitTestCaseAction 1496947235762 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947235764 TestPlanetExplorer.java FAIL
+CompilationAction 1496947243445 TestPlanetExplorer.java
+UnitTestCaseAction 1496947245480 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947245482 TestPlanetExplorer.java OK
+RefactoringAction 1496947294052 TestPlanetExplorer.java ADD void voziloIdeNaSever()/2 METHOD
+RefactoringAction 1496947299563 TestPlanetExplorer.java RENAME voziloIdeNaSever()/2=>void voziloIdeNaJg() METHOD
+RefactoringAction 1496947303582 TestPlanetExplorer.java RENAME voziloIdeNaJg()=>void voziloIdeNaJug() METHOD
+EditAction 1496947336168 TestPlanetExplorer.java 596 3 8 3
+EditAction 1496947351539 PlanetExplorer.java 536 2 7 0
+UnitTestCaseAction 1496947363928 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947363929 TestPlanetExplorer.java OK
+EditAction 1496947774486 PlanetExplorer.java 751 2 7 0
+CompilationAction 1496947783193 PlanetExplorer.java
+UnitTestCaseAction 1496947787494 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947787495 TestPlanetExplorer.java FAIL
+CompilationAction 1496947942002 PlanetExplorer.java
+UnitTestCaseAction 1496947944576 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947944578 TestPlanetExplorer.java FAIL
+EditAction 1496947978707 PlanetExplorer.java 785 2 7 0
+UnitTestCaseAction 1496947988388 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947988390 TestPlanetExplorer.java FAIL

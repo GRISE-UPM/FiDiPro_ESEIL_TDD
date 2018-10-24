@@ -1,0 +1,224 @@
+FileOpenedAction 1497002124571 PlanetExplorer.java 1245 2 1 0
+RefactoringAction 1497002436060 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1497002436062 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1497002466148 PlanetExplorer.java ADD String smer FIELD
+RefactoringAction 1497002474759 PlanetExplorer.java ADD int po FIELD
+RefactoringAction 1497002476791 PlanetExplorer.java RENAME po=>int pozicija FIELD
+RefactoringAction 1497002477841 PlanetExplorer.java RENAME pozicija=>int pozicijaX FIELD
+RefactoringAction 1497002480863 PlanetExplorer.java ADD int pozicija FIELD
+RefactoringAction 1497002482386 PlanetExplorer.java RENAME pozicija=>int pozicijaY FIELD
+FileOpenedAction 1497002565794 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1497002587245 PlanetExplorer.java ADD String obstacles FIELD
+RefactoringAction 1497002615830 TestPlanetExplorer.java ADD void test_executeCommand()/2 METHOD
+RefactoringAction 1497002622847 TestPlanetExplorer.java RENAME test_executeCommand()/2=>void test_() METHOD
+RefactoringAction 1497002626866 TestPlanetExplorer.java RENAME test_()=>void test_ProveraStart() METHOD
+RefactoringAction 1497002627886 TestPlanetExplorer.java RENAME test_ProveraStart()=>void test_ProveraStarttne() METHOD
+RefactoringAction 1497002629422 TestPlanetExplorer.java RENAME test_ProveraStarttne()=>void test_ProveraStart() METHOD
+RefactoringAction 1497002631941 TestPlanetExplorer.java RENAME test_ProveraStart()=>void test_ProveraStartne() METHOD
+RefactoringAction 1497002634454 TestPlanetExplorer.java RENAME test_ProveraStartne()=>void test_ProveraStartnePozicije() METHOD
+FileOpenedAction 1497002642608 PlanetExplorerException.java 61 0 0 0
+EditAction 1497002651538 TestPlanetExplorer.java 264 2 1 0
+EditAction 1497003023202 TestPlanetExplorer.java 404 2 4 1
+EditAction 1497003194428 PlanetExplorer.java 1672 2 8 0
+UnitTestCaseAction 1497003212857 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003212859 TestPlanetExplorer.java FAIL
+EditAction 1497003348049 PlanetExplorer.java 1592 2 7 0
+EditAction 1497003355613 TestPlanetExplorer.java 404 2 4 1
+UnitTestCaseAction 1497003359459 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003359463 TestPlanetExplorer.java FAIL
+EditAction 1497003379767 TestPlanetExplorer.java 373 2 4 1
+UnitTestCaseAction 1497003390338 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003390339 TestPlanetExplorer.java FAIL
+EditAction 1497003528105 PlanetExplorer.java 1804 2 9 0
+EditAction 1497003546816 TestPlanetExplorer.java 404 2 4 1
+UnitTestCaseAction 1497003590762 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003590768 Rerun TestPlanetExplorer.test_ProveraStartnePozicije OK
+RefactoringAction 1497003599181 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+EditAction 1497003599933 TestPlanetExplorer.java 324 1 3 1
+UnitTestCaseAction 1497003605676 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003605678 TestPlanetExplorer.java OK
+RefactoringAction 1497003624760 TestPlanetExplorer.java ADD void test_ProveraStartnePozicije()/2 METHOD
+RefactoringAction 1497003628790 TestPlanetExplorer.java RENAME test_ProveraStartnePozicije()/2=>void test_() METHOD
+RefactoringAction 1497003633820 TestPlanetExplorer.java RENAME test_()=>void test_Start() METHOD
+RefactoringAction 1497003634840 TestPlanetExplorer.java RENAME test_Start()=>void test_Startna() METHOD
+RefactoringAction 1497003637857 TestPlanetExplorer.java RENAME test_Startna()=>void test_StartnaPozicijaI() METHOD
+RefactoringAction 1497003640901 TestPlanetExplorer.java RENAME test_StartnaPozicijaI()=>void test_StartnaPozicijaIKretanje() METHOD
+RefactoringAction 1497003641940 TestPlanetExplorer.java RENAME test_StartnaPozicijaIKretanje()=>void test_StartnaPozicijaIKretanjeF() METHOD
+RefactoringAction 1497003642981 TestPlanetExplorer.java RENAME test_StartnaPozicijaIKretanjeF()=>void test_StartnaPozicijaIKretanjeFo() METHOD
+RefactoringAction 1497003645028 TestPlanetExplorer.java RENAME test_StartnaPozicijaIKretanjeFo()=>void test_StartnaPozicijaIKretanjeForward() METHOD
+EditAction 1497003678521 TestPlanetExplorer.java 566 2 6 2
+EditAction 1497003713221 TestPlanetExplorer.java 566 2 6 2
+EditAction 1497003734466 PlanetExplorer.java 1612 2 9 0
+EditAction 1497003756591 PlanetExplorer.java 1624 2 9 0
+UnitTestCaseAction 1497003766060 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003766061 TestPlanetExplorer.java FAIL
+EditAction 1497003778789 TestPlanetExplorer.java 565 2 6 2
+UnitTestCaseAction 1497003785055 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003785057 TestPlanetExplorer.java OK
+RefactoringAction 1497003797197 TestPlanetExplorer.java ADD void test_StartnaPozicijaIKretanjeForward()/2 METHOD
+RefactoringAction 1497003814309 TestPlanetExplorer.java RENAME test_StartnaPozicijaIKretanjeForward()/2=>void test_StartnaPozicijaIKretanjeForward2Puta() METHOD
+EditAction 1497003817796 TestPlanetExplorer.java 810 3 9 3
+UnitTestCaseAction 1497003823379 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003823381 TestPlanetExplorer.test_StartnaPozicijaIKretanjeForward2Puta OK
+UnitTestCaseAction 1497003829615 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003829617 TestPlanetExplorer.java OK
+EditAction 1497003902488 PlanetExplorer.java 1624 2 9 0
+EditAction 1497004036063 PlanetExplorer.java 1835 2 9 0
+RefactoringAction 1497004044619 TestPlanetExplorer.java ADD void test_StartnaPozicijaIKretanjeForward2Puta()/2 METHOD
+RefactoringAction 1497004051643 TestPlanetExplorer.java RENAME test_StartnaPozicijaIKretanjeForward2Puta()/2=>void test_Okretanje() METHOD
+RefactoringAction 1497004054670 TestPlanetExplorer.java RENAME test_Okretanje()=>void test_OkretanjeULevo() METHOD
+EditAction 1497004071766 TestPlanetExplorer.java 1033 4 12 4
+UnitTestCaseAction 1497004076025 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004076026 TestPlanetExplorer.java FAIL
+EditAction 1497004143735 PlanetExplorer.java 1835 2 9 0
+UnitTestCaseAction 1497004155862 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004155863 TestPlanetExplorer.java OK
+RefactoringAction 1497004165836 TestPlanetExplorer.java ADD void test_OkretanjeULevo()/2 METHOD
+RefactoringAction 1497004168868 TestPlanetExplorer.java RENAME test_OkretanjeULevo()/2=>void test_OkretanjeLevo() METHOD
+RefactoringAction 1497004169900 TestPlanetExplorer.java RENAME test_OkretanjeULevo()=>void test_OkretanjeLevo()/2 METHOD
+RefactoringAction 1497004171930 TestPlanetExplorer.java RENAME test_OkretanjeLevo()/2=>void test_OkretanjeLevo2() METHOD
+RefactoringAction 1497004173464 TestPlanetExplorer.java RENAME test_OkretanjeLevo2()=>void test_OkretanjeLevo2Puta() METHOD
+EditAction 1497004185389 TestPlanetExplorer.java 1260 5 15 5
+UnitTestCaseAction 1497004189631 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004189632 TestPlanetExplorer.java OK
+RefactoringAction 1497004198585 TestPlanetExplorer.java ADD void test_OkretanjeLevo2Puta()/2 METHOD
+RefactoringAction 1497004201140 TestPlanetExplorer.java RENAME test_OkretanjeLevo2Puta()/2=>void test_OkretanjeLevo3Puta() METHOD
+EditAction 1497004207713 TestPlanetExplorer.java 1489 6 18 6
+UnitTestCaseAction 1497004211788 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004211789 TestPlanetExplorer.java OK
+RefactoringAction 1497004217279 TestPlanetExplorer.java ADD void test_OkretanjeLevo3Puta()/2 METHOD
+RefactoringAction 1497004220325 TestPlanetExplorer.java RENAME test_OkretanjeLevo3Puta()/2=>void test_OkretanjeLevoRPuta() METHOD
+RefactoringAction 1497004222359 TestPlanetExplorer.java RENAME test_OkretanjeLevoRPuta()=>void test_OkretanjeLevo4Puta() METHOD
+EditAction 1497004229240 TestPlanetExplorer.java 1717 7 21 7
+UnitTestCaseAction 1497004233539 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004233540 TestPlanetExplorer.java OK
+RefactoringAction 1497004242960 TestPlanetExplorer.java ADD void test_OkretanjeLevo()/2 METHOD
+RefactoringAction 1497004242963 TestPlanetExplorer.java ADD void test_OkretanjeLevo2Puta()/2 METHOD
+RefactoringAction 1497004242967 TestPlanetExplorer.java ADD void test_OkretanjeLevo3Puta()/2 METHOD
+RefactoringAction 1497004242968 TestPlanetExplorer.java ADD void test_OkretanjeLevo4Puta()/2 METHOD
+RefactoringAction 1497004249021 TestPlanetExplorer.java RENAME test_OkretanjeLevo()/2=>void test_OkretanjeDesno() METHOD
+RefactoringAction 1497004253066 TestPlanetExplorer.java RENAME test_OkretanjeLevo2Puta()/2=>void test_OkretanjeDesno2Puta() METHOD
+RefactoringAction 1497004256616 TestPlanetExplorer.java RENAME test_OkretanjeLevo3Puta()/2=>void test_OkretanjeDesno3Puta() METHOD
+RefactoringAction 1497004259655 TestPlanetExplorer.java RENAME test_OkretanjeLevo4Puta()/2=>void test_OkretanjeDesno4Puta() METHOD
+EditAction 1497004302320 TestPlanetExplorer.java 2628 11 33 11
+EditAction 1497004339735 PlanetExplorer.java 2044 2 9 0
+UnitTestCaseAction 1497004345109 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004345111 TestPlanetExplorer.java FAIL
+EditAction 1497004367988 PlanetExplorer.java 2044 2 9 0
+UnitTestCaseAction 1497004373944 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004373947 TestPlanetExplorer.java OK
+EditAction 1497004480224 PlanetExplorer.java 2121 2 9 0
+RefactoringAction 1497004498191 TestPlanetExplorer.java ADD void test_ProveraStartnePozicije()/2 METHOD
+RefactoringAction 1497004498194 TestPlanetExplorer.java ADD void test_StartnaPozicijaIKretanjeForward()/2 METHOD
+RefactoringAction 1497004498195 TestPlanetExplorer.java ADD void test_StartnaPozicijaIKretanjeForward2Puta()/2 METHOD
+RefactoringAction 1497004506745 TestPlanetExplorer.java REMOVE test_ProveraStartnePozicije()/2 METHOD
+RefactoringAction 1497004514799 TestPlanetExplorer.java RENAME test_StartnaPozicijaIKretanjeForward()/2=>void test_StartnaPozicijaIKretanjeBack() METHOD
+RefactoringAction 1497004534374 TestPlanetExplorer.java REMOVE test_StartnaPozicijaIKretanjeForward2Puta()/2 METHOD
+EditAction 1497004543714 TestPlanetExplorer.java 2866 12 36 12
+UnitTestCaseAction 1497004552784 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004552787 TestPlanetExplorer.java OK
+EditAction 1497004636259 PlanetExplorer.java 2256 2 9 0
+RefactoringAction 1497004655096 TestPlanetExplorer.java ADD void test_OkretanjeDesno4Puta()/2 METHOD
+RefactoringAction 1497004661652 TestPlanetExplorer.java RENAME test_OkretanjeDesno4Puta()/2=>void test_Kretanje() METHOD
+RefactoringAction 1497004664686 TestPlanetExplorer.java RENAME test_Kretanje()=>void test_KretanjeEast() METHOD
+EditAction 1497004688393 TestPlanetExplorer.java 3088 13 39 13
+UnitTestCaseAction 1497004692478 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004692480 TestPlanetExplorer.java OK
+RefactoringAction 1497004700521 TestPlanetExplorer.java ADD void test_KretanjeEast()/2 METHOD
+RefactoringAction 1497004704603 TestPlanetExplorer.java RENAME test_KretanjeEast()/2=>void test_KretanjeEast2Puta() METHOD
+RefactoringAction 1497004718684 TestPlanetExplorer.java RENAME test_KretanjeEast()=>void test_KretanjeEastF() METHOD
+RefactoringAction 1497004721717 TestPlanetExplorer.java RENAME test_KretanjeEast2Puta()=>void test_KretanjeEast2PutaF() METHOD
+EditAction 1497004727535 TestPlanetExplorer.java 3318 14 42 14
+UnitTestCaseAction 1497004734153 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004734154 TestPlanetExplorer.java OK
+RefactoringAction 1497004740325 TestPlanetExplorer.java ADD void test_KretanjeEast2PutaF()/2 METHOD
+RefactoringAction 1497004747400 TestPlanetExplorer.java RENAME test_KretanjeEast2PutaF()/2=>void test_KretanjeEast2F() METHOD
+RefactoringAction 1497004748436 TestPlanetExplorer.java RENAME test_KretanjeEast2F()=>void test_KretanjeEastF()/2 METHOD
+RefactoringAction 1497004750465 TestPlanetExplorer.java RENAME test_KretanjeEastF()/2=>void test_KretanjeEastB() METHOD
+RefactoringAction 1497004766585 TestPlanetExplorer.java ADD void test_KretanjeEastB()/2 METHOD
+RefactoringAction 1497004771123 TestPlanetExplorer.java RENAME test_KretanjeEastB()/2=>void test_KretanjeEast2PutaB() METHOD
+EditAction 1497004778531 TestPlanetExplorer.java 3774 16 48 16
+EditAction 1497004785544 TestPlanetExplorer.java 3774 16 48 16
+UnitTestCaseAction 1497004789617 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004789619 TestPlanetExplorer.java FAIL
+EditAction 1497004836793 PlanetExplorer.java 2301 2 9 0
+UnitTestCaseAction 1497004843816 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004843819 TestPlanetExplorer.java OK
+RefactoringAction 1497004855285 TestPlanetExplorer.java ADD void test_KretanjeEastF()/2 METHOD
+RefactoringAction 1497004855285 TestPlanetExplorer.java ADD void test_KretanjeEast2PutaF()/2 METHOD
+RefactoringAction 1497004855286 TestPlanetExplorer.java ADD void test_KretanjeEastB()/2 METHOD
+RefactoringAction 1497004855288 TestPlanetExplorer.java ADD void test_KretanjeEast2PutaB()/2 METHOD
+RefactoringAction 1497004860351 TestPlanetExplorer.java RENAME test_KretanjeEastF()/2=>void test_KretanjeWestF() METHOD
+RefactoringAction 1497004863393 TestPlanetExplorer.java RENAME test_KretanjeEast2PutaF()/2=>void test_KretanjeW2PutaF() METHOD
+RefactoringAction 1497004864460 TestPlanetExplorer.java RENAME test_KretanjeW2PutaF()=>void test_KretanjeWs2PutaF() METHOD
+RefactoringAction 1497004865514 TestPlanetExplorer.java RENAME test_KretanjeWs2PutaF()=>void test_KretanjeWest2PutaF() METHOD
+RefactoringAction 1497004870590 TestPlanetExplorer.java RENAME test_KretanjeEastB()/2=>void test_KretanjeWestB() METHOD
+RefactoringAction 1497004873642 TestPlanetExplorer.java RENAME test_KretanjeEast2PutaB()/2=>void test_KretanjeWest2PutaB() METHOD
+EditAction 1497004942229 PlanetExplorer.java 2391 2 9 0
+EditAction 1497005031754 TestPlanetExplorer.java 4686 20 60 20
+UnitTestCaseAction 1497005036348 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005036349 TestPlanetExplorer.java FAIL
+EditAction 1497005056247 TestPlanetExplorer.java 4686 20 60 20
+UnitTestCaseAction 1497005060475 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005060477 TestPlanetExplorer.java OK
+EditAction 1497005233996 PlanetExplorer.java 2444 2 9 0
+RefactoringAction 1497005242550 TestPlanetExplorer.java ADD void test_KretanjeWest2PutaB()/2 METHOD
+RefactoringAction 1497005249156 TestPlanetExplorer.java RENAME test_KretanjeWest2PutaB()/2=>void test_KretanjeF() METHOD
+RefactoringAction 1497005252724 TestPlanetExplorer.java RENAME test_KretanjeF()=>void test_KretanjeForw() METHOD
+RefactoringAction 1497005254778 TestPlanetExplorer.java RENAME test_KretanjeForw()=>void test_KretanjeForward() METHOD
+RefactoringAction 1497005256836 TestPlanetExplorer.java RENAME test_KretanjeForward()=>void test_KretanjeForward3Puta() METHOD
+RefactoringAction 1497005257887 TestPlanetExplorer.java RENAME test_KretanjeForward3Puta()=>void test_KretanjeForward3PutaU() METHOD
+RefactoringAction 1497005260422 TestPlanetExplorer.java RENAME test_KretanjeForward3PutaU()=>void test_KretanjeForward3PutaU3x3() METHOD
+RefactoringAction 1497005267467 TestPlanetExplorer.java RENAME test_KretanjeForward3PutaU3x3()=>void test_KretanjeForward3PutaU3x3Matrici() METHOD
+EditAction 1497005281319 TestPlanetExplorer.java 4928 21 63 21
+UnitTestCaseAction 1497005285627 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005285630 TestPlanetExplorer.java OK
+EditAction 1497005457207 PlanetExplorer.java 2633 2 9 0
+RefactoringAction 1497005466762 TestPlanetExplorer.java ADD void test_KretanjeForward3PutaU3x3Matrici()/2 METHOD
+RefactoringAction 1497005474811 TestPlanetExplorer.java RENAME test_KretanjeForward3PutaU3x3Matrici()/2=>void test_KretanjeForwardNorth3PutaU3x3Matrici() METHOD
+RefactoringAction 1497005481857 TestPlanetExplorer.java RENAME test_KretanjeForward3PutaU3x3Matrici()=>void test_KretanjeForwardNorth3PutaU3x3Matrici()/2 METHOD
+RefactoringAction 1497005487437 TestPlanetExplorer.java RENAME test_KretanjeForwardNorth3PutaU3x3Matrici()/2=>void test_KretanjeForwardSouth3PutaU3x3Matrici() METHOD
+RefactoringAction 1497005494510 TestPlanetExplorer.java RENAME test_KretanjeForwardSouth3PutaU3x3Matrici()=>void test_KretanjeForwardSouth1PutaU3x3Matrici() METHOD
+RefactoringAction 1497005498571 TestPlanetExplorer.java RENAME test_KretanjeForwardSouth1PutaU3x3Matrici()=>void test_KretanjeForwardSouthU3x3Matrici() METHOD
+EditAction 1497005519418 TestPlanetExplorer.java 5175 22 66 22
+UnitTestCaseAction 1497005523807 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005523809 TestPlanetExplorer.java OK
+RefactoringAction 1497005533333 TestPlanetExplorer.java ADD void test_KretanjeForwardSouthU3x3Matrici()/2 METHOD
+RefactoringAction 1497005542381 TestPlanetExplorer.java RENAME test_KretanjeForwardSouthU3x3Matrici()/2=>void test_KretanjeForwardSouth3U3x3Matrici() METHOD
+EditAction 1497005556817 TestPlanetExplorer.java 5418 23 69 23
+UnitTestCaseAction 1497005561447 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005561449 TestPlanetExplorer.java OK
+RefactoringAction 1497005597601 TestPlanetExplorer.java ADD void test_KretanjeForwardSouth3U3x3Matrici()/2 METHOD
+RefactoringAction 1497005604143 TestPlanetExplorer.java RENAME test_KretanjeForwardSouth3U3x3Matrici()/2=>void test_KretanjeForwardEasst3U3x3Matrici() METHOD
+RefactoringAction 1497005606182 TestPlanetExplorer.java RENAME test_KretanjeForwardEasst3U3x3Matrici()=>void test_KretanjeForwardEast3U3x3Matrici() METHOD
+EditAction 1497005628174 TestPlanetExplorer.java 5663 24 72 24
+UnitTestCaseAction 1497005632531 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005632534 TestPlanetExplorer.java OK
+RefactoringAction 1497005639305 TestPlanetExplorer.java ADD void test_KretanjeForwardEast3U3x3Matrici()/2 METHOD
+RefactoringAction 1497005643938 TestPlanetExplorer.java RENAME test_KretanjeForwardEast3U3x3Matrici()/2=>void test_KretanjeForwardWest3U3x3Matrici() METHOD
+RefactoringAction 1497005670986 TestPlanetExplorer.java RENAME test_KretanjeForwardWest3U3x3Matrici()=>void test_KretanjeForwardWestU3x3Matrici() METHOD
+RefactoringAction 1497005675545 TestPlanetExplorer.java RENAME test_KretanjeForwardEast3U3x3Matrici()=>void test_KretanjeForwardEast3PutaU3x3Matrici() METHOD
+RefactoringAction 1497005679610 TestPlanetExplorer.java RENAME test_KretanjeForwardSouth3U3x3Matrici()=>void test_KretanjeForwardSouth3PutaU3x3Matrici() METHOD
+EditAction 1497005715401 TestPlanetExplorer.java 5911 25 75 25
+UnitTestCaseAction 1497005720116 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005720118 TestPlanetExplorer.java OK
+RefactoringAction 1497005724986 TestPlanetExplorer.java ADD void test_KretanjeForwardWestU3x3Matrici()/2 METHOD
+RefactoringAction 1497005731027 TestPlanetExplorer.java RENAME test_KretanjeForwardWestU3x3Matrici()/2=>void test_KretanjeForwardWest3PutaU3x3Matrici() METHOD
+EditAction 1497005738313 TestPlanetExplorer.java 6158 26 78 26
+UnitTestCaseAction 1497005745372 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005745373 TestPlanetExplorer.java OK
+EditAction 1497005879562 PlanetExplorer.java 2633 2 9 0
+RefactoringAction 1497005912402 PlanetExplorer.java ADD boolean chech FIELD
+RefactoringAction 1497005915460 PlanetExplorer.java RENAME chech=>boolean chechObstacles FIELD
+RefactoringAction 1497005918002 PlanetExplorer.java RENAME chechObstacles=>boolean chechObstacles() METHOD
+RefactoringAction 1497005937588 PlanetExplorer.java RENAME chechObstacles()=>boolean chechObstacles(int) METHOD
+RefactoringAction 1497005943689 PlanetExplorer.java RENAME chechObstacles(int)=>boolean chechObstacles(int, int) METHOD
+RefactoringAction 1497006370819 PlanetExplorer.java RENAME chechObstacles(int, int)=>boolean chechObstacles() METHOD
+RefactoringAction 1497006373853 PlanetExplorer.java REMOVE chechObstacles() METHOD
+RefactoringAction 1497006453297 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+RefactoringAction 1497006456820 PlanetExplorerException.java RENAME PlanetExplorerException()=>PlanetExplorerException(String) METHOD
+RefactoringAction 1497006547945 PlanetExplorerException.java REMOVE PlanetExplorerException(String) METHOD
+EditAction 1497006675302 PlanetExplorer.java 2823 2 10 0
+EditAction 1497006678386 PlanetExplorerException.java 62 0 0 0
+EditAction 1497006688613 PlanetExplorer.java 2823 2 10 0
+EditAction 1497006742377 PlanetExplorer.java 2881 2 10 0

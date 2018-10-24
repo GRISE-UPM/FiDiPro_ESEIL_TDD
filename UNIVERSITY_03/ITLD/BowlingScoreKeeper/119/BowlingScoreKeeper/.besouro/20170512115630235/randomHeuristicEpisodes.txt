@@ -1,0 +1,9 @@
+1494583166692 test-last 1 175 false
+1494583317162 test-last 1 61 false
+1494583544142 test-last 1 178 false
+1494583822259 refactoring 2A 245 false
+1494584668915 refactoring 3 633 true
+1494584691587 refactoring 1A 3 true
+1494584742155 regression 1 3 true
+1494584771111 refactoring 2A 6 true
+1494584800062 refactoring 2A 5 false

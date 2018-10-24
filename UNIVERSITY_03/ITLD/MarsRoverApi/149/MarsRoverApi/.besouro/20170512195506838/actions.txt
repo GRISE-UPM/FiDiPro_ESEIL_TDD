@@ -1,0 +1,221 @@
+FileOpenedAction 1494611863569 TestPlanetExplorer.java 174 1 1 0
+FileOpenedAction 1494611866294 PlanetExplorerException.java 61 0 0 0
+RefactoringAction 1494611884394 PlanetExplorerException.java ADD String toString() METHOD
+EditAction 1494611912204 PlanetExplorerException.java 127 1 1 0
+FileOpenedAction 1494611927037 PlanetExplorer.java 1245 2 1 0
+RefactoringAction 1494612022010 PlanetExplorer.java RENAME Vozilo=>class VoziloP null
+RefactoringAction 1494612023539 PlanetExplorer.java RENAME VoziloP=>class Vozilo null
+RefactoringAction 1494612045697 PlanetExplorer.java ADD int xPoz FIELD
+RefactoringAction 1494612048223 PlanetExplorer.java ADD int yPoz FIELD
+RefactoringAction 1494612082374 PlanetExplorer.java ADD String fa FIELD
+RefactoringAction 1494612083896 PlanetExplorer.java RENAME fa=>String face FIELD
+RefactoringAction 1494612095493 PlanetExplorer.java ADD Vozilo() METHOD
+RefactoringAction 1494612095497 PlanetExplorer.java ADD void PlanetExplorer(int, int, String) METHOD
+RefactoringAction 1494612095498 PlanetExplorer.java ADD String executeCommand(String) METHOD
+RefactoringAction 1494612098531 PlanetExplorer.java ADD PlanetExplorer(int, int, String) METHOD
+RefactoringAction 1494612098533 PlanetExplorer.java ADD String executeCommand(String) METHOD
+EditAction 1494612126270 PlanetExplorer.java 1392 3 2 0
+RefactoringAction 1494612226069 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612226071 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494612236657 PlanetExplorer.java REMOVE y FIELD
+RefactoringAction 1494612236659 PlanetExplorer.java REMOVE x FIELD
+RefactoringAction 1494612239684 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494612239688 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494612246218 PlanetExplorer.java ADD String o FIELD
+RefactoringAction 1494612248245 PlanetExplorer.java RENAME o=>String obsta FIELD
+RefactoringAction 1494612250771 PlanetExplorer.java RENAME obsta=>String obstacles FIELD
+RefactoringAction 1494612274354 PlanetExplorer.java ADD Vozilo robo FIELD
+RefactoringAction 1494612275394 PlanetExplorer.java RENAME robo=>Vozilo robot FIELD
+EditAction 1494612323599 PlanetExplorer.java 1515 3 5 0
+RefactoringAction 1494612574300 PlanetExplorer.java ADD String chec FIELD
+RefactoringAction 1494612579339 PlanetExplorer.java RENAME chec=>boolean c FIELD
+RefactoringAction 1494612580371 PlanetExplorer.java RENAME c=>boolean check FIELD
+RefactoringAction 1494612599496 PlanetExplorer.java RENAME check=>boolean checkMove FIELD
+RefactoringAction 1494612602528 PlanetExplorer.java RENAME checkMove=>boolean checkMove() METHOD
+RefactoringAction 1494612646197 PlanetExplorer.java ADD int granica FIELD
+RefactoringAction 1494612676307 PlanetExplorer.java RENAME checkMove()=>boolean checkMove(int, int) METHOD
+RefactoringAction 1494612926140 Point.java ADD Point.java CLASS
+FileOpenedAction 1494612926759 Point.java 29 0 0 0
+RefactoringAction 1494612935764 Point.java ADD int x FIELD
+RefactoringAction 1494612940773 Point.java ADD int b FIELD
+RefactoringAction 1494612949319 Point.java ADD Point() METHOD
+EditAction 1494612952094 Point.java 90 1 0 0
+RefactoringAction 1494612966638 PlanetExplorer.java REMOVE obstacles FIELD
+RefactoringAction 1494612989288 PlanetExplorer.java ADD List<Point> obstacles FIELD
+CompilationAction 1494612990178 PlanetExplorer.java
+CompilationAction 1494612990179 PlanetExplorer.java
+RefactoringAction 1494613011605 PlanetExplorer.java ADD import java.util.List IMPORT
+CompilationAction 1494613014510 PlanetExplorer.java
+CompilationAction 1494613014511 PlanetExplorer.java
+CompilationAction 1494613014884 PlanetExplorer.java
+RefactoringAction 1494613097062 PlanetExplorer.java RENAME checkMove(int, int)=>boolean checkMove() METHOD
+RefactoringAction 1494613098592 PlanetExplorer.java RENAME checkMove()=>boolean checkMove(String) METHOD
+CompilationAction 1494613134391 PlanetExplorer.java
+EditAction 1494613179330 PlanetExplorer.java 859 4 9 0
+RefactoringAction 1494613344369 PlanetExplorer.java ADD PlanetExplorer(int) METHOD
+RefactoringAction 1494613345895 PlanetExplorer.java RENAME PlanetExplorer(int)=>PlanetExplorer(int, int) METHOD
+RefactoringAction 1494613354456 PlanetExplorer.java RENAME PlanetExplorer(int, int)=>PlanetExplorer(int, int, List<Point>) METHOD
+RefactoringAction 1494613482999 Point.java ADD int getX() METHOD
+RefactoringAction 1494613483001 Point.java ADD void setX(int) METHOD
+RefactoringAction 1494613483002 Point.java ADD int getB() METHOD
+RefactoringAction 1494613483003 Point.java ADD void setB(int) METHOD
+RefactoringAction 1494613486530 Point.java RENAME b=>int y FIELD
+RefactoringAction 1494613490552 Point.java RENAME getB()=>int getY() METHOD
+RefactoringAction 1494613497088 Point.java RENAME setB(int)=>void setY(int) METHOD
+EditAction 1494613581750 PlanetExplorer.java 1011 5 9 0
+RefactoringAction 1494613635641 TestPlanetExplorer.java ADD PlanetExplorer brod FIELD
+EditAction 1494613638077 TestPlanetExplorer.java 203 1 1 0
+RefactoringAction 1494613758803 TestPlanetExplorer.java ADD List<Point> obs FIELD
+EditAction 1494613794279 TestPlanetExplorer.java 249 1 1 0
+CompilationAction 1494613797243 TestPlanetExplorer.java
+RefactoringAction 1494613801303 TestPlanetExplorer.java ADD import java.awt.List IMPORT
+CompilationAction 1494613807929 TestPlanetExplorer.java
+CompilationAction 1494613808203 TestPlanetExplorer.java
+RefactoringAction 1494613825683 TestPlanetExplorer.java RENAME import java.awt.List=>import java.util IMPORT
+CompilationAction 1494613825722 TestPlanetExplorer.java
+CompilationAction 1494613826002 TestPlanetExplorer.java
+CompilationAction 1494613826003 TestPlanetExplorer.java
+RefactoringAction 1494613838232 TestPlanetExplorer.java RENAME import java.util=>import java.util.List IMPORT
+CompilationAction 1494613839097 TestPlanetExplorer.java
+CompilationAction 1494613839099 TestPlanetExplorer.java
+CompilationAction 1494613839381 TestPlanetExplorer.java
+CompilationAction 1494613846274 TestPlanetExplorer.java
+CompilationAction 1494613846546 TestPlanetExplorer.java
+EditAction 1494613880104 TestPlanetExplorer.java 266 1 1 0
+CompilationAction 1494613883299 TestPlanetExplorer.java
+CompilationAction 1494613891951 TestPlanetExplorer.java
+RefactoringAction 1494613952504 PlanetExplorer.java REMOVE PlanetExplorer(int, int, List<Point>) METHOD
+CompilationAction 1494613954491 PlanetExplorer.java
+EditAction 1494614021689 PlanetExplorer.java 901 4 10 0
+CompilationAction 1494614024845 PlanetExplorer.java
+EditAction 1494614031235 PlanetExplorer.java 897 4 10 0
+EditAction 1494614136245 PlanetExplorer.java 1021 4 11 0
+CompilationAction 1494614139568 PlanetExplorer.java
+EditAction 1494614164790 PlanetExplorer.java 1071 4 11 0
+CompilationAction 1494614167929 PlanetExplorer.java
+EditAction 1494614173974 PlanetExplorer.java 1074 4 11 0
+RefactoringAction 1494614184294 TestPlanetExplorer.java REMOVE obs FIELD
+CompilationAction 1494614208965 TestPlanetExplorer.java
+CompilationAction 1494614208968 TestPlanetExplorer.java
+CompilationAction 1494614243653 TestPlanetExplorer.java
+CompilationAction 1494614243654 TestPlanetExplorer.java
+CompilationAction 1494614273021 TestPlanetExplorer.java
+CompilationAction 1494614273022 TestPlanetExplorer.java
+RefactoringAction 1494614297761 PlanetExplorer.java ADD Sting toString() METHOD
+EditAction 1494614351064 PlanetExplorer.java 1111 5 12 0
+CompilationAction 1494614354567 PlanetExplorer.java
+CompilationAction 1494614362502 PlanetExplorer.java
+EditAction 1494614388437 PlanetExplorer.java 1124 5 12 0
+EditAction 1494614489289 PlanetExplorer.java 1143 5 12 0
+EditAction 1494614496171 TestPlanetExplorer.java 282 1 2 1
+UnitTestCaseAction 1494614502942 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614502945 TestPlanetExplorer.java FAIL
+EditAction 1494614529369 TestPlanetExplorer.java 311 1 0 0
+CompilationAction 1494614532480 TestPlanetExplorer.java
+EditAction 1494614538078 TestPlanetExplorer.java 311 1 2 1
+UnitTestCaseAction 1494614543210 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614543211 TestPlanetExplorer.java FAIL
+RefactoringAction 1494614650922 Point.java REMOVE Point.java CLASS
+EditAction 1494614675401 TestPlanetExplorer.java 336 1 3 1
+UnitTestCaseAction 1494614680477 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614680480 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494614684278 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614684279 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494614684382 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614684385 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494614689567 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614689570 TestPlanetExplorer.java FAIL
+RefactoringAction 1494614721502 PlanetExplorer.java ADD String komande FIELD
+EditAction 1494614744965 PlanetExplorer.java 1172 5 12 0
+RefactoringAction 1494614767266 PlanetExplorer.java REMOVE komande FIELD
+RefactoringAction 1494614783831 PlanetExplorer.java ADD String getKomande() METHOD
+RefactoringAction 1494614783833 PlanetExplorer.java ADD void setKomande(String) METHOD
+EditAction 1494614784925 PlanetExplorer.java 1295 7 14 0
+EditAction 1494614849502 PlanetExplorer.java 1291 7 14 0
+UnitTestCaseAction 1494614856048 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614856052 TestPlanetExplorer.java FAIL
+RefactoringAction 1494614874793 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494614875819 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1494614883843 TestPlanetExplorer.java RENAME test_=>void test_Try FIELD
+RefactoringAction 1494614885874 TestPlanetExplorer.java RENAME test_Try=>void test_TryMoving FIELD
+RefactoringAction 1494614887394 TestPlanetExplorer.java RENAME test_TryMoving=>void test_TryMovingForw FIELD
+RefactoringAction 1494614888417 TestPlanetExplorer.java RENAME test_TryMovingForw=>void test_TryMovingForw() METHOD
+EditAction 1494614893164 TestPlanetExplorer.java 384 2 3 1
+EditAction 1494614919116 TestPlanetExplorer.java 447 2 5 1
+RefactoringAction 1494614960307 PlanetExplorer.java RENAME Vozilo=>int xPoz FIELD
+RefactoringAction 1494614964929 PlanetExplorer.java REMOVE Vozilo() METHOD
+CompilationAction 1494614977715 PlanetExplorer.java
+CompilationAction 1494614977716 PlanetExplorer.java
+RefactoringAction 1494614985133 PlanetExplorer.java REMOVE robot FIELD
+CompilationAction 1494614986084 PlanetExplorer.java
+CompilationAction 1494614986410 PlanetExplorer.java
+CompilationAction 1494615005000 PlanetExplorer.java
+UnitTestCaseAction 1494615013062 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615013063 TestPlanetExplorer.java OK
+EditAction 1494615101366 PlanetExplorer.java 1334 6 10 0
+CompilationAction 1494615104740 PlanetExplorer.java
+CompilationAction 1494615139421 PlanetExplorer.java
+EditAction 1494615194931 PlanetExplorer.java 1377 6 14 0
+RefactoringAction 1494615216904 PlanetExplorer.java REMOVE komande FIELD
+RefactoringAction 1494615219434 PlanetExplorer.java REMOVE setKomande(String) METHOD
+RefactoringAction 1494615219435 PlanetExplorer.java REMOVE getKomande() METHOD
+CompilationAction 1494615220421 TestPlanetExplorer.java
+CompilationAction 1494615319976 PlanetExplorer.java
+CompilationAction 1494615319977 PlanetExplorer.java
+CompilationAction 1494615319978 PlanetExplorer.java
+CompilationAction 1494615319979 PlanetExplorer.java
+CompilationAction 1494615319979 PlanetExplorer.java
+RefactoringAction 1494615413570 PlanetExplorer.java REMOVE checkMove(String) METHOD
+CompilationAction 1494615440744 PlanetExplorer.java
+CompilationAction 1494615440745 PlanetExplorer.java
+CompilationAction 1494615440749 PlanetExplorer.java
+CompilationAction 1494615441144 PlanetExplorer.java
+CompilationAction 1494615441145 TestPlanetExplorer.java
+CompilationAction 1494615480957 PlanetExplorer.java
+CompilationAction 1494615481293 PlanetExplorer.java
+CompilationAction 1494615481294 TestPlanetExplorer.java
+EditAction 1494615495956 PlanetExplorer.java 1148 3 9 0
+CompilationAction 1494615498785 PlanetExplorer.java
+RefactoringAction 1494615533747 PlanetExplorer.java REMOVE toString() METHOD
+EditAction 1494615577354 PlanetExplorer.java 1209 2 9 0
+CompilationAction 1494615580444 TestPlanetExplorer.java
+CompilationAction 1494615598621 TestPlanetExplorer.java
+CompilationAction 1494615598865 TestPlanetExplorer.java
+CompilationAction 1494615598866 TestPlanetExplorer.java
+RefactoringAction 1494615654772 PlanetExplorer.java ADD String to FIELD
+RefactoringAction 1494615656808 PlanetExplorer.java RENAME to=>String tostring() METHOD
+RefactoringAction 1494615659840 PlanetExplorer.java RENAME tostring()=>String toString() METHOD
+EditAction 1494615668397 PlanetExplorer.java 1281 3 10 0
+CompilationAction 1494615673696 TestPlanetExplorer.java
+CompilationAction 1494615673697 TestPlanetExplorer.java
+EditAction 1494615697449 TestPlanetExplorer.java 584 2 7 2
+UnitTestCaseAction 1494615704663 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615704664 TestPlanetExplorer.java FAIL
+EditAction 1494615743732 TestPlanetExplorer.java 585 2 7 2
+UnitTestCaseAction 1494615747953 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615747954 TestPlanetExplorer.java FAIL
+EditAction 1494615754216 TestPlanetExplorer.java 585 2 7 2
+EditAction 1494615801228 TestPlanetExplorer.java 594 2 7 2
+EditAction 1494615811115 TestPlanetExplorer.java 556 2 6 2
+UnitTestCaseAction 1494615818108 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615818110 TestPlanetExplorer.java FAIL
+RefactoringAction 1494616011477 TestPlanetExplorer.java REMOVE test_TryMovingForw() METHOD
+EditAction 1494616012222 TestPlanetExplorer.java 341 1 3 1
+UnitTestCaseAction 1494616016639 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616016641 TestPlanetExplorer.java OK
+RefactoringAction 1494616151707 TestPlanetExplorer.java ADD void te FIELD
+RefactoringAction 1494616152726 TestPlanetExplorer.java RENAME te=>void testt FIELD
+RefactoringAction 1494616154250 TestPlanetExplorer.java RENAME testt=>void test FIELD
+EditAction 1494616304845 PlanetExplorer.java 1488 3 10 0
+EditAction 1494616329361 PlanetExplorer.java 1698 3 10 0
+EditAction 1494616436820 PlanetExplorer.java 2110 3 10 0
+EditAction 1494616473653 TestPlanetExplorer.java 366 1 3 1
+CompilationAction 1494616479675 TestPlanetExplorer.java
+CompilationAction 1494616479675 TestPlanetExplorer.java
+CompilationAction 1494616479675 TestPlanetExplorer.java
+RefactoringAction 1494616485947 TestPlanetExplorer.java REMOVE test FIELD
+CompilationAction 1494616486415 TestPlanetExplorer.java
+CompilationAction 1494616486415 TestPlanetExplorer.java
+CompilationAction 1494616486415 TestPlanetExplorer.java
+UnitTestCaseAction 1494616488615 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616488615 TestPlanetExplorer.java OK

@@ -1,0 +1,184 @@
+FileOpenedAction 1497011061786 BowlingException.java 175 2 2 0
+RefactoringAction 1497011114941 TestBowling.java REMOVE test() METHOD
+EditAction 1497011115247 TestBowling.java 101 0 0 0
+RefactoringAction 1497011159165 TestBowling.java ADD Frame fr FIELD
+RefactoringAction 1497011165206 TestBowling.java ADD BowlingGame bg FIELD
+EditAction 1497011165376 TestBowling.java 129 0 0 0
+RefactoringAction 1497011176262 TestBowling.java ADD void testIfScoreIsproperlyReturned() METHOD
+EditAction 1497011209977 TestBowling.java 248 1 2 1
+UnitTestCaseAction 1497011216181 TestBowling.java FAIL
+UnitTestSessionAction 1497011216182 TestBowling.java FAIL
+EditAction 1497011255524 Frame.java 780 6 8 0
+CompilationAction 1497011255698 Frame.java
+CompilationAction 1497011259900 Frame.java
+CompilationAction 1497011260095 TestBowling.java
+EditAction 1497011261958 Frame.java 808 6 8 0
+EditAction 1497011274866 Frame.java 818 6 8 0
+CompilationAction 1497011280649 TestBowling.java
+UnitTestCaseAction 1497011284308 TestBowling.java OK
+UnitTestSessionAction 1497011284308 TestBowling.java OK
+RefactoringAction 1497011300214 TestBowling.java ADD void testWhenScoreInFrameIsHigherThan10 FIELD
+RefactoringAction 1497011302229 TestBowling.java RENAME testWhenScoreInFrameIsHigherThan10=>void testWhenScoreInFrameIsHigherThan10() METHOD
+EditAction 1497011310540 TestBowling.java 376 2 2 1
+EditAction 1497011316106 TestBowling.java 396 2 3 1
+CompilationAction 1497011316272 TestBowling.java
+CompilationAction 1497011323078 TestBowling.java
+UnitTestCaseAction 1497011326533 TestBowling.java OK
+UnitTestSessionAction 1497011326534 TestBowling.java OK
+RefactoringAction 1497011345012 TestBowling.java ADD void testIfFrameIs FIELD
+RefactoringAction 1497011347543 TestBowling.java RENAME testIfFrameIs=>void testIfFrameIsSpare() METHOD
+EditAction 1497011357858 TestBowling.java 495 3 4 1
+CompilationAction 1497011358027 TestBowling.java
+CompilationAction 1497011367283 TestBowling.java
+EditAction 1497011380376 TestBowling.java 548 3 5 2
+UnitTestCaseAction 1497011384947 TestBowling.java FAIL
+UnitTestSessionAction 1497011384947 TestBowling.java FAIL
+EditAction 1497011391958 Frame.java 799 6 8 0
+EditAction 1497011421884 Frame.java 835 6 8 0
+UnitTestCaseAction 1497011425805 TestBowling.java OK
+UnitTestSessionAction 1497011425805 TestBowling.java OK
+RefactoringAction 1497011441212 TestBowling.java ADD void testIf FIELD
+RefactoringAction 1497011445745 TestBowling.java RENAME testIf=>void testIfFrameIsStrike() METHOD
+EditAction 1497011451139 TestBowling.java 628 4 5 2
+EditAction 1497011458959 TestBowling.java 653 4 6 2
+EditAction 1497011465604 TestBowling.java 679 4 7 3
+UnitTestCaseAction 1497011469990 TestBowling.java FAIL
+UnitTestSessionAction 1497011469991 TestBowling.java FAIL
+EditAction 1497011477679 Frame.java 799 6 7 0
+CompilationAction 1497011477832 Frame.java
+EditAction 1497011498152 Frame.java 823 6 8 0
+UnitTestCaseAction 1497011501289 TestBowling.java OK
+UnitTestSessionAction 1497011501289 TestBowling.java OK
+RefactoringAction 1497011587022 TestBowling.java ADD void test FIELD
+RefactoringAction 1497011593553 TestBowling.java RENAME test=>void testIfFramesAreAddedCorrectly() METHOD
+EditAction 1497011605551 TestBowling.java 769 5 7 3
+RefactoringAction 1497011653012 BowlingGame.java ADD List<Frame> getFrames() METHOD
+RefactoringAction 1497011653012 BowlingGame.java ADD void setFrames(List<Frame>) METHOD
+RefactoringAction 1497011653012 BowlingGame.java ADD Frame getBonus() METHOD
+RefactoringAction 1497011653012 BowlingGame.java ADD void setBonus(Frame) METHOD
+EditAction 1497011654392 BowlingGame.java 962 8 5 0
+EditAction 1497011664455 TestBowling.java 796 5 8 3
+EditAction 1497011674077 TestBowling.java 828 5 9 3
+EditAction 1497011694091 TestBowling.java 867 5 10 4
+UnitTestCaseAction 1497011696974 TestBowling.java FAIL
+UnitTestSessionAction 1497011696975 TestBowling.java FAIL
+EditAction 1497011704024 BowlingGame.java 1073 8 6 0
+CompilationAction 1497011704179 BowlingGame.java
+CompilationAction 1497011709752 BowlingGame.java
+UnitTestCaseAction 1497011715159 TestBowling.java OK
+UnitTestSessionAction 1497011715160 TestBowling.java OK
+EditAction 1497011752114 TestBowling.java 1081 6 11 4
+RefactoringAction 1497011767189 TestBowling.java ADD void test FIELD
+RefactoringAction 1497011768212 TestBowling.java RENAME test=>void testIf FIELD
+RefactoringAction 1497011772743 TestBowling.java RENAME testIf=>void testIfThereAreMoreThan FIELD
+RefactoringAction 1497011775267 TestBowling.java RENAME testIfThereAreMoreThan=>void testIfThereAreMoreThan10Frames FIELD
+RefactoringAction 1497011776794 TestBowling.java RENAME testIfThereAreMoreThan10Frames=>void testIfThereAreMoreThan10Frames() METHOD
+EditAction 1497011777725 TestBowling.java 1175 7 11 4
+EditAction 1497011787884 TestBowling.java 1198 7 12 4
+EditAction 1497011801461 TestBowling.java 1229 7 13 4
+CompilationAction 1497011801626 TestBowling.java
+CompilationAction 1497011808232 TestBowling.java
+EditAction 1497011814033 BowlingGame.java 1099 8 6 0
+UnitTestCaseAction 1497011817073 TestBowling.java FAIL
+UnitTestSessionAction 1497011817073 TestBowling.java FAIL
+EditAction 1497011819811 BowlingGame.java 1097 8 6 0
+UnitTestCaseAction 1497011822989 TestBowling.java OK
+UnitTestSessionAction 1497011822989 TestBowling.java OK
+EditAction 1497011866182 TestBowling.java 1267 7 13 4
+RefactoringAction 1497011882010 TestBowling.java ADD void testBonusThrowsAtTheEndOfTheGame() METHOD
+EditAction 1497011882131 TestBowling.java 1526 8 17 5
+UnitTestCaseAction 1497011885486 TestBowling.java FAIL
+UnitTestSessionAction 1497011885486 TestBowling.java FAIL
+EditAction 1497011914343 TestBowling.java 1529 8 17 5
+EditAction 1497011918542 TestBowling.java 1534 8 17 5
+RefactoringAction 1497011946639 BowlingGame.java RENAME setBonus(Frame)=>void setBonus(int, int)/2 METHOD
+EditAction 1497011952044 BowlingGame.java 1215 8 6 0
+CompilationAction 1497011952261 BowlingGame.java
+EditAction 1497011969576 BowlingGame.java 1054 7 6 0
+CompilationAction 1497011969786 BowlingGame.java
+CompilationAction 1497011979573 BowlingGame.java
+UnitTestCaseAction 1497011985615 TestBowling.java OK
+UnitTestSessionAction 1497011985616 TestBowling.java OK
+EditAction 1497012013056 TestBowling.java 2033 9 30 6
+UnitTestCaseAction 1497012016688 TestBowling.java FAIL
+UnitTestSessionAction 1497012016688 TestBowling.java FAIL
+EditAction 1497012032039 TestBowling.java 2033 9 30 6
+UnitTestCaseAction 1497012034541 TestBowling.java FAIL
+UnitTestSessionAction 1497012034542 TestBowling.java FAIL
+RefactoringAction 1497012128955 BowlingGame.java REMOVE setBonus(int, int) METHOD
+EditAction 1497012134340 BowlingGame.java 1087 7 6 0
+EditAction 1497012137792 BowlingGame.java 1084 7 6 0
+EditAction 1497012141635 BowlingGame.java 1078 7 6 0
+EditAction 1497012156686 BowlingGame.java 1067 7 6 0
+EditAction 1497012161826 BowlingGame.java 1070 7 6 0
+EditAction 1497012165519 Frame.java 826 6 8 0
+EditAction 1497012169050 TestBowling.java 2038 9 30 6
+UnitTestCaseAction 1497012172573 TestBowling.java OK
+UnitTestSessionAction 1497012172573 TestBowling.testSetBonusThrowsFrameAtTheEndOfTheGame OK
+UnitTestCaseAction 1497012193053 TestBowling.java FAIL
+UnitTestSessionAction 1497012193053 TestBowling.java FAIL
+RefactoringAction 1497012242675 BowlingGame.java ADD int totalScore FIELD
+EditAction 1497012245417 BowlingGame.java 1100 7 6 0
+EditAction 1497012255906 BowlingGame.java 1421 7 5 0
+CompilationAction 1497012256091 BowlingGame.java
+CompilationAction 1497012256091 BowlingGame.java
+CompilationAction 1497012276026 BowlingGame.java
+CompilationAction 1497012276360 BowlingGame.java
+EditAction 1497012328513 Frame.java 852 6 8 0
+CompilationAction 1497012328728 BowlingGame.java
+EditAction 1497012341489 Frame.java 904 6 9 0
+EditAction 1497012346558 Frame.java 880 6 9 0
+EditAction 1497012361055 Frame.java 932 6 10 0
+RefactoringAction 1497012380023 Frame.java ADD int getFrameScore() METHOD
+RefactoringAction 1497012380023 Frame.java ADD void setFrameScore(int) METHOD
+EditAction 1497012380158 Frame.java 1076 8 12 0
+UnitTestCaseAction 1497012390470 TestBowling.java FAIL
+UnitTestSessionAction 1497012390470 TestBowling.java FAIL
+EditAction 1497012503129 BowlingGame.java 1626 7 8 0
+UnitTestCaseAction 1497012507004 TestBowling.java OK
+UnitTestSessionAction 1497012507005 TestBowling.java OK
+EditAction 1497012514103 BowlingGame.java 1625 7 8 0
+EditAction 1497012584368 TestBowling.java 2539 10 43 7
+UnitTestCaseAction 1497012586755 TestBowling.java OK
+UnitTestSessionAction 1497012586755 TestBowling.java OK
+EditAction 1497012745008 TestBowling.java 2622 10 43 7
+EditAction 1497012750531 TestBowling.java 2705 10 43 7
+EditAction 1497012807598 TestBowling.java 2803 10 43 7
+EditAction 1497012814240 TestBowling.java 2803 10 43 7
+EditAction 1497012858324 BowlingGame.java 1705 7 8 0
+EditAction 1497012876652 BowlingGame.java 1735 7 8 0
+EditAction 1497012881080 BowlingGame.java 1749 7 8 0
+EditAction 1497012901002 BowlingGame.java 1771 7 8 0
+EditAction 1497012911422 BowlingGame.java 1798 7 8 0
+UnitTestCaseAction 1497013007492 TestBowling.java OK
+UnitTestSessionAction 1497013007493 TestBowling.java OK
+RefactoringAction 1497013056860 TestBowling.java ADD void testWhenBonusScoreIsHigherThan10() METHOD
+EditAction 1497013081601 TestBowling.java 2947 11 45 7
+CompilationAction 1497013081777 TestBowling.java
+CompilationAction 1497013088370 TestBowling.java
+UnitTestCaseAction 1497013090117 TestBowling.java OK
+UnitTestSessionAction 1497013090117 TestBowling.testWhenBonusScoreIsHigherThan10 OK
+EditAction 1497013176462 TestBowling.java 2971 11 45 7
+EditAction 1497013192708 TestBowling.java 2974 11 45 7
+EditAction 1497013207977 TestBowling.java 3187 12 46 7
+CompilationAction 1497013208157 TestBowling.java
+CompilationAction 1497013214658 TestBowling.java
+EditAction 1497013226778 TestBowling.java 3202 12 46 7
+EditAction 1497013236843 TestBowling.java 3145 12 46 7
+EditAction 1497013253427 TestBowling.java 3196 12 47 7
+EditAction 1497013266576 TestBowling.java 2903 12 38 7
+UnitTestCaseAction 1497013269571 TestBowling.java OK
+UnitTestSessionAction 1497013269571 TestBowling.java OK
+EditAction 1497013281620 TestBowling.java 2860 12 38 7
+EditAction 1497013293386 TestBowling.java 2575 12 30 7
+UnitTestCaseAction 1497013299209 TestBowling.java OK
+UnitTestSessionAction 1497013299210 TestBowling.java OK
+EditAction 1497013324305 TestBowling.java 2674 12 30 7
+UnitTestCaseAction 1497013339260 TestBowling.java OK
+UnitTestSessionAction 1497013339260 TestBowling.java OK
+EditAction 1497013355484 BowlingGame.java 1805 7 8 0
+EditAction 1497013362398 TestBowling.java 2689 12 30 7
+UnitTestCaseAction 1497013364676 TestBowling.java OK
+UnitTestSessionAction 1497013364676 TestBowling.java OK
+EditAction 1497013385076 BowlingGame.java 1812 7 8 0
+EditAction 1497013399470 BowlingGame.java 1821 7 8 0

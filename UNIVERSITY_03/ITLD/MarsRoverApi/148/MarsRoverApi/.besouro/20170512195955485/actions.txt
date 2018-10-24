@@ -1,0 +1,196 @@
+FileOpenedAction 1494611996095 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494612064384 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494612072391 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612165200 Pozicija.java ADD Pozicija.java CLASS
+FileOpenedAction 1494612165760 Pozicija.java 32 0 0 0
+RefactoringAction 1494612176840 Pozicija.java ADD int x FIELD
+RefactoringAction 1494612178350 Pozicija.java RENAME x=>int xKoo FIELD
+RefactoringAction 1494612179860 Pozicija.java RENAME xKoo=>int xKoordinata FIELD
+RefactoringAction 1494612188392 Pozicija.java ADD int y FIELD
+RefactoringAction 1494612195907 Pozicija.java RENAME xKoordinata=>int x FIELD
+RefactoringAction 1494612206503 Pozicija.java ADD Pozicija() METHOD
+RefactoringAction 1494612213546 Pozicija.java RENAME Pozicija()=>Pozicija(int) METHOD
+RefactoringAction 1494612216628 Pozicija.java RENAME Pozicija(int)=>Pozicija(int, int) METHOD
+RefactoringAction 1494612327607 Pozicija.java RENAME Pozicija(int, int)=>Pozicija(int, int, String) METHOD
+RefactoringAction 1494612337134 Pozicija.java RENAME x=>int posx FIELD
+RefactoringAction 1494612338146 Pozicija.java RENAME posx=>int pos_x FIELD
+RefactoringAction 1494612346667 Pozicija.java REMOVE pos_x FIELD
+RefactoringAction 1494612348678 Pozicija.java ADD int x FIELD
+EditAction 1494612349604 Pozicija.java 158 1 2 0
+RefactoringAction 1494612440889 Pozicija.java ADD String trenutna FIELD
+RefactoringAction 1494612443909 Pozicija.java RENAME trenutna=>String trenutnaPozicija FIELD
+RefactoringAction 1494612444931 Pozicija.java RENAME trenutnaPozicija=>String trenutnaPozicija() METHOD
+RefactoringAction 1494612477565 Pozicija.java ADD int getX() METHOD
+RefactoringAction 1494612477566 Pozicija.java ADD int getY() METHOD
+RefactoringAction 1494612477568 Pozicija.java ADD void setX(int) METHOD
+RefactoringAction 1494612477569 Pozicija.java ADD void setY(int) METHOD
+RefactoringAction 1494612502201 Pozicija.java ADD String d FIELD
+RefactoringAction 1494612503224 Pozicija.java REMOVE d FIELD
+RefactoringAction 1494612507745 Pozicija.java ADD String s FIELD
+RefactoringAction 1494612508794 Pozicija.java RENAME s=>String smer FIELD
+EditAction 1494612611461 Pozicija.java 462 6 8 0
+RefactoringAction 1494612644278 Pozicija.java RENAME Pozicija(int, int, String)=>Pozicija(int) METHOD
+RefactoringAction 1494612650837 Pozicija.java RENAME Pozicija(int)=>Pozicija(int, int, String) METHOD
+EditAction 1494612651645 Pozicija.java 462 6 8 0
+RefactoringAction 1494612677360 TestPlanetExplorer.java RENAME test_executeCommand()=>void test_pocetnaPozicija() METHOD
+EditAction 1494612832189 TestPlanetExplorer.java 311 1 3 1
+UnitTestCaseAction 1494612844989 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494612844992 TestPlanetExplorer.java FAIL
+EditAction 1494612872564 TestPlanetExplorer.java 312 1 3 1
+UnitTestCaseAction 1494612878160 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494612878162 TestPlanetExplorer.java FAIL
+EditAction 1494612921516 TestPlanetExplorer.java 320 1 3 1
+UnitTestCaseAction 1494612927896 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494612927898 TestPlanetExplorer.java FAIL
+EditAction 1494613008970 Pozicija.java 482 6 8 0
+RefactoringAction 1494613028927 Pozicija.java ADD Pozicija() METHOD
+EditAction 1494613031303 Pozicija.java 514 7 8 0
+EditAction 1494613039752 TestPlanetExplorer.java 313 1 3 1
+UnitTestCaseAction 1494613045680 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613045682 TestPlanetExplorer.java OK
+RefactoringAction 1494613094316 Pozicija.java ADD void po FIELD
+RefactoringAction 1494613095836 Pozicija.java RENAME po=>void pomeranje FIELD
+RefactoringAction 1494613097361 Pozicija.java RENAME pomeranje=>void pomeranjeNapre FIELD
+RefactoringAction 1494613100898 Pozicija.java RENAME pomeranjeNapre=>void pomeranje FIELD
+RefactoringAction 1494613109925 Pozicija.java REMOVE pomeranje FIELD
+RefactoringAction 1494613111445 Pozicija.java ADD void usmerenje FIELD
+RefactoringAction 1494613116999 Pozicija.java RENAME usmerenje=>void usmerenje() METHOD
+RefactoringAction 1494613128107 Pozicija.java RENAME usmerenje()=>void usmerenje(String) METHOD
+RefactoringAction 1494613174767 Pozicija.java RENAME usmerenje(String)=>String smer/2 FIELD
+RefactoringAction 1494613436984 Pozicija.java RENAME okretanje(String)=>String smer/2 FIELD
+RefactoringAction 1494613451082 Pozicija.java RENAME pomeranje(String)=>String smer/2 FIELD
+RefactoringAction 1494613454629 Pozicija.java RENAME PO(String)=>void okretanje(String) METHOD
+RefactoringAction 1494613461682 Pozicija.java RENAME okretanje(String)=>void pomeranje(String) METHOD
+RefactoringAction 1494613538542 PlanetExplorerException.java ADD PlanetExplorerException() METHOD
+RefactoringAction 1494613553636 PlanetExplorerException.java ADD PlanetExplorerException()/2 METHOD
+RefactoringAction 1494613557670 PlanetExplorerException.java RENAME PlanetExplorerException()/2=>PlanetExplorerException(String) METHOD
+EditAction 1494613566800 PlanetExplorerException.java 171 2 1 0
+EditAction 1494613594192 Pozicija.java 859 8 9 0
+CompilationAction 1494613597371 Pozicija.java
+CompilationAction 1494613597372 Pozicija.java
+CompilationAction 1494613597373 Pozicija.java
+CompilationAction 1494613597374 Pozicija.java
+RefactoringAction 1494613614017 Pozicija.java ADD void o FIELD
+RefactoringAction 1494613616057 Pozicija.java RENAME o=>void obrnuto FIELD
+RefactoringAction 1494613618082 Pozicija.java RENAME obrnuto=>void obrnutoSmeruK FIELD
+RefactoringAction 1494613620613 Pozicija.java RENAME obrnutoSmeruK=>void obrnutoSmeruKazaljke FIELD
+RefactoringAction 1494613622136 Pozicija.java RENAME obrnutoSmeruKazaljke=>void obrnutoSmeruKazaljke() METHOD
+RefactoringAction 1494613634230 Pozicija.java ADD void uSmeruKazaljke FIELD
+RefactoringAction 1494613635256 Pozicija.java RENAME uSmeruKazaljke=>void uSmeruKazaljke() METHOD
+RefactoringAction 1494613646379 Pozicija.java ADD void pomeranjeNapred() METHOD
+RefactoringAction 1494613668558 Pozicija.java ADD void pomeranjeNazad() METHOD
+EditAction 1494613670773 Pozicija.java 1033 12 9 0
+RefactoringAction 1494613728955 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494613733981 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1494613738007 TestPlanetExplorer.java RENAME test_=>void test_promenePo FIELD
+RefactoringAction 1494613740030 TestPlanetExplorer.java RENAME test_promenePo=>void test_promene FIELD
+RefactoringAction 1494613744072 TestPlanetExplorer.java RENAME test_promene=>void test_Po FIELD
+RefactoringAction 1494613745611 TestPlanetExplorer.java RENAME test_Po=>void test_Pomeranja FIELD
+RefactoringAction 1494613746643 TestPlanetExplorer.java RENAME test_Pomeranja=>void test_Pomeranja() METHOD
+EditAction 1494613830372 TestPlanetExplorer.java 496 2 5 1
+UnitTestCaseAction 1494613837336 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613837338 TestPlanetExplorer.java OK
+EditAction 1494613971038 Pozicija.java 1168 12 10 0
+RefactoringAction 1494613992797 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494613995850 TestPlanetExplorer.java RENAME test=>void test_okretanja FIELD
+RefactoringAction 1494613998386 TestPlanetExplorer.java RENAME test_okretanja=>void test_okretanjaObr FIELD
+RefactoringAction 1494614000456 TestPlanetExplorer.java RENAME test_okretanjaObr=>void test_okretanjaObrnutoU FIELD
+RefactoringAction 1494614002483 TestPlanetExplorer.java RENAME test_okretanjaObrnutoU=>void test_okretanjaObrnutoUs FIELD
+RefactoringAction 1494614003508 TestPlanetExplorer.java RENAME test_okretanjaObrnutoUs=>void test_okretanjaObrnuto FIELD
+RefactoringAction 1494614006534 TestPlanetExplorer.java RENAME test_okretanjaObrnuto=>void test_okretanjaObrnuto() METHOD
+EditAction 1494614111311 TestPlanetExplorer.java 790 3 10 2
+UnitTestCaseAction 1494614117076 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614117079 TestPlanetExplorer.java FAIL
+EditAction 1494614137844 TestPlanetExplorer.java 790 3 10 2
+UnitTestCaseAction 1494614143366 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614143368 TestPlanetExplorer.java OK
+EditAction 1494614170135 Pozicija.java 1303 12 11 0
+RefactoringAction 1494614181080 TestPlanetExplorer.java ADD void test_okretanjaObrnuto()/2 METHOD
+RefactoringAction 1494614185131 TestPlanetExplorer.java RENAME test_okretanjaObrnuto()/2=>void test_okretanjauS() METHOD
+RefactoringAction 1494614186188 TestPlanetExplorer.java RENAME test_okretanjauS()=>void test_okretanja() METHOD
+RefactoringAction 1494614187759 TestPlanetExplorer.java RENAME test_okretanja()=>void test_okretanjaUsme() METHOD
+RefactoringAction 1494614190299 TestPlanetExplorer.java RENAME test_okretanjaUsme()=>void test_okretanjaUsmeruKazalje() METHOD
+EditAction 1494614196733 TestPlanetExplorer.java 1090 4 15 3
+EditAction 1494614214519 TestPlanetExplorer.java 1112 4 16 3
+UnitTestCaseAction 1494614222117 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614222119 TestPlanetExplorer.java OK
+EditAction 1494614295597 Pozicija.java 1410 12 12 0
+RefactoringAction 1494614307643 TestPlanetExplorer.java ADD void test_okretanjaUsmeruKazalje()/2 METHOD
+RefactoringAction 1494614314674 TestPlanetExplorer.java RENAME test_okretanjaUsmeruKazalje()/2=>void test_pomeranjaUn() METHOD
+RefactoringAction 1494614315720 TestPlanetExplorer.java RENAME test_pomeranjaUn()=>void test_pomeranjaU() METHOD
+RefactoringAction 1494614318249 TestPlanetExplorer.java RENAME test_pomeranjaU()=>void test_pomeranjaUnapred() METHOD
+EditAction 1494614341581 TestPlanetExplorer.java 1428 5 22 4
+UnitTestCaseAction 1494614348159 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614348161 TestPlanetExplorer.java OK
+EditAction 1494614371247 Pozicija.java 1517 12 13 0
+RefactoringAction 1494614386091 TestPlanetExplorer.java ADD void test_pomeranjaUnapred()/2 METHOD
+RefactoringAction 1494614397137 TestPlanetExplorer.java RENAME test_pomeranjaUnapred()/2=>void test_pomeranjaUnazad() METHOD
+EditAction 1494614412853 TestPlanetExplorer.java 1722 6 27 5
+UnitTestCaseAction 1494614418967 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614418969 TestPlanetExplorer.java OK
+RefactoringAction 1494614518793 PlanetExplorer.java ADD int gridX FIELD
+RefactoringAction 1494614526368 PlanetExplorer.java ADD int gridY FIELD
+RefactoringAction 1494614625299 PlanetExplorer.java ADD Pozicija poz FIELD
+RefactoringAction 1494614627830 PlanetExplorer.java RENAME poz=>Pozicija pozici FIELD
+RefactoringAction 1494614629355 PlanetExplorer.java RENAME pozici=>Pozicija pozicija FIELD
+EditAction 1494614648438 PlanetExplorer.java 1375 2 4 0
+RefactoringAction 1494614724876 PlanetExplorer.java ADD String toS FIELD
+RefactoringAction 1494614726412 PlanetExplorer.java RENAME toS=>String toString FIELD
+RefactoringAction 1494614727449 PlanetExplorer.java RENAME toString=>String toString() METHOD
+RefactoringAction 1494614752213 PlanetExplorer.java ADD String prepreke FIELD
+CompilationAction 1494614752692 PlanetExplorer.java
+CompilationAction 1494614752693 PlanetExplorer.java
+CompilationAction 1494614765144 PlanetExplorer.java
+CompilationAction 1494614765148 PlanetExplorer.java
+CompilationAction 1494614765445 PlanetExplorer.java
+CompilationAction 1494614765465 PlanetExplorer.java
+EditAction 1494614823568 PlanetExplorer.java 1521 3 6 0
+RefactoringAction 1494614843013 TestPlanetExplorer.java ADD void tet FIELD
+RefactoringAction 1494614844545 TestPlanetExplorer.java RENAME tet=>void test_ FIELD
+RefactoringAction 1494614847099 TestPlanetExplorer.java RENAME test_=>void test_postavljanja FIELD
+RefactoringAction 1494614848639 TestPlanetExplorer.java RENAME test_postavljanja=>void test_postavljanjaGrida FIELD
+RefactoringAction 1494614849670 TestPlanetExplorer.java RENAME test_postavljanjaGrida=>void test_postavljanjaGrida() METHOD
+EditAction 1494614978609 TestPlanetExplorer.java 1965 7 30 6
+UnitTestCaseAction 1494614999491 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614999493 TestPlanetExplorer.java OK
+EditAction 1494615115183 PlanetExplorer.java 1644 3 7 0
+CompilationAction 1494615118595 TestPlanetExplorer.java
+CompilationAction 1494615125428 TestPlanetExplorer.java
+RefactoringAction 1494615143584 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494615154119 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1494615155670 TestPlanetExplorer.java RENAME test_=>void test_po FIELD
+RefactoringAction 1494615156736 TestPlanetExplorer.java RENAME test_po=>void test_pog FIELD
+RefactoringAction 1494615162789 TestPlanetExplorer.java RENAME test_pog=>void test_pogresnoPostavljanja FIELD
+RefactoringAction 1494615164359 TestPlanetExplorer.java RENAME test_pogresnoPostavljanja=>void test_pogresnoPostavljanjaGrida FIELD
+RefactoringAction 1494615166393 TestPlanetExplorer.java RENAME test_pogresnoPostavljanjaGrida=>void test_pogresnoPostavljanjaGrida() METHOD
+EditAction 1494615222189 TestPlanetExplorer.java 2198 8 31 6
+UnitTestCaseAction 1494615228393 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494615228395 TestPlanetExplorer.java OK
+RefactoringAction 1494615364952 PlanetExplorer.java ADD int getGridX() METHOD
+RefactoringAction 1494615364953 PlanetExplorer.java ADD int getGridY() METHOD
+EditAction 1494615366423 PlanetExplorer.java 1738 5 9 0
+EditAction 1494615657866 PlanetExplorer.java 1919 5 11 0
+CompilationAction 1494615661158 PlanetExplorer.java
+CompilationAction 1494615667791 PlanetExplorer.java
+RefactoringAction 1494615701938 TestPlanetExplorer.java ADD void test_prosledjivanj FIELD
+RefactoringAction 1494615706987 TestPlanetExplorer.java RENAME test_prosledjivanj=>void test_prosledjivanjaReciNared FIELD
+RefactoringAction 1494615708024 TestPlanetExplorer.java RENAME test_prosledjivanjaReciNared=>void test_prosledjivanjaReciNaredbe FIELD
+RefactoringAction 1494615711064 TestPlanetExplorer.java RENAME test_prosledjivanjaReciNaredbe=>void test_prosledjivanjaReciNaredbe() METHOD
+RefactoringAction 1494615830124 PlanetExplorer.java ADD Pozicija getPozicija() METHOD
+EditAction 1494615832334 PlanetExplorer.java 2006 6 12 0
+EditAction 1494615874384 TestPlanetExplorer.java 2527 9 35 7
+UnitTestCaseAction 1494615881281 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615881283 TestPlanetExplorer.java FAIL
+EditAction 1494615958123 PlanetExplorer.java 2038 6 12 0
+EditAction 1494615973054 PlanetExplorer.java 2006 6 12 0
+EditAction 1494616186834 PlanetExplorer.java 2006 6 12 0
+UnitTestCaseAction 1494616193474 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616193476 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494616284088 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616284091 TestPlanetExplorer.java FAIL
+RefactoringAction 1494616464641 Pozicija.java ADD int duzina FIELD
+RefactoringAction 1494616473759 Pozicija.java ADD int duzinaGrida FIELD
+RefactoringAction 1494616476845 Pozicija.java RENAME duzina=>int duzinaGrida/2 FIELD
+RefactoringAction 1494616486876 Pozicija.java REMOVE duzinaGrida FIELD
+RefactoringAction 1494616486878 Pozicija.java REMOVE duzinaGrida/2 FIELD
+EditAction 1494616487396 Pozicija.java 1520 12 13 0

@@ -1,0 +1,193 @@
+FileOpenedAction 1494612010143 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494612047456 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494612049968 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612658125 PlanetExplorer.java ADD String Napred() METHOD
+RefactoringAction 1494612672681 PlanetExplorer.java RENAME Napred()=>String Napred(String) METHOD
+RefactoringAction 1494612718346 PlanetExplorer.java RENAME Napred(String)=>String Napred(int, int) METHOD
+EditAction 1494612755895 PlanetExplorer.java 1472 3 6 0
+CompilationAction 1494612756511 PlanetExplorer.java
+EditAction 1494612779423 PlanetExplorer.java 1467 3 5 0
+CompilationAction 1494612779581 PlanetExplorer.java
+CompilationAction 1494612911197 PlanetExplorer.java
+CompilationAction 1494612911387 PlanetExplorer.java
+CompilationAction 1494612974413 PlanetExplorer.java
+CompilationAction 1494612974596 PlanetExplorer.java
+CompilationAction 1494613020976 PlanetExplorer.java
+EditAction 1494613034251 PlanetExplorer.java 1551 3 8 0
+CompilationAction 1494613034426 PlanetExplorer.java
+RefactoringAction 1494613041071 PlanetExplorer.java RENAME Napred(int, int)=>String GoUp(int, int) METHOD
+EditAction 1494613041996 PlanetExplorer.java 1549 3 8 0
+RefactoringAction 1494613075632 PlanetExplorer.java ADD PlanetExplorer(int, int) METHOD
+RefactoringAction 1494613174331 PlanetExplorer.java ADD String GoUp(int, int)/2 METHOD
+RefactoringAction 1494613176351 PlanetExplorer.java RENAME GoUp(int, int)/2=>String Go(int, int) METHOD
+RefactoringAction 1494613180374 PlanetExplorer.java RENAME Go(int, int)=>String GoDown(int, int) METHOD
+RefactoringAction 1494613413684 TestPlanetExplorer.java ADD void test_const FIELD
+RefactoringAction 1494613414691 TestPlanetExplorer.java RENAME test_const=>void test_const() METHOD
+EditAction 1494613444146 TestPlanetExplorer.java 260 2 2 0
+CompilationAction 1494613444491 TestPlanetExplorer.java
+RefactoringAction 1494613458827 PlanetExplorer.java REMOVE PlanetExplorer(int, int) METHOD
+RefactoringAction 1494613460839 PlanetExplorer.java ADD PlanetExplorer(int, int) METHOD
+EditAction 1494613461555 PlanetExplorer.java 1868 5 10 0
+EditAction 1494613487791 TestPlanetExplorer.java 287 2 3 0
+CompilationAction 1494613487984 TestPlanetExplorer.java
+CompilationAction 1494613494045 TestPlanetExplorer.java
+EditAction 1494613612956 PlanetExplorer.java 1892 5 11 0
+EditAction 1494613645591 PlanetExplorer.java 1893 5 11 0
+CompilationAction 1494613645951 PlanetExplorer.java
+EditAction 1494613688570 TestPlanetExplorer.java 354 2 4 1
+CompilationAction 1494613697475 PlanetExplorer.java
+UnitTestCaseAction 1494613698855 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613698856 TestPlanetExplorer.java FAIL
+RefactoringAction 1494613719252 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+EditAction 1494613721337 TestPlanetExplorer.java 274 1 3 1
+UnitTestCaseAction 1494613722439 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613722439 TestPlanetExplorer.java OK
+RefactoringAction 1494613747803 TestPlanetExplorer.java RENAME test_const()=>void test_() METHOD
+RefactoringAction 1494613749312 TestPlanetExplorer.java RENAME test_()=>void test_one() METHOD
+EditAction 1494613749340 TestPlanetExplorer.java 269 1 3 1
+EditAction 1494613777614 PlanetExplorer.java 1908 5 11 0
+RefactoringAction 1494613819917 PlanetExplorer.java ADD String GoDown(int, int)/2 METHOD
+RefactoringAction 1494613823431 PlanetExplorer.java RENAME GoDown(int, int)/2=>String GoRight(int, int) METHOD
+EditAction 1494613823436 PlanetExplorer.java 2274 6 13 0
+RefactoringAction 1494613830965 PlanetExplorer.java ADD String GoRight(int, int)/2 METHOD
+RefactoringAction 1494613834479 PlanetExplorer.java RENAME GoRight(int, int)/2=>String GoLeft(int, int) METHOD
+EditAction 1494613838011 PlanetExplorer.java 2348 7 15 0
+EditAction 1494613880288 PlanetExplorer.java 2351 7 15 0
+RefactoringAction 1494613903960 TestPlanetExplorer.java ADD void test_one()/2 METHOD
+EditAction 1494613907848 TestPlanetExplorer.java 444 2 6 2
+RefactoringAction 1494613919013 TestPlanetExplorer.java RENAME test_one()=>void test_() METHOD
+RefactoringAction 1494613921023 TestPlanetExplorer.java RENAME test_()=>void test_one() METHOD
+EditAction 1494613961024 TestPlanetExplorer.java 446 2 6 2
+EditAction 1494613964088 PlanetExplorer.java 2350 7 15 0
+UnitTestCaseAction 1494613964521 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613964522 TestPlanetExplorer.java FAIL
+EditAction 1494614010272 PlanetExplorer.java 2367 7 8 0
+CompilationAction 1494614010439 PlanetExplorer.java
+CompilationAction 1494614034090 PlanetExplorer.java
+UnitTestCaseAction 1494614037610 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614037611 TestPlanetExplorer.java FAIL
+EditAction 1494614070653 PlanetExplorer.java 2501 7 16 0
+UnitTestCaseAction 1494614074049 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614074050 TestPlanetExplorer.java FAIL
+EditAction 1494614375462 PlanetExplorer.java 3062 7 15 0
+UnitTestCaseAction 1494614379811 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614379812 TestPlanetExplorer.java FAIL
+EditAction 1494614453616 TestPlanetExplorer.java 445 2 6 2
+EditAction 1494614458100 TestPlanetExplorer.java 445 2 6 2
+UnitTestCaseAction 1494614460016 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614460017 TestPlanetExplorer.java FAIL
+EditAction 1494614605820 PlanetExplorer.java 2947 7 11 0
+CompilationAction 1494614606639 PlanetExplorer.java
+EditAction 1494614627513 PlanetExplorer.java 2968 7 11 0
+CompilationAction 1494614627813 PlanetExplorer.java
+CompilationAction 1494614660511 PlanetExplorer.java
+UnitTestCaseAction 1494614667025 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614667025 TestPlanetExplorer.java FAIL
+EditAction 1494614752175 PlanetExplorer.java 3062 7 15 0
+UnitTestCaseAction 1494614763392 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614763393 TestPlanetExplorer.java FAIL
+EditAction 1494614806246 PlanetExplorer.java 3067 7 8 0
+CompilationAction 1494614806716 PlanetExplorer.java
+CompilationAction 1494614806716 PlanetExplorer.java
+CompilationAction 1494614814996 PlanetExplorer.java
+CompilationAction 1494614814996 PlanetExplorer.java
+EditAction 1494614965917 PlanetExplorer.java 3158 7 13 0
+CompilationAction 1494614966117 PlanetExplorer.java
+CompilationAction 1494614966117 PlanetExplorer.java
+CompilationAction 1494615049627 PlanetExplorer.java
+CompilationAction 1494615049628 PlanetExplorer.java
+CompilationAction 1494615049772 PlanetExplorer.java
+CompilationAction 1494615049773 PlanetExplorer.java
+CompilationAction 1494615049773 PlanetExplorer.java
+CompilationAction 1494615103153 PlanetExplorer.java
+CompilationAction 1494615103154 PlanetExplorer.java
+CompilationAction 1494615103154 PlanetExplorer.java
+CompilationAction 1494615103317 PlanetExplorer.java
+CompilationAction 1494615103317 PlanetExplorer.java
+CompilationAction 1494615109949 PlanetExplorer.java
+CompilationAction 1494615109949 PlanetExplorer.java
+CompilationAction 1494615110117 PlanetExplorer.java
+CompilationAction 1494615110117 PlanetExplorer.java
+CompilationAction 1494615110118 PlanetExplorer.java
+EditAction 1494615112033 PlanetExplorer.java 3257 7 13 0
+CompilationAction 1494615112766 PlanetExplorer.java
+CompilationAction 1494615112766 PlanetExplorer.java
+CompilationAction 1494615112767 PlanetExplorer.java
+CompilationAction 1494615129409 PlanetExplorer.java
+CompilationAction 1494615129410 PlanetExplorer.java
+CompilationAction 1494615129410 PlanetExplorer.java
+CompilationAction 1494615129541 PlanetExplorer.java
+CompilationAction 1494615129542 PlanetExplorer.java
+UnitTestCaseAction 1494615159520 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615159521 TestPlanetExplorer.java FAIL
+EditAction 1494615199777 PlanetExplorer.java 3279 7 13 0
+UnitTestCaseAction 1494615202029 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615202030 TestPlanetExplorer.java FAIL
+EditAction 1494615347053 PlanetExplorer.java 3281 7 8 0
+CompilationAction 1494615348285 PlanetExplorer.java
+CompilationAction 1494615572981 PlanetExplorer.java
+CompilationAction 1494615574426 PlanetExplorer.java
+CompilationAction 1494615578624 PlanetExplorer.java
+CompilationAction 1494615578915 PlanetExplorer.java
+CompilationAction 1494615578917 PlanetExplorer.java
+CompilationAction 1494615592392 PlanetExplorer.java
+CompilationAction 1494615592392 PlanetExplorer.java
+UnitTestCaseAction 1494615597700 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615597701 TestPlanetExplorer.java FAIL
+EditAction 1494615628685 PlanetExplorer.java 3383 7 13 0
+UnitTestCaseAction 1494615631563 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615631564 TestPlanetExplorer.java FAIL
+CompilationAction 1494615742410 PlanetExplorer.java
+UnitTestCaseAction 1494615801222 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615801223 TestPlanetExplorer.java FAIL
+EditAction 1494615811715 PlanetExplorer.java 3232 7 13 0
+UnitTestCaseAction 1494615812274 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615812275 TestPlanetExplorer.java FAIL
+EditAction 1494615865981 PlanetExplorer.java 3243 7 13 0
+EditAction 1494615881539 PlanetExplorer.java 3286 7 13 0
+EditAction 1494615906734 PlanetExplorer.java 3288 7 13 0
+CompilationAction 1494615906901 PlanetExplorer.java
+CompilationAction 1494615936576 PlanetExplorer.java
+UnitTestCaseAction 1494615942047 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615942048 TestPlanetExplorer.java FAIL
+EditAction 1494616000794 PlanetExplorer.java 3206 7 13 0
+UnitTestCaseAction 1494616002742 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616002743 TestPlanetExplorer.java FAIL
+EditAction 1494616064601 PlanetExplorer.java 3281 7 13 0
+UnitTestCaseAction 1494616066166 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616066167 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494616069335 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616069336 TestPlanetExplorer.java FAIL
+RefactoringAction 1494616084088 PlanetExplorer.java ADD import javax.swing.plaf.synth.SynthSpinnerUI IMPORT
+EditAction 1494616091015 PlanetExplorer.java 3391 7 13 0
+UnitTestCaseAction 1494616092774 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616092775 TestPlanetExplorer.java FAIL
+EditAction 1494616204722 PlanetExplorer.java 3360 7 8 0
+CompilationAction 1494616205115 PlanetExplorer.java
+CompilationAction 1494616216124 PlanetExplorer.java
+CompilationAction 1494616216248 PlanetExplorer.java
+EditAction 1494616243852 PlanetExplorer.java 3387 7 13 0
+EditAction 1494616251764 PlanetExplorer.java 3413 7 13 0
+UnitTestCaseAction 1494616254020 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616254021 TestPlanetExplorer.java OK
+EditAction 1494616262652 PlanetExplorer.java 3383 7 13 0
+UnitTestCaseAction 1494616263176 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616263176 TestPlanetExplorer.java OK
+RefactoringAction 1494616272571 TestPlanetExplorer.java ADD void test_two()/2 METHOD
+RefactoringAction 1494616274579 TestPlanetExplorer.java RENAME test_two()/2=>void test_three() METHOD
+EditAction 1494616294039 TestPlanetExplorer.java 618 3 9 3
+UnitTestCaseAction 1494616296248 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616296249 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494616303978 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616303979 TestPlanetExplorer.java OK
+EditAction 1494616313227 TestPlanetExplorer.java 625 3 9 3
+UnitTestCaseAction 1494616314583 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616314584 TestPlanetExplorer.java OK
+RefactoringAction 1494616438249 TestPlanetExplorer.java ADD void test_three()/2 METHOD
+RefactoringAction 1494616442761 TestPlanetExplorer.java RENAME test_three()/2=>void test_four() METHOD
+EditAction 1494616476652 TestPlanetExplorer.java 810 4 12 4
+UnitTestCaseAction 1494616478307 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616478307 TestPlanetExplorer.java FAIL
+EditAction 1494616486053 TestPlanetExplorer.java 810 4 12 4
+UnitTestCaseAction 1494616489399 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616489400 TestPlanetExplorer.java OK

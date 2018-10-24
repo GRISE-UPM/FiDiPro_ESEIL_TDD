@@ -1,0 +1,77 @@
+FileOpenedAction 1494582546143 BowlingGame.java 708 4 1 0
+FileOpenedAction 1494582625210 TestBowling.java 165 1 1 0
+FileOpenedAction 1494582644007 Frame.java 671 6 7 0
+FileOpenedAction 1494582647189 BowlingException.java 58 0 0 0
+EditAction 1494583448681 Frame.java 706 6 8 0
+RefactoringAction 1494583579028 TestBowling.java ADD void Strike FIELD
+RefactoringAction 1494583580048 TestBowling.java RENAME Strike=>void Strike() METHOD
+EditAction 1494583651183 TestBowling.java 272 2 3 1
+EditAction 1494583660263 Frame.java 756 6 7 0
+UnitTestCaseAction 1494583664519 TestBowling.java FAIL
+UnitTestSessionAction 1494583664529 TestBowling.java FAIL
+RefactoringAction 1494583680947 TestBowling.java ADD void Strike()/2 METHOD
+RefactoringAction 1494583684967 TestBowling.java RENAME Strike()/2=>void Spare() METHOD
+EditAction 1494583689682 TestBowling.java 377 3 5 2
+UnitTestCaseAction 1494583694994 TestBowling.java FAIL
+UnitTestSessionAction 1494583694996 TestBowling.java FAIL
+EditAction 1494583741570 TestBowling.java 376 3 5 2
+UnitTestCaseAction 1494583746173 TestBowling.java FAIL
+UnitTestSessionAction 1494583746175 TestBowling.java FAIL
+RefactoringAction 1494583910162 BowlingGame.java ADD int frame FIELD
+RefactoringAction 1494583916807 BowlingGame.java RENAME frame=>int frameQuantity FIELD
+RefactoringAction 1494584048448 BowlingGame.java REMOVE frameQuantity FIELD
+EditAction 1494584051710 BowlingGame.java 748 4 2 0
+EditAction 1494584136978 BowlingGame.java 748 4 2 0
+RefactoringAction 1494584464485 BowlingGame.java ADD int bonus/2 FIELD
+RefactoringAction 1494584470273 BowlingGame.java RENAME bonus/2=>int bonusBroj FIELD
+RefactoringAction 1494584741258 BowlingGame.java ADD Frame frame FIELD
+RefactoringAction 1494584742303 BowlingGame.java RENAME BowlingGame()=><initializer /1> null
+RefactoringAction 1494584743848 BowlingGame.java RENAME <initializer /1>=>BowlingGame() METHOD
+RefactoringAction 1494584763629 Frame.java ADD Frame() METHOD
+RefactoringAction 1494585008939 BowlingGame.java ADD bool frame/2 FIELD
+RefactoringAction 1494585016692 BowlingGame.java RENAME frame/2=>bool frameDodavanje FIELD
+RefactoringAction 1494585192030 BowlingGame.java REMOVE frameDodavanje FIELD
+RefactoringAction 1494585203755 Frame.java ADD boolean frameDodavanje FIELD
+EditAction 1494585264692 BowlingGame.java 1006 4 3 0
+CompilationAction 1494585267562 BowlingGame.java
+CompilationAction 1494585267562 BowlingGame.java
+EditAction 1494585292087 Frame.java 819 7 7 0
+RefactoringAction 1494585334896 TestBowling.java ADD void Bonus FIELD
+RefactoringAction 1494585336971 TestBowling.java RENAME Bonus=>void Bonus() METHOD
+EditAction 1494585473431 BowlingGame.java 1005 4 3 0
+RefactoringAction 1494585500031 TestBowling.java RENAME Bonus()=>void Score() METHOD
+EditAction 1494585571453 TestBowling.java 556 4 10 3
+UnitTestCaseAction 1494585575165 TestBowling.java FAIL
+UnitTestSessionAction 1494585575165 TestBowling.java FAIL
+EditAction 1494585675276 TestBowling.java 562 4 10 3
+RefactoringAction 1494585684729 TestBowling.java ADD void Bonus FIELD
+RefactoringAction 1494585685761 TestBowling.java RENAME Bonus=>void Bonus() METHOD
+RefactoringAction 1494585896299 BowlingGame.java ADD int Frame FIELD
+RefactoringAction 1494585900963 BowlingGame.java RENAME Frame=>int frameNumber FIELD
+RefactoringAction 1494585989295 TestBowling.java RENAME Bonus()=>void BrojFrejmova() METHOD
+RefactoringAction 1494586005800 TestBowling.java RENAME BrojFrejmova()=>void Bonus() METHOD
+EditAction 1494586144259 BowlingGame.java 1048 4 3 0
+EditAction 1494586195244 TestBowling.java 844 5 16 4
+UnitTestCaseAction 1494586199004 TestBowling.java FAIL
+UnitTestSessionAction 1494586199004 TestBowling.java FAIL
+RefactoringAction 1494586207662 TestBowling.java RENAME Bonus()=>void Broj() METHOD
+RefactoringAction 1494586209253 TestBowling.java RENAME Broj()=>void BrojFrejmova() METHOD
+EditAction 1494586235696 TestBowling.java 1101 5 26 4
+UnitTestCaseAction 1494586239284 TestBowling.java FAIL
+UnitTestSessionAction 1494586239284 TestBowling.java FAIL
+EditAction 1494586259378 TestBowling.java 1126 5 27 4
+UnitTestCaseAction 1494586264760 TestBowling.java FAIL
+UnitTestSessionAction 1494586264760 TestBowling.java FAIL
+EditAction 1494586281967 TestBowling.java 1127 5 27 4
+UnitTestCaseAction 1494586285961 TestBowling.java FAIL
+UnitTestSessionAction 1494586285961 TestBowling.java FAIL
+EditAction 1494586292778 TestBowling.java 1079 5 25 4
+UnitTestCaseAction 1494586296631 TestBowling.java FAIL
+UnitTestSessionAction 1494586296631 TestBowling.java FAIL
+RefactoringAction 1494586474119 TestBowling.java RENAME BrojFrejmova()=>void score() METHOD
+RefactoringAction 1494586483387 TestBowling.java REMOVE score() METHOD
+EditAction 1494586488067 TestBowling.java 562 4 10 3
+RefactoringAction 1494586712780 BowlingGame.java ADD BowlingGame()/2 METHOD
+RefactoringAction 1494586724231 BowlingGame.java RENAME BowlingGame()/2=>BowlingGame(List) METHOD
+RefactoringAction 1494586739193 BowlingGame.java RENAME BowlingGame(List)=>BowlingGame(Frame) METHOD
+EditAction 1494586843578 BowlingGame.java 1094 5 3 0

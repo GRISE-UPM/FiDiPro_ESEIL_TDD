@@ -1,0 +1,3 @@
+FileOpenedAction 1494616497356 TestPlanetExplorer.java 2155 8 23 7
+UnitTestCaseAction 1494616499807 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616499808 TestPlanetExplorer.java OK

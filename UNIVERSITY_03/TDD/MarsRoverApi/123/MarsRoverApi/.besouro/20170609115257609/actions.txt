@@ -1,0 +1,139 @@
+FileOpenedAction 1497001978083 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1497002054635 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1497002324349 TestPlanetExplorer.java ADD void constur FIELD
+RefactoringAction 1497002327378 TestPlanetExplorer.java RENAME constur=>void consturctorTest FIELD
+RefactoringAction 1497002328412 TestPlanetExplorer.java RENAME consturctorTest=>void consturctorTest() METHOD
+EditAction 1497002696837 TestPlanetExplorer.java 293 2 3 1
+RefactoringAction 1497002779735 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1497002782766 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1497002792370 PlanetExplorer.java ADD String obstacles FIELD
+EditAction 1497002845413 PlanetExplorer.java 1354 2 4 0
+RefactoringAction 1497002891805 PlanetExplorer.java ADD String facing FIELD
+EditAction 1497002909384 TestPlanetExplorer.java 315 2 3 1
+CompilationAction 1497002912866 TestPlanetExplorer.java
+CompilationAction 1497002912867 TestPlanetExplorer.java
+CompilationAction 1497002912869 TestPlanetExplorer.java
+CompilationAction 1497002914952 TestPlanetExplorer.java
+CompilationAction 1497002914953 TestPlanetExplorer.java
+CompilationAction 1497002914954 TestPlanetExplorer.java
+RefactoringAction 1497002991228 TestPlanetExplorer.java ADD void obstacles FIELD
+RefactoringAction 1497003003248 TestPlanetExplorer.java RENAME obstacles=>void obstacles() METHOD
+EditAction 1497003115279 TestPlanetExplorer.java 466 3 7 1
+RefactoringAction 1497003134405 TestPlanetExplorer.java ADD void movingForward FIELD
+RefactoringAction 1497003137025 TestPlanetExplorer.java RENAME movingForward=>void movingForward() METHOD
+RefactoringAction 1497003232083 TestPlanetExplorer.java RENAME movingForward()=>void positions() METHOD
+EditAction 1497003285236 TestPlanetExplorer.java 708 4 13 3
+RefactoringAction 1497003303225 PlanetExplorer.java ADD int pos_x FIELD
+RefactoringAction 1497003306391 PlanetExplorer.java ADD int pos FIELD
+RefactoringAction 1497003309012 PlanetExplorer.java RENAME pos=>int pos_y FIELD
+EditAction 1497003476325 PlanetExplorer.java 1546 2 6 0
+CompilationAction 1497003479851 PlanetExplorer.java
+CompilationAction 1497003624499 PlanetExplorer.java
+EditAction 1497003696509 PlanetExplorer.java 1546 2 6 0
+CompilationAction 1497003699644 PlanetExplorer.java
+EditAction 1497003748191 TestPlanetExplorer.java 712 4 13 3
+EditAction 1497003780951 PlanetExplorer.java 1546 2 6 0
+CompilationAction 1497003783806 PlanetExplorer.java
+UnitTestCaseAction 1497003786972 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003786972 TestPlanetExplorer.java FAIL
+CompilationAction 1497003988970 PlanetExplorer.java
+CompilationAction 1497004212057 PlanetExplorer.java
+CompilationAction 1497004377879 PlanetExplorer.java
+EditAction 1497004404977 TestPlanetExplorer.java 712 4 13 3
+UnitTestCaseAction 1497004430906 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004430906 TestPlanetExplorer.java FAIL
+EditAction 1497004442170 TestPlanetExplorer.java 712 4 13 3
+RefactoringAction 1497004456695 TestPlanetExplorer.java RENAME positions()=>void positionsForward() METHOD
+RefactoringAction 1497004461875 TestPlanetExplorer.java ADD void positionsForward()/2 METHOD
+RefactoringAction 1497004466024 TestPlanetExplorer.java RENAME positionsForward()/2=>void positionsBackward() METHOD
+EditAction 1497004543063 PlanetExplorer.java 1643 2 6 0
+EditAction 1497004568634 TestPlanetExplorer.java 951 5 18 4
+UnitTestCaseAction 1497004573345 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004573345 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004596356 TestPlanetExplorer.java ADD void positions FIELD
+RefactoringAction 1497004597932 TestPlanetExplorer.java RENAME positions=>void positionsRight FIELD
+RefactoringAction 1497004598977 TestPlanetExplorer.java RENAME positionsRight=>void positionsRight() METHOD
+EditAction 1497004681835 TestPlanetExplorer.java 1177 6 23 5
+UnitTestCaseAction 1497004825347 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004825363 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004833880 TestPlanetExplorer.java ADD void positionsRight()/2 METHOD
+RefactoringAction 1497004838016 TestPlanetExplorer.java RENAME positionsRight()/2=>void positionsLeft() METHOD
+CompilationAction 1497004866814 PlanetExplorer.java
+CompilationAction 1497004878314 PlanetExplorer.java
+EditAction 1497004911075 TestPlanetExplorer.java 1402 7 28 6
+UnitTestCaseAction 1497004918048 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004918048 TestPlanetExplorer.java FAIL
+EditAction 1497004953961 TestPlanetExplorer.java 1326 6 27 6
+RefactoringAction 1497005048332 TestPlanetExplorer.java ADD void spheric FIELD
+RefactoringAction 1497005050937 TestPlanetExplorer.java RENAME spheric=>void spheric() METHOD
+EditAction 1497005130531 TestPlanetExplorer.java 1664 7 34 10
+RefactoringAction 1497005151389 PlanetExplorer.java ADD void sphericX FIELD
+RefactoringAction 1497005152981 PlanetExplorer.java RENAME sphericX=>void sphericX() METHOD
+RefactoringAction 1497005162809 PlanetExplorer.java RENAME sphericX()=>void sphericX(int) METHOD
+RefactoringAction 1497005175727 TestPlanetExplorer.java RENAME spheric()=>void sphericX() METHOD
+EditAction 1497005175774 TestPlanetExplorer.java 1665 7 34 10
+RefactoringAction 1497005250392 TestPlanetExplorer.java RENAME sphericX()=>void sphericY() METHOD
+RefactoringAction 1497005254323 PlanetExplorer.java RENAME sphericX(int)=>void sphericY(int) METHOD
+CompilationAction 1497005266538 PlanetExplorer.java
+CompilationAction 1497005272250 PlanetExplorer.java
+EditAction 1497005329020 TestPlanetExplorer.java 1665 7 34 10
+UnitTestCaseAction 1497005333608 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005333608 TestPlanetExplorer.sphericY FAIL
+UnitTestCaseAction 1497005362640 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005362640 TestPlanetExplorer.java FAIL
+EditAction 1497005388149 TestPlanetExplorer.java 1665 7 34 10
+UnitTestCaseAction 1497005448870 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005448870 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1497005475315 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005475315 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1497005731572 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005731572 TestPlanetExplorer.java OK
+RefactoringAction 1497005742165 TestPlanetExplorer.java ADD void sphericY()/2 METHOD
+RefactoringAction 1497005758686 TestPlanetExplorer.java RENAME sphericY()/2=>void sphericX() METHOD
+RefactoringAction 1497005786583 PlanetExplorer.java ADD void sphericY(int)/2 METHOD
+RefactoringAction 1497005788673 PlanetExplorer.java RENAME sphericY(int)/2=>void sphericX(int) METHOD
+RefactoringAction 1497005815086 PlanetExplorer.java RENAME sphericX(int)=>void sphericY(int)/2 METHOD
+CompilationAction 1497005825195 PlanetExplorer.java
+RefactoringAction 1497005833245 PlanetExplorer.java RENAME sphericY(int)/2=>void sphericForward(int) METHOD
+RefactoringAction 1497005835852 PlanetExplorer.java RENAME sphericY(int)=>void sphericBack(int) METHOD
+CompilationAction 1497005836164 PlanetExplorer.java
+CompilationAction 1497005836492 PlanetExplorer.java
+RefactoringAction 1497005858660 TestPlanetExplorer.java RENAME sphericY()=>void sphericForward() METHOD
+RefactoringAction 1497005861795 TestPlanetExplorer.java RENAME sphericX()=>void sphericBackward() METHOD
+CompilationAction 1497005903809 PlanetExplorer.java
+UnitTestCaseAction 1497005907506 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005907506 TestPlanetExplorer.java FAIL
+CompilationAction 1497005930454 PlanetExplorer.java
+UnitTestCaseAction 1497005933402 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005933402 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1497005976884 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005976884 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006067243 TestPlanetExplorer.java ADD void positionsForward()/2 METHOD
+RefactoringAction 1497006072939 TestPlanetExplorer.java RENAME positionsForward()/2=>void positionsForwardEast() METHOD
+UnitTestCaseAction 1497006099225 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006099225 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006107526 TestPlanetExplorer.java ADD void positionsForwardEast()/2 METHOD
+RefactoringAction 1497006119476 TestPlanetExplorer.java RENAME positionsForwardEast()/2=>void positionsForwardWest() METHOD
+RefactoringAction 1497006137042 TestPlanetExplorer.java ADD void positionsForwardEast()/2 METHOD
+RefactoringAction 1497006137042 TestPlanetExplorer.java ADD void positionsForwardWest()/2 METHOD
+RefactoringAction 1497006141707 TestPlanetExplorer.java RENAME positionsForwardEast()/2=>void positionsBackwardEast() METHOD
+CompilationAction 1497006163001 TestPlanetExplorer.java
+RefactoringAction 1497006172501 TestPlanetExplorer.java RENAME positionsForwardWest()/2=>void positionsBackwardWest() METHOD
+CompilationAction 1497006173424 TestPlanetExplorer.java
+UnitTestCaseAction 1497006176045 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006176045 TestPlanetExplorer.positionsBackwardWest OK
+UnitTestCaseAction 1497006179617 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006179617 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006235412 TestPlanetExplorer.java ADD void positionsForward()/2 METHOD
+RefactoringAction 1497006238017 TestPlanetExplorer.java RENAME positionsForward()/2=>void positionsForwardx2() METHOD
+RefactoringAction 1497006339013 PlanetExplorer.java ADD int i FIELD
+RefactoringAction 1497006340604 PlanetExplorer.java REMOVE i FIELD
+CompilationAction 1497006487157 PlanetExplorer.java
+RefactoringAction 1497006522382 PlanetExplorer.java ADD int i FIELD
+RefactoringAction 1497006524920 PlanetExplorer.java REMOVE i FIELD
+UnitTestCaseAction 1497006671840 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006671843 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006684950 TestPlanetExplorer.java ADD void positionsForwardx2()/2 METHOD
+RefactoringAction 1497006688489 TestPlanetExplorer.java RENAME positionsForwardx2()/2=>void positionsBackwardx2() METHOD
+UnitTestCaseAction 1497006696704 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006696705 TestPlanetExplorer.java FAIL

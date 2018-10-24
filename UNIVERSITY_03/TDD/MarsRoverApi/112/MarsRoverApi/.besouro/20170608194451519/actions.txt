@@ -1,0 +1,179 @@
+FileOpenedAction 1496943892103 TestPlanetExplorer.java 174 1 1 0
+FileOpenedAction 1496943908019 PlanetExplorer.java 1245 2 1 0
+RefactoringAction 1496944170274 TestPlanetExplorer.java RENAME test_executeCommand()=>void test_() METHOD
+RefactoringAction 1496944176804 TestPlanetExplorer.java RENAME test_()=>void test_komanda() METHOD
+RefactoringAction 1496944178324 TestPlanetExplorer.java RENAME test_komanda()=>void test_komandaF() METHOD
+RefactoringAction 1496944180336 TestPlanetExplorer.java RENAME test_komandaF()=>void test_komandaf() METHOD
+RefactoringAction 1496944182350 TestPlanetExplorer.java RENAME test_komandaf()=>void test_komanda_() METHOD
+RefactoringAction 1496944183895 TestPlanetExplorer.java RENAME test_komanda_()=>void test_komanda_f_() METHOD
+RefactoringAction 1496944185409 TestPlanetExplorer.java RENAME test_komanda_f_()=>void test_komanda_f_po() METHOD
+RefactoringAction 1496944189420 TestPlanetExplorer.java RENAME test_komanda_f_po()=>void test_komanda_f_pomera() METHOD
+RefactoringAction 1496944190434 TestPlanetExplorer.java RENAME test_komanda_f_pomera()=>void test_komanda_f_pomera_() METHOD
+RefactoringAction 1496944193451 TestPlanetExplorer.java RENAME test_komanda_f_pomera_()=>void test_komanda_f_pomera_vozilo() METHOD
+RefactoringAction 1496944197476 TestPlanetExplorer.java RENAME test_komanda_f_pomera_vozilo()=>void test_() METHOD
+RefactoringAction 1496944404625 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496944406175 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1496944411699 TestPlanetExplorer.java RENAME test_=>void test_Kretanje FIELD
+RefactoringAction 1496944413222 TestPlanetExplorer.java RENAME test_Kretanje=>void test_Kretanje_ FIELD
+RefactoringAction 1496944416772 TestPlanetExplorer.java RENAME test_Kretanje_=>void test_Kretanje FIELD
+RefactoringAction 1496944419330 TestPlanetExplorer.java RENAME test_Kretanje=>void test_Kretanje_komanda FIELD
+RefactoringAction 1496944420346 TestPlanetExplorer.java RENAME test_Kretanje_komanda=>void test_Kretanje_komandaf FIELD
+RefactoringAction 1496944424364 TestPlanetExplorer.java RENAME test_Kretanje_komandaf=>void test_Kretanje_Komandaf FIELD
+RefactoringAction 1496944429398 TestPlanetExplorer.java RENAME test_Kretanje_Komandaf=>void test_Kretanje_Komandaf() METHOD
+RefactoringAction 1496944440432 TestPlanetExplorer.java RENAME test_Kretanje_Komandaf()=>void test_Kretanje_Komanda_f() METHOD
+EditAction 1496944877515 TestPlanetExplorer.java 361 2 4 1
+CompilationAction 1496944881884 TestPlanetExplorer.java
+CompilationAction 1496944980596 TestPlanetExplorer.java
+EditAction 1496944980717 PlanetExplorer.java 1248 2 1 0
+RefactoringAction 1496945043753 PlanetExplorer.java ADD String fl FIELD
+RefactoringAction 1496945045312 PlanetExplorer.java RENAME fl=>String f FIELD
+RefactoringAction 1496945048881 PlanetExplorer.java ADD String l FIELD
+RefactoringAction 1496945053934 PlanetExplorer.java ADD String r FIELD
+RefactoringAction 1496945053936 PlanetExplorer.java ADD String bl FIELD
+RefactoringAction 1496945054960 PlanetExplorer.java RENAME bl=>String b FIELD
+RefactoringAction 1496945101182 PlanetExplorer.java ADD cordinates FIELD
+RefactoringAction 1496945121428 PlanetExplorer.java RENAME s=><initializer /1> null
+RefactoringAction 1496945144630 PlanetExplorer.java RENAME <initializer /1>=>int FIELD
+EditAction 1496945166534 PlanetExplorer.java 1349 2 2 0
+UnitTestCaseAction 1496945178810 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945178812 TestPlanetExplorer.test_Kretanje_Komanda_f FAIL
+EditAction 1496945283831 TestPlanetExplorer.java 361 2 4 1
+CompilationAction 1496945286862 TestPlanetExplorer.java
+RefactoringAction 1496945304552 PlanetExplorer.java ADD PlanetExplorer() METHOD
+RefactoringAction 1496945365498 PlanetExplorer.java RENAME PlanetExplorer()=>PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1496945382035 PlanetExplorer.java REMOVE PlanetExplorer(int, int, String)/2 METHOD
+CompilationAction 1496945462401 TestPlanetExplorer.java
+EditAction 1496945462527 PlanetExplorer.java 1349 2 2 0
+RefactoringAction 1496945532343 PlanetExplorer.java ADD PlanetExplorer() METHOD
+RefactoringAction 1496945538404 PlanetExplorer.java RENAME PlanetExplorer()=>PlanetExplorer(int METHOD
+RefactoringAction 1496945543934 PlanetExplorer.java RENAME PlanetExplorer(int=>PlanetExplorer(int METHOD
+RefactoringAction 1496945614637 PlanetExplorer.java ADD String N FIELD
+RefactoringAction 1496945622695 PlanetExplorer.java ADD String S FIELD
+RefactoringAction 1496945627273 PlanetExplorer.java ADD String E FIELD
+RefactoringAction 1496945627274 PlanetExplorer.java ADD String W FIELD
+EditAction 1496945660610 TestPlanetExplorer.java 367 2 4 1
+EditAction 1496945663724 PlanetExplorer.java 1513 3 4 0
+UnitTestCaseAction 1496945672217 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945672220 TestPlanetExplorer.test_Kretanje_Komanda_f FAIL
+EditAction 1496945765282 TestPlanetExplorer.java 383 2 4 1
+UnitTestCaseAction 1496945769133 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945769134 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496945774830 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945774833 TestPlanetExplorer.test_Kretanje_Komanda_f FAIL
+RefactoringAction 1496945797546 PlanetExplorer.java REMOVE N FIELD
+RefactoringAction 1496945797549 PlanetExplorer.java REMOVE W FIELD
+RefactoringAction 1496945797550 PlanetExplorer.java REMOVE S FIELD
+RefactoringAction 1496945797551 PlanetExplorer.java REMOVE E FIELD
+RefactoringAction 1496945799575 PlanetExplorer.java ADD String facing FIELD
+UnitTestCaseAction 1496945922126 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945922129 TestPlanetExplorer.test_Kretanje_Komanda_f FAIL
+UnitTestCaseAction 1496945927636 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945927637 TestPlanetExplorer.test_Kretanje_Komanda_f FAIL
+RefactoringAction 1496945938649 TestPlanetExplorer.java REMOVE test_() METHOD
+EditAction 1496945955985 TestPlanetExplorer.java 305 1 3 1
+UnitTestCaseAction 1496945961787 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945961790 TestPlanetExplorer.java FAIL
+RefactoringAction 1496945995354 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496945997896 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1496945999929 TestPlanetExplorer.java RENAME test_=>void test_Kretanje FIELD
+RefactoringAction 1496946001454 TestPlanetExplorer.java RENAME test_Kretanje=>void test_Kretanje_ FIELD
+RefactoringAction 1496946006483 TestPlanetExplorer.java RENAME test_Kretanje_=>void test_Kretanje_Komanda FIELD
+RefactoringAction 1496946008003 TestPlanetExplorer.java RENAME test_Kretanje_Komanda=>void test_Kretanje_Komanda_ FIELD
+RefactoringAction 1496946011518 TestPlanetExplorer.java RENAME test_Kretanje_Komanda_=>void test_Kretanje_Komanda_b FIELD
+EditAction 1496946264191 PlanetExplorer.java 1738 3 4 0
+EditAction 1496946267391 TestPlanetExplorer.java 503 2 6 2
+UnitTestCaseAction 1496946276880 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946276881 TestPlanetExplorer.test_Kretanje_Komanda_b FAIL
+EditAction 1496946298668 TestPlanetExplorer.java 512 2 6 2
+UnitTestCaseAction 1496946303679 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946303681 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1496946307914 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946307916 TestPlanetExplorer.test_Kretanje_Komanda_b FAIL
+EditAction 1496946347659 PlanetExplorer.java 1708 3 4 0
+UnitTestCaseAction 1496946363204 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946363205 TestPlanetExplorer.test_Kretanje_Komanda_b FAIL
+EditAction 1496946396767 PlanetExplorer.java 1712 3 4 0
+UnitTestCaseAction 1496946400600 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946400602 TestPlanetExplorer.test_Kretanje_Komanda_b FAIL
+UnitTestCaseAction 1496946405085 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946405087 TestPlanetExplorer.test_Kretanje_Komanda_b FAIL
+EditAction 1496946434535 PlanetExplorer.java 1688 3 4 0
+UnitTestCaseAction 1496946465129 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946465130 TestPlanetExplorer.test_Kretanje_Komanda_b FAIL
+EditAction 1496946482340 TestPlanetExplorer.java 508 2 6 2
+UnitTestCaseAction 1496946489114 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946489115 TestPlanetExplorer.test_Kretanje_Komanda_b OK
+UnitTestCaseAction 1496946495663 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946495669 TestPlanetExplorer.test_Kretanje_Komanda_f OK
+RefactoringAction 1496946512723 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496946514253 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1496946516781 TestPlanetExplorer.java RENAME test_=>void test_Kretanje FIELD
+RefactoringAction 1496946517807 TestPlanetExplorer.java RENAME test_Kretanje=>void test_Kretanje_ FIELD
+RefactoringAction 1496946519832 TestPlanetExplorer.java RENAME test_Kretanje_=>void test_Kretanje_Komanda FIELD
+RefactoringAction 1496946521863 TestPlanetExplorer.java RENAME test_Kretanje_Komanda=>void test_Kretanje_Komanda_ FIELD
+RefactoringAction 1496946523889 TestPlanetExplorer.java RENAME test_Kretanje_Komanda_=>void test_Kretanje_Komanda_ff FIELD
+RefactoringAction 1496946527413 TestPlanetExplorer.java RENAME test_Kretanje_Komanda_ff=>void test_Kretanje_Komanda_fff FIELD
+RefactoringAction 1496946528439 TestPlanetExplorer.java RENAME test_Kretanje_Komanda_fff=>void test_Kretanje_Komanda_ffff FIELD
+RefactoringAction 1496946529959 TestPlanetExplorer.java RENAME test_Kretanje_Komanda_ffff=>void test_Kretanje_Komanda_ffff() METHOD
+EditAction 1496946656662 TestPlanetExplorer.java 726 3 9 3
+RefactoringAction 1496946713712 TestPlanetExplorer.java REMOVE test_Kretanje_Komanda_ffff() METHOD
+RefactoringAction 1496946723846 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496946726384 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1496946730403 TestPlanetExplorer.java RENAME test_=>void test_Komanda_ FIELD
+RefactoringAction 1496946732428 TestPlanetExplorer.java RENAME test_Komanda_=>void test_Komanda_l FIELD
+RefactoringAction 1496946740482 TestPlanetExplorer.java RENAME test_Komanda_l=>void test_Komanda_l() METHOD
+RefactoringAction 1496946762522 TestPlanetExplorer.java RENAME test_Komanda_l()=>void test_Komanda_fl() METHOD
+EditAction 1496946870648 TestPlanetExplorer.java 719 3 9 3
+EditAction 1496946873849 PlanetExplorer.java 1692 3 4 0
+EditAction 1496946954784 PlanetExplorer.java 1822 3 4 0
+UnitTestCaseAction 1496946965614 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496946965617 TestPlanetExplorer.test_Komanda_fl OK
+RefactoringAction 1496946983082 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496946985620 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1496946986650 TestPlanetExplorer.java RENAME test_=>void test_ko FIELD
+RefactoringAction 1496946990185 TestPlanetExplorer.java RENAME test_ko=>void test_Komanda FIELD
+RefactoringAction 1496946991718 TestPlanetExplorer.java RENAME test_Komanda=>void test_Komanda_ FIELD
+RefactoringAction 1496946993257 TestPlanetExplorer.java RENAME test_Komanda_=>void test_Komanda_bl FIELD
+RefactoringAction 1496946994779 TestPlanetExplorer.java RENAME test_Komanda_bl=>void test_Komanda_bl() METHOD
+EditAction 1496947143228 PlanetExplorer.java 1949 3 4 0
+EditAction 1496947146567 TestPlanetExplorer.java 926 4 12 4
+UnitTestCaseAction 1496947164627 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947164628 TestPlanetExplorer.test_Komanda_bl FAIL
+EditAction 1496947182048 PlanetExplorer.java 1949 3 4 0
+UnitTestCaseAction 1496947185855 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947185856 TestPlanetExplorer.test_Komanda_bl OK
+RefactoringAction 1496947206089 TestPlanetExplorer.java ADD void tes FIELD
+RefactoringAction 1496947207620 TestPlanetExplorer.java RENAME tes=>void test FIELD
+RefactoringAction 1496947217197 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1496947219217 TestPlanetExplorer.java RENAME test_=>void test_Komanda FIELD
+RefactoringAction 1496947220246 TestPlanetExplorer.java RENAME test_Komanda=>void test_Komanda_ FIELD
+RefactoringAction 1496947222278 TestPlanetExplorer.java RENAME test_Komanda_=>void test_Komanda_r FIELD
+RefactoringAction 1496947228304 TestPlanetExplorer.java RENAME test_Komanda_r=>void test_Komanda_r() METHOD
+EditAction 1496947249964 TestPlanetExplorer.java 994 5 12 4
+CompilationAction 1496947253059 TestPlanetExplorer.java
+EditAction 1496947331753 TestPlanetExplorer.java 1129 5 15 5
+UnitTestCaseAction 1496947338614 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947338619 TestPlanetExplorer.test_Komanda_bl OK
+EditAction 1496947396836 PlanetExplorer.java 2053 3 4 0
+UnitTestCaseAction 1496947418012 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947418014 TestPlanetExplorer.test_Komanda_r OK
+UnitTestCaseAction 1496947426579 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496947426581 TestPlanetExplorer.java OK
+RefactoringAction 1496947514308 TestPlanetExplorer.java ADD void tets FIELD
+RefactoringAction 1496947519340 TestPlanetExplorer.java RENAME tets=>void test_Komanda FIELD
+RefactoringAction 1496947522395 TestPlanetExplorer.java RENAME test_Komanda=>void test_Komanda_ FIELD
+RefactoringAction 1496947524942 TestPlanetExplorer.java RENAME test_Komanda_=>void test_Komanda_f FIELD
+RefactoringAction 1496947530968 TestPlanetExplorer.java RENAME test_Komanda_f=>void test_Komanda_frr FIELD
+RefactoringAction 1496947533013 TestPlanetExplorer.java RENAME test_Komanda_frr=>void test_Komanda_frr() METHOD
+EditAction 1496947699851 TestPlanetExplorer.java 1505 6 17 5
+EditAction 1496947703097 PlanetExplorer.java 2053 3 4 0
+EditAction 1496947846557 PlanetExplorer.java 2213 3 9 0
+UnitTestCaseAction 1496947857392 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496947857393 TestPlanetExplorer.test_Komanda_frr FAIL
+RefactoringAction 1496947925793 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1496947929339 TestPlanetExplorer.java RENAME test=>void test_Prepreka FIELD
+RefactoringAction 1496947931376 TestPlanetExplorer.java RENAME test_Prepreka=>void test_Prepreka_ FIELD
+RefactoringAction 1496947932906 TestPlanetExplorer.java RENAME test_Prepreka_=>void test_Prepreka_f FIELD
+RefactoringAction 1496947935976 TestPlanetExplorer.java RENAME test_Prepreka_f=>void test_Prepreka_ff FIELD
+RefactoringAction 1496947938005 TestPlanetExplorer.java RENAME test_Prepreka_ff=>void test_Prepreka_ff() METHOD
+EditAction 1496948162573 TestPlanetExplorer.java 1751 7 20 6

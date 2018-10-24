@@ -1,0 +1,15 @@
+1497004294502 test-first 3 2182 true
+1497004849831 test-first 3 555 true
+1497005248415 refactoring 3 398 true
+1497005374364 test-first 3 125 true
+1497005587014 test-addition 1 212 true
+1497005990787 refactoring 3 403 true
+1497006103386 test-addition 1 112 true
+1497006135639 regression 1 32 true
+1497006156798 regression 1 21 true
+1497006221182 regression 1 64 true
+1497006230999 regression 1 9 true
+1497006268153 regression 1 37 true
+1497006289387 regression 1 21 true
+1497006389144 regression 2 99 true
+1497006737423 test-first 3 348 true

@@ -1,0 +1,165 @@
+FileOpenedAction 1497002112090 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1497002122880 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1497002415020 TestPlanetExplorer.java ADD void tetst FIELD
+RefactoringAction 1497002418034 TestPlanetExplorer.java RENAME tetst=>void test FIELD
+RefactoringAction 1497002420048 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497002436060 TestPlanetExplorer.java RENAME test_=>void test_X FIELD
+RefactoringAction 1497002439071 TestPlanetExplorer.java RENAME test_X=>void test_x FIELD
+RefactoringAction 1497002440089 TestPlanetExplorer.java RENAME test_x=>void test_xKo FIELD
+RefactoringAction 1497002442601 TestPlanetExplorer.java RENAME test_xKo=>void test_xKordinata FIELD
+RefactoringAction 1497002450115 TestPlanetExplorer.java RENAME test_xKordinata=>void test_xKordin FIELD
+RefactoringAction 1497002473128 TestPlanetExplorer.java RENAME test_xKordin=>void test FIELD
+RefactoringAction 1497002474641 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497002485152 TestPlanetExplorer.java RENAME test_=>void test_R FIELD
+RefactoringAction 1497002487664 TestPlanetExplorer.java RENAME test_R=>void test_R() METHOD
+EditAction 1497002697252 TestPlanetExplorer.java 289 2 3 0
+UnitTestCaseAction 1497002709677 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497002709680 TestPlanetExplorer.java FAIL
+RefactoringAction 1497002744346 PlanetExplorer.java ADD int granica FIELD
+RefactoringAction 1497002745381 PlanetExplorer.java RENAME granica=>int granicaX FIELD
+RefactoringAction 1497002758549 PlanetExplorer.java ADD int granica FIELD
+RefactoringAction 1497002760562 PlanetExplorer.java RENAME granica=>int granicaY FIELD
+RefactoringAction 1497002822654 PlanetExplorer.java ADD int koordinata FIELD
+RefactoringAction 1497002824677 PlanetExplorer.java RENAME koordinata=>int koordinataX FIELD
+RefactoringAction 1497002831746 PlanetExplorer.java ADD int koordi FIELD
+RefactoringAction 1497002833268 PlanetExplorer.java RENAME koordi=>int koordinata FIELD
+RefactoringAction 1497002835282 PlanetExplorer.java RENAME koordinata=>int koordinataY FIELD
+EditAction 1497002887180 PlanetExplorer.java 1426 2 5 0
+RefactoringAction 1497003067691 PlanetExplorer.java ADD char smer FIELD
+RefactoringAction 1497003590395 PlanetExplorer.java ADD int getGranicaX() METHOD
+RefactoringAction 1497003590397 PlanetExplorer.java ADD void setGranicaX(int) METHOD
+RefactoringAction 1497003590414 PlanetExplorer.java ADD int getGranicaY() METHOD
+RefactoringAction 1497003590415 PlanetExplorer.java ADD void setGranicaY(int) METHOD
+RefactoringAction 1497003590416 PlanetExplorer.java ADD int getKoordinataX() METHOD
+RefactoringAction 1497003590416 PlanetExplorer.java ADD void setKoordinataX(int) METHOD
+RefactoringAction 1497003590418 PlanetExplorer.java ADD int getKoordinataY() METHOD
+RefactoringAction 1497003590419 PlanetExplorer.java ADD void setKoordinataY(int) METHOD
+RefactoringAction 1497003590420 PlanetExplorer.java ADD String getSmer() METHOD
+RefactoringAction 1497003590422 PlanetExplorer.java ADD void setSmer(String) METHOD
+RefactoringAction 1497003865381 PlanetExplorer.java ADD import org.hamcrest.core.SubstringMatcher IMPORT
+EditAction 1497003973914 PlanetExplorer.java 2374 12 17 0
+EditAction 1497004006962 PlanetExplorer.java 2438 12 17 0
+EditAction 1497004043302 PlanetExplorer.java 2533 12 17 0
+EditAction 1497004146273 TestPlanetExplorer.java 319 2 3 1
+UnitTestCaseAction 1497004151871 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004151873 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004162347 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+EditAction 1497004166525 TestPlanetExplorer.java 327 1 2 1
+UnitTestCaseAction 1497004170269 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004170271 TestPlanetExplorer.java FAIL
+EditAction 1497004265751 PlanetExplorer.java 2581 12 17 0
+UnitTestCaseAction 1497004271077 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004271080 TestPlanetExplorer.java FAIL
+EditAction 1497004289710 TestPlanetExplorer.java 333 1 2 1
+UnitTestCaseAction 1497004294501 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004294502 TestPlanetExplorer.java OK
+FileOpenedAction 1497004307847 PlanetExplorerException.java 61 0 0 0
+RefactoringAction 1497004319865 PlanetExplorerException.java ADD String Exep FIELD
+RefactoringAction 1497004323878 PlanetExplorerException.java RENAME Exep=>String Ex FIELD
+RefactoringAction 1497004325889 PlanetExplorerException.java RENAME Ex=>String Exce FIELD
+RefactoringAction 1497004328400 PlanetExplorerException.java RENAME Exce=>String Exception FIELD
+RefactoringAction 1497004333916 PlanetExplorerException.java RENAME Exception=>String Exception() METHOD
+EditAction 1497004347422 PlanetExplorerException.java 110 1 1 0
+RefactoringAction 1497004616875 TestPlanetExplorer.java ADD void tetst FIELD
+RefactoringAction 1497004619393 TestPlanetExplorer.java RENAME tetst=>void test FIELD
+RefactoringAction 1497004621408 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497004622422 TestPlanetExplorer.java RENAME test_=>void test_L FIELD
+RefactoringAction 1497004623436 TestPlanetExplorer.java RENAME test_L=>void test_L() METHOD
+EditAction 1497004722386 TestPlanetExplorer.java 543 2 4 2
+EditAction 1497004728063 PlanetExplorer.java 2634 12 17 0
+UnitTestCaseAction 1497004732034 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004732036 TestPlanetExplorer.java FAIL
+EditAction 1497004829654 PlanetExplorer.java 2953 12 17 0
+UnitTestCaseAction 1497004837776 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004837780 TestPlanetExplorer.java FAIL
+EditAction 1497004844345 TestPlanetExplorer.java 544 2 4 2
+UnitTestCaseAction 1497004849830 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004849831 TestPlanetExplorer.java OK
+RefactoringAction 1497004870364 TestPlanetExplorer.java ADD void tetst FIELD
+RefactoringAction 1497004872379 TestPlanetExplorer.java RENAME tetst=>void test FIELD
+RefactoringAction 1497004875407 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497004883921 TestPlanetExplorer.java RENAME test_=>void test_F FIELD
+RefactoringAction 1497004886438 TestPlanetExplorer.java RENAME test_F=>void test_F() METHOD
+EditAction 1497005018497 TestPlanetExplorer.java 722 3 4 2
+CompilationAction 1497005021826 TestPlanetExplorer.java
+CompilationAction 1497005021829 TestPlanetExplorer.java
+EditAction 1497005037151 TestPlanetExplorer.java 723 3 6 2
+CompilationAction 1497005039920 TestPlanetExplorer.java
+CompilationAction 1497005045871 TestPlanetExplorer.java
+UnitTestCaseAction 1497005049372 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005049374 TestPlanetExplorer.java FAIL
+EditAction 1497005184378 PlanetExplorer.java 3356 12 17 0
+EditAction 1497005235693 PlanetExplorer.java 3440 12 17 0
+UnitTestCaseAction 1497005248413 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005248415 TestPlanetExplorer.java OK
+RefactoringAction 1497005254870 TestPlanetExplorer.java ADD void test_F()/2 METHOD
+RefactoringAction 1497005266393 TestPlanetExplorer.java RENAME test_F()/2=>void test_RF() METHOD
+EditAction 1497005269888 TestPlanetExplorer.java 906 4 8 4
+EditAction 1497005289400 TestPlanetExplorer.java 906 4 8 4
+UnitTestCaseAction 1497005294496 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497005294498 TestPlanetExplorer.java FAIL
+EditAction 1497005367594 PlanetExplorer.java 3610 12 17 0
+UnitTestCaseAction 1497005374358 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005374364 TestPlanetExplorer.java OK
+RefactoringAction 1497005465135 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1497005469154 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497005472191 TestPlanetExplorer.java RENAME test_=>void test_FFFF FIELD
+RefactoringAction 1497005475209 TestPlanetExplorer.java RENAME test_FFFF=>void test_FFFF() METHOD
+EditAction 1497005581624 TestPlanetExplorer.java 1085 5 10 5
+UnitTestCaseAction 1497005587012 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005587014 TestPlanetExplorer.java OK
+RefactoringAction 1497005606072 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1497005607094 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497005609121 TestPlanetExplorer.java RENAME test_=>void test_pre FIELD
+RefactoringAction 1497005610641 TestPlanetExplorer.java RENAME test_pre=>void test_ FIELD
+RefactoringAction 1497005614172 TestPlanetExplorer.java RENAME test_=>void test_Prepreka FIELD
+RefactoringAction 1497005617689 TestPlanetExplorer.java RENAME test_Prepreka=>void test_Prepreka() METHOD
+EditAction 1497005966000 TestPlanetExplorer.java 1239 6 12 5
+EditAction 1497005987138 PlanetExplorer.java 3610 12 17 0
+UnitTestCaseAction 1497005990785 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497005990787 TestPlanetExplorer.java OK
+EditAction 1497006097341 TestPlanetExplorer.java 1302 6 13 6
+UnitTestCaseAction 1497006103385 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006103386 TestPlanetExplorer.java OK
+EditAction 1497006127941 TestPlanetExplorer.java 1301 6 13 6
+UnitTestCaseAction 1497006135637 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006135639 TestPlanetExplorer.java OK
+EditAction 1497006152847 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006156796 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006156798 TestPlanetExplorer.java OK
+EditAction 1497006216144 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006221181 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006221182 TestPlanetExplorer.java OK
+EditAction 1497006225751 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006230997 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006230999 TestPlanetExplorer.java OK
+EditAction 1497006261847 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006268152 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006268153 TestPlanetExplorer.java OK
+EditAction 1497006282883 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006289384 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006289387 TestPlanetExplorer.java OK
+EditAction 1497006340098 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006345374 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006345377 TestPlanetExplorer.java FAIL
+EditAction 1497006349697 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006361412 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006361413 TestPlanetExplorer.java FAIL
+EditAction 1497006383082 TestPlanetExplorer.java 1297 6 13 6
+UnitTestCaseAction 1497006389143 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006389144 TestPlanetExplorer.java OK
+RefactoringAction 1497006433328 PlanetExplorer.java ADD import java.util.concurrent.ExecutionException IMPORT
+RefactoringAction 1497006538523 TestPlanetExplorer.java REMOVE test_Prepreka() METHOD
+RefactoringAction 1497006548054 TestPlanetExplorer.java ADD void test_FFFF()/2 METHOD
+RefactoringAction 1497006561080 TestPlanetExplorer.java REMOVE test_FFFF()/2 METHOD
+RefactoringAction 1497006577225 TestPlanetExplorer.java ADD void test_F()/2 METHOD
+RefactoringAction 1497006580250 TestPlanetExplorer.java RENAME test_F()/2=>void test_B() METHOD
+UnitTestCaseAction 1497006601837 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006601838 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006613958 PlanetExplorer.java ADD import org.junit.Assert.assertEquals IMPORT
+RefactoringAction 1497006615003 PlanetExplorer.java REMOVE import org.junit.Assert.assertEquals IMPORT
+EditAction 1497006677211 PlanetExplorer.java 4483 12 17 0
+EditAction 1497006710939 PlanetExplorer.java 4490 12 17 0
+EditAction 1497006730929 PlanetExplorer.java 4490 12 17 0
+UnitTestCaseAction 1497006737422 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497006737423 TestPlanetExplorer.java OK

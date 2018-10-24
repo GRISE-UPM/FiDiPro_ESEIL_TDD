@@ -1,0 +1,12 @@
+1497031152552 test-first 1 504 true
+1497031473320 test-first 3 293 true
+1497031727069 test-first 3 214 true
+1497031843725 test-first 3 110 true
+1497032338954 refactoring 3 448 false
+1497032454293 test-first 3 107 true
+1497032567693 test-first 3 82 true
+1497032618196 test-first 3 40 true
+1497033082874 test-first 1 360 true
+1497033243219 test-first 3 145 true
+1497034259103 test-first 1 626 true
+1497034496047 test-first 3 207 true

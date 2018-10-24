@@ -1,0 +1,13 @@
+1497011479171 refactoring 3 325 false
+1497011519364 test-addition 1 35 false
+1497011564182 refactoring 3 38 true
+1497011608347 refactoring 2A 20 true
+1497011675103 production 2 35 false
+1497011824711 test-first 3 137 true
+1497011851531 test-addition 1 21 false
+1497011908304 test-addition 1 51 true
+1497012105536 test-first 3 166 true
+1497012141365 production 1 13 false
+1497012435432 refactoring 3 282 true
+1497014119970 test-first 1 1668 true
+1497015507418 test-last 1 1376 false

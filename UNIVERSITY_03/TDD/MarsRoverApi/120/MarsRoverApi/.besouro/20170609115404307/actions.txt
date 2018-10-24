@@ -1,0 +1,282 @@
+FileOpenedAction 1497002044873 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1497002092783 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1497002097171 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1497002119281 TestPlanetExplorer.java ADD void test_rotate FIELD
+RefactoringAction 1497002121295 TestPlanetExplorer.java RENAME test_rotate=>void test_rotate_rigth FIELD
+RefactoringAction 1497002122321 TestPlanetExplorer.java RENAME test_rotate_rigth=>void test_rotate_right FIELD
+RefactoringAction 1497002123336 TestPlanetExplorer.java RENAME test_rotate_right=>void test_rotate_right() METHOD
+EditAction 1497002213223 TestPlanetExplorer.java 339 2 2 1
+UnitTestCaseAction 1497002222066 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497002222074 TestPlanetExplorer.java FAIL
+RefactoringAction 1497002254501 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1497002254503 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1497002262537 PlanetExplorer.java ADD String obstacles FIELD
+RefactoringAction 1497002271561 PlanetExplorer.java ADD String direction FIELD
+EditAction 1497002284797 PlanetExplorer.java 1347 2 1 0
+EditAction 1497002302007 PlanetExplorer.java 1353 2 1 0
+EditAction 1497002333510 PlanetExplorer.java 1408 2 4 0
+RefactoringAction 1497002430846 PlanetExplorer.java ADD void rotate() METHOD
+RefactoringAction 1497002441425 PlanetExplorer.java RENAME rotate()=>void rotate(char) METHOD
+EditAction 1497002573010 PlanetExplorer.java 1797 3 7 0
+RefactoringAction 1497002608860 PlanetExplorer.java ADD int roverX FIELD
+RefactoringAction 1497002616382 PlanetExplorer.java ADD int roverY FIELD
+EditAction 1497002648985 PlanetExplorer.java 1894 3 7 0
+UnitTestCaseAction 1497002659923 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497002659934 TestPlanetExplorer.java OK
+RefactoringAction 1497002710737 TestPlanetExplorer.java ADD void test_rotate_right()/2 METHOD
+RefactoringAction 1497002720258 TestPlanetExplorer.java RENAME test_rotate_right()/2=>void test_rotate_left() METHOD
+EditAction 1497002731652 TestPlanetExplorer.java 501 3 4 2
+UnitTestCaseAction 1497002740884 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497002740886 TestPlanetExplorer.java FAIL
+EditAction 1497002814734 PlanetExplorer.java 2158 3 7 0
+UnitTestCaseAction 1497002826221 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497002826223 TestPlanetExplorer.java OK
+RefactoringAction 1497002840431 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1497002842452 TestPlanetExplorer.java RENAME test=>void test_for FIELD
+RefactoringAction 1497002843987 TestPlanetExplorer.java RENAME test_for=>void test_forth FIELD
+RefactoringAction 1497002844999 TestPlanetExplorer.java RENAME test_forth=>void test_forth_ FIELD
+RefactoringAction 1497002848514 TestPlanetExplorer.java RENAME test_forth_=>void test_forth_north() METHOD
+EditAction 1497002869195 TestPlanetExplorer.java 663 4 6 3
+UnitTestCaseAction 1497002877682 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497002877684 TestPlanetExplorer.java FAIL
+RefactoringAction 1497002918227 PlanetExplorer.java ADD void o FIELD
+RefactoringAction 1497002919238 PlanetExplorer.java RENAME o=>void move FIELD
+RefactoringAction 1497002922756 PlanetExplorer.java RENAME move=>void moveForth() METHOD
+EditAction 1497003024983 PlanetExplorer.java 2368 4 8 0
+UnitTestCaseAction 1497003038185 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003038186 TestPlanetExplorer.java OK
+RefactoringAction 1497003044260 TestPlanetExplorer.java ADD void test_forth_north()/2 METHOD
+RefactoringAction 1497003048777 TestPlanetExplorer.java RENAME test_forth_north()/2=>void test_back_north() METHOD
+EditAction 1497003063914 TestPlanetExplorer.java 850 5 9 4
+UnitTestCaseAction 1497003075937 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003075939 TestPlanetExplorer.java FAIL
+RefactoringAction 1497003097256 PlanetExplorer.java ADD void moveForth()/2 METHOD
+RefactoringAction 1497003107288 PlanetExplorer.java RENAME moveForth()/2=>void moveBack() METHOD
+EditAction 1497003125650 PlanetExplorer.java 2570 5 9 0
+UnitTestCaseAction 1497003137524 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003137527 TestPlanetExplorer.java OK
+RefactoringAction 1497003144946 TestPlanetExplorer.java ADD void test_forth_north()/2 METHOD
+RefactoringAction 1497003144948 TestPlanetExplorer.java ADD void test_back_north()/2 METHOD
+RefactoringAction 1497003148967 TestPlanetExplorer.java RENAME test_forth_north()/2=>void test_forth_east() METHOD
+RefactoringAction 1497003152482 TestPlanetExplorer.java RENAME test_back_north()/2=>void test_back_e() METHOD
+RefactoringAction 1497003153490 TestPlanetExplorer.java RENAME test_back_e()=>void test_back_east() METHOD
+EditAction 1497003178229 TestPlanetExplorer.java 1223 7 15 6
+RefactoringAction 1497003189103 TestPlanetExplorer.java REMOVE test_back_east() METHOD
+EditAction 1497003189843 TestPlanetExplorer.java 1040 6 12 5
+UnitTestCaseAction 1497003201993 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003201994 TestPlanetExplorer.java OK
+RefactoringAction 1497003214153 TestPlanetExplorer.java ADD void test_forth_east()/2 METHOD
+RefactoringAction 1497003218167 TestPlanetExplorer.java RENAME test_forth_east()/2=>void test_back_east() METHOD
+EditAction 1497003229430 TestPlanetExplorer.java 1251 7 12 5
+CompilationAction 1497003241632 TestPlanetExplorer.java
+EditAction 1497003241834 TestPlanetExplorer.java 1252 7 16 6
+UnitTestCaseAction 1497003254407 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003254409 TestPlanetExplorer.java OK
+RefactoringAction 1497003262788 TestPlanetExplorer.java ADD void test_forth_east()/2 METHOD
+RefactoringAction 1497003265801 TestPlanetExplorer.java RENAME test_forth_east()/2=>void test_forth_south() METHOD
+EditAction 1497003295336 TestPlanetExplorer.java 1465 8 20 7
+UnitTestCaseAction 1497003303498 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003303500 TestPlanetExplorer.java FAIL
+EditAction 1497003315550 TestPlanetExplorer.java 1465 8 20 7
+UnitTestCaseAction 1497003323529 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003323531 TestPlanetExplorer.java OK
+RefactoringAction 1497003329403 TestPlanetExplorer.java ADD void test_forth_south()/2 METHOD
+RefactoringAction 1497003334929 TestPlanetExplorer.java RENAME test_forth_south()/2=>void test_back_south() METHOD
+EditAction 1497003345296 TestPlanetExplorer.java 1653 9 23 8
+UnitTestCaseAction 1497003353932 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003353933 TestPlanetExplorer.java OK
+RefactoringAction 1497003363497 TestPlanetExplorer.java ADD void test_forth_south()/2 METHOD
+RefactoringAction 1497003367508 TestPlanetExplorer.java RENAME test_forth_south()/2=>void test_forth_west() METHOD
+EditAction 1497003412100 TestPlanetExplorer.java 1841 10 26 9
+UnitTestCaseAction 1497003425914 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003425915 TestPlanetExplorer.java OK
+RefactoringAction 1497003434155 TestPlanetExplorer.java ADD void test_forth_west()/2 METHOD
+RefactoringAction 1497003439669 TestPlanetExplorer.java RENAME test_forth_west()/2=>void test_back_west() METHOD
+EditAction 1497003460778 TestPlanetExplorer.java 2028 11 29 10
+UnitTestCaseAction 1497003475194 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003475195 TestPlanetExplorer.java FAIL
+EditAction 1497003488939 TestPlanetExplorer.java 2027 11 29 10
+UnitTestCaseAction 1497003497270 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003497271 TestPlanetExplorer.java OK
+RefactoringAction 1497003519841 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1497003520852 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1497003523870 TestPlanetExplorer.java RENAME test_=>void test_boundarier FIELD
+RefactoringAction 1497003527887 TestPlanetExplorer.java RENAME test_boundarier=>void test_boundaris FIELD
+RefactoringAction 1497003530915 TestPlanetExplorer.java RENAME test_boundaris=>void test_boundaris_ FIELD
+RefactoringAction 1497003533929 TestPlanetExplorer.java RENAME test_boundaris_=>void test_boundaris_north() METHOD
+EditAction 1497003590037 TestPlanetExplorer.java 2222 12 32 11
+UnitTestCaseAction 1497003598196 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003598198 TestPlanetExplorer.java FAIL
+EditAction 1497003655059 PlanetExplorer.java 2632 5 9 0
+UnitTestCaseAction 1497003678666 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003678667 TestPlanetExplorer.java OK
+RefactoringAction 1497003687650 TestPlanetExplorer.java RENAME test_boundaris_north()=>void test_boundaries_north() METHOD
+EditAction 1497003688908 TestPlanetExplorer.java 2223 12 32 11
+RefactoringAction 1497003749715 TestPlanetExplorer.java ADD void test_boundaries_north()/2 METHOD
+RefactoringAction 1497003756731 TestPlanetExplorer.java RENAME test_boundaries_north()/2=>void test_boundaries_south() METHOD
+EditAction 1497003771203 TestPlanetExplorer.java 2390 13 34 12
+UnitTestCaseAction 1497003780154 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003780156 TestPlanetExplorer.java FAIL
+EditAction 1497003819492 PlanetExplorer.java 2689 5 9 0
+UnitTestCaseAction 1497003833976 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003833978 TestPlanetExplorer.java OK
+RefactoringAction 1497003847862 TestPlanetExplorer.java ADD void test_boundaries_south()/2 METHOD
+RefactoringAction 1497003850876 TestPlanetExplorer.java RENAME test_boundaries_south()/2=>void test_boundaries_east() METHOD
+EditAction 1497003879957 TestPlanetExplorer.java 2582 14 37 13
+UnitTestCaseAction 1497003895084 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003895086 TestPlanetExplorer.java FAIL
+EditAction 1497003933608 PlanetExplorer.java 2751 5 9 0
+UnitTestCaseAction 1497003955390 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497003955392 TestPlanetExplorer.java FAIL
+EditAction 1497003964688 TestPlanetExplorer.java 2582 14 37 13
+UnitTestCaseAction 1497003973206 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497003973208 TestPlanetExplorer.java OK
+RefactoringAction 1497003977083 TestPlanetExplorer.java ADD void test_boundaries_east()/2 METHOD
+RefactoringAction 1497003980100 TestPlanetExplorer.java RENAME test_boundaries_east()/2=>void test_boundaries_e() METHOD
+RefactoringAction 1497003981614 TestPlanetExplorer.java RENAME test_boundaries_e()=>void test_boundaries_west() METHOD
+EditAction 1497003991066 TestPlanetExplorer.java 2774 15 40 14
+UnitTestCaseAction 1497004006291 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004006293 TestPlanetExplorer.java FAIL
+EditAction 1497004052555 PlanetExplorer.java 2808 5 9 0
+EditAction 1497004067409 TestPlanetExplorer.java 2774 15 40 14
+UnitTestCaseAction 1497004083011 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004083014 TestPlanetExplorer.java OK
+RefactoringAction 1497004098760 TestPlanetExplorer.java ADD void test_boundaries_west()/2 METHOD
+RefactoringAction 1497004103774 TestPlanetExplorer.java RENAME test_boundaries_west()/2=>void test_boundaries_fort() METHOD
+RefactoringAction 1497004105284 TestPlanetExplorer.java RENAME test_boundaries_fort()=>void test_boundaries_forth_() METHOD
+RefactoringAction 1497004106804 TestPlanetExplorer.java RENAME test_boundaries_forth_()=>void test_boundaries_forth_west() METHOD
+EditAction 1497004130844 TestPlanetExplorer.java 2972 16 43 15
+UnitTestCaseAction 1497004138978 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004138980 TestPlanetExplorer.java FAIL
+EditAction 1497004167963 PlanetExplorer.java 2865 5 9 0
+EditAction 1497004191193 TestPlanetExplorer.java 2972 16 43 15
+UnitTestCaseAction 1497004199074 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004199076 TestPlanetExplorer.java OK
+RefactoringAction 1497004215431 TestPlanetExplorer.java ADD void test_boundaries_forth_west()/2 METHOD
+RefactoringAction 1497004218944 TestPlanetExplorer.java RENAME test_boundaries_forth_west()/2=>void test_boundaries_forth_south() METHOD
+EditAction 1497004231236 TestPlanetExplorer.java 3172 17 46 16
+UnitTestCaseAction 1497004239403 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004239405 TestPlanetExplorer.java FAIL
+EditAction 1497004268955 PlanetExplorer.java 2927 5 9 0
+UnitTestCaseAction 1497004293715 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004293716 TestPlanetExplorer.java OK
+UnitTestCaseAction 1497004293734 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004293763 TestPlanetExplorer.java OK
+RefactoringAction 1497004311558 TestPlanetExplorer.java ADD void test_boundaries_forth_south()/2 METHOD
+RefactoringAction 1497004316075 TestPlanetExplorer.java RENAME test_boundaries_forth_south()/2=>void test_boundaries_back_south() METHOD
+RefactoringAction 1497004319093 TestPlanetExplorer.java RENAME test_boundaries_back_south()=>void test_boundaries_back_north() METHOD
+EditAction 1497004331555 TestPlanetExplorer.java 3344 18 48 17
+UnitTestCaseAction 1497004339682 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004339684 TestPlanetExplorer.java OK
+RefactoringAction 1497004353654 TestPlanetExplorer.java RENAME test_boundaries_back_north()=>void test_boundaries_back_south() METHOD
+EditAction 1497004382050 TestPlanetExplorer.java 3372 18 46 16
+CompilationAction 1497004389580 TestPlanetExplorer.java
+EditAction 1497004398200 TestPlanetExplorer.java 3373 18 49 17
+UnitTestCaseAction 1497004415389 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004415391 TestPlanetExplorer.java FAIL
+EditAction 1497004449666 PlanetExplorer.java 2980 5 9 0
+UnitTestCaseAction 1497004466726 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004466728 TestPlanetExplorer.java OK
+RefactoringAction 1497004476346 TestPlanetExplorer.java ADD void test_boundaries_back_south()/2 METHOD
+RefactoringAction 1497004480363 TestPlanetExplorer.java RENAME test_boundaries_back_south()/2=>void test_boundaries_back_west() METHOD
+EditAction 1497004500617 TestPlanetExplorer.java 3572 19 52 18
+UnitTestCaseAction 1497004517580 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004517582 TestPlanetExplorer.java FAIL
+EditAction 1497004548821 PlanetExplorer.java 3037 5 9 0
+UnitTestCaseAction 1497004557511 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004557513 TestPlanetExplorer.java OK
+RefactoringAction 1497004590114 TestPlanetExplorer.java ADD void testException() METHOD
+EditAction 1497004607167 TestPlanetExplorer.java 3738 20 54 18
+UnitTestCaseAction 1497004615146 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004615148 TestPlanetExplorer.java FAIL
+EditAction 1497004659970 PlanetExplorer.java 3118 5 9 0
+CompilationAction 1497004667275 TestPlanetExplorer.java
+CompilationAction 1497004738098 TestPlanetExplorer.java
+UnitTestCaseAction 1497004739176 TestPlanetExplorer.java OK
+UnitTestSessionAction 1497004739177 TestPlanetExplorer.java OK
+RefactoringAction 1497004759170 TestPlanetExplorer.java ADD void testO FIELD
+RefactoringAction 1497004763682 TestPlanetExplorer.java RENAME testO=>void test_obstacles FIELD
+RefactoringAction 1497004766697 TestPlanetExplorer.java RENAME test_obstacles=>void test_obstacles() METHOD
+EditAction 1497004825311 TestPlanetExplorer.java 4526 21 56 19
+UnitTestCaseAction 1497004832779 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497004832781 TestPlanetExplorer.java FAIL
+RefactoringAction 1497004854275 PlanetExplorer.java ADD List<int FIELD
+RefactoringAction 1497004861288 PlanetExplorer.java RENAME lista=>List<int FIELD
+RefactoringAction 1497004867822 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>int x/2 FIELD
+RefactoringAction 1497004877371 PlanetExplorer.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1497004882398 PlanetExplorer.java ADD import java.util.List IMPORT
+RefactoringAction 1497005177721 PlanetExplorer.java ADD List<int FIELD
+RefactoringAction 1497005180236 PlanetExplorer.java RENAME lista=>List<int FIELD
+RefactoringAction 1497005182764 PlanetExplorer.java RENAME listaUdarenih=>List<int FIELD
+RefactoringAction 1497005190299 PlanetExplorer.java ADD List<int FIELD
+RefactoringAction 1497005190303 PlanetExplorer.java ADD int x/2 FIELD
+RefactoringAction 1497005190305 PlanetExplorer.java ADD int y/2 FIELD
+RefactoringAction 1497005190306 PlanetExplorer.java ADD int String FIELD
+RefactoringAction 1497005201898 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>int x/2 FIELD
+EditAction 1497005630783 PlanetExplorer.java 4819 5 10 0
+EditAction 1497005794645 PlanetExplorer.java 5448 5 9 0
+CompilationAction 1497005801912 PlanetExplorer.java
+CompilationAction 1497005999584 PlanetExplorer.java
+UnitTestCaseAction 1497006000698 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006000699 TestPlanetExplorer.java FAIL
+RefactoringAction 1497006021004 PlanetExplorerException.java ADD String e FIELD
+RefactoringAction 1497006023013 PlanetExplorerException.java RENAME e=>String exception FIELD
+RefactoringAction 1497006024022 PlanetExplorerException.java RENAME exception=>String exception() METHOD
+EditAction 1497006077958 PlanetExplorerException.java 113 1 1 0
+EditAction 1497006085596 PlanetExplorer.java 5874 5 13 0
+UnitTestCaseAction 1497006102757 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006102759 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1497006111936 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006111938 TestPlanetExplorer.java FAIL
+EditAction 1497006124657 PlanetExplorer.java 5878 5 13 0
+UnitTestCaseAction 1497006142294 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006142296 TestPlanetExplorer.java FAIL
+EditAction 1497006151115 PlanetExplorer.java 5868 5 13 0
+UnitTestCaseAction 1497006159336 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006159338 TestPlanetExplorer.java FAIL
+EditAction 1497006210374 PlanetExplorer.java 5897 5 12 0
+UnitTestCaseAction 1497006218316 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006218318 TestPlanetExplorer.java FAIL
+EditAction 1497006276436 PlanetExplorer.java 5873 5 12 0
+UnitTestCaseAction 1497006294320 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006294322 TestPlanetExplorer.java FAIL
+EditAction 1497006303193 PlanetExplorer.java 5877 5 12 0
+UnitTestCaseAction 1497006311181 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006311183 TestPlanetExplorer.java FAIL
+EditAction 1497006323130 PlanetExplorer.java 5878 5 12 0
+UnitTestCaseAction 1497006331052 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006331053 TestPlanetExplorer.java FAIL
+EditAction 1497006344283 PlanetExplorer.java 5879 5 12 0
+UnitTestCaseAction 1497006352563 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006352565 TestPlanetExplorer.java FAIL
+EditAction 1497006364943 PlanetExplorer.java 5880 5 12 0
+UnitTestCaseAction 1497006372869 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006372872 TestPlanetExplorer.java FAIL
+EditAction 1497006407287 PlanetExplorer.java 5874 5 12 0
+UnitTestCaseAction 1497006425841 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006425842 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1497006435683 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006435685 TestPlanetExplorer.java FAIL
+EditAction 1497006443598 PlanetExplorer.java 5875 5 12 0
+UnitTestCaseAction 1497006451433 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006451435 TestPlanetExplorer.java FAIL
+EditAction 1497006465190 PlanetExplorer.java 5875 5 12 0
+UnitTestCaseAction 1497006473159 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006473161 TestPlanetExplorer.java FAIL
+EditAction 1497006508060 PlanetExplorer.java 5898 5 12 0
+CompilationAction 1497006515239 PlanetExplorer.java
+CompilationAction 1497006525975 PlanetExplorer.java
+UnitTestCaseAction 1497006537480 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006537482 TestPlanetExplorer.java FAIL
+EditAction 1497006571995 PlanetExplorer.java 5871 5 13 0
+UnitTestCaseAction 1497006601170 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006601172 TestPlanetExplorer.java FAIL
+EditAction 1497006601380 PlanetExplorer.java 5875 5 13 0
+UnitTestCaseAction 1497006620378 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006620380 TestPlanetExplorer.java FAIL
+EditAction 1497006656730 PlanetExplorer.java 5871 5 13 0
+UnitTestCaseAction 1497006665071 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006665073 TestPlanetExplorer.java FAIL
+EditAction 1497006679950 PlanetExplorer.java 5872 5 13 0
+UnitTestCaseAction 1497006688204 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1497006688206 TestPlanetExplorer.java FAIL

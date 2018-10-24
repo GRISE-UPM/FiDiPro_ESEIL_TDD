@@ -1,0 +1,14 @@
+1494594385148 refactoring 3 2267 true
+1494594578354 test-first 4 172 true
+1494595036620 test-first 4 447 true
+1494595097667 test-addition 1 50 false
+1494595119057 test-addition 1 16 false
+1494595144656 test-addition 1 20 true
+1494595275619 test-last 1 78 false
+1494595399776 test-first 3 90 true
+1494595485814 test-addition 1 67 false
+1494595901336 refactoring 2A 316 false
+1494596014708 test-addition 2 107 false
+1494596084042 test-addition 1 58 true
+1494596151611 test-addition 1 43 true
+1494596240445 test-addition 2 79 true

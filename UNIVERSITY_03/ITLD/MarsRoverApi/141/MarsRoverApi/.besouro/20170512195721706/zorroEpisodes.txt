@@ -1,0 +1,17 @@
+1494613730465 refactoring 3 1888 false
+1494613752209 refactoring 3 21 false
+1494613829731 test-last 1 77 false
+1494614051087 test-last 1 221 false
+1494614188670 test-first 4 137 true
+1494614389708 test-first 3 201 true
+1494614419494 test-addition 1 29 true
+1494614429333 regression 1 9 true
+1494614985856 test-first 3 556 true
+1494615441384 test-first 3 455 true
+1494615909395 test-first 3 468 true
+1494615984217 test-addition 1 74 true
+1494616178786 test-last 1 194 false
+1494616178952 regression 1 0 false
+1494616259662 test-addition 1 80 false
+1494616271485 regression 1 11 false
+1494616475623 refactoring 2A 204 false

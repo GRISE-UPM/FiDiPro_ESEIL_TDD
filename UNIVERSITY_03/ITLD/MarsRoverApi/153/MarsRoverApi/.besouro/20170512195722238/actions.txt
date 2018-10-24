@@ -1,0 +1,106 @@
+FileOpenedAction 1494611842611 PlanetExplorer.java 1245 2 1 0
+FileOpenedAction 1494611903887 PlanetExplorerException.java 61 0 0 0
+FileOpenedAction 1494611908997 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612440089 Explorer.java ADD Explorer.java CLASS
+FileOpenedAction 1494612440446 Explorer.java 32 0 0 0
+RefactoringAction 1494612456002 Explorer.java ADD int x FIELD
+RefactoringAction 1494612460519 Explorer.java ADD int y FIELD
+RefactoringAction 1494612479074 Explorer.java ADD String smer FIELD
+RefactoringAction 1494612481083 Explorer.java REMOVE smer FIELD
+RefactoringAction 1494612483090 Explorer.java ADD String de FIELD
+RefactoringAction 1494612484094 Explorer.java RENAME de=>String d FIELD
+RefactoringAction 1494612486603 Explorer.java RENAME d=>String direction FIELD
+RefactoringAction 1494612518157 Explorer.java ADD void move FIELD
+RefactoringAction 1494612520167 Explorer.java RENAME move=>void moveForth FIELD
+RefactoringAction 1494612522179 Explorer.java RENAME moveForth=>void moveForth() METHOD
+RefactoringAction 1494612538253 Explorer.java ADD Explorer() METHOD
+RefactoringAction 1494612541775 Explorer.java RENAME Explorer()=>Explorer(int) METHOD
+RefactoringAction 1494612544298 Explorer.java RENAME Explorer(int)=>Explorer(int, int) METHOD
+RefactoringAction 1494612631525 Explorer.java RENAME Explorer(int, int)=>Explorer(int, int, String) METHOD
+RefactoringAction 1494612665680 Explorer.java ADD Explorer() METHOD
+RefactoringAction 1494612684494 Explorer.java ADD int getX() METHOD
+RefactoringAction 1494612684494 Explorer.java ADD void setX(int) METHOD
+RefactoringAction 1494612688634 Explorer.java ADD int getY() METHOD
+RefactoringAction 1494612688635 Explorer.java ADD void setY(int) METHOD
+RefactoringAction 1494612697989 Explorer.java ADD String getDirection() METHOD
+RefactoringAction 1494612697990 Explorer.java ADD void setDirection(String) METHOD
+RefactoringAction 1494612743422 Explorer.java ADD int FIELD
+RefactoringAction 1494612779880 Explorer.java ADD int METHOD
+RefactoringAction 1494612779881 Explorer.java ADD void setGrid(int METHOD
+RefactoringAction 1494613465757 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494613469770 TestPlanetExplorer.java RENAME test=>void testMovingForth FIELD
+RefactoringAction 1494613474282 TestPlanetExplorer.java RENAME testMovingForth=>void testMovingForth() METHOD
+RefactoringAction 1494614047566 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494614047567 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1494614047567 PlanetExplorer.java ADD String direction FIELD
+RefactoringAction 1494614047567 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494614074144 PlanetExplorer.java RENAME grid_=>int grid_x FIELD
+RefactoringAction 1494614088204 PlanetExplorer.java ADD int grid FIELD
+RefactoringAction 1494614089214 PlanetExplorer.java RENAME grid=>int grid_ FIELD
+RefactoringAction 1494614090237 PlanetExplorer.java RENAME grid_=>int grid_y FIELD
+RefactoringAction 1494614354347 PlanetExplorer.java REMOVE y FIELD
+RefactoringAction 1494614354347 PlanetExplorer.java REMOVE x FIELD
+RefactoringAction 1494614354347 PlanetExplorer.java REMOVE direction FIELD
+RefactoringAction 1494614379916 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>Explorer exp FIELD
+RefactoringAction 1494614384438 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)=>int x FIELD
+RefactoringAction 1494614429022 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1494614434535 PlanetExplorer.java REMOVE x FIELD
+RefactoringAction 1494614565773 PlanetExplorer.java RENAME exp=>String Explorer FIELD
+RefactoringAction 1494614568787 PlanetExplorer.java RENAME Explorer=>String Obstacles FIELD
+RefactoringAction 1494614695630 Explorer.java ADD void turn FIELD
+RefactoringAction 1494614703644 Explorer.java REMOVE turn FIELD
+EditAction 1494614750166 TestPlanetExplorer.java 305 2 4 1
+EditAction 1494614750790 PlanetExplorer.java 1483 2 5 0
+UnitTestCaseAction 1494614752504 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614752506 TestPlanetExplorer.java FAIL
+UnitTestCaseAction 1494614796947 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614796947 TestPlanetExplorer.java FAIL
+EditAction 1494614812231 TestPlanetExplorer.java 305 2 4 1
+UnitTestCaseAction 1494614812842 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614812842 TestPlanetExplorer.java FAIL
+RefactoringAction 1494614853837 Explorer.java ADD void moveB FIELD
+RefactoringAction 1494614855347 Explorer.java RENAME moveB=>void moveBack FIELD
+RefactoringAction 1494614858361 Explorer.java RENAME moveBack=>void moveBack() METHOD
+RefactoringAction 1494615093000 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494615094009 TestPlanetExplorer.java RENAME test=>void testM FIELD
+RefactoringAction 1494615096017 TestPlanetExplorer.java RENAME testM=>void testMoving FIELD
+RefactoringAction 1494615098027 TestPlanetExplorer.java RENAME testMoving=>void testMovingBack FIELD
+RefactoringAction 1494615101538 TestPlanetExplorer.java RENAME testMovingBack=>void testMovingBack() METHOD
+EditAction 1494615218228 TestPlanetExplorer.java 432 3 7 2
+UnitTestCaseAction 1494615218765 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615218766 TestPlanetExplorer.java FAIL
+EditAction 1494615243183 TestPlanetExplorer.java 432 3 7 2
+UnitTestCaseAction 1494615243677 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615243678 TestPlanetExplorer.java FAIL
+RefactoringAction 1494615315113 Explorer.java ADD void turn FIELD
+RefactoringAction 1494615317123 Explorer.java RENAME turn=>void turnRight FIELD
+RefactoringAction 1494615319629 Explorer.java RENAME turnRight=>void turnRight() METHOD
+RefactoringAction 1494615442128 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494615444637 TestPlanetExplorer.java RENAME test=>void testTurn FIELD
+RefactoringAction 1494615447144 TestPlanetExplorer.java RENAME testTurn=>void testTurnRigh FIELD
+RefactoringAction 1494615448153 TestPlanetExplorer.java RENAME testTurnRigh=>void testTurnRight FIELD
+RefactoringAction 1494615449158 TestPlanetExplorer.java RENAME testTurnRight=>void testTurnRight() METHOD
+EditAction 1494615511379 TestPlanetExplorer.java 569 4 10 3
+CompilationAction 1494615511617 TestPlanetExplorer.java
+EditAction 1494615511661 PlanetExplorer.java 1520 2 5 0
+UnitTestCaseAction 1494615512362 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615512363 TestPlanetExplorer.java FAIL
+RefactoringAction 1494615531140 Explorer.java ADD void turn FIELD
+RefactoringAction 1494615533149 Explorer.java RENAME turn=>void turnLeft FIELD
+RefactoringAction 1494615534659 Explorer.java RENAME turnLeft=>void turnLeft() METHOD
+RefactoringAction 1494615581439 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1494615584948 TestPlanetExplorer.java RENAME test=>void testTurnLeft FIELD
+RefactoringAction 1494615585956 TestPlanetExplorer.java RENAME testTurnLeft=>void testTurnLeft() METHOD
+EditAction 1494615623804 TestPlanetExplorer.java 704 5 13 4
+UnitTestCaseAction 1494615624344 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494615624345 TestPlanetExplorer.java FAIL
+RefactoringAction 1494615979432 PlanetExplorer.java ADD import com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Array IMPORT
+RefactoringAction 1494616109955 PlanetExplorer.java ADD import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List IMPORT
+CompilationAction 1494616377927 PlanetExplorer.java
+CompilationAction 1494616377928 TestPlanetExplorer.java
+CompilationAction 1494616414035 TestPlanetExplorer.java
+UnitTestCaseAction 1494616419914 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616419914 TestPlanetExplorer.java FAIL
+CompilationAction 1494616476954 PlanetExplorer.java
+UnitTestCaseAction 1494616477241 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616477242 TestPlanetExplorer.java FAIL

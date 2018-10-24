@@ -1,0 +1,194 @@
+FileOpenedAction 1494611708791 PlanetExplorer.java 1245 2 1 0
+RefactoringAction 1494611809567 PlanetExplorer.java ADD int gridX FIELD
+RefactoringAction 1494611820612 PlanetExplorer.java ADD int gridY FIELD
+RefactoringAction 1494611916790 PlanetExplorer.java ADD String strana FIELD
+FileOpenedAction 1494612183247 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1494612492407 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494612504952 PlanetExplorer.java REMOVE prepreke FIELD
+RefactoringAction 1494612529525 PlanetExplorer.java ADD ArrayList<String> pre FIELD
+RefactoringAction 1494612548507 PlanetExplorer.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1494612589264 PlanetExplorer.java ADD int pocet FIELD
+RefactoringAction 1494612592778 PlanetExplorer.java RENAME pocet=>int kordinata FIELD
+RefactoringAction 1494612595794 PlanetExplorer.java RENAME kordinata=>int kordinataX FIELD
+RefactoringAction 1494612603843 PlanetExplorer.java ADD int kordinataY FIELD
+EditAction 1494612667814 PlanetExplorer.java 1616 2 5 0
+RefactoringAction 1494612718659 TestPlanetExplorer.java ADD PlanetExplorer vozilo FIELD
+RefactoringAction 1494612800286 PlanetExplorer.java ADD String FIELD
+RefactoringAction 1494612837858 PlanetExplorer.java ADD int getGridX() METHOD
+RefactoringAction 1494612837858 PlanetExplorer.java ADD void setGridX(int) METHOD
+RefactoringAction 1494612837860 PlanetExplorer.java ADD int getGridY() METHOD
+RefactoringAction 1494612837861 PlanetExplorer.java ADD void setGridY(int) METHOD
+RefactoringAction 1494612837861 PlanetExplorer.java ADD String getStrana() METHOD
+RefactoringAction 1494612837862 PlanetExplorer.java ADD void setStrana(String) METHOD
+RefactoringAction 1494612837862 PlanetExplorer.java ADD ArrayList<String> getPre() METHOD
+RefactoringAction 1494612837862 PlanetExplorer.java ADD void setPre(ArrayList<String>) METHOD
+RefactoringAction 1494612837863 PlanetExplorer.java ADD int getKordinataX() METHOD
+RefactoringAction 1494612837863 PlanetExplorer.java ADD void setKordinataX(int) METHOD
+RefactoringAction 1494612837863 PlanetExplorer.java ADD int getKordinataY() METHOD
+RefactoringAction 1494612837864 PlanetExplorer.java ADD void setKordinataY(int) METHOD
+RefactoringAction 1494612837864 PlanetExplorer.java ADD String METHOD
+RefactoringAction 1494612837864 PlanetExplorer.java ADD void setPrepreke(String METHOD
+RefactoringAction 1494612840876 PlanetExplorer.java REMOVE setPrepreke(String METHOD
+RefactoringAction 1494612840877 PlanetExplorer.java REMOVE getPre() METHOD
+RefactoringAction 1494612840878 PlanetExplorer.java REMOVE getKordinataY() METHOD
+RefactoringAction 1494612840878 PlanetExplorer.java REMOVE getGridX() METHOD
+RefactoringAction 1494612840878 PlanetExplorer.java REMOVE getGridY() METHOD
+RefactoringAction 1494612840879 PlanetExplorer.java REMOVE setGridY(int) METHOD
+RefactoringAction 1494612840879 PlanetExplorer.java REMOVE setKordinataY(int) METHOD
+RefactoringAction 1494612840879 PlanetExplorer.java REMOVE getPrepreke() METHOD
+RefactoringAction 1494612840880 PlanetExplorer.java REMOVE setPre(ArrayList<String>) METHOD
+RefactoringAction 1494612840880 PlanetExplorer.java REMOVE getStrana() METHOD
+RefactoringAction 1494612840880 PlanetExplorer.java REMOVE getKordinataX() METHOD
+RefactoringAction 1494612840881 PlanetExplorer.java REMOVE setStrana(String) METHOD
+RefactoringAction 1494612840881 PlanetExplorer.java REMOVE setKordinataX(int) METHOD
+RefactoringAction 1494612840881 PlanetExplorer.java REMOVE setGridX(int) METHOD
+RefactoringAction 1494612855401 PlanetExplorer.java ADD int getGridX() METHOD
+RefactoringAction 1494612855402 PlanetExplorer.java ADD void setGridX(int) METHOD
+RefactoringAction 1494612855402 PlanetExplorer.java ADD int getGridY() METHOD
+RefactoringAction 1494612855403 PlanetExplorer.java ADD void setGridY(int) METHOD
+RefactoringAction 1494612855403 PlanetExplorer.java ADD String getStrana() METHOD
+RefactoringAction 1494612855403 PlanetExplorer.java ADD void setStrana(String) METHOD
+RefactoringAction 1494612855404 PlanetExplorer.java ADD ArrayList<String> getPre() METHOD
+RefactoringAction 1494612855404 PlanetExplorer.java ADD void setPre(ArrayList<String>) METHOD
+RefactoringAction 1494612855404 PlanetExplorer.java ADD int getKordinataX() METHOD
+RefactoringAction 1494612855405 PlanetExplorer.java ADD void setKordinataX(int) METHOD
+RefactoringAction 1494612855405 PlanetExplorer.java ADD int getKordinataY() METHOD
+RefactoringAction 1494612855405 PlanetExplorer.java ADD void setKordinataY(int) METHOD
+RefactoringAction 1494612855405 PlanetExplorer.java ADD String METHOD
+RefactoringAction 1494612855406 PlanetExplorer.java ADD void setPrepreke(String METHOD
+EditAction 1494612895136 TestPlanetExplorer.java 324 1 2 0
+CompilationAction 1494612895323 TestPlanetExplorer.java
+CompilationAction 1494612960927 TestPlanetExplorer.java
+CompilationAction 1494612961059 TestPlanetExplorer.java
+RefactoringAction 1494612967880 PlanetExplorer.java ADD Object getPrepreke()/2 METHOD
+RefactoringAction 1494612975520 PlanetExplorer.java REMOVE getPrepreke()/2 METHOD
+RefactoringAction 1494613004056 PlanetExplorer.java ADD PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1494613008075 PlanetExplorer.java RENAME PlanetExplorer(int, int, String)/2=>PlanetExplorer(int, int) METHOD
+RefactoringAction 1494613236403 TestPlanetExplorer.java RENAME test_executeCommand()=>void test_executeCommandf() METHOD
+RefactoringAction 1494613372348 PlanetExplorer.java ADD char strana/2 FIELD
+RefactoringAction 1494613375360 PlanetExplorer.java RENAME strana/2=>char s FIELD
+RefactoringAction 1494613376374 PlanetExplorer.java RENAME s=>char smer FIELD
+RefactoringAction 1494613415948 PlanetExplorer.java ADD String get FIELD
+RefactoringAction 1494613420465 PlanetExplorer.java RENAME get=>String getCoordinater() METHOD
+RefactoringAction 1494613492146 PlanetExplorer.java RENAME getCoordinater()=>String getCoordinates() METHOD
+CompilationAction 1494613524968 PlanetExplorer.java
+CompilationAction 1494613524969 PlanetExplorer.java
+RefactoringAction 1494613534248 PlanetExplorer.java REMOVE getStrana() METHOD
+RefactoringAction 1494613534250 PlanetExplorer.java REMOVE setStrana(String) METHOD
+EditAction 1494613640067 TestPlanetExplorer.java 308 1 3 1
+UnitTestCaseAction 1494613643368 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613643369 TestPlanetExplorer.java FAIL
+EditAction 1494613666151 TestPlanetExplorer.java 307 1 3 1
+UnitTestCaseAction 1494613667462 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613667463 TestPlanetExplorer.java FAIL
+EditAction 1494613675826 TestPlanetExplorer.java 307 1 3 1
+UnitTestCaseAction 1494613676384 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494613676385 TestPlanetExplorer.java FAIL
+EditAction 1494613691124 TestPlanetExplorer.java 309 1 3 1
+UnitTestCaseAction 1494613692543 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613692544 TestPlanetExplorer.java OK
+EditAction 1494613865855 PlanetExplorer.java 3211 16 21 0
+UnitTestCaseAction 1494613866284 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494613866285 TestPlanetExplorer.java OK
+RefactoringAction 1494613898110 TestPlanetExplorer.java ADD void test_executeCommandf()/2 METHOD
+RefactoringAction 1494613984178 TestPlanetExplorer.java RENAME test_executeCommandf()/2=>void test_executeCommandb() METHOD
+RefactoringAction 1494613985186 TestPlanetExplorer.java RENAME test_executeCommandb()=>void test_executeCommandB() METHOD
+RefactoringAction 1494613987195 TestPlanetExplorer.java RENAME test_executeCommandf()=>void test_executeCommandF() METHOD
+EditAction 1494614018280 TestPlanetExplorer.java 500 2 6 2
+EditAction 1494614018593 PlanetExplorer.java 3530 16 21 0
+UnitTestCaseAction 1494614019068 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614019069 TestPlanetExplorer.java OK
+RefactoringAction 1494614127822 TestPlanetExplorer.java ADD PlanetExplorer vozilo/2 FIELD
+RefactoringAction 1494614127822 TestPlanetExplorer.java ADD void test_executeCommandF()/2 METHOD
+RefactoringAction 1494614130845 TestPlanetExplorer.java REMOVE vozilo/2 FIELD
+RefactoringAction 1494614172915 TestPlanetExplorer.java RENAME test_executeCommandF()/2=>void test_executeCommandFBorde() METHOD
+RefactoringAction 1494614174923 TestPlanetExplorer.java RENAME test_executeCommandFBorde()=>void test_executeCommandFBorderCase() METHOD
+EditAction 1494614209615 TestPlanetExplorer.java 701 3 9 3
+EditAction 1494614216119 PlanetExplorer.java 3593 16 21 0
+UnitTestCaseAction 1494614216611 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494614216612 TestPlanetExplorer.java FAIL
+EditAction 1494614299031 PlanetExplorer.java 3463 16 21 0
+UnitTestCaseAction 1494614301709 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614301710 TestPlanetExplorer.java OK
+EditAction 1494614494159 PlanetExplorer.java 3916 16 21 0
+EditAction 1494614494413 TestPlanetExplorer.java 698 3 9 3
+RefactoringAction 1494614507251 TestPlanetExplorer.java RENAME test_executeCommandB()=>void test_executeCommandBBorderCase() METHOD
+EditAction 1494614525403 TestPlanetExplorer.java 709 3 9 3
+UnitTestCaseAction 1494614527559 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614527559 TestPlanetExplorer.java OK
+UnitTestCaseAction 1494614529336 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614529337 TestPlanetExplorer.java OK
+RefactoringAction 1494614554823 TestPlanetExplorer.java REMOVE test_executeCommandBBorderCase() METHOD
+RefactoringAction 1494614555829 TestPlanetExplorer.java ADD void test_executeCommandBBorderCase() METHOD
+RefactoringAction 1494614559341 TestPlanetExplorer.java ADD void test_executeCommandBBorderCase()/2 METHOD
+RefactoringAction 1494614566852 TestPlanetExplorer.java RENAME test_executeCommandBBorderCase()/2=>void test_executeCommandBBorderCaseAnd() METHOD
+RefactoringAction 1494614568862 TestPlanetExplorer.java RENAME test_executeCommandBBorderCaseAnd()=>void test_executeCommandBBorderCaseAndThen() METHOD
+RefactoringAction 1494614569872 TestPlanetExplorer.java RENAME test_executeCommandBBorderCaseAndThen()=>void test_executeCommandBBorderCaseAndThenB() METHOD
+EditAction 1494614575395 TestPlanetExplorer.java 919 4 12 4
+UnitTestCaseAction 1494614577123 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614577124 TestPlanetExplorer.java OK
+RefactoringAction 1494614769535 TestPlanetExplorer.java ADD void test_executeCommandBBorderCaseAndThenB()/2 METHOD
+RefactoringAction 1494614774043 TestPlanetExplorer.java RENAME test_executeCommandBBorderCaseAndThenB()/2=>void test_executeCommandl() METHOD
+RefactoringAction 1494614778554 TestPlanetExplorer.java RENAME test_executeCommandl()=>void test_executeCommand() METHOD
+RefactoringAction 1494614780061 TestPlanetExplorer.java RENAME test_executeCommand()=>void test_executeCommandL() METHOD
+EditAction 1494614793224 TestPlanetExplorer.java 1109 5 15 5
+EditAction 1494614796603 PlanetExplorer.java 4147 16 21 0
+UnitTestCaseAction 1494614797101 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614797102 TestPlanetExplorer.java OK
+RefactoringAction 1494614829637 TestPlanetExplorer.java ADD void test_executeCommandL()/2 METHOD
+RefactoringAction 1494614833146 TestPlanetExplorer.java RENAME test_executeCommandL()/2=>void test_executeCommandr() METHOD
+RefactoringAction 1494614834654 TestPlanetExplorer.java RENAME test_executeCommandr()=>void test_executeCommandR() METHOD
+EditAction 1494614847035 TestPlanetExplorer.java 1299 6 18 6
+EditAction 1494614849606 PlanetExplorer.java 4383 16 18 0
+CompilationAction 1494614849823 PlanetExplorer.java
+CompilationAction 1494614873285 PlanetExplorer.java
+UnitTestCaseAction 1494614875814 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614875814 TestPlanetExplorer.java OK
+RefactoringAction 1494614915239 TestPlanetExplorer.java ADD void test_executeCommandR()/2 METHOD
+RefactoringAction 1494614919250 TestPlanetExplorer.java RENAME test_executeCommandR()/2=>void test_execute() METHOD
+RefactoringAction 1494614920760 TestPlanetExplorer.java RENAME test_execute()=>void test_executeMore() METHOD
+RefactoringAction 1494614923269 TestPlanetExplorer.java RENAME test_executeMore()=>void test_executeMoreCommands() METHOD
+EditAction 1494614937419 TestPlanetExplorer.java 1497 7 21 7
+UnitTestCaseAction 1494614940468 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494614940469 TestPlanetExplorer.java OK
+RefactoringAction 1494615285685 PlanetExplorer.java REMOVE prepreke FIELD
+RefactoringAction 1494615289697 PlanetExplorer.java ADD char FIELD
+RefactoringAction 1494615295709 PlanetExplorer.java REMOVE setPrepreke(String METHOD
+RefactoringAction 1494615295710 PlanetExplorer.java REMOVE getPrepreke() METHOD
+RefactoringAction 1494615348809 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494615352823 PlanetExplorer.java REMOVE ko FIELD
+RefactoringAction 1494615365341 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494615369854 PlanetExplorer.java ADD int FIELD
+RefactoringAction 1494615370862 PlanetExplorer.java RENAME prepeke=>int FIELD
+RefactoringAction 1494615441932 PlanetExplorer.java REMOVE prepekeY FIELD
+RefactoringAction 1494615441932 PlanetExplorer.java REMOVE preprekeX FIELD
+RefactoringAction 1494615481037 PlanetExplorer.java ADD ArrayList<Integer> preprekaX FIELD
+RefactoringAction 1494615516075 PlanetExplorer.java ADD ArrayList<Integer> preprekaX/2 FIELD
+RefactoringAction 1494615518087 PlanetExplorer.java RENAME preprekaX/2=>ArrayList<Integer> preprekaY FIELD
+RefactoringAction 1494615560199 PlanetExplorer.java REMOVE prepreke FIELD
+RefactoringAction 1494615561709 PlanetExplorer.java ADD String FIELD
+RefactoringAction 1494616198305 TestPlanetExplorer.java ADD void test_executeMoreCommands()/2 METHOD
+RefactoringAction 1494616253450 TestPlanetExplorer.java RENAME test_executeMoreCommands()/2=>void test_executeMor() METHOD
+RefactoringAction 1494616259963 TestPlanetExplorer.java RENAME test_executeMor()=>void test_executeCommandsEx() METHOD
+EditAction 1494616271462 TestPlanetExplorer.java 1913 8 23 7
+EditAction 1494616271749 PlanetExplorer.java 4712 14 21 0
+UnitTestCaseAction 1494616273061 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616273061 TestPlanetExplorer.java FAIL
+EditAction 1494616286244 PlanetExplorer.java 4714 14 21 0
+UnitTestCaseAction 1494616288567 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616288568 TestPlanetExplorer.java FAIL
+EditAction 1494616304345 TestPlanetExplorer.java 1914 8 23 7
+UnitTestCaseAction 1494616305971 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616305971 TestPlanetExplorer.java FAIL
+EditAction 1494616350230 PlanetExplorer.java 4712 14 21 0
+UnitTestCaseAction 1494616352597 TestPlanetExplorer.java OK
+UnitTestSessionAction 1494616352597 TestPlanetExplorer.java OK
+RefactoringAction 1494616381106 TestPlanetExplorer.java ADD void test_executeCommandsEx()/2 METHOD
+RefactoringAction 1494616402160 TestPlanetExplorer.java RENAME test_executeCommandsEx()/2=>void test_executeCommandsExx() METHOD
+RefactoringAction 1494616404168 TestPlanetExplorer.java RENAME test_executeCommandsExx()=>void test_executeCommands() METHOD
+RefactoringAction 1494616411177 TestPlanetExplorer.java RENAME test_executeCommands()=>void test_executeCommandsWithObstacles() METHOD
+RefactoringAction 1494616413184 TestPlanetExplorer.java RENAME test_executeCommandsWithObstacles()=>void test_executeCommandsWithObstacle() METHOD
+EditAction 1494616465537 TestPlanetExplorer.java 2151 9 26 8
+UnitTestCaseAction 1494616466065 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1494616466066 TestPlanetExplorer.java FAIL
+RefactoringAction 1494616480822 TestPlanetExplorer.java REMOVE test_executeCommandsWithObstacle() METHOD
