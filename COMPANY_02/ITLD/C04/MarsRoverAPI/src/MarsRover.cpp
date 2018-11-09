@@ -1,0 +1,132 @@
+/*
+ * MarsRover.cpp
+ *
+ *  Created on: Jan 19, 2014
+ *      Author: fidipro
+ */
+
+#include "MarsRover.h"
+#include <string>
+
+
+
+MarsRover::MarsRover(int x, int y, string obstacles) {
+    /*  x and y represent the size of the grid.
+     *  Obstacles is a String formatted as follows: (o1_x,o1_y)(o2_x,o2_y)...(on_x,on_y) with no white spaces.
+     *
+     Example use:
+     MarsRover rover = new MarsRover(100,100,(5,5)(7,8))  //A 100x100 grid with two obstacles at coordinates (5,5) and (7,8)
+     */
+}
+
+MarsRover::~MarsRover() {
+    // TODO Auto-generated destructor stub
+}
+
+string MarsRover::executeCommand(string command) {
+
+    /* The command string is composed of "f" (forward), "b" (backward), "l" (left) and "r" (right)
+     * Example:
+     * The rover is on a 100x100 grid at location (0, 0) and facing NORTH. The rover is given the commands "ffrff" and should end up at (2, 2) facing East.
+
+     * The return string is in the format: (x,y,facing)(o1_x,o1_y)(o2_x,o2_y)..(on_x,on_y)
+     * Where x and y are the final coordinates, facing is the current direction the rover is pointing to (N,S,W,E).
+     * The return string should also contain a list of coordinates of the encountered obstacles. No white spaces.
+     */
+    string str = "";
+    int currentPosition[2] = {0};
+    RoverDirection direction = NORTH;
+    while (not command.empty()) {
+        char currentCommand = command.front();
+        command.erase(command.begin());
+        switch (currentCommand) {
+            case 'f':
+                switch (direction) {
+                    case NORTH:
+                        currentPosition[Y_COORD]++;
+                        break;
+                    case EAST:
+                        currentPosition[X_COORD]++;
+                        break;
+                    case SOUTH:
+                        currentPosition[Y_COORD]--;
+                        break;
+                    case WEST:
+                        currentPosition[X_COORD]--;
+                        break;
+                }
+                break;
+            case 'b':
+                switch (direction) {
+                    case NORTH:
+                        currentPosition[Y_COORD]--;
+                        break;
+                    case EAST:
+                        currentPosition[X_COORD]--;
+                        break;
+                    case SOUTH:
+                        currentPosition[Y_COORD]++;
+                        break;
+                    case WEST:
+                        currentPosition[X_COORD]++;
+                        break;
+                }
+                break;
+            case 'r':
+                direction = changeDirectionRight(direction);
+                break;
+            case 'l':
+                direction = changeDirectionLeft(direction);
+                break;
+        }
+    }
+    str.append("(");
+    str.append(boost::lexical_cast<string>(currentPosition[X_COORD]));
+    str.append(",");
+    str.append(boost::lexical_cast<string>(currentPosition[Y_COORD]));
+    str.append(",");
+    str.append(getDirectionAsString(direction));
+    str.append(")");
+    return str;
+}
+
+string MarsRover::getDirectionAsString(RoverDirection direction) {
+    switch(direction) {
+        case NORTH:
+            return "N";
+        case EAST:
+            return "E";
+        case SOUTH:
+            return "S";
+        case WEST:
+            return "W";
+        default:
+            return "";
+    }
+}
+
+RoverDirection MarsRover::changeDirectionRight(RoverDirection currentDirection) {
+    switch(currentDirection) {
+        case NORTH:
+            return EAST;
+        case EAST:
+            return SOUTH;
+        case SOUTH:
+            return WEST;
+        case WEST:
+            return NORTH;
+    }
+}
+
+RoverDirection MarsRover::changeDirectionLeft(RoverDirection currentDirection) {
+    switch(currentDirection) {
+        case NORTH:
+            return WEST;
+        case EAST:
+            return NORTH;
+        case SOUTH:
+            return EAST;
+        case WEST:
+            return SOUTH;
+    }
+}
