@@ -1,6 +1,8 @@
-# Experiment FiDiPro_ESEIL_TDD_COMPANY_06(2016)
+# Experiment FiDiPro_ESEIL_TDD_COMPANY_03(2016)
 
 Raw data (subjects' code) for the ESEIL experiment on TDD conducted at *anonymized* in 2016.
+
+The programming language is Java.
 
 The code can be downloaded as a single Eclipse workspace. The Eclipse version used to create the repository is Eclipse Luna. The JRE version is 1.7.
 
